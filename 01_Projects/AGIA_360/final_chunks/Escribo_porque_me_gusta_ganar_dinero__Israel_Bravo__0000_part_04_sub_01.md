@@ -1,0 +1,517 @@
+*) para dar mucha más fuerza a tu mensaje…, aunque seas menos creativo que un teclado de madera. **Es una forma de decir las cosas con tanta seguridad que la gente confiará en lo que dices sin darle demasiadas vueltas.**
+
+• Una manera tan simple (y absurdamente eficaz) de hacer **un refuerzo de autoridad que la podría aplicar un novato que acabe de inaugurar su web hace menos de nueve minutos**. En serio, haz esto. Te lo explico en la SEGUNDA FASE de cómo hay que escribir una *home*.
+
+• **Qué texto debes incluir en tu web que aumentará considerablemente la captación de suscriptores**…, aunque hayas escuchado la palabra «copywriting» por primera vez ayer por la tarde. (Esto es especialmente relevante y sutil. Aumentó mi conversión varios puntos. Lo explico al detalle debajo del titular PEQUEÑO TRUCO.)
+
+• Una forma de escribir una web rematadamente atractiva, **incluso si es la de un editor y tiene faltas ortográficas**.
+
+• **Cómo pedir a la gente que no se suscriba… y que no pueda evitar suscribirse**. Sin payasadas y sin querer ser el «niño malo del recreo», ponerse chulo o parecer medio lerdo.
+
+• **Por qué la gente que MÁS dinero gana NO sabe distinguir entre un regalo o un curso** de 347 euros, 1.297 euros o lo que sea que tenga que valer.
+
+Bueno, en definitiva, pautas para escribir toda la web, aquí:
+
+**Tela de araña masterclass\***
+
+**100 euros**
+
+(\*) Impuestos y envío a cualquier parte del mundo incluidos.
+
+Cuestiones…
+
+**¿Cómo es esta masterclass? Físicamente, me refiero.**
+
+Bueno, es como una revista, pero no tiene ninguna foto. Son 27 páginas de contenido cien por cien orientado a cómo enfocar los textos y la estrategia de una web que venda.
+
+**¿Lo puedo comprar en PDF?**
+
+En ningún caso.
+
+**¿Cuándo me lo mandas?**
+
+Al día siguiente de comprarlo.
+
+**¿Es adecuada esta formación si tengo una tienda online?**
+
+No. Está más enfocada para empresas y/o emprendedores en solitario que vendan cursos y servicios. Si tienes una tienda con muchas referencias te puede resultar interesante, y seguro que aprendes cosas, pero la parte de estrategia no es para tiendas.
+
+**¿Es importante para mi negocio tener una estrategia clara y definida en mi web?**
+
+Lo es. Y no te lo digo para que compres o no. Lo digo porque no vale con tener tu web, unas pestañas ofreciendo de todo y un «sobre mí» con cara sonriente diciendo que eres una maravilla y que tu mayor defecto es volcarte mucho en la gente. Debes pensar en cómo atraparlos, cómo seducirlos, cómo «obligarlos» a seguir un camino concreto. Eso es lo que enseño en esta masterclass. Estrategia y copywriting.
+
+**¿Es una buena inversión?**
+
+¿Por 100 euros? Sin duda.
+
+**Tela de araña masterclass\***
+
+**100 euros**
+
+(\*) Impuestos y envío a cualquier parte del mundo incluidos.
+
+Esta carta es imposible que no funcione, sencillamente. La razón está clara, lo que estoy diciendo es… manda, aunque nunca lo hayas hecho, manda en tu negocio y ganarás dinero. ¿Quién monta un negocio y no quiere mandar en él? Posiblemente, sea uno de los ángulos psicológicos más fáciles de utilizar para motivar.
+
+**Aumentar suscriptores: carta invisible**
+
+Algo que siempre tuve claro en mi negocio es que necesitaba una lista de suscriptores a los que vender mis cosas por email.
+
+Pero tenía (y tengo) un «problema», no me gustaban las redes sociales (RR. SS.) y no me gustaba la idea de hacer publicidad en ellas.
+
+Tampoco tenía (ni tengo) idea alguna de SEO. Así que, ¿cómo atraer gente a mi negocio? Estaba claro, saliendo en podcasts, radios, canales de YouTube, etc., de otras personas. Que me vieran otras audiencias. Así construí mi lista, y el nivel de fidelidad es infinitamente más grande que si es de otras formas. Nada tengo en contra de pagar publicidad, es evidente, y la llegué a utilizar en su momento, pero sí es cierto que el público que entra por publicidad en Facebook, por ejemplo, es más frío y de muchísima menor calidad que si te escuchan en una entrevista, les interesa algo que dices y van a tu web a suscribirse.
+
+Hice una formación enseñando cómo hacer todo eso, y la carta de ventas fue la siguiente…
+
+Si quieres **aumentar tu lista de suscriptores**, esto casi seguro que te interesa.
+
+Son unas breves líneas.
+
+Vale para gente que empieza de cero, que no tiene ni un solo suscriptor, y también para personas con listas de todos los tamaños.
+
+Y aumentarás la lista de gente interesada en lo que haces. En la formación vemos cómo hacer eso.
+
+Hablo de diferentes estrategias para ello. Y me centro en la más potente de todas: lograr entrevistas. Aunque hablo de otras también muy efectivas y más rápidas.
+
+**Verás ejemplos míos y de clientes, y diferentes formas de hacerlo.**
+
+Aunque seas tímido, aunque no te conozca absolutamente nadie, lo podrás implementar y rentabilizar con creces.
+
+Puedes creerme o no creerme, pero si quieres ganar dinero de verdad en internet, debes tener una buena lista de suscriptores. Tenerlos tú.
+
+Quizá esté bien eso de tener miles de seguidores en RR. SS. Quizá. Pero casi seguro que no encuentras ahí el dinero.
+
+He visto muchas veces, muchas, muchas veces, gente con más de cien mil seguidores en RR. SS. que apenas se saca unos dos mil euros al mes, y gente con cinco mil suscriptores en su lista que se saca diez veces eso. Todos los meses.
+
+No digo que sea una garantía, pero sí digo que, sin suscriptores, a no ser que seas un megainfluyente, no vas a ganar dinero de verdad en internet con tu negocio.
+
+Y, si lo ganas, será menos, con más esfuerzo y dependiendo de terceros. Ya sean RR. SS. o Google o de donde pretendas llevar el tráfico a tu web.
+
+**Todas las estrategias de las que te hablo en la formación te costarán cero céntimos.** Hay que invertir algo de tiempo, es cierto, pero es tan rentable que será prioritario en tu negocio.
+
+Construir una lista (no comprándola, no pagando) aplicando las maneras que te voy a decir aquí, es *jugar* a otra cosa. Otro nivel. Es tener un NEGOCIO y no un autoempleo para *poder ir tirando,* ni para sacar un buen sueldo.
+
+Repito, es tener un NEGOCIO.
+
+No te miento.
+
+La diferencia entre tener una lista de suscriptores (bien construida, insisto en esto) a los que mandar tus cosas y no tenerla es tan grande que te lo resumo en tres palabras: **lo es todo**.
+
+Y cuanto más grande sea la lista, más ganas.
+
+Claro, entiendo que puedas estar pensando que dependa de más cosas, y llevas razón.
+
+Tienes que tener un buen producto, una buena atención al cliente y ese tipo de cosas.
+
+Pero, por lo que vale esta masterclass, lo que enseño de manera muy muy específica y efectiva son formas de aumentar tu lista de suscriptores.
+
+Te podría poner aquí gráficas, números y capturas de pantalla para que vieras lo que significa tener una lista de suscriptores y comunicarse con ella.
+
+Pero haré algo mejor…, no hacerlo.
+
+Y te voy a dar un motivo importante…, es porque, si no crees en lo que estoy diciendo, si no puedes imaginar lo que supone para un negocio tener su propia lista de suscriptores, no es tu momento.
+
+Esto no es malo. La vida son momentos.
+
+Pero, para comprar esta formación, al menos tienes que creer una cosa: que una lista de suscriptores de calidad **lo cambia todo**.
+
+Pero de verdad.
+
+No en plan eslogan *marketero perroflautero* de… «vive tocándote los cojones aunque no sepas hacer otra cosa que tocarte los cojones dando paseos por el mundo».
+
+Lo cambia todo de verdad.
+
+En la masterclass vemos cómo aumentar suscriptores y que sea de gente interesada en lo tuyo.
+
+Si no crees que sea importante tener suscriptores, no estás preparado para esta formación.
+
+Esto no es un truco para que compres, esto es para «exigirte» que no lo compres. No pierdas tu dinero. Hazme caso.
+
+Ahora, si sabes o puedes imaginar el poder que tiene esto, la masterclass de cómo aumentar suscriptores es una de las mejores inversiones que harás por tu negocio.
+
+**El precio son 100 euros.** Gran precio. Lo amortizas muy muy pronto. Y te enseño varias formas de hacerlo. Varias formas de aumentar tu lista o la de tus clientes.
+
+Llevo más de tres años sin invertir en publicidad. No tengo ni un contenido posicionado en Google. No sé SEO. Tampoco utilizo RR. SS.
+
+Pero sé cómo aumentar una lista de suscriptores de manera muy bestia. Eso sí sé hacerlo. Y es lo que enseño aquí. Exactamente cómo hacer eso.
+
+Y lo hago de tal manera que lo podrás hacer tú con tu negocio y tu estilo.
+
+Una vez compras la masterclass, te la mando a casa al día siguiente.
+
+Tiene formato revista, y son 33 páginas. No hay fotos ni colores. Es contenido que *habla* de aumentar listas.
+
+Si te interesa, es aquí:
+
+**Aumentar suscriptores masterclass\***
+
+**100 euros**
+
+(\*) Impuestos y envío a cualquier parte del mundo incluidos.
+
+Esta carta de ventas no tiene ni preguntas frecuentes, ni dos o tres llamadas a la acción, ni siquiera la foto rara que me suele gustar poner en mis cartas. No tiene nada, es como un email.
+
+Es una carta de ventas muy conversacional.
+
+Quiero decir…, no está *escrita*, está *hablada*. Prueba a hacer esto y verás los enormes resultados que obtendrás. No escribas, habla. Ten una conversación imaginaria en tu cabeza con alguien al que quieras convencer de algo y transcríbelo. Si eres capaz de hacer esto medio bien (y créeme, es sólo práctica) ya serás mejor copywriter que la mayoría de los copywriters sin serlo. Es lo que hay.
+
+**7**
+=====
+
+![](../images/00012.jpeg)
+
+### La mujer sueño y el reto erecto
+
+#### Carta sueño
+
+Recibía muchos emails diciendo que debía sacar una formación de storytelling. Que la clave son las historias y que debería contar en profundidad cómo lo hago. Entonces tuve un sueño, y gracias a ese sueño gané casi cien mil euros en una semana por una formación que hice en tres días. Luego, seguí vendiendo esa formación, hablo de casi cien mil euros la primera semana, cuando la lanzo.
+
+Te cuento el sueño y verás a lo que me refiero…
+
+Soñé con la mujer más bonita que había visto nunca, era tan suave, tan dulce y sonreía tan claro, que iluminó cada rincón oscuro de mi sueño.
+
+Y ella…, bueno, sabía y olía tan bien que parecía que los dioses reposteros del cielo me hubieran fabricado sólo para mí la golosina con la que soñaba de niño.
+
+No exagero, era tan preciosa que se podría poner en medio de un sucio descampado en ruinas y, al mirarla, confundir la estampa con una feria con magos, nubes de algodón de azúcar y niños corriendo de la mano con globos de colores y piruletas tan grandes como sus felices caras. Yo, en ese sueño, me enamoré de ella. Me enamoré tanto de ella que, si se convirtiera en nada, la seguiría queriendo. La llevaría sobre mi hombro, para cuidarla, para cuidar y proteger a la nada. Para poder acariciar el aire sabiendo que era ella. Que nada era todo.
+
+Y esa *mujer sueño*, que de tan femenina me tenía siempre erecto y pensando en lo correcto, me retó. Recuerdo perfectamente el sueño y su desafío:
+
+--Me encanta Neil Gaiman. Además tiene una masterclass sobre storytelling que es increíble.
+
+--Yo podría hacer una formación sobre storytelling mejor que la de *Niel*.
+
+--No se dice *Niel*, es Neil.
+
+--Da igual, yo lo puedo hacer mejor.
+
+Entonces, ella suspiró, sonrió y me dijo:
+
+--Como mucho, podrías hacer algo que fuera igual.
+
+Aquello me molestó, porque, en mi sueño, la mujer sueño, que era mi amor, debía tener más confianza en mí…, concederme el beneficio de la duda. Si le hubiera dicho que quería ser astronauta, es lógico que no me hubiera apoyado en nada, pero ¿en el arte de contar historias? Eso me ofendió. Fíjate cómo son los sueños.
+
+Al despertar, empecé a hacer la formación de storytelling. La terminé en tres días. Es una formación por la que siento un profundo orgullo, y la carta con la que vendí aquellas enormes cantidades de dinero en apenas siete días es la siguiente…
+
+**Ganar dinero contando historias. Tu historia.**
+
+**Relato de marca.**
+
+Cuando tenía nueve años, una mañana de lunes, en el colegio **sucedió algo que cambió mi forma de ver la vida para siempre** y que quizá sea una de esas cosas que ahora leas tú y **cambien tu negocio y la manera de entenderlo, también para siempre**.
+
+Allá va.
+
+Un día, mi amigo Fernando *el Pecas*, un supermarginado que, sin lugar a dudas, era mi compañero más inteligente y que todos los días me daba un trozo de pastel de manzana que hacía su madre, me contó que compartía su pastel porque era un egoísta.
+
+Joder. ¿Cómo podía pensar que era un egoísta por compartir cada día su pastel conmigo?
+
+Según me dijo, si se lo comía solo no estaba tan rico como si nos lo comíamos los dos. Aquello me hizo sentir un montón de cosas, pero no sabía describirlas, sólo sabía que quería comer pastel de manzana todos los días.
+
+Pero no era eso de lo que te quería hablar, no es ésta la historia, esto sólo te lo cuento para que entiendas cómo era aquel chico brillante y **el error que cometió y del que tanto aprendí**.
+
+**La historia que tiene que ver con tu negocio para hacer que crezca y trascienda y lo que sucedió aquel lunes en mi colegio no va de pasteles, va de lentejas.**
+
+En mi colegio no nos hacían caso, era un colegio público a punto de cerrar. Se iba a transformar en un centro de educación especial para niños con problemas mentales (en mi opinión no solicitada de aquel día, nos podríamos haber quedado allí la mayoría de los alumnos y todos los profesores, menos doña Esperanza). Por entonces, los profesores dejaban las clases sin atender para hablar de sus culos, sus puestos, sus trabajos y su futuro, mientras desatendían el nuestro.
+
+Y aquella mañana, como tantas otras, estábamos solos, sin profesores. ¿Y qué pasa en una clase de críos de nueve o diez años que están solos? Pues que es la jungla, la puta jungla.
+
+**Los brutos** se lanzaban tizas y alguna silla, y se daban un par de hostias cuando tocaba.
+
+**Las chicas**, que ya podrían ser nuestras madres, se iban al rincón para resolver sus propios problemas, para decidir qué actor o cantante merecía acompañarlas en sus sueños de cada noche.
+
+**Los estudiosos** miraban sin entender cómo todos los demás era tan idiotas.
+
+**Los marginados** rezaban para que nadie los notara.
+
+Y Fernando *el Pecas*, el niño brillante, se sentó encima de su mesa a observar. Lo que le pasó fue que no pudo soportar la bulla, el caos, la falta de sensibilidad de todos los demás, y, para acallar el ruido, se metió unas lentejas en los oídos. Una en cada uno. A veces, **hasta los más brillantes cometen estupideces**.
+
+A poco, el Pecas empezó a gritar. El «mundo» tardó un rato en entender que aquel grito era cosa seria, pero al final se impuso por encima de todos los demás gritos y todos miramos al Pecas. Gritaba mientras se agarraba las orejas. Parecía como si se le hubiera metido el diablo en la cabeza, y no hubo huevos a reírse, a tomarlo a broma. Aquello no era una caída contra un bordillo, no era llevar la bragueta abierta, no era comerse una tiza, aquello era el diablo dentro de la cabeza del chico brillante.
+
+Nos quedamos todos en silencio. Mirando. Esperando que algo bajara del cielo, algo lo bastante fuerte y con la suficiente experiencia para ayudarlo.
+
+Al día siguiente supimos que en el hospital tuvieron que inmovilizarlo entre cuatro doctores para poder sacar las lentejas de sus oídos y que sus gritos de la mañana anterior, más que de dolor, habían sido de pánico.
+
+**La historia tiene un final realmente feliz**. Fernando *el Pecas* vino al colegio dos días después, y desde ese día ya no tuvo que compartir más pastel de manzana conmigo, porque ya no se sentía solo. Los demás también le aceptaron, y viajó acompañado.
+
+Pero lo mejor de esta historia fue **lo que me regaló a mí, lo que me enseñó**.
+
+Y es que ser el ruido, formar parte del ruido, es peligroso, pero hacer como que no existe, es mucho más peligroso.
+
+**Uno no debe ser ruido, pero debe caminar muy cerca, saber que está ahí, saber qué dice, por qué lo dice y cómo lo dice.**
+
+Y, cuando tú sabes dominar eso, no ser ruido, pero saber mirarlo y aprovecharlo, pues… entonces, **tu negocio es otro**. Verdaderamente otro.
+
+**Es otro negocio de verdad**.
+
+Ser ruido es ser masa amorfa.
+
+No escucharlo es perder el mapa del tesoro con todas sus indicaciones.
+
+**Y de algo tan sencillo como eso van los negocios.**
+
+Y por eso los negocios con personalidad y carácter (cuando digo personalidad y carácter no digo mala hostia, que muchos confunden una cosa con la otra, y se puede tener un carácter arrollador siendo dulce) **dominan su relato de marca**. Saben que la personalidad y el carácter, dependen de cómo narren su relato de marca, cómo cuenten su historia, cómo se diferencien.
+
+Pueden copiar nuestros productos, precios, colores, nuestra forma de escribir, pero **nunca podrán copiar nuestra historia**, porque, cuando lo que cuentas no es tu historia, ese vacío se nota, y no trasmites, y no llegan las ventas…, no llega la conexión.
+
+Y llegados hasta aquí, te hablo de que hice una **masterclass sobre storytelling** donde te cuento todas aquellas cosas que sé para hacer de tu relato de marca o tu relato de negocio algo extraordinario, aunque tu historia, como la mía, sea **la historia de una persona normal que sólo quiere llegar a casa y sentirse seguro y tranquilo**.
+
+Y te hablo de que **una historia ordinaria contada de manera extraordinaria** trae ventas, trae autoridad, trae presencia y, lo más importante, trae un tiempo de abundantes oportunidades de hacer con tu vida lo que quieras hacer con ella. Lo que sea que quieras.
+
+Por eso, en esta masterclass de storytelling te cuento:
+
+![](../images/00023.jpeg)
+
+• Qué pasos debes dar para que **tu historia sea importante para los demás**.
+
+• Un fontanero, unos abogados y un viaje a México de una pareja de enamorados. **Dos preguntas sencillas de responder para convertir lo ordinario en extraordinario**…, y cómo aplicarlo en tu relato de marca para aumentar tus ventas y que los clientes sean algo más que clientes.
+
+• **Algo que puedes hacer con tus historias que siempre, siempre, siempre te dicen que no hagas todos los que no saben vender historias**…, y que, por desgracia, casi todo el mundo se cree. (Página 9.)
+
+• La mayor confusión que tienen muchos a la hora de ofrecer sus cosas y que hace que se pierdan gran parte de las ventas. Lo vas a resolver y ver tan claro **que nunca te volverá a pasar**. (Página 11.)
+
+• Una cafetera y una lavandería a domicilio. Cómo aplicar la **psicología de ventas contando historias**, sea lo que sea lo que vendas. Repito, lo que sea.
+
+• **Cómo utilizar la parábola en las ventas**. Por qué esto es tan potente, y una forma sencilla, muy sencilla, de aplicarlo para ti. La estructura la vas a ver en la página 13. Al final, mira ahí.
+
+• El viaje del héroe está muy bien, pero mejor está **el viaje del villano**. Paso a paso para convertir el éxito en fracaso y ganar dinero con ello. Esto lo vi muy claro viendo la película *El curioso caso de Benjamin Button*.
+
+• **El caso** «David contra Goliat» aplicado a las ventas. Si tu negocio es un David y tienes un competidor más grande que tú, **te voy a contar el ángulo de las historias con el que yo aumento las conversiones**. Si eres un Goliat, si tu empresa es el mayor de los gigantes, encantado de que hayas leído hasta aquí. Y nunca te fíes.
+
+• «Me tropecé y me caí», está bien. «Me tropecé con la alfombra y me caí», está mejor. **(En la página 25 está todo lo que debes hacer cuando escribes cualquier cosa, para no tropezar y para vender más.)**
+
+• El baile eres tú. Bueno, tú no eres el baile, el baile es otra persona. Vale, entiendo que no me entiendas, pero en las páginas 26 y 27 te enseño un ejercicio que hará que escribas mejor. Y no te hablo de ser escritor, **te hablo de que escribas mejor si te gusta ganar dinero**.
+
+• En la página 31 aparece **Tom Jones**, el cantante, que parece que se pone un calcetín en el paquete. Un consejo que me dieron, que yo le daré a mi pequeña y que me ha servido de mucho en la vida y en los negocios. Quizá te pueda servir a ti.
+
+Ahora viene la primera opción para **comprar**, pero justo debajo te hablo de un bonus que por sí solo vale el precio de la masterclass.
+
+**Masterclass storytelling\***
+
+**100 euros**
+
+(\*) Impuestos y envío a cualquier parte del mundo incluidos.
+
+**Bonus no solicitado. (En audio.)**
+
+Hace unos tres meses me contactó una chica muy maja y muy profesional. Se llama Rocío, y firma *Ro*. Pues Ro me dijo que tenía una **mentoría muy exclusiva** para un pequeño grupo de personas y que si me quería pasar por allí a dar una charla sobre email marketing.
+
+Dije que sí.
+
+**Aquella charla, de más de hora y media y con verdadera información valiosa, se grabó en formato audio.** Es una **charla privada en un grupo exclusivo** de apenas un puñado de personas. En una mentoría de pago.
+
+Pues bien, **esa charla**, que por sí sola se podría vender a un precio considerable **la voy a regalar con mi masterclass de storytelling**.
+
+Va gratis con la masterclass. O sea, **cuando recibes la masterclass física en tu casa, va una carta con todos los detalles para acceder a este material exclusivo**. Los bolis tomando notas ardían, y vas a entender los motivos.
+
+**Masterclass storytelling\***
+
+**100 euros**
+
+(\*) Impuestos y envío a cualquier parte del mundo incluidos.
+
+Cuestiones…
+
+**¿Cómo es esta masterclass? Físicamente, me refiero.**
+
+Bueno, es como una revista, pero no tiene ninguna foto. Son 33 páginas de contenido cien por cien enfocado a aumentar las ventas con el poder infinito de las historias.
+
+**¿Lo puedo comprar en PDF?**
+
+En ningún caso.
+
+**¿Cuándo me lo mandas?**
+
+Al día siguiente de comprarlo.
+
+**El bonus de la hora y media de charla exclusiva sobre email marketing, ¿cómo lo recibo?**
+
+Cuando recibes la masterclass te llega una carta, en el mismo sobre. Ahí está todo.
+
+**¿Es importante el poder de las historias para aumentar las ventas y hacer un verdadero relato de marca en nuestros negocios?**
+
+Es tan importante que no quisiera quedarme corto al decirte lo importante que es. Así que sólo te diré una cosa: es infinitamente más importante que lo que vendes y que el precio al que lo vendes…, y, por supuesto, es mucho más importante que tú y que yo.
+
+**Masterclass storytelling\***
+
+**100 euros**
+
+**(\*)** Impuestos y envío a cualquier parte del mundo incluidos.
+
+Era diciembre de 2020, había finalizado el *trienio vivo* con la formación sobre contar historias. Y volví a soñar con la mujer sueño, a la que le regalé mi masterclass de storytelling, y me dijo: «Isra, es mejor que la de Gaiman, es mucho mejor. Es la mejor formación sobre storytelling que nadie ha hecho ni hará en la vida».
+
+Y eso fue mucho más bonito que el dinero, y casi tan bonito como ella.
+
+**Epílogo**
+===========
+
+![](../images/00012.jpeg)
+
+### Año muerto. Trienio vivo
+
+Éste camino empieza para mí en 2013. Ése fue el año en que, sin saberlo, le comenté a mi amigo, el que tenía un negocio de mudanzas, que sus presupuestos eran terriblemente aburridos. Que aquello funcionara dio pie a todo lo demás. Entre otras cosas, a que estés leyendo esto.
+
+Después de eso, yo seguí a lo mío, con mi vida, con una cría de apenas unos meses y sin tomarme en serio aquello. Para mí, escribir siempre fue una necesidad, una terapia, pero en ningún caso asumía que se podía vivir de ello. Ni siquiera aunque en ese momento lo tuviera delante. Fue mi amigo de entonces el que me proporcionó el contacto de un conocido que tenía una empresa de reformas. Con aquella empresa apliqué lo mismo que con la de mudanzas de mi amigo. Pero en vez de una historia real sobre mi viaje en pijama por Irlanda, fue una historia donde un troglodita se enamoraba de una troglodita y llamaba a unos amigos trogloditas para reformar la cueva e impresionarla. Aquello también funcionó. Pero yo seguí sin tomarme las cosas en serio. A pesar de que algunas pequeñas empresas me llamaban para darles algunas formaciones, la verdad es que no sabía por dónde empezar. No tenía ni la menor idea de cómo enseñar lo que yo hacía. Les comentaba que a la gente le gusta escuchar historias, que las historias son el mejor vehículo para retener y transmitir algo, lo que sea…, pero poco más. Tenía la sensación de que yo aprendía mucho más que ellos. Y con el tiempo me di cuenta de que, sin lugar a dudas, yo aprendí mucho más que ellos. Por eso casi nunca les cobraba. Iba allí, les contaba mi rollo y después tomábamos unas cervezas. Poco más. Pero, cuando noté que aquello realmente podía ser algo con lo que ganarme la vida, fue con un despacho de abogados en Asturias. Gracias a las referencias del tipo de las reformas, que a su vez había llegado por las mudanzas, tuve una reunión con el hijo del fundador del despacho. Aquello fue en 2016.
+
+Como te podrás imaginar, aquel abogado decía en su web lo que dicen todos. Cosas del tipo: «Despacho fundado en 1957», «Tu caso en buenas manos», etc., etc.
+
+Yo le pedí que me contara la historia de cómo se fundó aquel negocio. Si estaban activos desde los años cincuenta del siglo pasado, seguro que tendrían un montón de buenas historias que contar. Y esto fue lo que me narró:
+
+--Mi padre montó este negocio, en este lugar, porque se enamoró de la hija de un sastre. Y aquel sastre tenía su negocio enfrente de éste. Así que mi padre se decidió por esta oficina, para poder ver a esa chica preciosa por la ventana. Aquella chica preciosa es mi madre. Y fue ella la que le dijo a mi padre que tenía que poner café en la sala de espera para que los clientes se sintieran como en su casa, porque a nadie le gusta visitar abogados. Entonces…
+
+Con aquella fabulosa historia montamos un relato fabuloso para atraer clientes en una campaña que funcionó realmente bien. Ya no era el despacho que se fundó en 1957, ya no era uno más. Era el despacho que fundó un señor que se enamoró de la hija de un sastre…
+
+Y eso no lo olvidan los potenciales clientes.
+
+Durante esos cuatro años que pasaron desde aquel primer presupuesto a sacar mi propia web, trabajé en diferentes proyectos, algunos fueron mal, otros bien, de todos aprendí mucho, y ninguno me lo tomé muy en serio. Además, yo me sentía un poco intimidado por las nuevas tecnologías, y la idea de tener un negocio online me quedaba muy muy lejana. Sin embargo, aquella desesperación de la que hablé al principio del libro fue una gran aliada para mí. Y toda aquella experiencia que fui acumulando y plasmando en papel (que luego se convertiría en mi primer curso) fue la que me permitió dar el salto y montar mi negocio. Primero como autónomo, y después, en menos de dos años, como empresa. Y debo reiterar que durante ese tiempo sentí muchas veces que no había futuro en mí, que no lo había ahí.
+
+Aunque aquel despacho de abogados, quizá por la autoridad del negocio, quizá por lo que me fascinó la historia, fue el que me empezó a convencer más en serio de que esto podría ser un extraordinario negocio, que era algo que necesitaba casi todo el mundo. Y así, sin saberlo, me estaba convirtiendo en copywriter poco a poco, sin pensarlo ni pretenderlo. Y, cuando ya parecía que todo oscurecía, me salvó la campana. No sin antes apretar mucho, muchísimo. Hasta que llegó aquel 2017.
+
+El 2017 es el año muerto en mí. Un año en el que sentí el fracaso y la desesperación golpear duro. En el que sentí que todas esas cosas que pensaba que podría lograr en la vida habían sido mentiras, imaginaciones de mi estúpida cabeza. Pero, un día, sencillamente, me puse a escribir. Me puse a contar todo lo que sentía, todo lo que pensaba, todo lo que sabía. No fue generosidad, fue sólo supervivencia.
+
+Los años 2018, 2019 y 2020 son el trienio vivo. Es fácil entender el nombre, esos tres años han supuesto en mi vida el cambio más radical y absoluto. Son años en los que conecté al pequeño con el hombre. Toda mi energía desde niño volvió a mí, y ya sé que nunca me abandonará. Me acompañará hasta el final. He vivido cosas, cada día, con cada escrito, con personas que me crucé o me escribieron, que no tuve ni la imaginación suficiente como para soñarlas.
+
+Hay una expresión muy habitual en estos casos, esa que dice: «Después de esto ya me puedo morir tranquilo».
+
+Pues, la verdad, yo no tengo prisa por morir, ni tranquilo ni nervioso, pero estoy tranquilo, estoy tranquilo, estoy tranquilo…
+
+¿Y qué viene ahora?
+
+Ahora viene el *trienio mojado*, los años 2021, 2022 y 2023.
+
+Por qué se llama trienio mojado te lo contaré en el libro que hablará sobre ese trienio.
+
+Si no hay una continuación de esto que ahora lees, será porque fracasé en mi trienio mojado, porque no hubo nada que mereciera la pena contar. Pero creo que nos volveremos a ver…
+
+Ahora te tengo que dejar, pienso celebrar que acabé este libro del trienio vivo haciendo el amor con la mujer sueño. Justo en este momento.
+
+Mira…
+
+*Escribo porque me gusta ganar dinero*
+
+Isra Bravo
+
+No se permite la reproducción total o parcial de este libro, ni su incorporación a un sistema informático, ni su transmisión en cualquier forma o por cualquier medio, sea este electrónico, mecánico, por fotocopia, por grabación u otros métodos, sin el permiso previo y por escrito del editor. La infracción de los derechos mencionados puede ser constitutiva de delito contra la propiedad intelectual (Art. 270 y siguientes del Código Penal)
+
+Diríjase a CEDRO (Centro Español de Derechos Reprográficos) si necesita reproducir algún fragmento de esta obra.
+
+Puede contactar con CEDRO a través de la web www.conlicencia.com o por teléfono en el 91 702 19 70 / 93 272 04 47
+
+© del diseño de la portada: Oriol Frias
+
+© Israel Bravo Vara, 2022
+
+© Centro de Libros PAPF, SLU., 2012, 2022
+
+Alienta es un sello editorial de Centro de Libros PAPF, SLU.
+
+Av. Diagonal, 662-664
+
+08034 Barcelona
+
+[www.planetadelibros.com](http://www.planetadelibros.com)
+
+Primera edición en libro electrónico (epub): febrero de 2022
+
+ISBN: 978-84-1344-142-9 (epub)
+
+Conversión a libro electrónico: Newcomlab, S. L. L.
+
+www.newcomlab.com
+
+| |
+| --- |
+| ¡Encuentra aquí tu próxima lectura! |
+| |
+| ¡Síguenos en redes sociales! |
+
+![image](../images/00029.jpeg)
+
+El método Jaspao
+----------------
+
+Jones, Xuso
+
+9788413442068
+
+144 Páginas
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788413442068/e03cb7f876eadec83ac1891ff1ed2304)
+
+Si la suciedad amenaza con echarte de casa, ha llegado el momento de pararle los pies. Si, por el contrario, eres un maniático de la limpieza, este libro te enamorará por la cantidad de consejos nuevos que vas a descubrir.
+
+En *El método Jaspao* encontrarás todas las técnicas, trucos y recomendaciones que harán que limpiar sea más fácil que nunca, y aprenderás a crear hábitos para que mantenerla en condiciones sea pan comido.
+
+Además, Xuso te mostrará todo lo que puedes hacer con productos naturales. No necesitas gastar dinero en decenas de potingues especiales; los básicos de toda la vida te sacarán de muchos apuros: bicarbonato de sodio, vinagre de limpieza, zumo de limón, piedra blanca de arcilla… La clave está en saber combinarlos.
+
+Tienes en tus manos el abecé de la limpieza de Xuso: un manual que abarca todas las estancias de tu hogar, todos los muebles imaginables, electrodomésticos, rincones y materiales. Con instrucciones detalladas y vídeos accesibles desde tu móvil para que no te quede ninguna duda. Y todo con el humor inconfundible de Xuso Jones.
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788413442068/e03cb7f876eadec83ac1891ff1ed2304)
+
+![image](../images/00030.jpeg)
+
+El pequeño libro rojo de las ventas
+-----------------------------------
+
+Gitomer, Jeffrey
+
+9788417568009
+
+224 Páginas
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788417568009/6bad026455439dd4fb0f20241932c24e)
+
+**El bestseller internacional que recoge los principios básicos para convertirse en un gran vendedor.**
+Dicen que los vendedores odian leer, por eso este pequeño libro usa un lenguaje claro, sencillo y directo y está diseñado para llevar consigo todo el conocimiento, sabiduría, experiencia y pasión por las ventas que necesita un vendedor.
+Este libro incluye una tabla de contenido por capítulo y está repleto de citas, ilustraciones, consejos e ideas para, más allá de la clásica pregunta de cómo vender, entender mejor por qué compra la gente, una pregunta aún más fundamental que todo vendedor tiene que hacerse.
+Se trata de una pequeña guía práctica que se convertirá en una obra imprescindible para todos aquellos profesionales que deseen formarse en temas comerciales o mejorar sus habilidades.
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788417568009/6bad026455439dd4fb0f20241932c24e)
+
+![image](../images/00031.jpeg)
+
+Mentalidad mamba
+----------------
+
+Bryant, Kobe
+
+9788417568900
+
+208 Páginas
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788417568900/f447065300f28a753ebd582385c0649a)
+
+Cuando oigo a la gente decir que se han sentido inspirados por la mentalidad mamba, pienso que todo mi trabajo, todo mi esfuerzo y todo el sudor, ha merecido la pena. Por eso he escrito este libro. Todas las páginas contienen enseñanzas, no sólo sobre el baloncesto, sino también sobre la mentalidad mamba. Es decir, sobre la vida.
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788417568900/f447065300f28a753ebd582385c0649a)
+
+![image](../images/00032.jpeg)
+
+Entrena tu cerebro
+------------------
+
+Romo Vega, Marta
+
+9788415678854
+
+192 Páginas
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788415678854/33694a0b99c0a8574290eb8bd2ad3149)
+
+La neuroplasticidad nos da esperanzas frente a las dificultades del día a día, frente al sufrimiento e incluso frente a las enfermedades degenerativas. Ahora puedes entrenar tu cerebro para lograr una mejor versión de ti mismo.
+Con este libro descubrirás los elementos que pueden ayudar a tu cerebro a conseguir el alto rendimiento que buscas. Se trata de pequeñas y sencillas claves para incluir en tu día a día relacionadas con las emociones, la conexión social, el juego, la meditación, el ejercicio físico, el sueño, la alimentación e incluso la actividad de no hacer nada.
+Marta Romo te propone que te entrevistes con tu cerebro para conocer sus preferencias, sus gustos, sus aficiones, sus necesidades… en definitiva, para ser más eficiente y vivir mucho mejor.
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788415678854/33694a0b99c0a8574290eb8bd2ad3149)
+
+![image](../images/00033.jpeg)
+
+Nutrición emocional
+-------------------
+
+Sabal, Fran
+
+9788413440187
+
+288 Páginas
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788413440187/5dc882db0e4557fb98f08f0d14f46bb8)
+
+Gran parte de nuestros comportamientos suceden de forma automática y, sin que nos demos cuenta, pueden estar afectando a nuestro cuerpo y nuest

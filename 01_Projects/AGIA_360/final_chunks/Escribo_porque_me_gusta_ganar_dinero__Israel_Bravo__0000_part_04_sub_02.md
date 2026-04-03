@@ -1,0 +1,5 @@
+ra autoestima dificultándonos alcanzar nuestro peso ideal. Por eso, es necesario que hagamos un cambio de mentalidad para despertar nuestra sabiduría nutricional. La Nutrición Emocional es un método probado que trabaja a cuatro niveles: mental, emocional, nutricional y espiritual, para ayudarte a conseguir un cambio de vida real.
+A lo largo de estas páginas, descubrirás la fórmula para reducir tu peso de una manera fácil e intuitiva y, lo más importante, la clave para mantenerlo. Gracias a las estrategias de reprogramación mental, aprenderás a regular de forma natural tu apetito, a liberarte de la ansiedad y la culpa a la hora de comer, y a sanar tu relación con la comida y tu cuerpo, para que puedas trabajar día a día en convertirte en tu mejor versión.
+¡Deja de lado las dudas, las inseguridades, los miedos y las excusas y comienza ya la verdadera transformación hacia el cuerpo de tus sueños!
+
+[Cómpralo y empieza a leer](http://www.mynextread.de/redirect/Amazon+Fulfillment/3180012/9788413441429/9788413440187/5dc882db0e4557fb98f08f0d14f46bb8)

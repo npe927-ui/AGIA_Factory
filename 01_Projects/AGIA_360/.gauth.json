@@ -1,0 +1,11 @@
+{
+    "web": {
+        "client_id": "212797714554-04qnraqiq5a6tn8tu6qo78bm1i41c5e6.apps.googleusercontent.com",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:4100/code"
+        ],
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token"
+    }
+}

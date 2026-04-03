@@ -1,0 +1,625 @@
+# Ideas que pegan (Acción Empresarial) (Spanish Edition)
+
+
+
+![image](../images/00001.jpeg)
+
+**Chip Heath** y **Dan Heath**
+
+Prólogo de **Rafa Antón**
+
+![image](../images/00002.gif)
+
+![image](../images/00003.gif)
+
+MADRID BARCELONA MÉXICO D.F. MONTERREY
+
+LONDRES NUEVA YORK BUENOS AIRES
+
+Colección Viva
+Editado por LID Editorial Empresarial, S.L.
+Sopelana 22, 28023 Madrid, España
+Tel. 913729003 - Fax 913728514
+[info@lideditorial.com](http://info@lideditorial.com)
+LIDEDITORIAL.COM
+
+![image](../images/00004.gif)
+
+A member of
+
+[businesspublishersroundtable.com](http://businesspublishersroundtable.com)
+
+No está permitida la reproducción total o parcial de este libro, ni su tratamiento informático, ni la transmisión de ninguna forma o cualquier medio, ya sea electrónico, mecánico, por fotocopia, por registro u otros métodos, sin el permiso previo y por escrito de los titulares del *copyright.* Reservados todos los derechos, incluido el derecho de venta, alquiler, préstamo o cualquier otra forma de cesión del uso del ejemplar.
+
+Editorial y patrocinadores respetan íntegramente los textos de los autores, sin que ello suponga compartir lo expresado en ellos.
+
+Título original: *Made to Stick,* Random House 2007
+
+© Chip Heath & Dan heath 2007
+© Rafael Antón 2008, de su prólogo
+© LID Editorial Empresarial 2011, de esta edición
+
+EAN-ISBN13: 9788483565834
+Editor de la colección: Jose Antonio Menor
+Editora: Maite Rodríguez Jáñez
+Revisión de pruebas: Alejandro Navarro
+Imagen de portada: © Funniefarm5 | Dreamstime.com
+Impresión: Cofás, S.A.
+Depósito legal: M-21.600-2010
+
+*Impreso en España / Printed in Spain*
+
+Primera edición: mayo de 2011
+
+Índice
+------
+
+[**Prólogo** de Rafa Antón](part0004.html#pro)
+
+[**Agradecimientos**](part0005.html#agra)
+
+[**Introducción. ¿Qué se pega?**](part0006.html#intro)
+
+[**1.** La verdad sobre las palomitas del cine](part0006.html#intro_s001)
+
+[**2.** Acerca del contagio](part0006.html#intro_s002)
+
+[**3.** Cómo surgió *Ideas que pegan*](part0006.html#intro_s003)
+
+[**4.** ¿Quién acabó con los caramelos en Halloween?](part0006.html#intro_s004)
+
+[**5.** Los seis principios de las ideas contagiosas](part0006.html#intro_s005)
+
+[**6.** Repiqueteadores y oyentes](part0006.html#intro_s006)
+
+[**7.** Creatividad sistemática](part0006.html#intro_s007)
+
+[**01. Simple**](part0007.html#c001)
+
+[**1.** Encontrar la esencia de Southwest Airlines](part0007.html#c001_s001)
+
+[**2.** Enterrar la entradilla](part0007.html#c001_s002)
+
+[**3.** Si dice tres cosas, no está diciendo nada](part0007.html#c001_s003)
+
+[**4.** Parálisis decisoria](part0007.html#c001_s004)
+
+[**5.** Consultorios](part0007.html#c001_s005)
+
+[**6.** Nombres, nombres, nombres](part0007.html#c001_s006)
+
+[**7.** Compartir la esencia](part0007.html#c001_s007)
+
+[**8.** Simple = Esencial + Conciso](part0007.html#c001_s008)
+
+[**9.** Pájaro en mano](part0007.html#c001_s009)
+
+[**10.** El Palm Pilot y el proverbio visual](part0007.html#c001_s010)
+
+[**11.** Usar lo que hay](part0007.html#c001_s011)
+
+[**12.** El concepto de pamplemusa](part0007.html#c001_s012)
+
+[**13.** Complejidad de la simplicidad](part0007.html#c001_s013)
+
+[**14.** Conceptos de Hollywood: argumentos de alto concepto](part0007.html#c001_s014)
+
+[**15.** Analogías generativas](part0007.html#c001_s015)
+
+[**16.** El poder de la simplicidad](part0007.html#c001_s016)
+
+**02. Unívocamente inesperado**
+
+[**1.** Conseguir la atención](part0008.html#c002_s001)
+
+[**2.** Mantener la atención](part0008.html#c002_s002)
+
+[**03. Concreto**](part0009.html#c003)
+
+[**1.** Los paisajes como celebridades ecológicas](part0009.html#c003_s001)
+
+[**2.** Saber restar](part0009.html#c003_s002)
+
+[**3.** La concreción es recordable](part0009.html#c003_s003)
+
+[**4.** La teoría del velcro de la memoria](part0009.html#c003_s004)
+
+[**5.** Ojos azules, ojos marrones](part0009.html#c003_s005)
+
+[**6.** Camino hacia la abstracción: del proyecto a la máquina](part0009.html#c003_s006)
+
+[**7.** Concretar permite coordinar](part0009.html#c003_s007)
+
+[**8.** Los Ferrari van a Disney World](part0009.html#c003_s008)
+
+[**9.** La concreción saca a la luz el conocimiento: las cosas blancas](part0009.html#c003_s009)
+
+[**10.** Kaplan y Go Computer](part0009.html#c003_s010)
+
+[**11.** Concretar ideas](part0009.html#c003_s011)
+
+[**04. Creíble**](part0010.html#c004)
+
+[**1.** Encontrar la credibilidad](part0010.html#c004_s001)
+
+[**2.** Pam Laffin, la antiautoridad](part0010.html#c004_s002)
+
+[**3.** El poder de los detalles](part0010.html#c004_s003)
+
+[**4.** Los miembros del jurado y el cepillo de dientes de Dath Vader](part0010.html#c004_s004)
+
+[**5.** Más allá de la guerra](part0010.html#c004_s005)
+
+[**6.** El principio de la escala humana](part0010.html#c004_s006)
+
+[**7.** El test Sinatra y Safexpress](part0010.html#c004_s007)
+
+[**8.** Tejido comestible](part0010.html#c004_s008)
+
+[**9.** ¿Dónde está la carne?](part0010.html#c004_s009)
+
+[**10.** Méritos verificables](part0010.html#c004_s010)
+
+[**11.** Campamento para novatos](part0010.html#c004_s011)
+
+[**05. Emotivo**](part0011.html#c005)
+
+[**1.** La verdad](part0011.html#c005_s001)
+
+[**2.** La extensión semántica y el poder de asociación](part0011.html#c005_s002)
+
+[**3.** Luchar contra la extensión semántica: la deportividad](part0011.html#c005_s003)
+
+[**4.** Apelar al interés particular](part0011.html#c005_s004)
+
+[**5.** Televisión por cable en Tempe](part0011.html#c005_s005)
+
+[**6.** Evitar el sótano de Maslow](part0011.html#c005_s006)
+
+[**7.** Comer en Iraq](part0011.html#c005_s007)
+
+[**8.** El palomitero y las ciencias políticas](part0011.html#c005_s008)
+
+[**9.** No la pringues con Tejas](part0011.html#c005_s009)
+
+[**10.** ¿A quién le importa el piano a dúo?](part0011.html#c005_s010)
+
+[**06. Sucesión de hechoS**](part0012.html#c006)
+
+[**1.** Hablando de trabajo en el comedor de Xerox](part0012.html#c006_s001)
+
+[**2.** El público *im-pasivo*](part0012.html#c006_s002)
+
+[**3.** Historias que inspiran: el caso de Jared](part0012.html#c006_s003)
+
+[**4.** El arte de reconocer](part0012.html#c006_s004)
+
+[**5.** Historias del Banco Mundial](part0012.html#c006_s005)
+
+[**6.** La historia de la conferencia](part0012.html#c006_s006)
+
+[**Epílogo. Lo que realmente pega**](part0013.html#epi)
+
+[**1.** El poder de reconocer](part0013.html#epi_s001)
+
+[**2.** Conferencias y contagio](part0013.html#epi_s002)
+
+[**3.** Más villanos](part0013.html#epi_s003)
+
+[**4.** Cómo contagiar una idea: el marco comunicativo](part0013.html#epi_s004)
+
+[**5.** John F. Kennedy contra Floyd Lee](part0013.html#epi_s005)
+
+[**Guía fácil para crear ideas que peguen**](part0014.html#bm001)
+
+[**Notas**](part0015.html#note)
+
+[**Indice onomástico**](part0016.html#ind)
+
+Prólogo
+-------
+
+Me pidieron que escribiera el prólogo de este libro.
+
+Lo leí primero.
+
+Y después escribí esto, cerré el ordenador y enterré la cabeza
+de la prostituta muerta.
+
+**Rafa Antón**
+
+*Presidente del Club de Creativos*
+
+Agradecimientos
+---------------
+
+A nuestro padre, por conducir un viejo Chevette
+color café y mandarnos a la universidad.
+
+A nuestra madre, por prepararnos el desayuno
+todos los días durante 18 años (a los dos).
+
+Varias personas comentaron nuestra propuesta inicial con gran esfuerzo. Queremos mostrar nuestro agradecimiento a las siguientes personas por ayudarnos a crear un documento lo bastante convincente como para pasar la primera prueba fundamental: Doug Crandall, James Dailey, Ben Ellis, John Lin, Tom Prehn, Chloe Salden y Craig Yee.
+
+Cuando terminamos de escribir la primera mitad del libro estábamos entusiasmados y deseosos de recibir comentarios, así que se lo enviamos a un grupo de amigos y colegas, que nos complacieron devolviendo sus comentarios escritos. También le han ahorrado a usted, querido lector, montones de anécdotas poco convincentes y sin interés, así que usted también puede sentirse agradecido. Pasemos lista a esas excelentes personas: Daryl Anderson, E. Joseph Arias, Deena Bahri, Amy Bryant, Mark y Chelsea Dinsmore, Julie Balovich, Danny Fitelson, Alfred Edmond, Michael Erisman, Chris Ertel, Erika Faust, Craig Fox, Emmet Gaffney, Lisa Gansky, Liz Gerber, Julio González, Eric Guenther, Steven Guerrero, Susanna Hamner y Byron Penstock, Tod y Susan Hays, Fred y Brenda Heath, Ian Hill, Joe Lassiter, Alex Kazaks, Brian Kelly, Paul Marshall, George Miller, Shara Morales, Michael Morris, Derek Newton, Justin Osofsky, Jeff Pfeffer, Bill Sahlman, Andrew y Katie Solomon, Melissa Studzinski, Mark Schlueter, Paul Schumann, Steven Slon, Amy y Walter Surdacki, Bob Sutton, Mike Sweeney, Anthony Trendl, Ed Uyeshima, Steve y Trae Vassallo, Rachel Ward, Keith Yamashita. Gracias a todos por enviarnos los comentarios que necesitábamos cuando más falta hacían.
+
+Lo que sigue es una mezcolanza de agradecimientos a personas que nos han ayudado de formas muy distintas. Gracias a Noah Weiss, que dedicó horas a peinar fuentes recónditas de ejemplos interesantes en las primeras fases, y a Maggie Cong-Huyen, que retomó el trabajo donde él lo había dejado. Gracias especialmente a Jeff Saunders por señalarnos la *Intención del Comandante.* Gracias a los alumnos de Chip de varios cursos de OB 368, que nos ayudaron a redefinir y verificar el marco de trabajo. Gracias a los colaboradores de Chip, que nos ayudaron a comprender muchas de estas ideas: Adrian Bangerter, Chris Bell, Jonah Berger, Sanford Devoe, Nate Fast, Alison Fragale, Emily Sternberg, Scott Wiltermuth. Gracias a las siguientes personas, que leyeron el libro y ayudaron a recabar ejemplos para las ediciones internacionales: Eugine Chong, Hide Doi, Atsuko Jenks, Hyun Kim, Motoki Korenaga, Andreas Kornstaedt y Noriko Masuda.
+
+Ahora viene el párrafo de las personas cuyo trabajo nos ha inspirado. No han tenido nada que ver con este libro y, a la vez, han tenido mucho que ver con él. Una carta de admiración a Edward Tufte, Don Norman, Malcolm Gladwell, James Carville, Stephen Denning, Robert McKee, Andy Goodman, Jim Thompson, Steven Tomlinson, Edward Burger, George Wolfe, David Placek, Keith Yamashita, Jacob Goldenberg, George Loewenstein, Robert Cialdini, Mark Schaller, David Rubin, Jan Brunvand y tantos otros que no nos perdonaremos no haber incluido en el momento de la impresión.
+
+A nuestros agentes Don Lamm y Christy Fletcher: nos sentimos tremendamente agradecidos por haber hecho posible esta experiencia. Y gracias a Mark Fortier por haber difundido el libro.
+
+Estamos obligados a darle las gracias a nuestro editor. Según lo que hemos oído de otros autores, por lo general hay que dar las gracias con la boca pequeña. Se trata de nuestro primer libro y se suponía que en el proceso de lanzarlo al mercado acumularíamos montones de historias de terror sobre el mundo editorial y nos sentiríamos infravalorados y sin apoyo. Random House ha sido un fracaso absoluto en este sentido. Ha sido tal placer de trabajar con el personal de Random House, han sido tan inesperada e innecesariamente majos, que nos cuesta saber por dónde empezar. Gracias a Debbie Aroff, Avideh Bashirrad, Rachel Bernstein, Nicole Bond, Evan Camfield, Gina Centrello, Kristin Fassler, Jennifer Hershey, Stephanie Huntwork, Jennifer Huwer, London King, Sally Marvin, Dan Menaker, Jack Perry, Tom Perry, Kelle Ruden, Robbin Schiff y Carol Schneider. Y a Sanyu Dillon. ¡Dios mío! ¿Cómo expresar correctamente nuestra gratitud por todo lo que has hecho? Increíble.
+
+Nuestras gracias más sinceras en letra de molde, repujada y caligrafiada a nuestro corrector Ben Loehnen. Nuestros padres leerán este libro una vez, si tenemos suerte (por cierto, nuestro padre tiene una teoría cuántica de la literatura según la cual no vale la pena leer ningún libro de menos de 400 páginas. Dependemos exclusivamente de nuestros contactos para que nos lea). Mientras tanto, Ben se lo ha leído probablemente una docena de veces sin derrumbarse ni una sola, al menos en nuestra presencia. Ben, eres infinitamente paciente, considerado, perspicaz y colaborador. De acuerdo, esto empieza a sonar a anuario del instituto (¡sigue así!). Ahora en serio, sabemos que hemos sido insoportables en ocasiones, como con la campaña de la cinta adhesiva…
+
+Gracias a nuestra familia por aguantarnos. Os debemos un agradecimiento sincero, que realmente no tiene nada que ver con este libro, sino con vuestro apoyo en todo lo que hacemos. Esta sección nos brinda la mejor oportunidad para grabarlo en letras de molde. Gracias mamá, papá, por habernos dado un coautor a cada uno. Gracias, Susan. Gracias, Emory. Gracias, hermana Susan. Gracias, Tod, Hunter y Darby.
+
+Esperamos que disfruten con el libro. Ha sido un placer escribirlo.
+
+Introducción.
+-------------
+
+¿Qué se pega?
+-------------
+
+Un amigo de un amigo nuestro, al que llamaremos Dave, viaja frecuentemente por negocios. Hace poco estuvo en Atlantic City para reunirse con unos clientes importantes y cuando terminó la reunión, como le sobraba tiempo antes del vuelo, decidió tomarse algo en un bar de la zona.
+
+Acababa de terminarse la primera copa cuando una mujer atractiva se le acercó para invitarle a la segunda. Sorprendido y halagado, aceptó la invitación. La desconocida se dirigió hacia la barra y regresó con dos copas, una para ella y otra para él. Le dio las gracias, tomó un sorbo y a partir de aquí ya no se acuerda de nada más.
+
+O, mejor dicho, eso es lo último que recuerda hasta que se despertó, desorientado, en la bañera de un hotel con el cuerpo sumergido en cubitos de hielo. Miró a su alrededor frenéticamente, intentando averiguar dónde estaba y cómo había llegado hasta allí. Entonces vio una nota que decía: «No se mueva. Llame al 112».
+
+Sobre una mesita junto a la bañera había un teléfono móvil. Lo cogió y marcó el 112 torpemente, con los dedos entumecidos por el frío. La operadora, que curiosamente estaba familiarizada con la situación, le dijo: «Quiero que mueva la mano lentamente y con cuidado hacia atrás. ¿Siente un tubo sobresaliéndole por la parte inferior de la espalda?».
+
+Angustiado, palpó a tientas y allí estaba el tubo. La operadora continuó: «Por favor, mantenga la calma. Le han extraído un riñón. Hay una red de tráfico de órganos en la ciudad y han dado con usted. Una ambulancia va de camino; no se mueva hasta que llegue».
+
+Acaba de leer una de las leyendas urbanas de mayor éxito de los últimos quince años cuyo primer indicio es el típico comienzo de toda leyenda urbana: «un amigo de un amigo…». ¿Se ha dado cuenta de que los amigos de nuestros amigos suelen llevar vidas mucho más interesantes que nuestros propios amigos?
+
+Es probable que ya hubiera oído la historia del robo del riñón. Existen cientos de versiones en circulación, aunque todas ellas comparten un núcleo formado por tres elementos: la droga en la bebida, la bañera llena de hielo y el desenlace del robo de riñón. En una versión aparece un hombre casado que recibe una bebida narcotizada de una prostituta a la que ha invitado a su habitación en Las Vegas. Pura moralina con riñones.
+
+Suponga que cierra el libro en este instante, se toma un descanso de una hora y, a continuación, llama a un amigo para contarle la historia sin releerla. Existe la posibilidad de que su versión sea casi perfecta, aunque tal vez se le olvide que el protagonista se encontraba en Atlantic City «para reunirse con unos clientes importantes». Total, ¿a quién le importa eso? Sin duda, se acordaría de lo fundamental.
+
+La historia del robo del riñón es contagiosa. La comprendemos, la recordamos, podemos volver a contarla y, si creemos que es cierta, es capaz de modificar nuestra conducta permanentemente, al menos en lo que se refiere a aceptar bebidas de desconocidos atractivos.
+
+Comparemos la historia del robo del riñón con el siguiente pasaje extraído de un folleto distribuido por una organización sin ánimo de lucro[1](part0015.html#intro_fn01). Comienza así: «La cimentación comunitaria integral se presta de forma natural a un racionalismo del rendimiento de la inversión, susceptible de ser modelado a partir de la práctica actual».
+
+Y continúa argumentando que «un factor restrictivo del flujo de recursos hacia los CCI consiste en que los órganos de financiación a menudo deben recurrir al establecimiento de objetivos o requisitos categóricos en la concesión de donaciones con vistas a garantizar la corresponsabilidad».
+
+Suponga que cierra el libro en este instante y se toma un descanso de una hora. Mejor aún, olvídese de esperar una hora y llame directamente a un amigo para contarle el pasaje sin releerlo. Buena suerte.
+
+¿Es justo comparar una leyenda urbana con un mal pasaje escogido a propósito? Evidentemente, no, aunque aquí es donde las cosas se ponen interesantes. Piense en nuestros dos ejemplos como los dos polos del espectro de la memoria: ¿cuál se pare-ce más a los mensajes que encuentra en su entorno laboral? Si forma parte de la mayoría, su lugar de trabajo gravita hacia el polo sin ánimo de lucro como una estrella polar.
+
+Tal vez sea perfectamente natural el hecho de que algunas ideas sean intrínsecamente interesantes (una banda de ladrones de órganos) y otras carezcan intrínsecamente de interés (la estrategia financiera de una ONG). Es el debate sobre si se nace o se hace, aplicado a las ideas. Es decir, ¿las ideas nacen interesantes o se hacen interesantes?
+
+Dado que éste es un libro divulgativo, analizaremos cómo podemos modelar nuestras ideas para que triunfen en el mundo. Muchos de nosotros nos esforzamos para comunicar eficazmente nuestras ideas y conseguir que marquen la diferencia. Una profesora de biología dedica una hora a explicar la mitosis y al cabo de una semana sólo tres alumnos se acuerdan de la explicación. Un directivo revela una nueva estrategia mientras los empleados asienten entusiasmados y el día siguiente los observa implementando tranquilamente la estrategia anterior.
+
+A muchas buenas ideas les cuesta triunfar en el mundo, mientras que la ridícula historia del robo del riñón continúa circulando sin ningún recurso que la apoye. ¿Por qué? ¿Sólo porque un riñón extirpado vende mucho más que otros asuntos? ¿O es posible conseguir que una idea loable y verdadera circule con tanta eficacia como este relato falso?
+
+### 1. La verdad sobre las palomitas del cine
+
+Art Silverman miraba fijamente un cucurucho de palomitas que se encontraba sobre el escritorio de su despacho, que parecía estar fuera de lugar y que había impregnado su despacho de tufo a sucedáneo de mantequilla. Silverman sabía, a raíz de los estudios de su organización, que las palomitas que tenía sobre la mesa no eran saludables. En realidad, sorprendía lo poco sanas que eran. Le habían encargado que desarrollara una forma de comunicar este mensaje a los confiados aficionados estadounidenses al cine.
+
+Silverman trabaja para el Centro Científico para el Interés Público (CSPI), un grupo sin ánimo de lucro que trata de educar a la sociedad sobre cuestiones de nutrición. El CSPI había enviado varios cucuruchos de palomitas procedentes de una docena de salas de cine de tres grandes ciudades a un laboratorio para que realizase un análisis nutricional y los resultados habían sorprendido a todo el mundo.
+
+El Ministerio de Agricultura estadounidense (USDA) recomienda que una dieta normal no contenga más de 20 gr de grasas saturadas al día. Según los resultados del laboratorio, el cucurucho de palomitas tenía 37.
+
+El culpable era el aceite de coco que se suele usar en las salas de cine para hacer estallar las palomitas. Este aceite ofrece grandes ventajas respecto a otros porque proporciona una estupenda textura y suavidad al maíz, y despide un aroma más agradable y natural que los aceites alternativos aunque, como indicaban los resultados del laboratorio, tiene un contenido muy elevado de grasas saturadas.
+
+La porción individual de palomitas sobre el escritorio de Silverman (un tentempié para comer entre horas) contenía casi el doble de la cantidad diaria recomendada de grasas saturadas y esos 37 gr correspondían a una porción mediana de palomitas, por lo que no cabía duda de que una porción de mayor tamaño podría haber triplicado esta cantidad.
+
+El problema para Silverman era que poca gente sabe lo que significan «37 gr de grasas saturadas». Casi nadie memoriza las recomendaciones de nutrición diaria del USDA y, por lo tanto, no sabemos si 37 gr es una cantidad buena o mala. E, incluso si intuimos que es mala, nos preguntaríamos si es mala de verdad (como un cigarrillo) o sólo regular (como una galleta o un batido).
+
+La propia expresión «37 gr de grasas saturadas» consigue que los ojos de muchos se vuelvan vidriosos. «La grasa saturada no tiene ningún atractivo --explica Silverman--. Es un concepto seco y académico. ¿A quién le importa?».
+
+Silverman podría haber creado algún tipo de comparación visual, quizá un anuncio que enfrentara la cantidad de grasa saturada de las palomitas a la cantidad diaria recomendada por el USDA, por ejemplo con un gráfico de barras donde una de ellas fuera el doble de alta que la otra.
+
+Pero seguía siendo demasiado científico y racional, y la cantidad de grasa de las palomitas no era racional; era alarmante. El CSPI necesitaba encontrar la manera de modelar el mensaje para comunicar precisamente esta preocupación y a Silverman se le ocurrió una solución.
+
+El 7 de septiembre de 1992, el CSPI convocó una rueda de prensa para presentar el siguiente mensaje: «Una porción mediana de palomitas con mantequilla de una sala de cine cualquiera contiene más grasas que obstruyen las arterias que unos huevos con panceta para desayunar, un Big Mac con patatas para comer y un filete para cenar, con sus correspondientes guarniciones y todo junto».
+
+Los del CSPI no menospreciaron el poder de las imágenes, sino que expusieron el menú grasiento al completo ante las cámaras de televisión. Un día entero de alimentos insalubres sobre la mesa y todas esas grasas saturadas metidas en una única porción de palomitas.
+
+La noticia causó sensación de inmediato; apareció en la CBS, la NBC, la ABC y la CNN, ocupó las portadas de *USA Today, Los Angeles Times* y la sección de estilo del *Washington Post.* Los presentadores Leno y Letterman hicieron chistes sobre las palomitas empapadas de grasa y los redactores dejaron volar su imaginación en los titulares: «Las palomitas, sólo para mayores de edad», «Luces, acción… ¡colesterol!», «Palomitas en el cine: sesión doble de grasa».
+
+La idea se propagó y los cinéfilos, repugnados por la noticia, huyeron de las palomitas a manadas. Las ventas se desplomaron y los empleados de las salas de cine se acostumbraron a sortear preguntas sobre si las palomitas se hacían con el aceite malo. Poco después, casi todas las grandes cadenas de cines del país (incluidas United Artists, AMC y Loews) anunciaron que dejarían de usar el aceite de coco[2](part0015.html#intro_fn02).
+
+### 2. Acerca del contagio
+
+La anterior es la historia del éxito de una idea o, mejor aún, la historia del éxito de una idea verdadera. Los del CSPI conocían al público al que iba dirigido el mensaje y desarrollaron una forma de comunicar la idea que les hiciera escuchar y atenerse a ella. La idea cuajó del mismo modo que la historia del robo del riñón.
+
+Para ser sinceros, el CSPI lo tenía todo en su contra porque el mensaje de que «las palomitas del cine son grasientas» carece del morboso atractivo que posee una banda de ladrones de órganos. Nadie se despertó en una bañera llena de hielo; la historia no era sensacional, ni siquiera era particularmente entretenida. Más aún, no había una circunscripción natural para la noticia, ya que pocos de nosotros nos esforzamos por estar al día de las noticias sobre palomitas. Tampoco salían famosos, modelos ni mascotas monas.
+
+En resumen, la idea de las palomitas se parece mucho a las ideas que solemos manejar todos los días. Son ideas interesantes pero no sensacionales, verídicas pero no increíbles, importantes pero no de vida o muerte. Y, a no ser que trabaje en el sector de la publicidad o las relaciones públicas, probablemente no disponga de muchos recursos para respaldar sus ideas, como un presupuesto multimillonario para publicidad o un equipo de pensadores profesionales. Sus ideas tienen que sostenerse sobre sus propios méritos.
+
+Hemos escrito este libro para ayudarle a que sus ideas se propaguen, es decir, se entiendan, se recuerden y causen un efecto duradero, modificando las opiniones o las conductas de su público.
+
+Llegados a este punto, merece la pena preguntarse por qué necesita imponer sus ideas. Después de todo, la gran mayoría de nuestras comunicaciones diarias no tienen por qué ser contagiosas. Por ejemplo, una interacción del tipo «pasa la sal» no tiene que ser memorable y cuando le contamos a un amigo nuestros problemas conyugales no estamos intentando causar un efecto duradero.
+
+Es decir, no todas las ideas son dignas de propagarse. Cuando preguntamos a la gente con qué frecuencia necesitan que una idea se extienda, nos responden que la necesidad surge entre una vez al mes y una vez a la semana, o sea entre 12 y 52 veces al año. Para los directivos, se trata de grandes ideas sobre nuevas orientaciones estratégicas y normas de conducta. Los profesores intentan comunicar temas, conflictos y tendencias a sus alumnos, aquellas cuestiones y formas de pensar que perdurarán mucho después de que los hechos concretos se hayan desvanecido. Los columnistas se esfuerzan por modificar la opinión de sus lectores en temas políticos. Los líderes religiosos persiguen compartir su sabiduría espiritual con sus feligreses. Las ONG tratan de persuadir a los voluntarios para que contribuyan con su tiempo y a los donantes para que aporten dinero a favor de una buena causa.
+
+Lo cierto es que, dada la importancia de conseguir que una idea se difunda, sorprende la poca atención que se presta al asunto. Cuando nos aconsejan cómo transmitir un mensaje, suele tener que ver con la forma de hacerlo: «manténgase derecho, establezca contacto visual, use gestos apropiados, practique mucho aunque sin llegar a ser artificial». A veces nos ofrecen recomendaciones sobre la estructura: «adelante lo que vaya a decir, dígalo y después repita lo que ha dicho». O «atraiga primero la atención mediante un chiste o un relato». Otro tipo de consejos se refieren al conocimiento del público: «sepa lo que les preocupa para poder adaptar su mensaje». Y, en último lugar, aparece el latiguillo más común en el mundo de los consejos de la comunicación: «repita, repita, repita».
+
+Todas estas recomendaciones tienen su aspecto positivo, salvo quizá el énfasis en la repetición (si hay que contar lo mismo diez veces, probablemente la idea no estaba bien diseñada desde el principio. De hecho, ninguna leyenda urbana hace falta repetirla diez veces). Sin embargo, este abanico de consejos presenta un defecto manifiesto, ya que a Art Silverman no le ayuda a explicar que las palomitas del cine son nefastas para la salud.
+
+Huelga decir que Silverman sabe que debe establecer contacto visual y practicar, ¿pero qué mensaje se supone que tiene que practicar? Conoce a su público: les gustan las palomitas y no se dan cuenta de lo insalubres que son. Pero, ¿cuál es el mensaje que debe compartir? Y, para complicarlo todo, Silverman es consciente de que no podrá permitirse el lujo de repetir, sino que cuenta con una única oportunidad de conseguir que los medios se interesen en su historia.
+
+Pensemos en una profesora de primaria. Conoce su objetivo: enseñar los materiales estipulados por la comisión nacional de educación. Conoce a su público: alumnos de tercero con una serie de conocimientos y técnicas. Sabe comunicar con eficacia y es una virtuosa de la postura, la dicción y el contacto visual. Tiene claro su objetivo, su público y el formato, pero no el diseño del mensaje. Los estudiantes de biología necesitan comprender la mitosis, de acuerdo, ¿y después, qué? Existe un número infinito de maneras de enseñar la mitosis, ¿cuál tendrá éxito? ¿Y cómo podemos reconocerla de antemano?
+
+### 3. Cómo surgió Ideas que pegan
+
+La cuestión en líneas generales radica en cómo diseñar una idea contagiosa. Hace varios años nos dimos cuenta de que habíamos dedicado una década a estudiar la forma en que se contagian las ideas. Aunque nuestra experiencia procedía de distintos campos, nos habíamos centrado en una misma pregunta: ¿por qué unas ideas tienen éxito y otras fracasan?
+
+Dan, apasionado de la educación, cofundó una editorial nueva llamada Thinkwell a partir de un planteamiento bastante herético: si tuviera que desarrollar un libro de texto desde cero mediante el uso del vídeo y las tecnologías en lugar de textos, ¿cómo lo haría? Como jefe de redacción de Thinkwell, Dan trabajó con su equipo para determinar la mejor forma de enseñar asignaturas como la economía, la biología, las matemáticas y la física. Tuvo la oportunidad de colaborar con algunos de los profesores más eficaces y queridos de todo el país: un profesor de matemáticas y cómico a la vez, un profesor de biología nombrado Profesor del Año, o un profesor de economía que era también capellán y dramaturgo. Dan disfrutó sobre todo con un curso intensivo sobre las características del buen profesor y descubrió que, si bien cada maestro tenía un estilo único, sus metodologías pedagógicas en conjunto eran casi idénticas.
+
+Chip, en tanto que profesor de la Universidad de Stanford, había dedicado una década a preguntarse por qué, en ocasiones, las ideas malas triunfan en el mercado social de las ideas. ¿Cómo podía una idea falsa desplazar a otra verdadera? ¿Por qué unas ideas son más contagiosas que otras? En su primera incursión en estas cuestiones, se sumergió en el mundo de las ideas «contagiosas por naturaleza», como las leyendas urbanas o las teorías de la conspiración. A lo largo de los años se familiarizó inquietantemente con algunas de las historias más repulsivas y absurdas del ideario colectivo y ahora puede decir que las ha oído todas. He aquí una pequeña muestra de ellas:
+
+• la rata frita del Kentucky. En realidad, cualquier historia relacionada con ratas y comida rápida se encuentra sobre terreno fértil.
+
+• la Coca-Cola pudre los huesos. Es un temor muy extendido en Japón, aunque por el momento el país no ha experimentado ninguna epidemia de adolescentes gelatinosos.
+
+• si hacemos señales con las luces largas a un coche con los faros apagados, nos disparará un pandillero.
+
+• la Muralla China es la única construcción humana visible desde el espacio (sin duda, la muralla es larga, pero no muy ancha. Piénselo bien: si la muralla fuera visible, cualquier autopista interestatal estadounidense también lo sería y tal vez algún que otro gran almacén de Wal-Mart).
+
+• sólo usamos el 10% de nuestro cerebro (si fuera cierto, el daño cerebral sería mucho menos preocupante).
+
+Chip, junto con sus alumnos, ha dedicado cientos de horas a recoger, codificar y analizar ideas contagiosas por naturaleza: leyendas urbanas, rumores de época de guerra, refranes, teorías de la conspiración y chistes. Aunque las leyendas urbanas son falsas, muchas ideas contagiosas por naturaleza son verdaderas. De hecho, quizá la clase más antigua de idea contagiosa por naturaleza sean los refranes, porciones de sabiduría capaces de perdurar a lo largo de los siglos y a través de culturas. Como ejemplo, han aparecido versiones del dicho «Cuando el río suena, agua lleva» en más de 55 idiomas diferentes.
+
+Con motivo del estudio de las ideas contagiosas por naturaleza, tanto triviales como profundas, Chip ha realizado más de 40 experimentos con más de 1.700 participantes sobre temas como:
+
+• por qué se siguen leyendo las profecías de Nostradamus después de 400 años.
+
+• por qué es tan inspiradora la colección de libros de *Sopa de pollo para el alma.*
+
+• por qué perduran los remedios populares ineficaces.
+
+Desde hace algunos años imparte una asignatura en Stanford bajo el título de «Cómo conseguir que una idea sea contagiosa», con la premisa de que si comprendemos lo que hace que una idea sea contagiosa por naturaleza, tendremos más probabilidades de conseguir que se propaguen nuestros mensajes. Durante los últimos años, ha enseñado sobre este asunto a varios cientos de estudiantes encaminados a las profesiones de directivo, analista de políticas públicas, periodista, diseñador o director de cine.
+
+Para terminar con la historia de los hermanos Heath, en 2004 caímos en la cuenta de que estábamos enfocando el mismo problema desde ángulos diferentes. Chip había analizado y enseñado lo que hace que algunas ideas sean contagiosas. Dan había intentado desarrollar formas pragmáticas de conseguir contagiar ideas.
+
+Chip había comparado el éxito de diferentes leyendas urbanas y otros relatos. Dan había cotejado el éxito de distintas lecciones de matemáticas y gubernamentales. Chip era investigador y profesor. Dan era activista y escritor (y también sabíamos que harí-amos felices a nuestros padres si pasábamos más tiempo juntos).
+
+Queríamos aislar las ideas contagiosas (naturales y elaboradas) y descubrir qué las hacía contagiosas. ¿Por qué son tan convincentes las leyendas urbanas? ¿Por qué algunas lecciones de química funcionan mejor que otras? ¿Por qué casi toda sociedad cuenta con un refranero? ¿Por qué algunas ideas políticas se propagan con facilidad y otras no lo consiguen?
+
+En resumen, pretendíamos averiguar qué es contagioso. Adoptamos la terminología del *contagio* de uno de nuestros autores favoritos, Malcolm Gladwell. En 2000, Gladwell escribió un libro genial titulado *La clave del éxito,* donde examinaba las fuerzas que causan que un fenómeno social se propague, es decir, que dé el salto de un grupo pequeño a otro grande, de la misma forma en que las enfermedades contagiosas se extienden rápidamente en cuanto infectan a una masa crítica determinada de personas. ¿Por qué resurgieron los zapatos Hush Puppies? ¿Por qué los índices de criminalidad de Nueva York cayeron repentinamente en picado? ¿Por qué tuvo tanto éxito *Clan ya-yá?*
+
+La clave del éxito se divide en tres apartados. El primero aborda la necesidad de contar con las personas correctas; el segundo, acerca del factor gancho, argumenta que las innovaciones tienen más probabilidades de propagarse cuando son contagiosas; y el tercero trata del contexto correcto. Cuando se publicó *La clave del éxito,* Chip cayó en la cuenta de que el término «contagio» era perfecto para referirse al atributo que perseguía en sus investigaciones dentro del mercado de las ideas.
+
+El presente libro es un complemento a *La clave del éxito* en cuanto a que identificaremos los rasgos que hacen de una idea contagiosa, más allá del ámbito del libro de Gladwell. A él le interesa saber por qué los movimientos sociales son epidémicos. A nosotros nos interesa la construcción eficaz de las ideas, lo que hace que algunas se contagien y otras desaparezcan. Aunque nuestro enfoque se desmarque de la zona de influencia de La clave del éxito, hemos querido rendir homenaje a Gladwell por el término contagio, que se nos ha contagiado.
+
+### 4. ¿Quién acabó con los caramelos en Halloween?
+
+En los años 60 y 70, la tradición infantil anglosajona de ir casa por casa pidiendo golosinas en la víspera del día de Todos los Santos se vio amenazada por los rumores que empezaron a circular sobre sádicos que introducían cuchillas en las manzanas de caramelo y trampas explosivas en las gominolas. Los rumores afectaron a la fiesta de Halloween por todo Estados Unidos. Los padres examinaban cuidadosamente las bolsas de chucherías de sus hijos, los colegios abrían sus puertas para que los niños pudieran pedir golosinas dentro de un entorno más seguro y los hospitales se ofrecían a radio-grafiar los caramelos.
+
+En 1985, una encuesta de ABC News indicaba que al 60% de los padres les preocupaba que sus hijos pudieran ser víctimas. Todavía muchos padres enseñan a sus hijos a no comer nada que no esté envasado. Es la triste historia de una fiesta familiar mancillada por unos malvados que, inexplicablemente, tienen intención de hacer daño a los niños. No obstante, en 1985 el caso dio un giro extraño cuando unos investigadores descubrieron un dato sobrecogedor sobre la epidemia de la manipulación de caramelos: era un mito.
+
+Los sociólogos Joel Best y Gerald Horiuchi estudiaron cada incidente de Halloween conocido desde 1958 y no encontraron ningún caso en que un extraño pusiera en peligro la vida de un menor manipulando las golosinas de la víspera del día de Todos los Santos.
+
+Dos niños fallecieron en Halloween, aunque sus muertes no estuvieron provocadas por desconocidos. Un niño de cinco años encontró el alijo de heroína de su tío y murió de sobredosis. Sus familiares intentaron borrar las huellas esparciendo heroína sobre sus caramelos. En otro caso, el padre, con la esperanza de cobrar el seguro, provocó la muerte de su propio hijo contaminando sus dulces con cianuro.
+
+En otras palabras, la evidencia sociológica más rotunda revela que no pasa absolutamente nada por aceptar dulces de desconocidos; de quien hay que protegerse es de la propia familia.
+
+La historia de la manipulación de golosinas ha modificado la conducta de millones de padres durante los últimos 30 años[3](part0015.html#intro_fn03). Lamentablemente, ha generalizado la desconfianza entre vecinos e, incluso, ha conseguido modificar la legislación estadounidense: tanto California como Nueva Jersey han aprobado leyes que contienen penas especiales para los manipuladores de dulces. ¿Por qué tuvo tanto éxito esta idea?
+
+### 5. Los seis principios de las ideas contagiosas
+
+La historia de los caramelos de Halloween es, en cierto modo, la cara opuesta del relato del CSPI. Ambas subrayan un peligro inesperado en una actividad común (comer caramelos en Halloween y palomitas en el cine), ambas requieren una actuación sencilla (examinar las golosinas de nuestro hijo y evitar las palomitas en el cine), ambas se sirven de imágenes muy gráficas y concretas que se afianzan fácilmente en la memoria (una cuchilla escondida en una manzana de caramelo y una mesa llena de alimentos grasientos) y sendas historias recurren a los sentimientos (el miedo en el caso de los caramelos de Halloween y la repugnancia en el caso de las palomitas).
+
+La leyenda del robo del riñón también comparte muchos de estos rasgos: un desenlace totalmente inesperado (un tipo que va a un bar y acaba con un riñón de menos), un montón de detalles concretos (la bañera llena de hielo, el extraño tubo que sobresale por la parte inferior de la espalda) y los sentimientos: miedo, repugnancia, sospecha.
+
+Empezamos a observar los mismos temas y atributos reflejados en un gran abanico de ideas de éxito. A raíz de las investigaciones de Chip (y revisando los estudios de docenas de folcloristas, psicólogos, pedagogos, politólogos y caza-refranes), descubrimos que las ideas contagiosas comparten ciertos grandes rasgos. No es que exista una fórmula para diseñar ideas contagiosas, ni mucho menos, pero lo cierto es que las ideas contagiosas recurren a una serie de rasgos comunes que las hacen más susceptibles de triunfar.
+
+Pongamos que estuviéramos analizando las características de un buen jugador de baloncesto. Puede estar seguro de que cualquier buen baloncestista presenta un subgrupo de rasgos como la altura, la velocidad, la agilidad, la potencia y el sentido de la cancha, aunque no se necesitan todos ellos para ser bueno. De hecho, algunos defensas estupendos son bastante escuálidos y miden 1,77. Por otra parte, contar con todos los rasgos no garantiza ser bueno, como lo demuestran todas las personas de dos metros que son torpes. Eso sí, si estuviéramos en la cancha del barrio tratando de elegir a nuestro equipo de entre desconocidos, probablemente deberíamos arriesgarnos con el chaval de dos metros.
+
+Las ideas funcionan de forma muy similar. Una técnica que podemos aprender es la capacidad para reconocer las ideas que poseen talento natural, como el desconocido de 2 metros. Más adelante analizaremos la campaña publicitaria de Subway, centrada en un universitario obeso, de nombre Jared, que perdió más de 90 kg comiendo bocadillos de Subway todos los días. La campaña fue todo un éxito, aunque no la diseñó una agencia publicitaria de Madison Avenue, sino el propietario de un local que fue capaz de reconocer una historia extraordinaria.
+
+En este punto se viene abajo nuestra analogía del baloncesto, ya que en el mundo de las ideas podemos diseñar genéticamente a nuestros jugadores y crear ideas que tengan el máximo gancho.
+
+Mientras estudiábamos cientos de ideas contagiosas, observamos que una y otra vez entraban en el juego los mismos seis principios.
+
+#### 5.1 Simple
+
+¿Cómo podemos descubrir el núcleo fundamental de una idea? Un abogado de éxito explica que si argumenta «diez temas, por mucho que todos sean buenos, cuando se reúna el jurado no se acordarán de ninguno». Para despojar una idea de todo hasta llegar a su núcleo, debemos dominar la técnica de la exclusión, priorizar implacablemente. No se trata de resumir; lo ideal no son las citas jugosas, sino los refranes. Tenemos que crear ideas que sean a la vez sencillas y profundas. La regla de oro es la máxima simplicidad, esa frase única tan profunda que alguien pueda dedicar la vida entera a aprender a obedecerla.
+
+#### 5.2 Unívocamente inesperado
+
+¿Cómo conseguir que nuestro público preste atención a nuestras ideas y mantenga el interés cuando necesitamos tiempo para hacernos entender? Incumpliendo sus expectativas, siendo contra-intuitivos. Una bolsa de palomitas es tan insana como un día entero de comidas grasientas. Podemos utilizar la sorpresa (un sentimiento cuya función consiste en incrementar la agudeza mental y provocar la concentración) para lograr la atención de la gente.
+
+Sin embargo, dado que la sorpresa no es duradera, para que nuestra idea permanezca debemos generar interés y curiosidad. ¿Cómo lograr que los alumnos se muestren atentos en la 48a clase de historia del curso? Se puede captar la curiosidad durante un largo período de tiempo abriendo lagunas sistemáticamente en el conocimiento de nuestro público para llenarlas a continuación.
+
+#### 5.3 Concreto
+
+¿Cómo conseguir que una idea quede clara? Explicándola en términos de acciones humanas, de información sensorial. Aquí es donde muchos mensajes comerciales fracasan. A menudo, las declaraciones de intenciones, sinergias, estrategias y visiones son ambiguas hasta el punto de carecer de sentido. Las ideas contagiosas por naturaleza están repletas de imágenes concretas (bañeras llenas de hielo, manzanas de caramelo con cuchillas) porque nuestro cerebro está diseñado para recordar datos concretos.
+
+En los refranes, una verdad abstracta suele venir codificada en lenguaje concreto: «Más vale pájaro en mano que ciento volando». Hablar con concreción es el único modo de asegurarnos de que nuestra idea signifique lo mismo para todas las personas del público.
+
+#### 5.4 Creíble
+
+¿Cómo lograr que la gente se crea nuestras ideas? Cada vez que C. Everett Koop, antiguo jefe del servicio federal de sanidad, comenta algún asunto de salud pública, la mayoría de los oyentes aceptan sus ideas sin escepticismo, claro que en casi ninguna situación del día a día gozamos de la misma autoridad. Las ideas contagiosas necesitan llevar sus propias credenciales. Tenemos que conseguir que la gente pueda comprobar nuestras ideas por ellos mismos, algo así como el «busque y compare» del mundo de las ideas. Cuando intentamos presentar un argumento, casi todos recurrimos instintivamente a los números puros y duros, aunque en muchos casos éste es precisamente el enfoque equivocado. En el único debate presidencial estadounidense de 1980 entre Ronald Reagan y Jimmy Carter, Reagan pudo haber citado innumerables estadísticas que demostraran el estancamiento de la economía. Sin embargo, planteó una pregunta sencilla que permitía que los votantes participaran por ellos mismos. «Antes de votar--dijo--, pregúntense si su situación económica hoy en día es mejor que hace cuatro años».
+
+#### 5.5 Emotivo
+
+¿Cómo conseguir que a la gente le interesen nuestras ideas? Haciéndoles sentir. En el caso de las palomitas del cine, hacemos que sientan repugnancia de su insalubridad. El dato de los 37 gramos no suscita ninguna sensación. Los estudios demuestran que las personas tienen más probabilidades de hacer una donación a un único individuo necesitado que a toda una región empobrecida. Estamos diseñados para albergar sentimientos hacia las personas, no hacia las abstracciones. A veces, lo más complicado es encontrar la sensación correcta que debemos provocar. Por ejemplo, es difícil conseguir que los adolescentes dejen de fumar infundiéndoles temor ante las consecuencias, pero es fácil lograrlo si recurrimos a su resentimiento contra la doble moral de las tabacaleras.
+
+#### 5.6 Sucesión de hechoS
+
+¿Cómo conseguir que la gente siga nuestras ideas? Contándoles historias. Los bomberos suelen intercambiar relatos después de cada incendio y al hacerlo multiplican sus experiencias. Tras años de escuchar estas historias, poseen un catálogo mental más rico y completo de situaciones críticas ante las que pueden enfrentarse durante un incendio, junto con las respuestas apropiadas en cada situación. Los estudios demuestran que ensayar mental-mente una situación nos ayuda a actuar mejor cuando nos la encontremos en el mundo real. De igual modo, escuchar historias funciona como una especie de simulador de vuelo mental, preparándonos para responder con más rapidez y eficacia.
+
+Ésos son los seis principios de las ideas que triunfan. Para resumir, enumeraremos los requisitos imprescindibles de toda idea brillante: un suceso unívocamente inesperado, concreto, creíble, emotivo y simple. El observador habilidoso notará que esta frase puede compactarse en las siglas *SUCCESS* [éxito en inglés, la última ese un poco forzada, pero nos lo agradecerás cuanto intentes recordarlo]. Es pura coincidencia, por muy visto que esté. Evidentemente, podríamos haber cambiado *simple* por *esencial* y reorganizar las letras, pero coincidirás con nosotros en que SUCCEE es menos recordable.
+
+Para aplicar estos principios no se necesita ningún conocimiento especial; no existe el título universitario de *contagiólogo.* Además, muchos de los principios son de sentido común. ¿Acaso no intuía de antemano que hay que ser concreto y contar una historia? Digamos que el público de la prosa excesivamente complicada y exánime no es precisamente muy abundante.
+
+¡Un momento! Estamos afirmando que aplicar estos principios es fácil y lo cierto es que muchos de ellos parecen relativamente de sentido común. Entonces, ¿por qué no estamos inundados de ideas contagiosas y genialmente diseñadas? ¿Por qué están nuestras vidas llenas de instrucciones y trámites en lugar de refranes?
+
+Por desgracia, en esta historia también hay un villano. Se trata de una tendencia psicológica natural que confunde sistemáticamente nuestra capacidad para crear ideas basadas en estos principios. Se denomina la maldición del conocimiento y nos referiremos a ella en mayúsculas a lo largo de este libro para otorgarle el dramatismo que creemos que se merece.
+
+### 6. Repiqueteadores y oyentes
+
+En 1990, Elizabeth Newton se doctoró en Psicología en Stanford con el estudio de un sencillo juego en el que dividió a los participantes en repiqueteadores y oyentes[4](part0015.html#intro_fn04). Los primeros recibían una lista con 25 canciones conocidas, como el cumpleaños feliz o el himno nacional, de entre las que debían escoger una y repiquetear el ritmo a un oyente dando golpecitos sobre una mesa. La misión del oyente consistía en adivinar la canción basándose en las pulsaciones que escuchaba (por cierto, es un experimento divertido para practicarlo en casa si tiene cerca algún buen oyente).
+
+La tarea del oyente en este juego es bastante ardua. A lo largo del experimento de Newton se repiquetearon 120 canciones, de las cuales los oyentes adivinaron sólo el 2,5%, es decir tres canciones de 120.
+
+Lo que hizo que el resultado fuera merecedor de una tesis en psicología fue que antes de que los oyentes averiguaran el nombre de cada canción, Newton pidió a los repiqueteadores que predijeran las probabilidades de que los oyentes la adivinaran correctamente. Pronosticaron un 50% de probabilidades.
+
+Los repiqueteadores transmitieron su mensaje correctamente uno de cada 40 veces, pero pensaban que la proporción era de uno cada dos. ¿Por qué?
+
+Cada vez que un repiqueteador daba golpecitos en la mesa al ritmo de la música, estaba escuchando la canción en su cabeza.
+
+Inténtelo usted, repiquetee la melodía del himno nacional y comprobará que es imposible no escuchar la música en la cabeza. Por su parte, los oyentes no oyen la melodía, sino una serie de golpes desconectados, una especie de código Morse extraño.
+
+En el experimento, los repiqueteadores se quedaron pasmados cuando descubrieron lo mucho que les costaba a los oyentes descubrir la melodía. ¿Acaso no era obvio? La expresión del repiqueteador cada vez que un oyente decía «feliz cumpleaños» en lugar del himno nacional era divertidísima. Parecía que estuviera pensando cómo se puede ser tan estúpido.
+
+Es duro ser repiqueteador. El problema consiste en que los repiqueteadores han recibido cierta información (el título de la canción) que les hace imposible imaginar lo que es no disponer de él. Mientras repiquetean, no se dan cuenta de que los oyentes sólo escuchan golpes aislados y no una canción. Es la maldición del conocimiento: en cuanto sabemos algo, nos cuesta recordar cómo eran las cosas cuando no lo sabíamos[5](part0015.html#intro_fn05). El conocimiento nos ha maldecido y resulta difícil compartir lo que sabemos con los demás, al no poder recrear con facilidad el estado mental de nuestros oyentes.
+
+El experimento de los repiqueteadores y los oyentes se reproduce diariamente por todo el mundo entre directores generales y altos ejecutivos, profesores y alumnos, políticos y votantes, mercadólogos y consumidores, escritores y lectores. Aunque todos estos grupos dependen de la comunicación continuada, al igual que en el experimento, padecen enormes desequilibrios de información. Cuando un director general habla sobre «liberar el valor del accionariado», está escuchando una melodía en la cabeza que sus empleados no pueden oír.
+
+Es una situación difícil de resolver. Un director general puede que lleve 30 años de inmersión diaria en la lógica y las costumbres empresariales y revertir el proceso es tan imposible como destocar una campana. No se puede desaprender lo que ya se sabe. De hecho, sólo hay dos maneras de vencer la maldición del conocimiento: la primera es no aprender nada; la segunda, transformar los conocimientos que tenemos.
+
+Este libro le enseñará a transformar sus ideas para vencer la maldición del conocimiento. Los seis principios que hemos presentado antes son sus mejores armas y pueden servir de lista de control. Volvamos al director general que anima a su personal a esforzarse para *maximizar el valor del accionariado.*
+
+¿Se trata de una idea simple? Sí, en el sentido de que es breve, aunque carece de la simplicidad útil de un refrán. ¿Es unívocamente inesperada? No. ¿Concreta? En absoluto. ¿Creíble? Sólo porque procede del director general. ¿Emotivo? En absoluto. ¿Una sucesión de hechos? No.
+
+Comparemos la idea de «maximizar el valor del accionariado» con el famoso alegato de John F. Kennedy en 1961 de «mandar un hombre a la Luna y que regrese sano y salvo antes del final de la década». ¿Sencillo? Sí. ¿Unívocamente inesperado? Sí. ¿Concreto? Asombrosamente. ¿Creíble? El objetivo parece de ciencia ficción, pero la fuente era creíble. ¿Emotivo? Sí. ¿Una sucesión de hechos? Sí, en miniatura.
+
+Si John F. Kennedy hubiera sido el director general de una empresa, hubiera dicho que «nuestra misión es convertirnos en líderes internacionales de la industria espacial mediante la máxima innovación centrada en el trabajo en equipo e iniciativas aerospaciales seleccionadas estratégicamente». Por suerte, JFK era más intuitivo que el director general de hoy en día. Sabía que las misiones opacas y abstractas no cautivan ni inspiran a la gente. La misión de la Luna fue un caso clásico del comunicador que esquiva la maldición del conocimiento. Fue una idea brillante y hermosa, una idea única que marcó la conducta de millones de personas durante una década.
+
+### 7. Creatividad sistemática
+
+Imagínese a la típica persona que siempre está sugiriendo ideas brillantes. ¿Tiene una imagen mental de esta persona? Mucha gente describe al famoso estereotipo del «genio creativo», el tipo de persona que piensa los lemas en una agencia de publicidad de moda. Tal vez como nosotros, se imagina a alguien con el pelo engominado y vestido a la última, que lleva un cuaderno manoseado repleto de ironías y epifanías, y está dispuesto a dejarlo todo en cualquier momento para organizar una sesión de puesta en común de cuatro horas en una sala llena de cafeína y pizarras blancas. O quizá su estereotipo no sea tan elaborado.
+
+No hay duda de que algunas personas son más creativas que otras. Tal vez hayan nacido así y, por lo tanto, usted nunca llegue a ser el Michael Jordan de las ideas contagiosas, aunque la premisa de este libro es que la creación de ideas contagiosas es algo que puede aprenderse.
+
+En 1999, un equipo de investigación israelí reunió 200 anuncios muy respetados entre los finalistas y ganadores de los mejores concursos de publicidad. Descubrieron que el 89% de los anuncios galardonados podía clasificarse en seis categorías básicas, o plantillas[6](part0015.html#intro_fn06). Es extraordinario. Podríamos pensar que los grandes conceptos creativos son sumamente idiosincrásicos, resultado del capricho de tipos creativos por naturaleza y, sin embargo, resulta que con seis sencillas plantillas podemos llegar muy lejos.
+
+La mayoría de las plantillas se refieren al principio de la imprevisibilidad, como la titulada *Consecuencias extremas,* que subraya los efectos inesperados de un atributo de un producto. Por ejemplo, un anuncio recalca la potencia del equipo de sonido de un coche. Cuando el equipo de música suena a pleno pulmón, empieza a oscilar un puente al ritmo de la música y cuando sube el volumen de los bafles, el puente vibra tanto que casi se viene abajo. La misma plantilla describe el famoso lema de la Segunda Guerra Mundial diseñado por Ad Council, una organización sin ánimo de lucro que crea campañas de servicio público para otras ONG y agencias gubernamentales: «Las lenguas sueltas hunden barcos». Y, hablando de consecuencias extremas, no nos olvidemos de los huevos que chisporroteaban en el anuncio de 1980 que decía: «Así es tu cerebro con la droga» (también diseñado por Ad Council). La plantilla también recurre espontáneamente a ideas contagiosas por naturaleza, como la leyenda de que Newton descubrió la ley de la gravedad al caérsele una manzana en la cabeza (puede consultar el resto de las plantillas en las notas finales).
+
+Los investigadores se basaron en las seis plantillas para clasificar 200 anuncios más, de las mismas publicaciones y los mismos tipos de productos, pero que no habían recibido ningún premio. Sorprendentemente, cuando intentaron ordenar estos anuncios de menos éxito, sólo fueron capaces de clasificar el 2%.
+
+La sorprendente lección de esta historia es que los anuncios muy creativos son más previsibles que los poco creativos. Como decía Tolstoi, «todas las familias felices se parecen, pero cada familia infeliz lo es a su manera». Todos los anuncios creativos se parecen entre sí, pero los malos lo son a su manera. En ese caso, si los anuncios creativos recurren una y otra vez al mismo juego básico de plantillas, tal vez la creatividad pueda aprenderse. Tal vez hasta los estudiantes de primero sin experiencia creativa puedan diseñar mejores ideas si estudian estas plantillas. Los investigadores israelíes, intrigados acerca de la posibilidad de enseñar la creatividad, quisieron saber hasta dónde podía llegar una de ellas.
+
+Reunieron a tres grupos de estudiantes de primero y a cada uno le dieron cierta información de contexto sobre tres productos: un champú, un complemento adelgazante y unas zapatillas de deporte. Un grupo empezó a generar anuncios nada más recibir los datos, sin ningún tipo de instrucciones. Un director creativo experto, que desconocía la formación del grupo, seleccionó sus quince mejores anuncios. A continuación, los anuncios fueron analizados por consumidores, que los calificaron de pesados (¿será ésta, tal vez, la explicación tan esperada de la publicidad de los concesionarios locales?).
+
+Un segundo grupo recibió formación durante dos horas por un experto profesor de creatividad que enseñó a los participantes a emplear un método de puesta en común por asociación libre. Se trata de una técnica estándar en la enseñanza de la creatividad, que supuestamente amplía las asociaciones, provoca conexiones inesperadas y coloca montones de ideas creativas sobre la mesa para que la gente seleccione la mejor de todas. Si alguna vez ha asistido a un curso sobre puesta en común de ideas geniales, probablemente éste haya sido el método que le enseñaron.
+
+De nuevo se seleccionaron los quince mejores anuncios por el mismo director creativo, que desconocía la formación del grupo y los anuncios fueron puestos a prueba por los consumidores, que los calificaron como menos pesados que los del grupo sin formación, aunque no más creativos.
+
+El último grupo recibió una formación de dos horas sobre la aplicación de las seis plantillas creativas. Otra vez, el director creativo seleccionó los quince mejores anuncios y se sometieron a la opinión de los consumidores. De repente, los novatos irradiaban creatividad. Sus anuncios fueron clasificados como un 50% más creativos y provocaron una actitud un 55% más positiva hacia los productos anunciados. Una mejoría asombrosa teniendo en cuenta las dos horas dedicadas a estudiar un par de plantillas básicas. Por lo visto, existen formas sistemáticas de producir ideas creativas.
+
+Lo que hizo el equipo de investigadores israelíes con los anuncios es lo que este libro pretende hacer con sus ideas. Le daremos sugerencias para adaptarlas de forma que sean más creativas y eficaces de cara a su público. Hemos creado una lista de control de seis principios precisamente con este propósito.
+
+Pero, ¿no es demasiado restrictivo limitarse a una plantilla o a una lista de control? ¿Acaso estamos sugiriendo que un enfoque del tipo «colorear con números» produzca más creatividad que pintar en un lienzo en blanco?
+
+En efecto, eso es exactamente lo que queremos decir. Si quiere difundir sus ideas a otras personas, debe confinarse a las reglas que han permitido que otras ideas triunfen a lo largo de los tiempos. Su misión es inventar nuevas ideas, no nuevas reglas.
+
+Lo que no puede ofrecer este libro es una receta infalible. Admitámoslo francamente: no podemos ayudarle a conseguir que un grupo de doceañeros cotilleen sobre la mitosis alrededor de una fogata. Y lo más probable es que su memorando sobre mejora de procesos no circule durante las próximas décadas cual refrán en otra cultura.
+
+Pero sí podemos prometerle que, independientemente de su grado de creatividad natural, vamos a demostrarle cómo un pequeño esfuerzo localizado puede volver contagiosa casi cualquier idea y una idea contagiosa tiene más probabilidades de marcar la diferencia. Lo único que debe hacer usted es comprender los seis principios de toda idea brillante.
+
+Simple
+------
+
+01
+
+A cada movimiento de un soldado americano le precede una asombrosa cantidad de planificación que surge a raíz de una orden original del presidente de Estados Unidos. Éste ordena a los jefes del Estado Mayor que logren un objetivo y éstos marcan los parámetros de la operación. A continuación, se produce una cascada de órdenes y planes hacia abajo, desde los generales a los coroneles y capitanes.
+
+Los planes son bastante minuciosos; especifican el esquema de las maniobras y el concepto operativo, es decir, qué debe hacer cada unidad, qué equipo usará, cómo sustituirá la munición, etc. Las órdenes aumentan progresivamente hasta que llegan a acumular la especificidad suficiente para dirigir las acciones de cada soldado de infantería en un momento concreto.
+
+El ejército invierte una ingente cantidad de energía en la planificación y sus procedimientos se han ido refinando a lo largo de los años. El sistema es una maravilla de la comunicación, aunque tiene el inconveniente de que, a menudo, los planes resultan ser inútiles.
+
+«Una expresión trillada que siempre utilizamos es que "Ningún plan sobrevive al contacto con el enemigo"--explica el coronel Tom Kolditz, director de la división de ciencias conductistas de West Point--. Puede que empecemos intentando luchar de acuerdo con el plan, pero el enemigo siempre tiene derecho a voto. Se dan situaciones impredecibles: cambios meteorológicos, la destrucción de un activo clave o una respuesta inesperada del enemigo. Muchos ejércitos fracasan porque ponen todo el énfasis en crear un plan que se vuelve inútil a los diez minutos de la batalla».
+
+El reto castrense es similar a escribir instrucciones a un amigo para que juegue al ajedrez en su lugar. Usted se sabe al dedillo las reglas del juego y puede que conozca bien a su amigo y al contrincante, pero si trata de escribir instrucciones para cada movimiento, fracasará. Es imposible predecir más allá de un par de jugadas. La primera vez que el contrincante mueva una ficha por sorpresa, a su amigo no le quedará más remedio que tirar por la borda sus planes, tan cuidadosamente diseñados, y confiar en sus instintos.
+
+Según el coronel Kolditz, «con el paso del tiempo uno empieza a comprender mejor lo que hace que la gente tenga éxito en operaciones complejas». En su opinión, los planes son útiles en el sentido de que demuestran que ha habido un proceso de planificación que ha obligado a examinar detenidamente los aspectos correctos. Pero los planes en sí «no funcionan en el campo de batalla», asegura Kolditz. Por esa razón, en los años 80 el ejército estadounidense adaptó su proceso de planificación e inventó un concepto denominado la intención del comandante (IC).
+
+Se trata de una instrucción escueta y en lenguaje llano que aparece en el membrete de cada orden precisando el objetivo del plan, es decir, el final deseado de una operación. En los altos mandos del ejército, la IC puede ser relativamente abstracta: «quebrantar la voluntad del enemigo en la región suroeste». En los mandos tácticos correspondientes a coroneles y capitanes, la instrucción se vuelve mucho más concreta: «Mi intención es colocar el Tercer Batallón sobre la Colina 4305, despejarla del enemigo, dejando sólo remanentes ineficaces para proteger el flanco de la Tercera Brigada mientras atraviesan las líneas».
+
+La IC evita especificar demasiados detalles para no correr el riesgo de volverse obsoleta con cualquier acontecimiento imprevisible. «Se puede perder la capacidad de ejecutar el plan original, pero nunca se pierde la responsabilidad de ejecutar la intención», explica Kolditz. En otras palabras, si queda un solo soldado del Tercer Batallón sobre la Colina 4305, más vale que esté haciendo algo para proteger el flanco de la Tercera Brigada.
+
+La IC pretende homogeneizar la conducta de los soldados a todos los niveles, sin requerir instrucciones detalladas de sus superiores. Una vez que se conoce el fin deseado, se puede improvisar si es necesario para lograrlo. El coronel Kolditz pone un ejemplo:
+
+«Suponga que estuviera dirigiendo un batallón de la artillería y dijera: "Vamos a pasar esta unidad de infantería a través de las líneas hacia delante". La orden significaría cosas distintas para grupos distintos. La división mecánica sabe que necesitará mucho apoyo para las reparaciones en carretera porque si un tanque se avería sobre un puente, toda la operación se vendría abajo. La división de artillería sabe que deberá disparar humo o encargar a ingenieros que generen humo en la zona posterior por donde avanza la unidad de infantería, para que no les disparen mientras pasan. En mi posición de comandante, podría dedicar mucho tiempo a enumerar cada tarea concreta, pero en cuanto la gente sabe cuál es la intención, empiezan a desarrollar sus propias soluciones».
+
+El centro de formación de maniobras de combate, la unidad encargada de llevar a cabo simulacros militares, recomienda a los oficiales que elaboren la IC planteándose dos cuestiones:
+
+• Si no hiciéramos nada más durante la misión de mañana, debemos \_\_\_\_\_\_\_\_\_\_\_\_\_.
+
+• Lo único y más importante que debemos hacer mañana es \_\_\_\_\_\_\_\_\_\_\_\_\_.
+
+Ningún plan sobrevive al contacto con el enemigo. Sin duda se trata de un principio elocuente incluso para personas sin experiencia militar. Ningún plan de ventas sobrevive al contacto con los clientes. Ningún plan de clase sobrevive al contacto con adolescentes.
+
+Cuesta conseguir que una idea se contagie en un contexto estridente, imprevisible y caótico. Para poder lograrlo, el primer paso es la simplicidad, aunque no en términos de resumir o embrutecer, porque no es necesario hablar en monosílabos para ser claro. Por simplicidad nos referimos a encontrar la esencia de la idea.
+
+Y encontrar la esencia quiere decir despojar a una idea de todo salvo de su sustancia más elemental. Para llegar hasta la esencia, debemos arrancar los elementos superfluos y tangenciales, aunque ésa es la parte fácil. La difícil es desechar ideas que pueden ser *muy* importantes pero no son *lo más* importante. La IC del ejército obliga a los oficiales a recalcar el objetivo principal de una operación. Su valor radica en su singularidad; no se pueden tener cinco estrellas polares, cinco objetivos principales, ni cinco IC. Encontrar la esencia es análogo a escribir la IC: se trata de descartar un sinfín de datos valiosísimos, para dejar que brille el más importante de todos. El aviador y autor francés Antoine de Saint-Exupéry definía así la elegancia en ingeniería: «Un diseñador sabe que ha alcanzado la perfección no cuando no queda más que añadir, sino cuando no queda más que suprimir». Un diseñador de ideas sencillas debería aspirar al mismo fin: saber hasta qué punto puede exprimirse una idea antes de que empiece a perder su esencia.
+
+De hecho, sigamos nuestro propio consejo y destripemos este libro hasta su esencia. Aquí va: hay dos pasos para conseguir que una idea sea contagiosa. El primero es encontrar la esencia y el segundo adaptarla a la lista de control SUCCESS. Eso es todo. Dedicaremos este capítulo al primer paso y el resto del libro al segundo. El primer paso para desnudar las ideas pasa por analizar por qué Southwest Airlines hace caso omiso deliberadamente de las preferencias gastronómicas de sus clientes.
+
+### 1. Encontrar la esencia de Southwest Airlines
+
+Es de todos conocido que Southwest es una compañía de éxito, aunque lo cierto es que existe un desequilibrio escandaloso en el rendimiento de Southwest respecto a sus competidores. Mientras el sector de las aerolíneas en su conjunto apenas conoce de refilón lo que es la rentabilidad, Southwest se ha mantenido rentable constantemente durante más de 30 años.
+
+Las razones del éxito de Southwest podrían llenar libros enteros, y de hecho lo hacen, aunque quizá el factor más importante de él sea su tenaz obsesión por reducir costes. A toda línea aérea le gusta reducir gastos, pero Southwest lleva décadas haciéndolo. Y para conseguirlo, la compañía se ve obligada a coordinar a miles de empleados, desde mercadólogos a manipuladores de equipaje.
+
+Southwest cuenta con una IC, una esencia que ayuda a dirigir esta coordinación. En palabras de James Carville y Paul Begala:
+
+«Una vez, Herb Kelleher [el director general más longevo de Southwest] le dijo a alguien que podía enseñarle el secreto de gestionar esta aerolínea en 30 segundos. Es lo siguiente: "Somos la aerolínea de bajo coste. En cuanto comprenda ésto, podrá tomar cualquier decisión sobre el futuro de la compañía con el mismo acierto que yo.
+
+Le pondré un ejemplo--continuó--. Tracy, de Marketing, entra en su despacho y le dice que, según las encuestas, a los pasajeros les gustaría un almuerzo ligero en el vuelo de Houston a Las Vegas. Nosotros sólo damos cacahuetes y, según ella, una ensalada de pollo César sería muy bien recibida. ¿Qué dice usted?".
+
+Como su interlocutor vaciló durante un rato, Kelleher respondió: "Pues usted le pregunta a Tracy si ofrecer una ensalada de pollo César nos convertiría en la aerolínea de bajo coste entre Houston y Las Vegas. Porque, si no es así, no vamos a dar la maldita ensalada de pollo"»[1](part0015.html#c001_fn01).
+
+La IC de Kelleher es ser la aerolínea de bajo coste. Es una idea sencilla, pero lo suficientemente útil como para dirigir las acciones de los empleados de Southwest durante más de 30 años.
+
+Claro que esta idea esencial no lo es todo. Por ejemplo, en 1996 Southwest recibió 124.000 solicitudes para 5.444 vacantes. Aunque sorprenda, es famosa por ser un buen lugar de trabajo, por mucho que se suponga que no es divertido trabajar en una empresa tan tacaña. Cuesta imaginar a los empleados de Wal-Mart con la risa tonta durante toda la jornada.
+
+Por alguna razón, Southwest lo ha conseguido. Pensemos en las ideas que rigen la compañía como si fueran círculos concéntricos. El central, el núcleo, es «la aerolínea de bajo coste». Tal vez el círculo siguiente sea «disfrutar trabajando». Los empleados de Southwest saben que no pasa nada por divertirse, siempre y cuando no se ponga en peligro la posición de la compañía en tanto que aerolínea de bajo coste. Un nuevo empleado podría asociar estas ideas para saber cómo actuar en una situación improvisada. Por ejemplo, ¿está bien celebrar el cumpleaños de una azafata delante del asistente de personal? Por supuesto. Entonces, ¿estará bien tirar confeti en su honor? Probablemente no, porque el confeti generaría trabajo adicional para el equipo de limpieza y las horas extras significan facturas más altas. Es el equivalente empresarial desenfadado del soldado de infantería que improvisa basándose en la IC. Una idea sencilla y excepcionalmente pensada puede ser muy poderosa a la hora de modelar el comportamiento.
+
+En este punto, deseamos hacerle una advertencia. Dentro de un tiempo, meses después de que guarde este libro, recordará el término simplicidad como un elemento de la lista de control SUCCESS. Su diccionario de sinónimos escarbará fielmente en busca del significado de simplicidad y le ofrecerá asociaciones como embrutecer, apostar por el mínimo denominador común, facilitar las cosas, etc. En ese momento, deberá recordar a su tesauro los ejemplos que hemos analizado. «La aerolínea de bajo coste» y los demás relatos de este capítulo no son simples por contener palabras fáciles; lo son porque reflejan la IC. Es cuestión de elegancia y orden de prioridades, no de empobrecimiento intelectual.
+
+### 2. Enterrar la entradilla
+
+A los periodistas se les enseña a comenzar sus artículos con la información más importante. La primera frase, o entradilla, contiene los elementos fundamentales de la noticia. Una buena entradilla puede transmitir mucha información, como en las siguientes, extraídas de artículos galardonados por la Asociación Americana de Editores de Prensa:
+
+«Un corazón sano de 17 años bombeó el don de la vida a Bruce Murray Friday, de 34, tras una operación de transplante de cuatro horas que, según los médicos, transcurrió sin contratiempos»[2](part0015.html#c001_fn02).
+
+«Jerusalén, 4 de noviembre. Un extremista judío de derechas dispara y causa la muerte del primer ministro Isaac Rabin cuando éste abandonaba una manifestación por la paz que había congregado a más de 100.000 personas en Tel Aviv, sumiendo en la confusión al gobierno israelí y el proceso de paz en Oriente Medio»[3](part0015.html#c001_fn03).
+
+Después de la entradilla, la información se presenta en orden inverso de importancia. Los periodistas lo llaman la pirámide invertida[4](part0015.html#c001_fn04); la información más importante (la base más ancha de la pirámide) se sitúa en la parte superior.
+
+La pirámide invertida es estupenda para los lectores. No importa cuál sea el lapso de atención de un lector (que lea sólo la entradilla o todo el artículo), la pirámide invertida maximiza la información que recibe. Piense en la alternativa: si los artículos de prensa estuvieran escritos como novelas de misterio, con el desenlace al final, los lectores que dejasen de leer a la mitad no entenderían nada. Imagínese que tuviese que esperar hasta la última frase de un reportaje para saber quién ha ganado las elecciones presidenciales o la liga de fútbol.
+
+La pirámide invertida también permite a los periódicos salir a tiempo. Pongamos que una noticia de última hora obliga a los reporteros a quitar espacio a otros artículos. Sin la pirámide invertida, tendrían que realizar un lento y cuidadoso trabajo de edición en el resto de los artículos, recortando una palabra por aquí y una frase por allá. Gracias a la estructura de la pirámide invertida, se limitan a cortar párrafos del final de los demás artículos, conscientes de que, por su posición, son los menos importantes.
+
+Según una teoría, quizá apócrifa, la pirámide invertida surgió durante la Guerra de Secesión. Los reporteros usaban los telégrafos militares para transmitir sus noticias, pero podía haber un corte en cualquier momento debido a un golpe con el personal militar o una interrupción total de las líneas de comunicación, cosa frecuente durante las batallas. Los periodistas nunca sabían de cuánto tiempo dispondrían para enviar una noticia y por eso enviaban primero la información más importante.
+
+A los periodistas les obsesionan las entradillas. Don Wycliff, galardonado repetidas veces por sus artículos de fondo, explica que «siempre he creído que si dispongo de dos horas para escribir una noticia, lo mejor que puedo hacer es dedicar la primera hora y 45 minutos a conseguir una buena entradilla, porque si lo logro lo demás viene por sí solo».
+
+Si una buena entradilla facilita todo lo demás, ¿por qué razón fracasan los periodistas en conseguirla? Un error común que cometen los periodistas es empaparse tanto en los detalles que no son capaces de ver la esencia del mensaje, aquello que a los lectores les parecerá importante o interesante. Ed Cray, reportero durante muchos años y profesor de comunicación de la Universidad del Sur de California, ha dedicado casi 30 años a la enseñanza del periodismo. Afirma que «cuanto más se trabaja en una noticia, más fácil es perder el rumbo. Ningún detalle parece demasiado pequeño. Llega un momento en que ya no se sabe cuál es la noticia».
+
+El problema de perder el rumbo, o alejarse de la historia central, es tan común que los periodistas le han dado un nombre propio: enterrar la entradilla. Se produce cuando el reportero deja que el elemento más importante de la historia se resbale demasiado hacia abajo en la estructura de la noticia.
+
+El proceso de redactar una entradilla (y evitar la tentación de enterrarla) es una metáfora útil en el proceso de encontrar la esencia. Tanto encontrar la esencia como redactar una entradilla tienen que ver con un orden forzado de prioridades. Suponga que fuera un reportero de la Guerra de Secesión y sólo pudiera telegrafiar una cosa antes de que se corte la línea, ¿cuál sería? Sólo hay una entradilla y sólo hay una esencia. No tiene más remedio que elegir.
+
+Forzar el orden de prioridades es verdaderamente arduo. Las personas inteligentes reconocen el valor de todos los materiales, son capaces de ver matices y perspectivas múltiples y, gracias a que aprecian íntegramente las complejidades de una situación, a menudo sienten la tentación de quedarse ahí. La tendencia de gravitar hacia la complejidad está permanentemente enfrentada a la necesidad de priorizar. Esta difícil tarea (el imperativo de forzar prioridades dentro de la complejidad) fue exactamente con lo que se encontró James Carville en la campaña de Clinton de 1992.
+
+### 3. Si dice tres cosas, no está diciendo nada
+
+Una campaña política es caldo de cultivo para la angustia en la toma de decisiones. Si cree que su empresa tiene problemas, imagínese el desafío de construir una organización nacional de la nada, sirviéndose principalmente de trabajadores impagados y, en gran medida, no cualificados. Dispone más o menos de un año para desarrollar el espíritu de equipo y abastecerse de existencias inagotables de *donuts.* Todos en la organización tienen que cantar con el mismo himnario, pero no le sobra tiempo para ensayar el coro. Además, los medios le pinchan para que cante una canción distinta cada día. Para empeorar las cosas, tiene que vérselas constantemente con opositores que se fijan en cada palabra errante.
+
+La campaña de Clinton de 1992 fue un ejemplo clásico de ideas contagiosas en funcionamiento dentro de un contexto complicado. La campaña no sólo contaba con el abanico acostumbrado de complejidades, sino que el propio Clinton añadió un par de peculiaridades más. Primero fueron las «macizas explosivas» que no hace falta que comentemos aquí. Después, dado que Clinton es un ser político por naturaleza, tendía a pontificar sobre prácticamente cualquier pregunta que le hicieran, en lugar de centrarse en unos pocos principios fundamentales.
+
+Su principal asesor político, James Carville, tuvo que hacer frente a estas complejidades. Un día, mientras se esforzaba por conservar su objetivo, escribió tres frases en una pizarra para que las leyeran todos los trabajadores de la campaña. Una de las frases de esa lista improvisada era: «Es la economía, idiota». Este mensaje se convertiría en la esencia del éxito de la campaña de Clinton.
+
+El término idiota se añadió en plan mofa para los propios colaboradores de la campaña, recordándoles que no se descentraran de lo importante. «Era sencillo y modesto--explicó Carville--. Intenté decir algo así como "No seamos demasiado listos en este punto, no vayamos pensando que somos muy inteligentes, limitémonos a recordar lo básico"»[5](part0015.html#c001_fn05).
+
+La necesidad de centrarse llegó hasta el propio Clinton, tal vez especialmente a él. En una ocasión, estaba frustrado porque le habían sugerido que dejase de hablar de equilibrio presupuestario pese al hecho de que Ross Perot, el tercer candidato a la presidencia en 1992, estaba consiguiendo una atención positiva precisamente por su postura sobre este aspecto. Clinton dijo: «Llevo dos años hablando de estos temas, ¿por qué voy a dejarlo ahora que ha llegado Perot?». Sus asesores tuvieron que responderle: «Necesitamos racionar los mensajes. Si dice tres cosas, no está diciendo nada».
+
+«Es la economía, idiota» fue la entradilla del reportaje de Clinton y fue buena porque en 1992 la economía estadounidense estaba atascada en una recesión. Claro que si «es la economía, idiota» es la entradilla, la necesidad de un presupuesto equilibrado no puede serlo también. Carville tenía que evitar que Clinton enterrase la entradilla.
+
+### 4. Parálisis decisoria
+
+¿Por qué cuesta tanto priorizar? En términos abstractos no parece tan difícil dar prioridad a los objetivos importantes por encima de otros menos importantes, o los objetivos que son críticos por encima de los que simplemente son beneficiosos.
+
+Pero, ¿y si no sabemos distinguir entre lo crítico y lo beneficioso? A veces no es tan obvio. Muy a menudo tenemos que tomar decisiones entre dos cosas desconocidas y este tipo de complejidad puede volverse paralizante. De hecho, los psicólogos han descubierto que demasiada complejidad e incertidumbre pueden arrastrar a una persona a tomar decisiones irracionales.
+
+En 1954, el economista L. J. Savage describió lo que, en su opinión, era una regla fundamental en todo proceso decisorio, que bautizó como el principio de lo seguro[6](part0015.html#c001_fn06). Lo ilustraba con el siguiente ejemplo: un empresario está considerando comprarse un terreno. Pronto va a haber elecciones generales y opina que el resultado puede ser relevant

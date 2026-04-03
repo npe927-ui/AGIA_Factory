@@ -1,0 +1,20 @@
+{
+  "name": "@saas-factory/agents-core",
+  "version": "2.0.0",
+  "description": "Agentes core del SaaS Factory — Setter, Closer, Emailer con Claude API + memoria Supabase",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "cli": "node cli.js",
+    "test": "node index.js --test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.4.7"
+  },
+  "keywords": ["saas-factory", "agents", "claude", "setter", "closer", "emailer"],
+  "author": "SaaS Factory",
+  "license": "ISC"
+}

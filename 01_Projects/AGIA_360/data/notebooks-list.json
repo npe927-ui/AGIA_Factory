@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "050d1787-80ce-461f-9335-a06f3ea71156",
+    "title": "Lua IA - Manager Director Agentes Nacho",
+    "source_count": 41,
+    "url": "https://notebooklm.google.com/notebook/050d1787-80ce-461f-9335-a06f3ea71156",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-24T17:14:47Z",
+    "modified_at": "2026-02-26T21:06:01Z"
+  },
+  {
+    "id": "ec2015cc-0199-436d-8dcb-b55bce5fa2f3",
+    "title": "",
+    "source_count": 0,
+    "url": "https://notebooklm.google.com/notebook/ec2015cc-0199-436d-8dcb-b55bce5fa2f3",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-24T17:52:47Z",
+    "modified_at": "2026-02-24T18:17:37Z"
+  },
+  {
+    "id": "b87b1511-a580-4fb4-9b5a-a5604c7a8b7d",
+    "title": "El Arte de las Preguntas Poderosas",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/b87b1511-a580-4fb4-9b5a-a5604c7a8b7d",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-09T06:34:40Z",
+    "modified_at": "2026-02-24T17:13:12Z"
+  },
+  {
+    "id": "ba1ee823-2f87-4305-9913-67a2dadcfcd1",
+    "title": "Crea Tu Segundo Cerebro: El Método CODE",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/ba1ee823-2f87-4305-9913-67a2dadcfcd1",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-14T21:24:37Z",
+    "modified_at": "2026-02-24T17:13:08Z"
+  },
+  {
+    "id": "5aeffce4-c178-45a1-a4d3-e5aa14352e5b",
+    "title": "Pensar Rápido, Pensar Despacio",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/5aeffce4-c178-45a1-a4d3-e5aa14352e5b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-10T21:56:46Z",
+    "modified_at": "2026-02-24T17:13:02Z"
+  },
+  {
+    "id": "6ec047aa-6587-4d34-afae-fce9717b4338",
+    "title": "Seis sombreros para pensar de Edward de Bono",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/6ec047aa-6587-4d34-afae-fce9717b4338",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-22T15:47:58Z",
+    "modified_at": "2026-02-24T17:12:58Z"
+  },
+  {
+    "id": "259e3812-f96e-4775-8da2-2bba429a552b",
+    "title": "Neuromarketing: Influencia en el Cerebro Antiguo",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/259e3812-f96e-4775-8da2-2bba429a552b",
+    "ownership": "owned",
+    "is_shared": true,
+    "created_at": "2025-10-12T12:38:26Z",
+    "modified_at": "2026-02-24T16:23:43Z"
+  },
+  {
+    "id": "8563c328-fe97-4fa3-94cd-1a2bd640fc5b",
+    "title": "Vance Packard: Las formas ocultas de la propaganda",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/8563c328-fe97-4fa3-94cd-1a2bd640fc5b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-19T06:58:03Z",
+    "modified_at": "2026-02-24T16:21:35Z"
+  },
+  {
+    "id": "2997577a-a9f8-4194-93d5-bee9d457d480",
+    "title": "Guía Maestra de Cold Email: Estrategias, Plantillas y Entregabilidad",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/2997577a-a9f8-4194-93d5-bee9d457d480",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-19T15:00:53Z",
+    "modified_at": "2026-02-24T16:21:34Z"
+  },
+  {
+    "id": "41418c50-cd7a-40e1-a344-e9a7ee3b64db",
+    "title": "Configuración de SaaS Factory en Antigravity y GitHub",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/41418c50-cd7a-40e1-a344-e9a7ee3b64db",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-19T15:23:39Z",
+    "modified_at": "2026-02-24T16:21:32Z"
+  },
+  {
+    "id": "b340445d-abc8-48c2-a209-6639b0150e9a",
+    "title": "Guiones de Podcast: Estrategias de Venta y Copywriting",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/b340445d-abc8-48c2-a209-6639b0150e9a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-26T20:59:05Z",
+    "modified_at": "2026-02-24T15:42:38Z"
+  },
+  {
+    "id": "d42f35a1-ff35-4f49-b5a8-b4d57fa758bf",
+    "title": "La Guía de Supervivencia del Cerrador",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/d42f35a1-ff35-4f49-b5a8-b4d57fa758bf",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-27T05:48:13Z",
+    "modified_at": "2026-02-24T15:42:30Z"
+  },
+  {
+    "id": "d62ed57e-1163-413e-b4ef-8702eb530965",
+    "title": "Iván Orange - Negocio del EMKD",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/d62ed57e-1163-413e-b4ef-8702eb530965",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-29T14:03:25Z",
+    "modified_at": "2026-02-24T15:42:24Z"
+  },
+  {
+    "id": "5d8b3f49-4101-43de-9d18-ae43759812db",
+    "title": "El Negocio del Email Diario",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/5d8b3f49-4101-43de-9d18-ae43759812db",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-10T09:33:31Z",
+    "modified_at": "2026-02-24T15:42:18Z"
+  },
+  {
+    "id": "2e89fa02-f4f2-4340-9776-d6d83ef50e13",
+    "title": "Aplicación de Sesgos Cognitivos a Textos de Venta",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/2e89fa02-f4f2-4340-9776-d6d83ef50e13",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-08T21:09:01Z",
+    "modified_at": "2026-02-24T15:42:13Z"
+  },
+  {
+    "id": "feb0dbfc-ed2c-459f-a30e-147546003400",
+    "title": "El Tao del Email Marketing ",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/feb0dbfc-ed2c-459f-a30e-147546003400",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-12T05:45:18Z",
+    "modified_at": "2026-02-24T15:42:07Z"
+  },
+  {
+    "id": "5d8389a7-1da5-4708-9765-2f0722e1abcc",
+    "title": "Método Vazkosky: El Arte del Copywriting Persuasivo",
+    "source_count": 7,
+    "url": "https://notebooklm.google.com/notebook/5d8389a7-1da5-4708-9765-2f0722e1abcc",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-10T21:57:33Z",
+    "modified_at": "2026-02-24T15:41:59Z"
+  },
+  {
+    "id": "e8d6d046-9f9e-4469-a884-9818bd12bf04",
+    "title": "Venta Diferenciada por Género",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/e8d6d046-9f9e-4469-a884-9818bd12bf04",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-15T10:29:04Z",
+    "modified_at": "2026-02-24T15:41:55Z"
+  },
+  {
+    "id": "660420a5-99e1-4e59-895e-b2b085dbfea7",
+    "title": "Reglas Esenciales del Email Marketing",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/660420a5-99e1-4e59-895e-b2b085dbfea7",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-17T13:24:57Z",
+    "modified_at": "2026-02-24T15:41:48Z"
+  },
+  {
+    "id": "2b6f197a-2339-4303-88e2-8a3a3658df1a",
+    "title": "La Psicología Oculta del Valor y el Precio",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/2b6f197a-2339-4303-88e2-8a3a3658df1a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-19T08:24:38Z",
+    "modified_at": "2026-02-24T15:41:42Z"
+  },
+  {
+    "id": "da1cf651-fc3f-4a46-b10b-4f9f865be99d",
+    "title": "La Influencia Subliminal en la Vida",
+    "source_count": 8,
+    "url": "https://notebooklm.google.com/notebook/da1cf651-fc3f-4a46-b10b-4f9f865be99d",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-16T20:43:29Z",
+    "modified_at": "2026-02-24T15:41:31Z"
+  },
+  {
+    "id": "c256f6a6-73c7-4265-bb30-4d7214ea00bd",
+    "title": "Cómo Crear Publicidad Que Venda",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/c256f6a6-73c7-4265-bb30-4d7214ea00bd",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-22T20:20:31Z",
+    "modified_at": "2026-02-24T15:41:26Z"
+  },
+  {
+    "id": "656894b9-19c5-446a-9096-eb968813f437",
+    "title": "Copywriting Para Atrevidos",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/656894b9-19c5-446a-9096-eb968813f437",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-22T20:50:46Z",
+    "modified_at": "2026-02-24T15:41:16Z"
+  },
+  {
+    "id": "3d650753-0d33-422e-9ac9-3a0f721c9097",
+    "title": "Así Se Manipula al Consumidor",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/3d650753-0d33-422e-9ac9-3a0f721c9097",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-29T14:30:47Z",
+    "modified_at": "2026-02-24T15:41:10Z"
+  },
+  {
+    "id": "29436d40-107d-464a-b616-4ae8c06157c1",
+    "title": "La Persuasión y el Arte de Vender",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/29436d40-107d-464a-b616-4ae8c06157c1",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-29T22:03:09Z",
+    "modified_at": "2026-02-24T15:41:04Z"
+  },
+  {
+    "id": "ff864f0a-3827-4259-8a89-3bd45161bbfb",
+    "title": "La Marca Sensorial: Construyendo Marcas Poderosas",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/ff864f0a-3827-4259-8a89-3bd45161bbfb",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T06:51:10Z",
+    "modified_at": "2026-02-24T15:40:58Z"
+  },
+  {
+    "id": "8643d29e-02c9-4c28-aa3a-0e4e2976886a",
+    "title": "Anotaciones Privadas de David Ogilvy",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/8643d29e-02c9-4c28-aa3a-0e4e2976886a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T14:37:37Z",
+    "modified_at": "2026-02-24T15:40:51Z"
+  },
+  {
+    "id": "39ac8f05-c5ed-431b-a7a8-089ccd9be666",
+    "title": "Cómo Piensan Los Consumidores",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/39ac8f05-c5ed-431b-a7a8-089ccd9be666",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T14:38:27Z",
+    "modified_at": "2026-02-24T15:40:44Z"
+  },
+  {
+    "id": "0ec1f0b4-1acc-405a-9bc4-db5622c0567b",
+    "title": "Método Vàzlosky: Copywriting y Psicología de Ventas",
+    "source_count": 5,
+    "url": "https://notebooklm.google.com/notebook/0ec1f0b4-1acc-405a-9bc4-db5622c0567b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-26T09:57:05Z",
+    "modified_at": "2026-02-24T15:40:37Z"
+  },
+  {
+    "id": "b108979f-cd69-4612-8206-fe9706503683",
+    "title": "Maestría en Email Marketing y Anti Afiliado",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/b108979f-cd69-4612-8206-fe9706503683",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-06T06:53:36Z",
+    "modified_at": "2026-02-24T15:40:05Z"
+  },
+  {
+    "id": "ef836ee1-57b1-48ac-affd-ff60ff48c1d5",
+    "title": "Lógica, Dialéctica y Retórica en Aristóteles",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/ef836ee1-57b1-48ac-affd-ff60ff48c1d5",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-18T15:39:11Z",
+    "modified_at": "2026-02-24T15:39:59Z"
+  },
+  {
+    "id": "5625a1ad-2257-407d-a3cf-4fa5f5e7a135",
+    "title": "Publicidad Creativa: Introducción y Práctica",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/5625a1ad-2257-407d-a3cf-4fa5f5e7a135",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-19T11:08:26Z",
+    "modified_at": "2026-02-24T15:39:53Z"
+  },
+  {
+    "id": "e17c9955-a3d1-495c-918d-db87530435f0",
+    "title": "Sesgos Cognitivos y Decisión Imparcial",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/e17c9955-a3d1-495c-918d-db87530435f0",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-21T22:34:37Z",
+    "modified_at": "2026-02-24T15:39:44Z"
+  },
+  {
+    "id": "42d4e9a8-88f7-4ca3-a43b-bd086d82c22a",
+    "title": "El Kit Definitivo del Copywriter A-List",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/42d4e9a8-88f7-4ca3-a43b-bd086d82c22a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-23T15:00:13Z",
+    "modified_at": "2026-02-24T15:39:39Z"
+  },
+  {
+    "id": "5cb9cae1-3a72-4e78-b670-3a3cf823390b",
+    "title": "Elige Tu Mercado: La Decisión Fundamental",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/5cb9cae1-3a72-4e78-b670-3a3cf823390b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-19T11:15:10Z",
+    "modified_at": "2026-02-24T15:39:33Z"
+  },
+  {
+    "id": "c192282b-5e6b-43c9-92bc-85376d7f0eab",
+    "title": "The Gary Bencivenga 100 Seminar",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/c192282b-5e6b-43c9-92bc-85376d7f0eab",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-02T10:51:26Z",
+    "modified_at": "2026-02-24T15:39:26Z"
+  },
+  {
+    "id": "c50e4c5c-490e-4e8a-9ae7-2ed8ca2d2e56",
+    "title": "Storytelling Pro 2025",
+    "source_count": 43,
+    "url": "https://notebooklm.google.com/notebook/c50e4c5c-490e-4e8a-9ae7-2ed8ca2d2e56",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-03T07:04:49Z",
+    "modified_at": "2026-02-24T15:39:11Z"
+  },
+  {
+    "id": "2ec8631e-adc2-4586-9e1e-61819e0e7609",
+    "title": "Secretos y Principios del Éxito en Ventas",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/2ec8631e-adc2-4586-9e1e-61819e0e7609",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-26T21:25:36Z",
+    "modified_at": "2026-02-24T15:39:06Z"
+  },
+  {
+    "id": "9d6d0925-ba0a-4ad3-89b0-5b851f758c87",
+    "title": "Neurocopywriting: Ciencia y Estrategia de Textos Persuasivos",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/9d6d0925-ba0a-4ad3-89b0-5b851f758c87",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T09:19:14Z",
+    "modified_at": "2026-02-24T15:38:54Z"
+  },
+  {
+    "id": "50903e73-51b5-4120-b978-94b11af109d8",
+    "title": "El Cerebro Emocional: Neurociencia de las Emociones y la Memoria",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/50903e73-51b5-4120-b978-94b11af109d8",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-22T07:28:50Z",
+    "modified_at": "2026-02-24T15:38:45Z"
+  },
+  {
+    "id": "54e5e206-c671-45f4-b1d2-86f5e9f219f0",
+    "title": "Storytelling: Autoconocimiento y Conexión Emocional",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/54e5e206-c671-45f4-b1d2-86f5e9f219f0",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T13:24:04Z",
+    "modified_at": "2026-02-24T15:38:39Z"
+  },
+  {
+    "id": "17b48e29-3d42-40ce-8491-a85c1c88834c",
+    "title": "Secretos Psicológicos de la Publicidad Efectiva",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/17b48e29-3d42-40ce-8491-a85c1c88834c",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-10T21:53:40Z",
+    "modified_at": "2026-02-24T15:38:34Z"
+  },
+  {
+    "id": "c54c07c6-8aeb-41e9-af6e-54322810b0ee",
+    "title": "Ventas 101: Estrategias y Habilidades del Profesional de Éxito",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/c54c07c6-8aeb-41e9-af6e-54322810b0ee",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-19T12:21:01Z",
+    "modified_at": "2026-02-24T15:38:20Z"
+  },
+  {
+    "id": "1cea9bda-93a3-418f-abc2-84ad985cd3c7",
+    "title": "Guía Estratégica de Cold Emailing: Cumplimiento, Entrega y Resultados",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/1cea9bda-93a3-418f-abc2-84ad985cd3c7",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-20T07:00:17Z",
+    "modified_at": "2026-02-24T15:38:14Z"
+  },
+  {
+    "id": "f0153e7b-1023-4c82-b443-371390d6e062",
+    "title": "Neurociencia y Persuasión en la Comunicación Digital",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/f0153e7b-1023-4c82-b443-371390d6e062",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-26T07:00:05Z",
+    "modified_at": "2026-02-24T15:38:06Z"
+  },
+  {
+    "id": "2c6f4e66-15cb-4b84-9a71-8da161edef95",
+    "title": "Guía Maestra para un Pitch de Ventas Efectivo",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/2c6f4e66-15cb-4b84-9a71-8da161edef95",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-28T13:00:57Z",
+    "modified_at": "2026-02-24T15:38:01Z"
+  },
+  {
+    "id": "b778730d-3cf0-4b00-a845-55f15a768627",
+    "title": "Como prospectar y vender",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/b778730d-3cf0-4b00-a845-55f15a768627",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-19T22:16:18Z",
+    "modified_at": "2026-02-24T15:37:55Z"
+  },
+  {
+    "id": "cd917283-4bc3-4c71-a43a-c5afa8c6d6fa",
+    "title": "Vender Sin Vender: Un Informe Detallado",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/cd917283-4bc3-4c71-a43a-c5afa8c6d6fa",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-15T10:40:06Z",
+    "modified_at": "2026-02-24T15:37:50Z"
+  },
+  {
+    "id": "4b6a0870-1b6c-427a-a858-b2f4e30f83b5",
+    "title": "Prompts de Copywriting con IA",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/4b6a0870-1b6c-427a-a858-b2f4e30f83b5",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-16T05:41:59Z",
+    "modified_at": "2026-02-24T15:37:44Z"
+  },
+  {
+    "id": "8176065b-3881-4f2d-8aab-729a37efbc09",
+    "title": "Psicología Oscura y el Arte de Reprogramar la Mente",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/8176065b-3881-4f2d-8aab-729a37efbc09",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-30T11:33:42Z",
+    "modified_at": "2026-02-24T15:37:37Z"
+  },
+  {
+    "id": "af132c79-b5b2-4f77-94b6-a2154c30189b",
+    "title": "Neurociencia de la Escritura: El Arte de Ordenar la Mente",
+    "source_count": 0,
+    "url": "https://notebooklm.google.com/notebook/af132c79-b5b2-4f77-94b6-a2154c30189b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-01T14:04:16Z",
+    "modified_at": "2026-02-24T15:37:34Z"
+  },
+  {
+    "id": "8dade7eb-1df0-43a4-b9f6-9dc213cd32c3",
+    "title": "Guía Estratégica para el PageRank y Posicionamiento SEO de Calidad",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/8dade7eb-1df0-43a4-b9f6-9dc213cd32c3",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-18T09:06:41Z",
+    "modified_at": "2026-02-18T09:06:50Z"
+  },
+  {
+    "id": "5d5cd772-2a6d-4065-ba2d-70df599a30df",
+    "title": "Páginas de captación o Landing pages ",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/5d5cd772-2a6d-4065-ba2d-70df599a30df",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-16T06:30:57Z",
+    "modified_at": "2026-02-16T06:31:31Z"
+  },
+  {
+    "id": "183b5dd1-17f9-4762-b157-394c1b02179f",
+    "title": "Prompting para Agentes IA",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/183b5dd1-17f9-4762-b157-394c1b02179f",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-02-15T10:15:23Z",
+    "modified_at": "2026-02-15T18:42:25Z"
+  },
+  {
+    "id": "32715997-e16a-47ea-a396-7afa83fef032",
+    "title": "El Auge de OpenClaw y Agentes Inteligentes Autónomos",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/32715997-e16a-47ea-a396-7afa83fef032",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-30T22:24:50Z",
+    "modified_at": "2026-01-30T22:26:15Z"
+  },
+  {
+    "id": "89e8f3aa-988f-442b-94dc-3be5516a722b",
+    "title": "psicologia oscura",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/89e8f3aa-988f-442b-94dc-3be5516a722b",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-30T11:37:21Z",
+    "modified_at": "2026-01-30T11:39:58Z"
+  },
+  {
+    "id": "ff329395-c275-41fb-b4ba-fcaf8cf982f5",
+    "title": "[GOOGLE DOCS] Guía “Cerebros Digitales” (NotebookLM + Gemini)",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/ff329395-c275-41fb-b4ba-fcaf8cf982f5",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-29T22:24:05Z",
+    "modified_at": "2026-01-29T22:24:14Z"
+  },
+  {
+    "id": "7cc6b66c-8503-48f0-9a6b-ea7b7dae1a13",
+    "title": "57 Grandes Ideas para Transformar tu Negocio y Vida",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/7cc6b66c-8503-48f0-9a6b-ea7b7dae1a13",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-09-08T09:19:50Z",
+    "modified_at": "2026-01-29T22:01:13Z"
+  },
+  {
+    "id": "036609b8-7beb-41c3-b000-09e0c21794a4",
+    "title": "Portal de Acceso a Cuentas de Google",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/036609b8-7beb-41c3-b000-09e0c21794a4",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-29T21:58:59Z",
+    "modified_at": "2026-01-29T21:59:05Z"
+  },
+  {
+    "id": "0f5bd244-e320-4676-aa1b-34458be450f2",
+    "title": "AIlink 90 - videos ",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/0f5bd244-e320-4676-aa1b-34458be450f2",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-21T22:22:07Z",
+    "modified_at": "2026-01-29T21:48:01Z"
+  },
+  {
+    "id": "cf9d4520-b872-44a7-99e1-6426b1807f6c",
+    "title": "Dominio del Meta-Prompting y Estrategias de Optimización para IA",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/cf9d4520-b872-44a7-99e1-6426b1807f6c",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-29T13:38:09Z",
+    "modified_at": "2026-01-29T21:46:57Z"
+  },
+  {
+    "id": "2db8353c-050d-44f4-8e59-a5d6f0e044cd",
+    "title": "El Método Maestro de Ingeniería de Prompts de Google e IBM",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/2db8353c-050d-44f4-8e59-a5d6f0e044cd",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-29T13:27:46Z",
+    "modified_at": "2026-01-29T13:27:51Z"
+  },
+  {
+    "id": "7cd51ff6-8d80-4405-8a94-36fdff718656",
+    "title": "Big Scholl - Dominio de ChatGPT: Prompts, Projects y GPTs",
+    "source_count": 3,
+    "url": "https://notebooklm.google.com/notebook/7cd51ff6-8d80-4405-8a94-36fdff718656",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-22T21:29:24Z",
+    "modified_at": "2026-01-27T21:35:27Z"
+  },
+  {
+    "id": "91b500f2-1719-4a6b-9ff8-7b036f4eb6e3",
+    "title": "Radiología e Inteligencia Artificial: El Futuro de la Salud Digital",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/91b500f2-1719-4a6b-9ff8-7b036f4eb6e3",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-23T13:58:58Z",
+    "modified_at": "2026-01-27T21:22:15Z"
+  },
+  {
+    "id": "47a56263-0f27-4cd5-897a-e9aa6a15e7aa",
+    "title": "Guía de Creadores Web y Aplicaciones con IA 2026",
+    "source_count": 30,
+    "url": "https://notebooklm.google.com/notebook/47a56263-0f27-4cd5-897a-e9aa6a15e7aa",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-21T22:04:25Z",
+    "modified_at": "2026-01-21T22:21:58Z"
+  },
+  {
+    "id": "b6978067-cddd-42e8-a97b-67968a1f8f03",
+    "title": "Saas Factory - Fundamentos IA",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/b6978067-cddd-42e8-a97b-67968a1f8f03",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-20T21:16:16Z",
+    "modified_at": "2026-01-21T21:07:12Z"
+  },
+  {
+    "id": "ea84bee3-8216-4ac7-bbe5-a4f009636431",
+    "title": "Prompt version nextgen YT",
+    "source_count": 20,
+    "url": "https://notebooklm.google.com/notebook/ea84bee3-8216-4ac7-bbe5-a4f009636431",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-19T08:46:39Z",
+    "modified_at": "2026-01-19T22:16:07Z"
+  },
+  {
+    "id": "e4ddc6f8-ada2-4aaa-b9dc-c3ff7c325bf8",
+    "title": "Earnings Reports For Top 50 Corporations",
+    "source_count": 267,
+    "url": "https://notebooklm.google.com/notebook/e4ddc6f8-ada2-4aaa-b9dc-c3ff7c325bf8",
+    "ownership": "shared_with_me",
+    "is_shared": true,
+    "created_at": "2025-04-17T21:34:33Z",
+    "modified_at": "2026-01-19T22:13:22Z"
+  },
+  {
+    "id": "f7607d7a-584c-4f35-96fc-f6815c573a6c",
+    "title": "Introduction to NotebookLM",
+    "source_count": 27,
+    "url": "https://notebooklm.google.com/notebook/f7607d7a-584c-4f35-96fc-f6815c573a6c",
+    "ownership": "shared_with_me",
+    "is_shared": true,
+    "created_at": "2023-12-06T00:03:23Z",
+    "modified_at": "2026-01-19T22:12:57Z"
+  },
+  {
+    "id": "4145e666-4694-4e1b-9732-6e950769234c",
+    "title": "Guía Maestra de Prompt Engineering y Comunicación con IA",
+    "source_count": 4,
+    "url": "https://notebooklm.google.com/notebook/4145e666-4694-4e1b-9732-6e950769234c",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-14T10:29:57Z",
+    "modified_at": "2026-01-19T08:46:32Z"
+  },
+  {
+    "id": "727dd72c-21b7-426f-9051-8795965e12c0",
+    "title": "Equito: Inversión Inmobiliaria Tokenizada y Rentas Pasivas",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/727dd72c-21b7-426f-9051-8795965e12c0",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-15T16:18:15Z",
+    "modified_at": "2026-01-15T16:18:20Z"
+  },
+  {
+    "id": "c7a57ab7-bace-4592-9ff7-32bfaef88f90",
+    "title": "Big School - Jornada 1 - 1/26",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/c7a57ab7-bace-4592-9ff7-32bfaef88f90",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-15T09:11:32Z",
+    "modified_at": "2026-01-15T09:11:44Z"
+  },
+  {
+    "id": "62179a78-ce36-42b4-8835-088c465a48cc",
+    "title": "Construye y Vende Apps con IA en Minutos! - Curso Completo - Daniel Carreon",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/62179a78-ce36-42b4-8835-088c465a48cc",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-12T09:45:13Z",
+    "modified_at": "2026-01-13T11:16:45Z"
+  },
+  {
+    "id": "55c9384a-81d7-4f1c-ab3f-6c8bc64530b5",
+    "title": "Daniel Carreón",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/55c9384a-81d7-4f1c-ab3f-6c8bc64530b5",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2026-01-12T09:46:53Z",
+    "modified_at": "2026-01-12T09:47:02Z"
+  },
+  {
+    "id": "5d8e4572-ccf5-48aa-9e87-e567fc8ac73e",
+    "title": "Estamos Ciegos",
+    "source_count": 2,
+    "url": "https://notebooklm.google.com/notebook/5d8e4572-ccf5-48aa-9e87-e567fc8ac73e",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-27T08:37:53Z",
+    "modified_at": "2025-12-31T23:26:42Z"
+  },
+  {
+    "id": "913f8c98-80ff-45c9-8856-de854a143274",
+    "title": "Astrología y Cronobiología: Del Mito a la Ciencia",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/913f8c98-80ff-45c9-8856-de854a143274",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-21T10:26:14Z",
+    "modified_at": "2025-12-31T23:24:36Z"
+  },
+  {
+    "id": "a37406e6-3da5-4fd2-80b0-f58b7ff79f86",
+    "title": "",
+    "source_count": 0,
+    "url": "https://notebooklm.google.com/notebook/a37406e6-3da5-4fd2-80b0-f58b7ff79f86",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-30T07:11:27Z",
+    "modified_at": "2025-12-30T07:11:27Z"
+  },
+  {
+    "id": "dad9ce64-ceee-40a5-9427-59f48466441e",
+    "title": "El Cerebro Emocional: Mecanismos de la Mente Inconsciente",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/dad9ce64-ceee-40a5-9427-59f48466441e",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-22T15:48:47Z",
+    "modified_at": "2025-12-22T15:49:40Z"
+  },
+  {
+    "id": "eb1f225f-b3e0-4b4e-9383-ac34f3f2858a",
+    "title": "Los relojes de tu vida: Cronobiología y bienestar saludable",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/eb1f225f-b3e0-4b4e-9383-ac34f3f2858a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-21T10:31:40Z",
+    "modified_at": "2025-12-21T10:32:05Z"
+  },
+  {
+    "id": "e78ed103-e0d2-430c-b3a8-70d2ab402b45",
+    "title": "Cómo Crear Riqueza Invirtiendo en Bienes Raíces",
+    "source_count": 3,
+    "url": "https://notebooklm.google.com/notebook/e78ed103-e0d2-430c-b3a8-70d2ab402b45",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-08T22:24:49Z",
+    "modified_at": "2025-12-09T22:55:24Z"
+  },
+  {
+    "id": "25fbd2ad-a065-4160-8786-a273c7c6f324",
+    "title": "El Intestino Feliz: Guardián del Ánimo",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/25fbd2ad-a065-4160-8786-a273c7c6f324",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-03T20:44:16Z",
+    "modified_at": "2025-12-09T22:54:16Z"
+  },
+  {
+    "id": "2d10d0bd-dd29-4e2b-8de9-94bddfffa171",
+    "title": "La Microbiota Estresada: Eje Intestino-Cerebro y el Bienestar",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/2d10d0bd-dd29-4e2b-8de9-94bddfffa171",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-12-03T20:43:07Z",
+    "modified_at": "2025-12-03T20:43:07Z"
+  },
+  {
+    "id": "467530ba-08b4-40d8-b319-44e64b0ae270",
+    "title": "Conserve Tu Cerebro Vivo: Neurobics y Aptitud Mental",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/467530ba-08b4-40d8-b319-44e64b0ae270",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-25T20:49:21Z",
+    "modified_at": "2025-12-02T12:53:08Z"
+  },
+  {
+    "id": "00919004-ba77-4a79-8f2a-70caffbee5fd",
+    "title": "Conserve Tu Cerebro Vivo: Neurobics y Aptitud Mental",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/00919004-ba77-4a79-8f2a-70caffbee5fd",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-25T20:46:51Z",
+    "modified_at": "2025-11-25T20:46:51Z"
+  },
+  {
+    "id": "84c1e8b0-4486-4853-b6d4-d22e71c1ef89",
+    "title": "Cómo Caer Bien en 90 Segundos",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/84c1e8b0-4486-4853-b6d4-d22e71c1ef89",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-05T06:57:22Z",
+    "modified_at": "2025-11-25T18:00:33Z"
+  },
+  {
+    "id": "76be6169-5ef1-47b1-9347-7d24d9431e6a",
+    "title": "Neurogastronomía: El Cerebro Crea el Sabor",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/76be6169-5ef1-47b1-9347-7d24d9431e6a",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-23T15:51:56Z",
+    "modified_at": "2025-11-23T15:52:04Z"
+  },
+  {
+    "id": "99f13b3d-a8ee-4c72-9a4a-f28e39994ccc",
+    "title": "Ciencia Multisensorial de la Comida Perfecta",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/99f13b3d-a8ee-4c72-9a4a-f28e39994ccc",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-23T09:52:00Z",
+    "modified_at": "2025-11-23T09:52:31Z"
+  },
+  {
+    "id": "ef2e9042-b325-4868-a87f-83271528907c",
+    "title": "Ciencia Multisensorial de la Comida Perfecta",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/ef2e9042-b325-4868-a87f-83271528907c",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-22T15:42:23Z",
+    "modified_at": "2025-11-22T15:42:56Z"
+  },
+  {
+    "id": "faaa3f8d-68ca-4d93-bbb2-a8e0ac1ec45d",
+    "title": "Recuerdos, Sueños, Pensamientos y el Inconsciente",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/faaa3f8d-68ca-4d93-bbb2-a8e0ac1ec45d",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-22T06:38:24Z",
+    "modified_at": "2025-11-22T06:38:57Z"
+  },
+  {
+    "id": "725626f9-eb51-4a77-a9ed-0e446a412bd3",
+    "title": "Pregunta: La Fórmula Online Contraintuitiva",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/725626f9-eb51-4a77-a9ed-0e446a412bd3",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-19T11:13:46Z",
+    "modified_at": "2025-11-19T11:13:46Z"
+  },
+  {
+    "id": "333feff3-9400-4b57-a7ff-36f2cd1a6c48",
+    "title": "El Libro del Sueño",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/333feff3-9400-4b57-a7ff-36f2cd1a6c48",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-01T13:06:20Z",
+    "modified_at": "2025-11-13T11:15:21Z"
+  },
+  {
+    "id": "1341e281-4be8-4698-9baa-b1504c763057",
+    "title": "Construcción y Análisis de Guiones",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/1341e281-4be8-4698-9baa-b1504c763057",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-11-12T10:01:17Z",
+    "modified_at": "2025-11-12T10:01:33Z"
+  },
+  {
+    "id": "6e2ea492-de2f-4542-89b0-287a21dc9e12",
+    "title": "Confesiones de un Publicista",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/6e2ea492-de2f-4542-89b0-287a21dc9e12",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T14:41:12Z",
+    "modified_at": "2025-11-01T13:02:07Z"
+  },
+  {
+    "id": "30bb63d1-cbde-4434-94a9-86d4ff39f20f",
+    "title": "Oxitocina: Confianza, Moralidad y Conducta Humana",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/30bb63d1-cbde-4434-94a9-86d4ff39f20f",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-30T14:39:12Z",
+    "modified_at": "2025-10-30T14:39:58Z"
+  },
+  {
+    "id": "c7cafc24-ee73-45c4-9be9-162601344130",
+    "title": "Escribir en la Era de la IA",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/c7cafc24-ee73-45c4-9be9-162601344130",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-20T18:39:15Z",
+    "modified_at": "2025-10-20T18:39:35Z"
+  },
+  {
+    "id": "7e2d82ed-df4f-40c1-94db-3daf6eedb171",
+    "title": "Guía Definitiva para Narración Efectiva",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/7e2d82ed-df4f-40c1-94db-3daf6eedb171",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-17T06:57:30Z",
+    "modified_at": "2025-10-17T06:57:35Z"
+  },
+  {
+    "id": "a0196625-fafc-4483-8683-a21c177a2921",
+    "title": "Enseñanza de Inteligencia Artificial en Educación Primaria",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/a0196625-fafc-4483-8683-a21c177a2921",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-14T21:10:58Z",
+    "modified_at": "2025-10-14T21:10:59Z"
+  },
+  {
+    "id": "e5b520cd-d691-4da3-889a-d9d097c967fc",
+    "title": "La Ciencia de las Compras",
+    "source_count": 1,
+    "url": "https://notebooklm.google.com/notebook/e5b520cd-d691-4da3-889a-d9d097c967fc",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-14T20:53:01Z",
+    "modified_at": "2025-10-14T20:53:01Z"
+  },
+  {
+    "id": "3183d079-55c8-4061-ab61-495f26cb013e",
+    "title": "Cómo Hacer un Resumen Efectivo",
+    "source_count": 14,
+    "url": "https://notebooklm.google.com/notebook/3183d079-55c8-4061-ab61-495f26cb013e",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-14T19:18:33Z",
+    "modified_at": "2025-10-14T19:58:42Z"
+  },
+  {
+    "id": "30eab689-d52a-440d-b559-7350e66737f5",
+    "title": "La Ciencia Detrás de la Tipografía Emocional",
+    "source_count": 10,
+    "url": "https://notebooklm.google.com/notebook/30eab689-d52a-440d-b559-7350e66737f5",
+    "ownership": "owned",
+    "is_shared": false,
+    "created_at": "2025-10-13T06:48:32Z",
+    "modified_at": "2025-10-14T17:10:04Z"
+  }
+]

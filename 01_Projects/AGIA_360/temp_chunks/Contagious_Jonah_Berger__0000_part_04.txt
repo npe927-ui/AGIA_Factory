@@ -1,0 +1,635 @@
+rency, items like the Livestrong wristband provide insight into who people are and what they like. Even things that would otherwise be difficult to observe, like whether a person donates to a particular cause or prefers mysteries to historical fiction.
+
+But when publicly visible, these remnants facilitate imitation and provide chances for people to talk about related products or ideas.
+
+Take voting. It’s hard to get people to turn out to vote. They have to figure out where their polling stations are located, take the morning off from work, and stand in line, sometimes for hours, until they get the chance to cast their ballots. But these hurdles are compounded by the fact that voting is a private act. Unless you actually happen to see all the people who go to the polls, you have no idea how many other people decided voting was worth the effort. So there is not much social proof.
+
+But in the 1980s election officials came up with a nice way to make voting more observable: the “I Voted” sticker. Simple enough, but by creating behavioral residue, the sticker made the private act of voting much more public, even after people left the polling station. It provided a ready reminder that today is the day to vote, others are doing it, and you should too.
+
+—————
+
+Behavioral residue exists for all types of products and ideas. Tiffany, Victoria’s Secret, and a host of other retailers give customers disposable shopping bags to carry their purchases home. But because of the Social Currency associated with some of these retailers, many consumers reuse the bags rather than tossing them. They use the Victoria’s Secret bags to carry their gym clothes, toss their lunch into a Tiffany bag, or use Bloomingdale’s famous medium brown bag to carry papers around town. People even reuse bags from restaurants, discount stores, and other places that are not status symbols.
+
+Clothing retailer Lululemon takes this idea one step further. Rather than make paper bags that are relatively durable, it makes shopping bags that are hard to throw away. Made of sturdy plastic like reusable grocery bags, these bags are clearly meant to be reused. So people use them to carry groceries or do other errands. But along the way this behavioral residue helps provide social proof for the brand.
+
+Giveaways can also provide behavioral residue. Go to any conference, job fair, or large meeting where presenters have set up booths and you’ll be stunned by the amount of swag they give away. Mugs, pens, and T-shirts. Beverage cozies, stress balls, and ice scrapers. A couple of years ago the Wharton School even gave me a tie.
+
+But some of these giveaways provide better behavioral residue than others. Giving away a makeup carrying case is fine, but women usually apply makeup in the privacy of their bathrooms, so it doesn’t make the brand that observable. Coffee mugs and gym bags might be used less frequently, but their use is more publicly visible.
+
+People posting their opinions and behavior online also provide behavioral residue. Reviews, blogs, posts, or other sorts of content all leave evidence that others can find later. For this reason, many businesses and organizations encourage people to Like them—or their content—on Facebook. By simply clicking the Like button, people not only show their affinity with a product, idea, or organization, they also help spread the word that something is good or worth paying attention to. ABC News found that installing these buttons boosted its Facebook traffic by 250 percent.
+
+Other sites push, or automatically post, what people do to their social networking pages. Music has always been a somewhat social activity, but Spotify takes this a step further. The system allows you to listen to whatever songs you like but also posts what you’re listening to on your Facebook page, making it easier for your friends to see what you like (and letting them know about Spotify). Many other websites do the same.
+
+But should we always try to make things public? Are there ever instances when making something public could be a bad idea?
+
+
+
+
+
+ANTI-DRUG COMMERCIALS?
+
+
+A sprightly, dark-haired teenager walks down the stairs of her apartment building. She’s wearing a pretty silver necklace and carrying a sweater in her hand. She could be on her way to work or to meet up with a friend for coffee. Suddenly a neighbor’s door opens and a voice whispers, “I got some good pot for you.”
+
+“No!” She scowls and hurries down the stairs.
+
+A fresh-faced kid is sitting outside. He is wearing a blue sweatshirt and sports a bowl haircut that used to be popular among boys. He appears deeply engrossed in a video game when a voice interrupts him. “Cocaine?” the voice asks. “No thanks,” the kid replies.
+
+A young man is standing against a wall chewing gum. “Yo, my man, want some ’ludes?” the voice inquires. “No way!” the man exclaims, glaring back.
+
+“Just Say No” is one of the most famous anti-drug campaigns of all time. Created by First Lady Nancy Reagan during her husband’s presidency, the campaign ran public service announcements as part of a national effort to discourage teens from recreational drug use in the 1980s and 1990s.
+
+The logic was simple. One way or another, kids are going to be asked if they want to use drugs. Whether by a friend, a stranger, or somebody else. And they needed to know how to say no. So the government spent millions of dollars on anti-drug public service announcements. It hoped that the messages would teach kids how to react in these situations and, as a result, decrease drug use.
+
+More recent campaigns have relied on the same idea. Between 1998 and 2004, Congress appropriated almost $1 billion for the National Youth Anti-Drug Media Campaign. The goal was to educate kids ages twelve to eighteen to enable them to reject drugs.
+
+Communications professor Bob Hornik wanted to see whether anti-drug ads were actually effective. So he collected data on the drug use of thousands of teens over the time the anti-drug ads ran. Whether teens had seen the ads and whether they had ever smoked marijuana. Then he looked at whether the public service announcements seemed to decrease marijuana use.
+
+They didn’t.
+
+In fact, the messages actually seemed to increase drug use. Kids aged twelve and a half to eighteen who saw the ads were actually more likely to smoke marijuana. Why?
+
+Because it made drug use more public.
+
+Think about observability and social proof. Before seeing the message, some kids might never have thought about taking drugs. Others might have considered it but have been wary about doing the wrong thing.
+
+But anti-drug ads often say two things simultaneously. They say that drugs are bad, but they also say that other people are doing them. And as we’ve discussed throughout this chapter, the more others seem to be doing something, the more likely people are to think that thing is right or normal and what they should be doing as well.
+
+Imagine you’re a fifteen-year-old who has never considered using drugs. You’re sitting at home watching cartoons one afternoon when a public service announcement comes on telling you about the dangers of drug use. Someone’s going to ask you if you want to try drugs and you need to be ready to say no. Or even worse, the cool kids are going to be the ones asking. But you shouldn’t say yes.
+
+You never see public service announcements for avoiding cutting off your hand with a saw or not getting hit by a bus, so if the government spent the time and money to tell you about drugs, a lot of your peers must be doing them, right? Some of them are apparently the coolest kids in school. And you had no idea!
+
+As Hornik said,
+
+Our basic hypothesis is that the more kids saw these ads, the more they came to believe that lots of other kids were using marijuana. And the more they came to believe that other kids were using marijuana, the more they became interested in using it themselves.
+
+As with many powerful tools, making things more public can have unintended consequences when not applied carefully. If you want to get people not to do something, don’t tell them that lots of their peers are doing it.
+
+Take the music industry. It thought it could stop illegal downloads by showing people how big the problem is. So the industry association’s website sternly warns people that “only 37 percent of music acquired by U.S. consumers . . . was paid for” and that in the past few years “approximately 30 billion songs were illegally downloaded.”
+
+But I’m not sure that message has the desired effect. If anything, it may have the opposite effect. Less than half of people are paying for their music? Wow. Seems like you’d have to be an idiot to pay for it then, right?
+
+Even in cases where most people are doing the right thing, talking about the minority who are doing the wrong thing can encourage people to give in to temptation.
+
+Rather than making the private public, preventing a behavior requires the opposite: making the public private. Making others’ behavior less observable.
+
+One way is to highlight what people should be doing instead. Psychologist Bob Cialdini and colleagues wanted to decrease the number of people who stole petrified wood from Arizona’s Petrified Forest National Park. So they posted signs around the park that tried different strategies. One asked people not to take the wood because “many past visitors have removed petrified wood from the Park, changing the natural state of the Petrified Forest.” But by providing social proof that others were stealing, the message had a perverse effect, almost doubling the number of people taking wood!
+
+Highlighting what people should do was much more effective. Over a different set of trails they tried a different sign that stated, “Please don’t remove the petrified wood from the Park, in order to preserve the natural state of the Petrified Forest.” By focusing on the positive effects of not taking the wood, rather than on what others were doing, the park service was able to reduce theft.
+
+—————
+
+It’s been said that when people are free to do as they please, they usually imitate one another. We look to others for information about what is right or good to do in a given situation, and this social proof shapes everything from the products we buy to the candidates we vote for.
+
+But as we discussed, the phrase “Monkey see, monkey do” captures more than just our tendency to follow others. If people can’t see what others are doing, they can’t imitate them. So to get our products and ideas to become popular we need to make them more publicly observable. For Apple this was as easy as flipping its logo. By cleverly leveraging moustaches, Movember drew huge attention and donations for men’s cancer research.
+
+So we need to be like Hotmail and Apple and design products that advertise themselves. We need to be like Lululemon and Livestrong and create behavioral residue, discernible evidence that sticks around even after people have used our product or engaged with our ideas. We need to make the private public. If something is built to show, it’s built to grow.
+
+
+
+* * *
+
+
+
+* Making the public private is particularly important for things that people may not have originally felt comfortable talking about. Take online dating. Many people have tried it, but it is still somewhat stigmatized in the culture at large. And part of this stigma is due to the fact that people are unaware that many people they know have tried it. Online dating is relatively private behavior, so to help it catch on, online dating companies need to make people more aware how many others are doing it. Similar issues pop up in other domains. The makers of Viagra coined the term “ED” (erectile dysfunction) to get people more comfortable talking about what was once a private issue. Many colleges started a “wear jeans if you’re gay” day, in part just to raise awareness and discussion for the LGBT community.
+
+
+
+
+
+5. Practical Value
+
+
+If you had to pick someone to make a viral video, Ken Craig probably wouldn’t be your first choice. Most viral videos are made by adolescents and watched by adolescents. Crazy tricks someone did on his motorcycle or cartoon characters edited to look as if they are dancing to rap songs. Things young people love.
+
+But Ken Craig is eighty-six years old. And the video that went viral? It’s about shucking corn.
+
+Ken was born on a farm in Oklahoma, one of five brothers and sisters. His family’s livelihood was built around growing cotton. They also kept a garden to grow things for the family to eat. And among those things was corn. Ken’s been eating corn since the 1920s. He’s eaten everything from corn casserole and corn chowder to corn fritters and corn salad. One of his favorite ways to eat corn is straight off the cob. Nice and fresh.
+
+But if you’ve ever eaten corn on the cob you know that there are two problems. In addition to kernels getting stuck in your teeth, there are those pesky threadlike strands (called corn silk) that always seem stuck to the corn. A couple of strong pulls and you can easily peel the husk off, but the silk seems to cling on for dear life. You can rub the corn, carefully pick at it with tweezers, or try almost anything else you like, but whatever you do there always seem to be a couple of wayward silk strands left over.
+
+And this is where Ken comes in.
+
+Like most eighty-six-year-olds, Ken’s not really into the Internet. He doesn’t have a blog, a channel on YouTube, or any sort of online presence. In fact, to this day he has made only one YouTube video. Ever.
+
+A couple of years ago, Ken’s daughter-in-law was over at his house making dinner. She had almost finished cooking the main dish, and when it got close to time to eat, she told him that the corn was ready to be shucked. Okay, Ken said, but let me show you a little trick.
+
+He took unshucked ears of corn and tossed them in a microwave. Four minutes an ear. Once they were done, he took a kitchen knife and cut a half inch or so off the bottom. Then he grabbed the husk at the top of the corn, gave it a quick couple of shakes, and out popped the ear of corn. Clean as a whistle. No silk.
+
+His daughter-in-law was so impressed she said they’d have to make a video to send to her daughter who was teaching English in Korea. So the next day she shot a clip of Ken in his kitchen, talking through his trick for clean ears of corn. To make it easier for her daughter to see, she posted it on YouTube. And along the way she sent the clip to a couple of friends.
+
+Well, those friends sent it to a couple of friends, who also sent it to a couple of friends. Soon Ken’s “Clean Ears Everytime” video took off. It collected more than 5 million views.
+
+But unlike most viral videos that skew toward young people, this one skewed in the opposite direction. Topping the charts of the videos viewed most by people above the age of fifty-five. In fact, the video might have spread even faster if more senior citizens were online.
+
+Why did people share this video?
+
+—————
+
+A couple of years ago I went hiking with my brother in the mountains of North Carolina. He was wrapping up a tough year of medical school, and I needed a break from work, so we met at Raleigh-Durham Airport and drove west. Past the Tar Heel blue of Chapel Hill, past the once tobacco-saturated city of Winston-Salem, and all the way to the Blue Ridge Mountains that hug the westernmost portion of the state. The next morning we woke up early, packed food for the day, and set out on a winding mountain ridge path that led to the top of a majestic plateau.
+
+The main reason people go hiking is to get away from it all. To escape from the hustle and bustle of the city and to immerse themselves in nature. No billboards, no traffic, no advertising, just you and nature.
+
+But that morning while we were hiking in the woods, we came across the most peculiar thing. As we rounded the bend on a downhill portion of the trail there was a group of hikers in front of us. We walked behind them for a couple of minutes, and being a curious guy, I happened to eavesdrop on their conversation. I thought they might be talking about the beautiful weather, or the long descent we had just covered.
+
+But they weren’t.
+
+They were talking about vacuum cleaners.
+
+Whether one particular model was really worth its premium price, and whether another model would do the job just as well.
+
+Vacuum cleaners? There were thousands of other things these hikers could have talked about. Where to stop for lunch, the rushing sixty-foot falls they had just passed, even politics. But vacuum cleaners?
+
+—————
+
+It’s not easy to explain Ken Craig’s viral corn video using the dimensions we’ve talked about so far in this book, but it’s even harder to explain the hikers chatting about vacuum cleaners. They weren’t talking about anything particularly remarkable, so Social Currency wasn’t playing much of a role. While there are lots of cues for vacuums in the home, or even in a city, there aren’t many Triggers for vacuum cleaners in the forest. Finally, while a clever campaign could figure out how to make vacuum cleaners more Emotional, the hikers were just having a basic conversation about features different vacuums offered. So what was driving them to talk?
+
+The answer is simple. People like to pass along practical, useful information. News others can use.
+
+In the context of Triggers or hidden bars like Please Don’t Tell, practical value may not seem like the sexiest or most exciting concept. Some might even say it’s obvious or intuitive. But that doesn’t mean that it’s not consequential. When writer and editor William F. Buckley Jr. was asked which single book he would take with him to a desert island, his reply was straightforward: “A book on shipbuilding.”
+
+Useful things are important.
+
+Further, as the stories of Ken’s corn and the vacuum-discussing hikers illustrate, people don’t just value practical information, they share it. Offering practical value helps make things contagious.
+
+—————
+
+People share practically valuable information to help others. Whether by saving a friend time or ensuring a colleague saves a couple of bucks next time he goes to the supermarket, useful information helps.
+
+In this way, sharing practically valuable content is like a modern-day barn raising. Barns are large and costly structures that are difficult for one family to pay for or to assemble by itself. So in the eighteenth and nineteenth centuries, communities would collectively build a barn for one of their members. People would get together, volunteer their time, and help their neighbor. Next time around, the barn would be built for someone else. You can think of it as an early version of the current prosocial ideal of “pay it forward.”
+
+Today, these direct opportunities to help others are fewer and farther between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of long driveways or high up in apartment buildings, often barely getting to know the person next door. Many people move away from their families for work or school, reducing face-to-face contact with our strongest social ties. Hired labor has taken the place of community barn raising.
+
+But sharing something useful with others is a quick and easy way to help them out. Even if we’re not in the same place. Parents can send their kids helpful advice even if they are hundreds of miles away. Passing along useful things also strengthens social bonds. If we know our friends are into cooking, sending them a new recipe we found brings us closer together. Our friends see we know and care about them, we feel good for being helpful, and the sharing cements our friendship.
+
+If Social Currency is about information senders and how sharing makes them look, Practical Value is mostly about the information receiver. It’s about saving people time or money, or helping them have good experiences. Sure, sharing useful things benefits the sharer as well. Helping others feels good. It even reflects positively on the sharer, providing a bit of Social Currency. But at its core, sharing practical value is about helping others. The Emotions chapter noted that when we care, we share. But the opposite is also true. Sharing is caring.
+
+You can think about sharing practical value as akin to advice. People talk about which retirement plan is cheapest and which politician will balance the budget. Which medicine cures a cold and which vegetable has the most beta carotene. Think about the last time you made a decision that required you to gather and sift through large amounts of information. You probably asked one or more people what you should do. And they probably either shared their opinion or sent you a link to a website that helped you out.
+
+So what makes something seem practically valuable enough to pass along?
+
+
+
+
+
+SAVING A COUPLE OF BUCKS
+
+
+When most people think about practical value, saving money is one of the first things that comes to mind—getting something for less than its original price or getting more of something than you usually would for the same price.
+
+Websites like Groupon and LivingSocial have built business models around offering consumers discounts on everything from pedicures to pilot lessons.
+
+One of the biggest drivers of whether people share promotional offers is whether the offer seems like a good deal. If we see an amazing deal we can’t help but talk about it or pass it on to someone we think would find it useful. If the offer is just okay, though, we keep it to ourselves.
+
+So what determines whether or not a promotional offer seems like a good deal?
+
+Not surprisingly, the size of the discount influences how good a deal seems. Saving a hundred dollars, for example, tends to be more exciting than saving one dollar. Saving 50 percent is more exciting than saving 10 percent. You don’t have to be a brain surgeon to realize that people like (and share) bigger discounts more than smaller ones.
+
+But it’s actually more complicated than that. Consider what you would do in the following example:
+
+Scenario A: Imagine you’re at a store looking to buy a new barbecue grill. You find a Weber Q 320 grill that looks pretty good, and to your delight it’s also on sale. Originally priced at $350, it is now marked down to $250.
+
+Would you buy this barbecue grill or drive to another store to look at others? Take a second to think about your answer. Got it? Okay, let’s do the exercise again for a different retailer.
+
+Scenario B: Imagine you’re at a store looking to buy a new barbecue grill. You find a Weber Q 320 grill that looks pretty good and to your delight it’s also on sale. Originally priced at $255, it is now marked down to $240.
+
+What would you do in this case? Would you buy this barbecue grill or drive to another store to look at others? Wait until you have an answer and then read on.
+
+If you’re like most people, scenario A looked pretty good. One hundred dollars off a barbecue grill and it’s a model you like? Seems like a good deal. You probably said you’d buy it rather than keep looking.
+
+Scenario B, however, probably didn’t look so good. After all, it’s only fifteen dollars off, nowhere near as good as the first deal. You probably said you’d keep looking rather than buy that one.
+
+I found similar results when I gave each scenario to one hundred different people. While 75 percent of the people who received scenario A said they’d buy the grill rather than keep looking, only 22 percent of people who received scenario B said they’d buy the grill.
+
+This all makes perfect sense—until you think about the final price at each store. Both stores were selling the same grill. So if anything, people should have been more likely to say they would buy it at the store where the price was lower (scenario B). But they weren’t. In fact, the opposite happened. More people said they would purchase the grill in scenario A, even though they would have had to pay a higher price ($250 rather than $240) to get it. What gives?
+
+
+
+
+
+THE PSYCHOLOGY OF DEALS
+
+
+On a cold, wintry day in December 2002, Daniel Kahneman walked onstage to address a packed lecture hall at Sweden’s Stockholm University. The audience was filled with Swedish diplomats, dignitaries, and some of the world’s most prominent academics. Kahneman was there to give a talk on bounded rationality, a new perspective on intuitive judgment and choice. He had given related talks over the years, but this one was slightly different. Kahneman was in Stockholm to accept the Nobel Prize in Economics.
+
+The Nobel Prize is one of the world’s most prestigious awards and is given to researchers who have contributed great insight to their disciplines. Albert Einstein received a Nobel Prize for his work on theoretical physics. Watson and Crick received a Nobel in medicine for their work on the structure of DNA. In economics, the Nobel Prize is awarded to a person whose research has had a large impact on advancing economic thinking.
+
+But Kahneman isn’t an economist. He is a psychologist.
+
+Kahneman received the Nobel for his work with Amos Tversky on what they called “prospect theory.” The theory is amazingly rich, but at its core, it’s based on a very basic idea. The way people actually make decisions often violates standard economic assumptions about how they should make decisions. Judgments and decisions are not always rational or optimal. Instead, they are based on psychological principles of how people perceive and process information. Just as perceptual processes influence whether we see a particular sweater as red or view an object on the horizon as far away, they also influence whether a price seems high or a deal seems good. Along with Richard Thaler’s work, Kahneman and Tversky’s research is some of the earliest studying what we now think of as “behavioral economics.”
+
+—————
+
+One of the main tenets of prospect theory is that people don’t evaluate things in absolute terms. They evaluate them relative to a comparison standard, or “reference point.” Fifty cents for coffee isn’t just fifty cents for coffee. Whether that seems like a fair price or not depends on your expectations. If you live in New York City, paying fifty cents for a cup of coffee seems pretty cheap. You’d chuckle at your good luck and buy coffee from that place every day. You might even tell your friends.
+
+If you live in rural India, though, fifty cents might seem hugely expensive. It would be way more than you would dream of paying for coffee and you’d never buy it. If you told your friends anything it would be your outrage at the price gouging.
+
+You see the same phenomenon at work if you go to the movies or the store with people in their seventies or eighties. They often complain about the prices. “What?” they exclaim. “No way am I paying eleven dollars for a movie ticket. That’s such a rip-off!”
+
+It might seem that old people are stingier than the rest of us. But there is a more fundamental reason that they think the prices are unfair. They have different reference points. They remember the days when a movie ticket was forty cents and steak was ninety-five cents a pound, when toothpaste was twenty-nine cents and paper towels cost a dime. Because of that, it’s hard for them to see today’s prices as fair. The prices seem so much higher than what they remember, so they balk at paying them.
+
+Reference points help explain the barbecue grill scenarios we discussed a few pages ago. People use the price they expect to pay for something as their reference point. So the grill seemed like a better deal when it was marked down from $350 to $250 rather than when it was discounted from $255 to $240, even though it was the same grill. Setting a higher reference point made the first deal seem better even though the price was higher overall.
+
+Infomercials often use the same approach.
+
+The amazing Miracle Blade knives last forever! Watch them slice through a pineapple, soda can, or even a penny! You might expect to pay $100 or even $200 for a set of knives like these, but right now you can get this incredible knife set for only $39.99!
+
+Sound familiar? It should. Most infomercials use this technique to make whatever they are offering seem like a great deal. By mentioning $100 or $200 as the price you might expect to pay, the infomercial sets a high reference point, making the final price of $39.99 seem like a steal.
+
+This is also why retailers often list a “regular” or manufacturer’s standard retail price even when something is on sale. They want consumers to use those prices as the reference price, making the sale price look even better. Consumers are so focused on getting a good deal that, as the barbecue grill example showed, they sometimes even end up paying more to get it.
+
+Reference points also work with quantities.
+
+But wait, there’s more! If you call now, we’ll throw in a second set of these knives absolutely free! That’s right, an extra set for the same price. And we’ll even throw in this handy knife sharpener. No extra charge!
+
+Here the infomercial is taking the reference quantity and augmenting it. You expected to pay $39.99 for one set of Miracle Blade knives, but now you are getting an extra set, and a knife sharpener, for the same price. In addition to the price being lower than your expectations (which was set by them in the first place), the additional goods makes the offer seem like an even better deal.
+
+—————
+
+How far will the effect of putting something on sale go? Marketing scientists Eric Anderson and Duncan Simester wanted to find out. So a few years ago they paired up with a company that sends clothing catalogs to homes across the United States. Think L.L. Bean, Spiegel, or Lands’ End. Most of the clothes in these catalogs are full price, but sometimes the catalog features certain sale items and drops its prices. Not surprisingly, this increases sales. People like to pay less, so dropping the price makes things more desirable.
+
+But Anderson and Simester had a different question in mind. They wondered whether consumers find the idea of a discount so powerful that merely labeling something as “on sale” would increase purchase.
+
+To test this possibility, Anderson and Simester created two different versions of the catalog and mailed each to more than fifty thousand people. In one version some of the products (let’s call them dresses) were marked with signs that said “Pre-Season SALE.” In the other version the dresses were not marked as on sale.
+
+Sure enough, marking those items as on sale increased demand. By more than 50 percent.
+
+The kicker?
+
+The prices of the dresses were the same in both versions of the catalog. So using the word “sale” beside a price increased sales even though the price itself stayed the same.
+
+—————
+
+Another tenet of prospect theory is something called “diminishing sensitivity.” Imagine you are looking to buy a new clock radio. At the store where you expect to buy it, you find that the price is $35. A clerk informs you that the same item is available at another branch of the same store for only $25. The store is a twenty-minute drive away and the clerk assures you that they have what you want there.
+
+What would you do? Would you buy the clock radio at the first store or drive to the second store?
+
+If you’re like most people, you’re probably willing to go to the other store. After all, it’s only a short drive away and you save almost 30 percent on the radio. It seems like a no-brainer.
+
+But consider a similar example. Imagine you are buying a new television. At the store where you expect to buy it, you find that the price is $650. A clerk informs you that the same item is available at another branch of the same store for only $640. The store is a twenty-minute drive away and the clerk assures you that they have what you want there.
+
+What would you do in this situation? Would you be willing to drive twenty minutes to save $10 on the television?
+
+If you’re like most people, this time around you probably said no. Why drive twenty minutes to save a few bucks on a TV? You’d probably spend more on gas than what you’d save on the product. In fact, when I gave each scenario to one hundred different people, 87 percent said they’d buy the television at the first store while only 17 percent said the same for the clock radio.
+
+But if you think about it, these two scenarios are essentially the same. They’re both about driving twenty minutes to save $10. So people should have been equally willing to take the drive in each scenario.
+
+Except they weren’t. While almost everyone is willing to endure the drive for the cheaper clock radio, almost no one is willing to do it when buying a TV. Why?
+
+Diminishing sensitivity reflects the idea that the same change has a smaller impact the farther it is from the reference point. Imagine that you enter a lottery at your office or your child’s school. You’re not expecting to get much out of it, but to your surprise you win $10. Lucky you! Winning anything is great, so you’d probably be pretty happy about it.
+
+Now imagine you won $20 instead. You’d probably feel even happier. Maybe you wouldn’t be doing backflips in either case, but winning $20 would feel significantly better than winning only $10.
+
+Okay, now let’s take that same lottery and that same $10 increase in winnings and let’s raise the stakes a little. Imagine you won $120 rather than $110. Or even better, $1,020 rather than $1,010. Suddenly that extra $10 wouldn’t matter as much. You’d probably feel essentially the same if you won $120 rather than $110. If you won $1,020 rather than $1,010 you probably wouldn’t even notice. The same change—gaining ten more dollars—has a smaller and smaller impact the farther you move from your reference point of zero dollars or not winning anything.
+
+Diminishing sensitivity helps explain why people are more willing to drive to save the money on the clock radio. The clock radio was much cheaper, so a discount from $35 to $25 seems like a pretty good deal. But even though the television is also $10 off, it doesn’t seem like a bargain given how much more expensive the television was in the first place.
+
+
+
+
+
+HIGHLIGHTING INCREDIBLE VALUE
+
+
+Deals seem more appealing when they highlight incredible value. As discussed in the Social Currency chapter, the more remarkable something is, the more likely it will be discussed. We’re bombarded with deals all the time. If we shared every time the grocery store knocked ten cents off a can of soup no one would be friends with us anymore. A deal needs to cut through the clutter to get shared.
+
+As prospect theory illustrates, one key factor in highlighting incredible value is what people expect. Promotional offers that seem surprising or surpass expectations are more likely to be shared. This can be because the actual deal itself exceeds expectations (for example, the percentage off is so unbelievable) or because the way the deal is framed makes it seem that way.
+
+Another factor that affects whether deals seem valuable is their availability. Somewhat counterintuitively, making promotions more restrictive can actually make them more effective. Just as in the examples of Please Don’t Tell and Rue La La that we discussed in the Social Currency chapter, restricting availability through scarcity and exclusivity makes things seem more valuable.
+
+Take timing or frequency. Putting something on sale can make it seem like a good deal. But if a product is always on sale people start to adjust their expectations. Rather than the full, “regular” price being their reference point, the sale price becomes the expected price. This happens with rug stores that always offer 70 percent off. People come to realize that “sales” are the norm and no longer see them as deals. The same is true even with the word “sale.” While noting something is on sale can increase demand, if too many items in a store are listed as being on sale, it can actually reduce purchase.
+
+But offers that are available for only a limited time seem more appealing because of the restriction. Just like making a product scarce, the fact that a deal won’t be around forever makes people feel that it must be a really good one.
+
+Quantity limits work the same way. Retailers sometimes create limits around the number of a given discounted item a given customer can buy. “One per household” or “Limit three per customer.” You might think that by making it harder for people to get as many as they want these restrictions would hurt demand. But they actually have the opposite effect by making the promotion seem like an even better deal. “Wow, if I can only get one of these, it must mean that the deal is so good that the store is worried about running out of them. Better get one fast!” Indeed, research finds that quantity purchase limits increase sales by more than 50 percent.
+
+Even restricting who has access can make a promotional offer seem better. Some deals are available to everyone. Anyone can walk up to the discount rack at the Gap and get money off chinos, just as any patron can take advantage of happy hour at his or her local pub. But other deals are customized, or restricted to a certain set of customers. Hotels reward loyal members with “exclusive” hotel rates and restaurants have “soft openings” for a certain clientele.
+
+These offers seem special. This boosts sharing not only by increasing Social Currency, but also by making the deal itself seem better. Like restrictions on quantity or timing, the mere fact that not everyone can get access to this promotion makes it seem more valuable. This increases Practical Value, which in turn, boosts sharing.
+
+The Rule of 100
+
+Another framing factor that impacts practical value is how promotional offers are expressed. Some offers are expressed in dollars off, or absolute discounts ($5 or $50 off). Other offers are expressed in percentage off, or relative discounts (5 percent or 50 percent off). Could whether a promotion is framed as money or as a percentage off affect how big the discount seems?
+
+Take twenty percent off a $25 shirt. The same reduction can be represented as 20 percent off or $5 off. Which seems like a better deal?
+
+Or think about a $2,000 laptop. The same reduction on a $2,000 laptop can be represented as 10 percent off or $200 off. Does one method of framing the discount make the deal seem better than the other?
+
+Researchers find that whether a discount seems larger as money or percentage off depends on the original price. For low-priced products, like books or groceries, price reductions seem more significant when they are framed in percentage terms. Twenty percent off that $25 shirt seems like a better deal than $5 off. For high-priced products, however, the opposite is true. For things like laptops or other big-ticket items, framing price reductions in dollar terms (rather than percentage terms) makes them seem like a better offer. The laptop seems like a better deal when it is $200 off rather than 10 percent off.
+
+A simple way to figure out which discount frame seems larger is by using something called the Rule of 100.
+
+If the product’s price is less than $100, the Rule of 100 says that percentage discounts will seem larger. For a $30 T-shirt or a $15 entrée, even a $3 discount is still a relatively small number. But percentagewise (10 percent or 20 percent), that same discount looks much bigger.
+
+If the product’s price is more than $100, the opposite is true. Numerical discounts will seem larger. Take a $750 vacation package or the $2,000 laptop. While a 10 percent discount may seem like a relatively small number, it immediately seems much bigger when translated into dollars ($75 or $200).
+
+So when deciding how good a promotional offer really is, or how to frame a promotional offer to make it better, use the Rule of 100. Think about where the price falls relative to $100 and how that shifts whether absolute or relative discounts seem more attractive.
+
+—————
+
+One last point about promotional offers is that the practical value is more effective the easier it is for people to see. Take the shopper discount cards that you get at your local grocery store or pharmacy. These cards are certainly useful. They save consumers money and sometimes even give them free gifts if they have accumulated enough purchases. But one problem is that the practical value is not very visible. The only information people get about how much they saved is hidden among a half dozen other pieces of information on a lengthy receipt. And given that most people don’t show their receipts to others, it’s unlikely that anyone but the person who used the card will see how much they saved. That makes it less likely that the information will be contagious.
+
+But what if stores made the practical value easier to see? They could put up a sign at checkout that shows other people in line how much the person checking out saved. Or the store might ring a bell every time someone saved more than twenty-five dollars. This would make two things happen. First, people would get a better sense of how much they could save by getting the card, encouraging anyone who doesn’t have one yet to get one. Second, it would allow people to see the impressive amounts that some other shoppers were able to save, encouraging them to transmit these remarkable stories of practical value. As discussed in the Public chapter, it’s hard to talk about something you can’t see.
+
+
+
+
+
+MORE THAN MONEY
+
+
+I am terrible at investing. Too many options, too much daily volatility, and too much risk. I’d rather keep my money in a cardboard box under my bed than put it in some mutual fund that could lose money. The first time I bought stocks I barely dipped my toe in. I picked two or three that seemed like good long-term investments based on being strong brands and tried to leave it at that.
+
+But my curiosity got the best of me. I frantically checked every day how each stock was doing. A dollar up today? Huge success! Thirty-five cents down the next day? Hopelessly despondent and considering giving up investing ever again.
+
+Needless to say I needed help. So when it came time to put money in my 401(k) for work, I picked some safe index funds that track the stock market.
+
+Soon after, Vanguard, the firm that manages my retirement plan, sent me a short e-mail asking if I’d like to receive its monthly newsletter, MoneyWhys. Like most people, I try to avoid signing up for new mailing lists, but this one actually seemed useful. Last-minute tax tips, responses to common questions about investing, and an answer (or at least an opinion) on that age-old question of whether money can really buy happiness. I signed up.
+
+Now, once a month, Vanguard sends me a short e-mail with useful information about financial management. One month it was tips on what homeowner’s insurance actually covers. Another month it provided tips on using your PC to track personal finances.
+
+To be honest, I don’t read every e-mail Vanguard sends (sorry, Vanguard), but I end up forwarding many of the ones I do read to people I know who I think will find them useful. I sent the piece about homeowner’s insurance to a colleague who just bought a home. I forwarded the piece about tracking personal finances to a friend who is trying to become more fiscally responsible. Vanguard nicely packages its expertise into a short, tight bundle of useful information, and the practical value made me pass it along. And along the way I’m spreading the word about Vanguard and its investment expertise.
+
+—————
+
+Useful information, then, is another form of practical value. Helping people do things they want to do, or encouraging them to do things they should do. Faster, better, and easier.
+
+As we discussed in the Emotions chapter, our analysis of The New York Times Most E-Mailed list found that articles about health and education were some of the most frequently shared. Recipes and reviews of up-and-coming restaurants were also highly shared. One reason is that these types of articles all provide useful information. The health section suggests solutions for people with hearing loss and techniques for boosting mental fitness in middle age. The education section covers useful programs for teens and provides insight into the college admissions process. Sharing this type of content with others enables them to eat, live, and learn better.
+
+Look at the content you’ve been e-mailed over the past few months and you’ll see similar patterns. Articles about sunscreen brands that Consumer Reports rated the best, tips to recover quickly from exercise, or hints for great pumpkin carving design around Halloween. All these things are useful. Practical advice is shareable advice.
+
+In thinking about why some useful content gets shared more, a couple of points are worth noting. The first is how the information is packaged. Vanguard doesn’t send out a rambling four-page e-mail with twenty-five advice links about fifteen different topics. It sends out a short, one-page note, with a key header article and three or four main links below it. It’s easy to see what the main points are, and if you want to find out more, you can simply click on the links. Many of the most viral articles on The New York Times and other websites have a similar structure. Five ways to lose weight. Ten dating tips for the New Year. The next time you’re waiting in the checkout line at the grocery store, take a look at the magazines and you’ll see the same idea being applied. Short lists focused around a key topic.
+
+A cosmetic manufacturer makes a helpful iPhone application for business travelers. In addition to providing local weather information, it also provides expert skin care advice that is tailored to those local conditions. Humidity, rain, and air quality affect your hair and skin, so the application tells you the right way to respond. This practically valuable information not only is useful, but also demonstrates the company’s knowledge and expertise in this domain.
+
+The second key is the audience. Some stories or information have a broader audience than others. In the United States, at least, more people follow professional football than follow water polo. Similarly, you probably have more friends that like American restaurants than like Ethiopian restaurants.
+
+You might think that content that has a broader audience is more likely to be shared. A piece about football should be shared more than one about water polo; a review about a new American restaurant should be passed on more than a review of a new Ethiopian place. After all, people have way more friends with whom they could share the article, so shouldn’t it end up reaching more people overall?
+
+The problem with this assumption, though, is that just because people can share with more people doesn’t mean they will. In fact, narrower content may actually be more likely to be shared because it reminds people of a specific friend or family member and makes them feel compelled to pass it along. You might have a lot of friends who like American food or football. But because so many people are interested in that type of thing, no one person strongly comes to mind when you come across related content. In contrast, you may have only one friend who cares about Ethiopian restaurants or water polo, but if you read an article about those topics you think about your friend right away. And because it seems so uniquely perfect for her, you feel you have to share it.
+
+So while broadly relevant content could be shared more, content that is obviously relevant to a narrow audience may actually be more viral.
+
+
+
+
+
+A NOTE ON TRUTH
+
+
+You may have heard that vaccines cause autism. If so, you’re not alone. In 1998, a paper was published in a medical journal suggesting that an immunization against measles, mumps, and rubella could cause autism in children. Health-related news spreads fast, particularly when it relates to kids, and soon lots of people were talking about the potential downsides to vaccines. As a result, childhood vaccination rates decreased.
+
+All this would be good if the link between vaccines and autism were true. But it’s not. There is no scientific evidence that vaccines cause autism. The original paper turned out to be a fraud. The doctor who authored it had manipulated evidence, apparently owing to conflict of interest, and after being found guilty of serious professional misconduct, lost his medical license. But even though the information was false, lots of people shared it.
+
+The reason is practical value. People weren’t trying to share false things, they just heard something they thought was useful and they wanted others’ kids to be safe. But many people didn’t hear the news that the original report had been discredited, and so they continued to share an incorrect narrative. Our desire to share helpful things is so powerful that it can make even false ideas succeed. Sometimes the drive to help takes a wrong turn.
+
+So the next time someone tells you about a miracle cure, or warns about the health risks of a particular food or behavior, try to verify that information independently before you pass it on. False information can spread just as quickly as the truth.
+
+—————
+
+Practical value is about helping. This chapter discussed the mechanics of value and the psychology of deals, but it’s important to remember why people share that type of information in the first place. People like to help one another. We go out of our way to give advice or send others information that will make them better off. Sure, some of this may be selfish. We think we’re right and we can’t help but toss our two cents into other people’s lives. But not all of it is about us. It’s also about altruism, the inherent goodness of people. We care about others and we want to make their lives better.
+
+Of the six principles of contagiousness that we discuss in the book, Practical Value may be the easiest to apply.
+
+Some products and ideas already have lots of Social Currency, but to build it into a video for a blender takes some energy and creativity. Figuring out how to create Triggers also requires some effort, as does evoking emotion. But finding Practical Value isn’t hard. Almost every product or idea imaginable has something useful about it. Whether it saves people money, makes them happier, improves health, or saves them time, all of these things are news you can use. So thinking about why people gravitate to our product or idea in the first place will give us a good sense of the underlying practical value.
+
+The harder part is cutting through the clutter. There are lots of good restaurants and helpful websites, so we need to make our product or idea stand out. We need to highlight incredible value and use the Rule of 100. Like Vanguard, we need to package our knowledge and expertise so that people learn about us while they pass it along. We need to make it clear why our product or idea is so useful that people just have to spread the word. News you can use.
+
+
+
+
+
+6. Stories
+
+
+The war had raged for ten long years, with no finish in sight. According to legend, Odysseus devised a cunning plan to end the fruitless siege. The Greeks built a giant wooden horse and hid their best warriors inside. The rest of their army then sailed away, pretending to return to their homeland and leaving the monumental horse behind on the beach.
+
+The Trojans found the horse and dragged it into Troy as a symbol of their victory. They tied ropes around the beast’s neck and dozens of men set huge log rollers underneath the wooden body to pull it slowly up from the beach. Others worked to take down the gate so that the monstrous sculpture could be dragged inside the city walls.
+
+Once the statue was inside, the Trojans celebrated the end of the decade-long conflict. They decorated the temples with greenery, unearthed the jugs of sacrificial wine, and danced to rejoice at the conclusion of their ordeal.
+
+But that night, while the city lay unconscious in drunken slumber, the Greeks sprang from their hiding place. They slid to the ground, silenced the sentries, and opened the huge gates to the city. The rest of the Greek army sailed back under the cover of darkness and soon joined them, easily walking through the very gates they had fruitlessly assaulted for so many years.
+
+The city was able to stand a decade of battle, but it could not withstand an attack from within. Once inside, the Greeks destroyed the town, decisively ending the Trojan War.
+
+—————
+
+The story of the Trojan Horse has been passed on for thousands of years. Scientists and historians estimate that the battle took place around 1170 BC, but the story was not written down until many years later. For centuries the tale was transmitted orally as an epic poem, spoken or sung to music.
+
+The story reads like a modern-day reality show. It’s full of twists and turns that include personal vendettas, adultery, and double crosses. Through a potent mixture of drama, romance, and action, it holds listeners’ interest.
+
+But the story of the Trojan Horse also carries an underlying message: “Beware of Greeks bearing gifts.” A more general interpretation would be “never trust your enemies, even when they seem friendly.” In fact it is exactly when they are making such overtures that you should be especially suspicious. So the tale of the Trojan Horse is more than just an entertaining story. It also teaches an important lesson.
+
+Still, if Homer and Virgil had simply wanted to teach people a lesson, couldn’t they have done it more efficiently? Couldn’t they have gotten right to the point rather than writing an epic poem with hundreds of lines of poetry?
+
+Of course. But would the lesson have had the same impact? Probably not.
+
+By encasing the lesson in a story, these early writers ensured that it would be passed along—and perhaps even be believed more wholeheartedly than if the lesson’s words were spoken simply and plainly. That’s because people don’t think in terms of information. They think in terms of narratives. But while people focus on the story itself, information comes along for the ride.
+
+
+
+
+
+STORIES AS VESSELS
+
+
+Stories are the original form of entertainment. Imagine you were a Greek citizen in 1000 BC. There was no Internet. No SportsCenter or six o’clock news. No radio or newspapers. So if you wanted entertainment, stories were the way to get it. The Trojan Horse, The Odyssey, and other famous tales were the entertainment of the day. People would gather round a fire, or sit in an amphitheater, to hear these epic narratives told again and again.
+
+Narratives are inherently more engrossing than basic facts. They have a beginning, middle, and end. If people get sucked in early, they’ll stay for the conclusion. When you hear people tell a good story you hang on every word. You want to find out whether they missed the plane or what they did with a house full of screaming nine year olds. You started down a path and you want to know how it ends. Until it does, they’ve captured your attention.
+
+Today there are thousands of entertainment options, but our tendency to tell stories remains. We get together around our proverbial campfires—now water coolers or girls’/guys’ night out—and tell stories. About ourselves and the things that have happened to us lately. About our friends and other people we know.
+
+People tell stories for the same reasons they share word of mouth. Some narratives are about Social Currency. People tell the story of going through the phone booth to get into Please Don’t Tell because it makes them look cool and in the know. Other stories are driven by (high arousal) Emotion. People tell the story of Will It Blend? because they are amazed that a blender could shred marbles or an iPhone. Practical Value also plays a role. People share the story of how their neighbor’s dogs got sick after eating a certain type of chew toy because they want your dog to avoid the same fate.
+
+People are so used to telling stories that they create narratives even when they don’t actually need to. Take online reviews. They’re supposed to be about product features. How well a new digital camera worked and whether the zoom is as good as the company suggests. But this mostly informational content often ends up being embedded in a background narrative.
+
+My son just turned eight so we were planning our first trip to Disney World last July. We needed a digital camera to capture the experience so bought this one because my friend recommended it. The zoom was great. We could easily get sharp pictures of Cinderella’s Castle even from far away.
+
+We’re so used to telling stories that we do it even when a simple rating or opinion would have sufficed.
+
+—————
+
+Just like the Trojan Horse itself, stories are more than they seem. Sure, the outward shell of a story—we could call this the surface plot—grabs your attention and engages your interest. But peel back that exterior, and you’ll usually find something hidden inside. Underneath the star-crossed lovers and thundering heroes there is usually something else being conveyed.
+
+Stories carry things. A lesson or moral. Information or a take-home message. Take the famous story “The Three Little Pigs.” Three brothers leave home to head into the world to seek their fortune. The first little pig quickly builds his house out of straw. The second pig uses sticks. Both throw their houses together as quickly as possible so they can hang out and play the rest of the day. The third pig, however, is more disciplined. He takes the time and effort to carefully build his house out of bricks, even while his brothers have fun around him.
+
+One night, a big bad wolf comes along looking for something to eat. He goes to the first pig’s house and says those words so beloved by small children: “Little pig, little pig, let me in.” But when the pig says no, the wolf blows the pig’s house down. He does the same to the house of sticks. But when the wolf tries the same thing at the third pig’s house, it doesn’t work. He huffs and he puffs but the wolf can’t destroy the third pig’s house because it’s made of bricks.
+
+And that’s the moral of the story. Effort pays off. Take the time to do something right. You might not have as much fun right away, but you’ll find that it’s worth it in the end.
+
+Lessons or morals are also embedded in thousands of other fairy tales, fables, and urban legends. “The Boy Who Cried Wolf” warns about the dangers of lying. “Cinderella” shows that being good to others pays off. Shakespeare’s plays carry valuable lessons about character and relationships, power and madness, love and war. These are complex lessons, but they are instructive nevertheless.
+
+—————
+
+The ordinary stories we tell one another every day also carry information.
+
+Take the story of the coat my cousin bought from Lands’ End. He’d moved from California to the East Coast a couple of years ago, and in preparation for his first real winter he went to a fancy department store and bought a nice topcoat. The coat was one of those three-quarter-length wool varieties that men often wear over suits. It fitted well, the color was perfect, and my cousin felt like a dapper English gentleman.
+
+There was only one problem. It wasn’t warm enough. It was great when the temperature outside was in the fifties and even the forties, but once the temperature got down to the thirties the cold seeped right through the coat into my cousin’s bones.
+
+After one winter of looking great but freezing every day on his way to work, he decided it was time to get a real winter coat. He even decided to go whole hog and get one of those goose-down numbers that make you look as if you’re wearing a sleeping bag—the kind of coat that is ubiquitous in the East and Midwest but never seen in California. So he went online, found a great deal at Lands’ End, and bought a down commuter coat rated to minus thirty degrees Fahrenheit. Warm enough to withstand even the coldest East Coast winter.
+
+My cousin really liked the coat, and indeed it was super warm. But halfway through the season he broke the zipper. Ripped it right off the lining. He was devastated. He had just bought the coat a few months before and it was broken already. How much would it cost to have it fixed? And how long would he have to wait to get it back from being repaired?
+
+It was mid-January, not a very ideal time to be walking around without a winter coat.
+
+So he called Lands’ End. How much will it cost to repair, he asked, and how long will it take to be fixed?
+
+My cousin braced for the icy reply he was used to getting from customer service people. It always seems to be the customer’s problem. So sorry to hear the product broke or the service isn’t working, customer service people usually say, but unfortunately it’s not our fault. It’s outside the warranty or you tried to do something beyond the normal use. But we’d be happy to repair it for twice the cost of the product or send someone out to check on it. Just as long as you can stay home from work for the three-hour window during which we may or may not show up. Oh, and by the way, the script the brand consultants wrote reminds us to tell you that we really appreciate your business.
+
+But to his surprise, the Lands’ End customer service person said something entirely different. “Repair?” she asked. “We’ll just send you a new one in the mail.” “How much will that cost?” my cousin asked nervously. “It’s free,” she replied, “and we’ll send it out two-day mail so you don’t have to wait. It’s too cold this winter to go out with a broken coat.”
+
+A free replacement sent right away if a product breaks? Wow! That’s almost unheard of in this day and age of “the customer is always wrong.” Remarkable customer service. Customer service the way it is supposed to be. My cousin was so impressed he just had to tell me what happened.
+
+My cousin’s experience makes for a nice story, but when you look closer there is also a huge amount of useful information hidden in the narrative: (1) Topcoats look great but aren’t really warm enough for a bitter East Coast winter. (2) Down coats make you look like a mummy, but they’re worth getting if you want to stay warm. (3) Lands’ End makes a really warm winter coat. (4) It also has outstanding customer service. (5) If something goes wrong, Lands’ End will fix it. These are just a handful of the nuggets of knowledge woven into a deceptively simple story.
+
+The same is true for most stories people tell us. How we avoided the traffic jam or how the dry cleaner was able to take our oil-splattered white shirt and make it look like new. These stories contain helpful information: a good route to take if the highway is blocked; a great dry cleaner if you need to get out tough stains.
+
+Stories, then, can act as vessels, carriers that help transmit information to others.
+
+
+
+
+
+LEARNING THROUGH STORIES
+
+
+Stories are an important source of cultural learning that help us make sense of the world. At a high level, this learning can be about the rules and standards of a group or society. How should a good employee behave? What does it mean to be a moral person? Or on a more basic level: who’s a good mechanic who won’t overcharge?
+
+Beyond stories, think about other ways that people could acquire this information. Trial and error might work, but it would be extremely costly and time-consuming. Imagine if finding an honest mechanic required taking your car to two dozen different places around town and getting work done at each one. It would be exhausting (and expensive).
+
+Alternatively, people could try direct observation, but that’s also tough. You’d have to cozy up to the mechanics in all the different shops and convince them to let you watch what they did and tell you how much they charged. Guess how well that would work.
+
+Finally, people could get their information from advertisements. But ads aren’t always trustworthy, and people are generally skeptical of persuasion attempts. Most ads for mechanics will say they have great prices and do good work, but without really checking, it’s hard to know for sure.
+
+Stories solve this problem. They provide a quick and easy way for people to acquire lots of knowledge in a vivid and engaging fashion. One good story about a mechanic who fixed the problem without charging is worth dozens of observations and years of trial and error. Stories save time and hassle and give people the information they need in a way that’s easy to remember.
+
+You can think of stories as providing proof by analogy. There is no way to be sure that if I buy something from Lands’ End, I’ll get the same wonderful customer service my cousin received. But the mere fact that it happened to someone who is like me makes me feel that there is a pretty good chance it will happen to me too.
+
+People are also less likely to argue against stories than against advertising claims. Lands’ End representatives could tell us that they have great customer service, but as we discussed earlier, the fact that they are trying to sell something makes it difficult to believe them. It’s harder to argue with personal stories.
+
+First, it’s hard to disagree with a specific thing that happened to a specific person. What is someone going to tell my cousin, “No, I think you’re lying, there’s no way Lands’ End would be that nice”? Hardly.
+
+Second, we’re so caught up in the drama of what happened to so-and-so that we don’t have the cognitive resources to disagree. We’re so engaged in following the narrative that we don’t have the energy to question what is being said. So in the end, we’re much more likely to be persuaded.
+
+—————
+
+People don’t like to seem like walking advertisements. The Subway sandwich chain offers seven subs with less than six grams of fat. But no one is going to walk up to a friend and just spit out that information. Not only would it be weird, it would be out of context. Sure, this information is practically valuable if someone is trying to lose weight, but unless weight loss is the topic of conversation, or the situation triggers people to think about ways to lose weight, they’re not going to bring it up. So the fact that Subway has a bunch of low-fat options may not be brought up that often.
+
+Contrast that with the Jared story. Jared Fogle lost 245 pounds eating Subway sandwiches. Bad eating habits and lack of exercise led Jared to balloon to 425 pounds in college. He was so heavy that he picked his courses based on whether the classroom had large-enough seats for him to be comfortable rather than whether he liked the material.
+
+But after his roommate pointed out that his health was getting worse, Jared decided to take action. So he started a “Subway diet”: almost every day he ate a foot-long veggie sub for lunch and a six-inch turkey sub for dinner. After three months of this self-imposed regimen he had lost almost 100 pounds.
+
+But he didn’t stop there. Jared kept up his diet. Soon his pants size had dropped from an enormous sixty inches to a normal thirty-four-inch waist. He lost all that weight and had Subway to thank.
+
+The Jared story is so entertaining that people bring it up even when they’re not talking about weight loss. The amount of weight he lost is impressive, but even more astonishing is the fact that he lost it eating Subway sandwiches. A guy loses 245 pounds eating fast food? The summary alone is enough to draw people in.
+
+The story gets shared for many of the reasons we talked about in prior chapters. It’s remarkable (Social Currency), evokes surprise and amazement (Emotion), and provides useful information about healthy fast food (Practical Value).
+
+People don’t talk about Jared because they want to help Subway, but Subway still benefits because it is part of the narrative. Listeners learn about Jared, but they also learn about Subway along the way. They learn that (1) while Subway might seem like fast food, it actually offers a number of healthy options. (2) So healthy that someone could lose weight by eating them. (3) A lot of weight. Further, (4) someone could eat mostly Subway sandwiches for three months and still come back for more. So the food must be pretty tasty. Listeners learn all this about Subway, even though people tell the story because of Jared.
+
+And that is the magic of stories. Information travels under the guise of what seems like idle chatter.
+
+
+
+
+
+BUILD A TROJAN HORSE
+
+
+Stories thus give people an easy way to talk about products and ideas. Subway might have low-fat subs, and Lands’ End might have great customer service, but outside of triggers in a conversation, people need a reason to bring that information up. And good stories provide that reason. They provide a sort of psychological cover that allows people to talk about a product or idea without seeming like an advertisement.
+
+So how can we use stories to get people talking?
+
+We need to build our own Trojan Horse—a carrier narrative that people will share, while talking about our product or idea along the way.
+
+—————
+
+Tim Piper never had a sister. And he grew up going to an all-boys school. So he had always thought it was a little ridiculous that so many of his girlfriends had beauty issues. They were always worried that their hair was too straight, their eyes were too light, or their complexion wasn’t clear enough. Piper didn’t get it. They seemed pretty enough to him.
+
+But after interviewing dozens of girls, Piper started to realize that the media were to blame. Advertising, and the media in general, taught young women that something was wrong with them. That they needed fixing. And after years of being bombarded with those messages, women started to believe them.
+
+What would help women realize that these ads were fake? That the images being shown didn’t reflect reality?
+
+One night his girlfriend at the time was putting on makeup to go out when it hit him. He realized that girls needed to be exposed to the before before the after. What models look like before the makeup and hair styling and retouching and Photoshop swoop in to make them “perfect.”
+
+So he created a short film.
+
+Stephanie stares into the camera and nods her head to the crew that she is ready to begin. She is pretty, but not in a way that would make her stand out in a crowd. Her hair is dark blond, feathered, and relatively straight. Her skin is nice but a few blemishes mar it here and there. She looks as though she could be anyone—your neighbor, your friend, your daughter.
+
+A bright light turns on, and the process begins. As we watch, makeup artists darken Stephanie’s eyes and highlight her lips with gloss. They apply foundation to her skin and blush to color her cheeks. They groom her eyebrows and lengthen her lashes. They curl and tease and style her hair.
+
+Then the photographer appears with his camera. He takes dozens of photos. Fans are turned on so her hair appears naturally tousled. Stephanie alternately smiles and stares provocatively at the camera. Finally, the photographer gets a shot he likes.
+
+But getting the perfect snapshot is only the beginning. Next comes the Photoshopping. Stephanie’s image is fed into a computer, and begins to morph before our eyes. Her lips are inflated. Her neck is thinned and lengthened. Her eyes are enlarged. These are only a handful of the dozens of changes that are made.
+
+You are now gazing at a snapshot of a supermodel. As the camera pans backward, you can see that the image has been placed on a billboard for a makeup campaign. The screen fades to black, and small words appear in white writing. “No wonder our perception of beauty is distorted.”
+
+Wow. This is a powerful clip. A great reminder of all that really goes on behind the scenes in the beauty industry.
+
+But in addition to being a great conversation piece, it’s also a clever Trojan Horse for Dove products.
+
+—————
+
+The media in general, and the beauty industry in particular, tend to paint a skewed picture of women. Models are usually tall and skinny. Magazines show women with flawless complexions and perfect teeth. Ads scream that their products can transform you into a better you. Younger face, fuller lips, softer skin.
+
+Not surprisingly, these messages have a hugely negative impact on how women see themselves. Only 2 percent of women describe themselves as beautiful. More than two-thirds believe that the media has set an unrealistic standard of beauty that they’ll never be able to achieve. No matter how hard they try. This feeling of not living up to expectations even affects young girls. Dark-haired girls wish they were blond. Redheads hate their freckles.
+
+Piper’s video, entitled “Evolution,” gives a behind-the-scenes look at what goes into making the images we are bombarded with every day. It reminds people that these stunning-looking women are not real. They are fantasies, fictions only loosely based on actual people. Concocted using all the magic that digital editing can provide. The clip is as raw and shocking as it is thought provoking.
+
+But the film wasn’t sponsored by concerned citizens or an industry watchdog group. Piper made the film in coordination with Dove, maker of health and beauty products, as part of its “Campaign for Real Beauty.” This was Dove’s effort to celebrate the natural physical variations we all have and then to inspire women to be confident and comfortable with themselves. Another ad for soap featured real women of all shapes and sizes, rather than the rail-thin models people are used to seeing.
+
+Not surprisingly, the campaign sparked a great deal of discussion. What does it mean to be beautiful? How are the media shaping these perceptions? What can we do to make it better?
+
+The campaign created more than just controversy. In addition to making the issue more Public, and giving people an excuse to talk about a topic that would have otherwise been private, the campaign also got them thinking, and talking, about Dove.
+
+The company was commended for using real people in its campaigns and for getting people to talk about this complicated but important issue. And “Evolution,” which cost only a little over one hundred thousand dollars to make, got more than 16 million views. It netted the company hundreds of millions of dollars in exposure. The clip won numerous industry awards and more than tripled the website traffic the company received from Dove’s 2006 Super Bowl ad. Dove experienced double-digit sales growth.
+
+“Evolution” was widely shared because Dove latched onto something people already wanted to talk about: unrealistic beauty norms. It’s a highly emotional issue, but something so controversial that people might have been afraid to bring up otherwise. “Evolution” brought it out in the open. It let people air their grievances and think about solutions. And along the way the brand benefited. Dove got people talking by starting a conversation about beauty norms—but the brand was smuggled in as part of the discussion. By creating an emotional story, Dove created a vessel that carried its brand along for the ride.
+
+And that brings us to the story of Ron Bensimhon.
+
+
+
+
+
+MAKING VIRALITY VALUABLE
+
+
+On August 16, 2004, Canadian Ron Bensimhon carefully shed his warm-up pants and stepped to the edge of the three-meter springboard. He had attempted dives from this height many times before, but never during an event of this magnitude. It was the Athens Olympics. The world’s biggest stage for sport and the pinnacle of athletic competition. But Ron did not seem fazed. He shook off the jitters and raised his hands high above his head. As the crowd roared, he leapt off the end of the board and completed a full belly flop.
+
+A belly flop? In the Olympics? Surely Ron must have been devastated. But as he emerged from the water he seemed calm, happy even. He swam around for a few moments, hamming it up for the audience and then slowly swam to the side of the pool, where he was met by a platoon of Olympic officials and security guards.
+
+Ron had broken into the Olympics. He wasn’t actually on the Canadian swim team. In fact, he wasn’t an Olympic athlete at all. He was the self-proclaimed most famous streaker in the world, and he had crashed the Olympics as part of a publicity stunt.
+
+—————
+
+When Ron jumped off the springboard, he wasn’t naked, but he wasn’t wearing swim trunks either. He wore a blue tutu and white polka dot tights. And emblazoned across his chest was the name of an Internet casino, GoldenPalace.com.
+
+This wasn’t the first Golden Palace publicity stunt (though the company did say that Ron’s stunt was done without its knowledge). In 2004 it bid $28,000 on eBay for a grilled cheese sandwich that some people believed displayed an image of the Virgin Mary. In 2005 it gave a woman $15,000 to change her name to GoldenPalace.com. But the stunt with the “fool in the pool,” as Bensimhon has been called, was one of the biggest. Millions of people were watching, and the story got picked up by news outlets around the world. It also got a huge amount of word-of-mouth chatter. Someone crashing the Olympics and diving into a pool in a tutu? What a story. Pretty remarkable.
+
+But as the days ticked by, people didn’t talk about the casino. Sure, some people who saw Bensimhon’s jump went to the website to try to figure out what was going on. But most people who shared the story talked about the stunt, not the website. They talked about whether the interruption threw off the Chinese divers, who flubbed their final dive right after the trick and lost the gold medal. They talked about security at the Olympics and how someone could slip through so easily at such a major event. And they talked about Bensimhon’s trial and whether he would serve jail time.
+
+What they didn’t talk about was GoldenPalace.com. Why?
+
+—————
+
+Marketing experts talk about “the fool in the pool” as one of the worst guerrilla marketing failures of all time. Usually they deride it for having disrupted the competition and ruining the moment for athletes who had trained all their lives. They also point out that it led to Bensimhon being arrested and fined. These are all good reasons to consider Bensimhon’s belly flop, well, a flop.
+
+But I’d like to add another one to the list. The stunt had nothing to do with the product it was trying to promote.
+
+Yes, people talked about the stunt, but they didn’t talk about the casino. Polka dot tights, tutus, and breaking into the Olympics to dive into a pool are all great story material. That’s why people talked about them. So if the goal was to get people to think more about security at the Olympics or get attention for a new style of tights, the stunt succeeded.
+
+But it had nothing to do with casinos. Not even in the slightest.
+
+So people talked about the remarkable story but left the casino out because it was irrelevant. They might have mentioned that Bensimhon was sponsored by someone but didn’t mention the casino either because it was so irrelevant that they forgot, or because it didn’t make the story any better. It’s like building a magnificent Trojan Horse but forgetting to put anything inside.
+
+—————
+
+When trying to generate word of mouth, many people forget one important detail. They focus so much on getting people to talk that they ignore the part that really matters: what people are talking about.
+
+That’s the problem with creating content that is unrelated to the product or idea it is meant to promote. There’s a big difference between people talking about content and people talking about the company, organization, or person that created that content.
+
+Evian’s famous “Roller Babies” video had the same problem. The clip shows what appear to be diaper-wearing babies doing tricks on roller skates. They jump over one another, hop over fences, and do synchronized moves, all to the beat of the song “Rapper’s Delight.” The babies’ bodies are clearly animated, but their faces look real, making the video remarkable to watch. The video got more than 50 million views, and Guinness World Records declared it the most viewed online advertisement in history.
+
+But while you might think that all this attention would 

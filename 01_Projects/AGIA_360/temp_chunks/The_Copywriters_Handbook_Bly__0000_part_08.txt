@@ -1,0 +1,1148 @@
+ in marketing today.
+
+Other marketing methods also increasing in usage today include online video, social media, quick response codes (QRCs), search engine optimization (SEO), live online chat, and infographics. In August 2017, Apple announced that the company is making a $1 billion investment in original content.1
+
+The term “content marketing” may have been coined in 1996, at a roundtable for journalists held at the American Society for Newspaper Editors by John F. Oppedahl. That would mean the name “content marketing” is over twenty years old.
+
+But in fact content marketing has been used for far longer than that. It’s only a new name for a vintage method. I personally have been doing content marketing for nearly four decades, and some marketers have been at it even longer.
+
+I did my first content marketing campaign in 1980. At the time, I was advertising manager of Koch Engineering, an industrial manufacturing company owned and run by the late David Koch, who then, despite running for vice president of the United States on the libertarian party ticket, was relatively unknown. He later became a household name, one half of the infamous “billionaire Koch brothers.”
+
+One of the products we sold were various “tower internals,” and one type of internal was the “tray.” These are circular metal disks with capped openings on their surfaces. The trays are placed inside refinery towers to enhance the distillation of crude oil into kerosene, gasoline, heating oil, jet fuel, and other petroleum-based products.
+
+Specifying the correct configuration for the design of trays for your particular refinery is a highly technical task, and the engineers who worked in the refineries needed instruction on how to do it correctly.
+
+To assist and educate them, we produced a design manual that we dubbed the “tray manual.” It cost us several dollars per copy to print and bind. The manual had stiff covers, spiral binding, and fold-out blueprint-style drawings showing the configurations of various trays. By the way, the tray manual was neither my idea nor my creation; it was already in use when I joined the firm.
+
+The tray manual was wildly popular—by far our most requested piece of literature. The way it worked was this. First, by offering a valuable and relevant technical manual for free, we increased inquiries from the ad. Second, it helped the prospect specify the trade configuration he needed, and when he had done that following our design advice, naturally he ordered the tray from us, not from our competitors. Third, it helped establish Koch Engineering as a thought leader in refinery distillation.
+
+Back then, we didn’t call it “content marketing.” We called it “giving away free information.” The practice was the same. We just didn’t have a name for it.
+
+Content marketing has been used for well over a century. To test response to print ads, Claude Hopkins (1866–1932) offered free informational booklets in many of his ads.
+
+And in 1916, Campbell’s began promoting its soups with content marketing by offering free booklets of recipes that used Campbell’s soups in the dishes.2
+
+Back in those days, this free content was simply called “free booklets.” In the later part of the twentieth century, marketers referred to them as “bait pieces,” because the booklet or other free information offer helped “hook” prospects and turn them into leads.
+
+Fig. 17.1: Free content offers are used as “bait” by many marketers to get leads from prospects. For this reason, free booklets and other free content were called “bait pieces.” Today they are known as “lead magnets.”
+
+
+
+Today the preferred term for “free content” is “lead magnet,” the idea being that the tempting offer of valuable free information is like a magnet that draws people into your ad and gets them to respond and request the white paper or other free content.
+
+There are all sorts of published opinions and tests on the effectiveness of content marketing. But let me sum up my experience in just two simple points.
+
+First, I can’t remember the last time I did a B2B or B2C marketing campaign without a free content offer.
+
+For B2B, the lead magnet is often the primary offer and what drives prospects to respond. For B2C, the free content is often a bonus report given as an added gift with purchase of the product.
+
+Second, on average, adding the offer of a lead magnet to a B2B lead generation campaign can often double the number of inquiries—and often much more—versus the same campaign without the free content offer.
+
+Plus, according to an October 3, 2016, poll by FierceCMO, more than four thousand Forbes readers found that branded content was 9 percent more effective than paid advertising at getting consumers to consider buying a particular brand.
+
+In the good old days of B2B marketing, our primary offer was a “free color brochure” filled with sales copy about the product. It worked then. But today, prospects respond better if you also promise to send them free information that will be useful to them in their job.
+
+
+
+
+
+THE 7 MOST COMMON CONTENT WRITING MISTAKES
+
+
+1—Mediocre writing. Content writing is in many organizations at the bottom of the barrel as far as respect for those who do it and the value placed on it.
+
+The reason: the more technical a skill (e.g., software engineering), the fewer people who can do it. But writing is a soft skill: everyone writes, as Ann Handley claims in the title of her book Everybody Writes (Wiley, 2014). But can they? And at what level?
+
+Prolific author Harlan Ellison, who passed away in 2018, once said the following to me: “[People think] they can drive a car more brilliantly than Fangio, and everybody else on the road is inept; they can screw like Don Juan and delight the g-spot every time; and they can write. Better than King, better than Dickens, better than Homer. When in fact these are three of the most difficult things in the world to do, and only a very few people do even one with grandeur, much less all three well.”
+
+2—Mediocre research. Increasingly content is “Google goulash.” The writer uses Google to quickly research a few articles on the topic. He cobbles them together into a new article, one with no originality or firsthand knowledge, no wisdom, and no new thoughts or insights.
+
+It can make good clickbait in some cases. But really, what’s the point? All you are actually doing is adding to the cloud of “content pollution” growing out of control on the Web today.
+
+3—Taking the easy way out. There are four levels of content, which from lowest to highest are why, what, how, and done for you.
+
+The lowest form tells people why they should do something (e.g., “Why You Should Start an In-House Call Center”).
+
+The argument may be convincing and help readers make an important decision. But it provides no further help than influencing the reader’s yes-no decision.
+
+Next rung up on the content ladder is telling them what to do (e.g., “7 Steps to Planning and Implementing an In-House Call Center”). You get an action plan with the steps laid out. But you still have no idea how to do each step.
+
+Climbing higher, our content tells them how to do it, though these are often tips rather than step-by-step instructions. Still, now we have actionable steps or ideas leading to a tangible result: a functional call center.
+
+At the top of the content hierarchy is done for you. For instance, if you tell the reader he needs prewritten scripts, you provide models or samples of telemarketing scripts that can be easily modified to fit the reader’s business, saving her time and money.
+
+So many content writers take the easy way out and tell the reader only what to do and why to do it. Stronger content shows the reader how to do it and, when possible, does some of the work for her.
+
+4—No interviewing or fact checking with subject matter experts (SMEs). Especially for technical content or content about your company’s proprietary methodology or systems, many content writers may have surface knowledge. But they often need a deeper dive to produce a particular content piece. SMEs can give them an explanation that is at least somewhat comprehensible and likely accurate.
+
+5—Content writers who do not understand the subject matter at hand. Content writers who have a degree, training, or background in the subject matter should probably be on the team working on a project where their expertise would enhance their contributions.
+
+For instance, I have a BS in chemical engineering, which gives me an advantage when writing in the chemical industry. I don’t know the client’s product in detail. But when I interview their SMEs, the engineers are immediately at ease with me because we have a common background and I speak their lingo.
+
+6—Not crediting your sources. If you say in your article that 35 percent of U.S. companies have an in-house call center, your client will want to know the source of that statistic. If you found it on the Web, credit the source with the full URL. You can do this either in the copy or with a footnote.
+
+Cite your source whether it is a trade journal, a technical paper presented at an association meeting, your client’s own Web site, or an interview with one of its SMEs. If someone you interview gives you the information, you may want to track it down to where it resides on the Web and confirm its accuracy.
+
+7—The content is purely your subjective opinion. Of course you can give your opinion. But the best opinions are evidence-based and supported by statistics, graphs, examples, logical arguments, and facts. As marketers, we cannot merely make our points; we must prove our points, lest our readers remain unconvinced.
+
+
+
+
+
+THE 4 CONTENT FORMATS
+
+
+There are four modes by which your prospects absorb your content: reading, listening, watching, and doing. Yet you do not know which mode the prospect prefers.
+
+For that reason, you want to produce multiple pieces of content that, combined, cover all four modes of learning. That way, you have relevant content in the format your prospects like best. Many of these formats are listed in Table 17-1 according to the mode of learning they best serve.
+
+Table 17-1. Content by mode of learning.
+
+
+
+It would take a separate book, not just this chapter, to cover in detail all the items in the table. So in this chapter, I have chosen to concentrate on three of the more effective content marketing tactics: white papers, blogs, and case studies. Earlier in the book we covered other key content marketing methods including video (chapter 16), social media (chapter 15), and public relations (chapter 14).
+
+
+
+
+
+WHITE PAPERS
+
+
+According to Constant Content, 50 percent of marketers say white papers are a valuable tool for lead generation. More than 49 percent of B2B buyers used a white paper to help them make technology purchase decisions.
+
+Over the years, I’ve seen a number of direct-mail and e-mail tests in which offering a free white paper or other free content increased response rates by 10 percent to 100 percent or more. I do think, however, that we have to broaden our notion of how to use free content offers, which is essentially what a white paper is: free information designed to educate our prospects and motivate them to inquire about our product or service.
+
+To begin with, I think it’s not white papers themselves that are tiring but the name itself. “White paper” signals to some prospects a document that is an obvious selling tool. And with virtually every white paper in the world available for free, white papers have a low perceived value as a giveaway.
+
+The solution is to keep using white papers in your marketing but to call them something else. The mailing list broker Edith Roman used to publish a print catalog of mailing lists. But instead of calling it a catalog, the broker called it the “Direct Mail Encyclopedia.” Offering a free Direct Mail Encyclopedia helped generate more inquiries for its brokerage services.
+
+Copywriter Ivan Levison calls his white papers “guides.” Marketer David Yale uses “executive briefing.” I’m partial to “special report.” For consumer marketing, marketing expert Joe Polish suggests “consumer awareness guide,” and for a B2B white paper giving product selection tips, I’d change this to “buyer’s guide” or “selection guide.” For a white paper giving tips or instructions on a process, I might call it a “manual.” If you publish a print version that fits in a #10 envelope and is saddle stitched, you can call it a “free booklet.”
+
+Does what you call your lead magnet really matter? I think it does, because calling it a report or guide creates a perception of greater value—after all, thousands of publishers actually sell special reports and booklets for prices ranging from $3 to $40 or more. I often put a dollar price for the report in the upper right corner of the front cover, which strengthens the perception that the freebie has value; I don’t think this would be credible on a document labeled as a white paper.
+
+What about the complaint that prospects already have too much to read? I am reminded of a quotation from Rutherford Rogers: “We are drowning in information but starved for knowledge.” There is more information on the Internet than you could process in a thousand lifetimes.
+
+But good white papers don’t merely present information; they offer solutions to business and technical problems. Virtually every sale you make is because someone thinks your product or service is the solution to their problem. A white paper can help clarify the problem as well as convince the reader that your idea or method is the best of many options for addressing it.
+
+Every marketing campaign has an objective, yet if you ask most managers what the objective of their white paper is, they probably couldn’t tell you. Too many see white papers as an opportunity to merely collect and publish a pile of research material they found on the Web using Google. To make your white paper successful, you must define the marketing objective before writing a single word.
+
+For example, a manufacturer found that consumers were not buying their do-it-yourself (DIY) underground sprinkler kits, because home owners perceived installing the irrigation system by themselves as too difficult. Solution: a free DIY manual on how to install an underground sprinkler system in a single weekend. Clearly written and illustrated, the manual overcame the perception that this was a tough project, making it look easy.
+
+In the pre-Internet era, bait pieces such as the sprinkler guide were mainly paper and ink. Thanks to the PC and the Internet, bait pieces can now be produced as PDF files and instantly downloaded online. But at the receiving end, they are usually printed by the prospect and read on paper.
+
+It may be that what’s wearing out is not free content, but the standard white paper format: pages of black ink on 8½ x 11–inch sheets of paper. To make your bait piece stand out, consider using alternative formats: DVDs, CDs, data on thumb drives, podcasts, webinars, tele-seminars, flash cards, stickers, posters, software, games, and slide guides.
+
+A slide guide is a cardboard promotional item with a moving slide or wheel that allows the prospect to perform some simple calculation (e.g., convert inches to centimeters or determine the monthly payments on a mortgage).
+
+Most white papers are six to ten pages—about 3,000 to 4,000 words—but you are not locked into that length. You can go shorter or longer, depending on the content you want to present and the marketing objective of the bait piece. The bait piece can be as short and simple as a list of tips printed on one side of a sheet of paper. Or it can be as long as a self-published paperback book.
+
+Free content offers have been used effectively in marketing for decades, and rather than tiring, they have been given new life, thanks in part to the information-oriented culture spawned by the Internet. “Every organization possesses particular expertise that has value in the new e-marketplace of ideas,” writes David Meerman Scott. “Organizations gain credibility and loyalty with customers, employees, the media, investors, and suppliers through content.”3
+
+
+
+
+
+9 STEPS TO MARKETING WITH WHITE PAPERS
+
+
+This section shows how to plan a white paper marketing campaign for your product or service. Elements of the plan include:
+
+Target markets—the groups of buyers who share a common problem, including their demographic and psychographic profile.
+
+Problem identification—a clear definition of the pressing problem your product can help these buyers to solve.
+
+Solution identification—why your product or methodology is a superior solution. Includes an evaluation of strengths and weaknesses of your product versus the competition.
+
+Content—the type and format of the information you are going to provide these prospects in your marketing (e.g., online tutorials, regional seminars, standard white papers).
+
+Media—where to reach these buyers (i.e., lists, databases, publications, Web sites, other media).
+
+Tactics—means by which you will reach these prospects (i.e., direct mail, advertising, e-mail marketing, print advertising, radio spots, trade shows, and other marketing communications).
+
+Schedule—quantities of promotions and when they are to run.
+
+Budget—what it will cost.
+
+Metrics—how you will measure results to evaluate whether the objectives have been achieved.
+
+
+
+
+
+STEP ONE: DETERMINE YOUR TARGET MARKET
+
+
+Your target market is the group of buyers who share a common problem, including their demographic and psychographic profile. Most marketers already have a pretty good idea of their target market. For instance, if you sell dental office equipment, your prospect is the dentist and his or her office staff.
+
+Big corporations routinely spend thousands of dollars on expensive and elaborate market research studies designed to help them get inside the minds of their customers. These can include mail and online surveys, telephone interviews, and focus groups. Entrepreneurs running small businesses become worried that if they don’t do this kind of expensive market research, they won’t know how to reach their prospects and will fail miserably.
+
+But for many small companies, the cost of even one study from one of the big market research companies would wipe out their entire marketing budget for the year. Relax. The good news is that focus groups and other formal market research studies are completely unnecessary.
+
+“But how will I understand my customers?” you may ask. Simple: just use my colleague Michael Masterson’s BDF formula, which stands for Beliefs, Desires, and Feelings. The BDF formula says that you can understand your prospect by asking yourself three simple questions:
+
+“What do my prospects believe? What are their attitudes?”
+
+“What do my prospects desire? What do they want?”
+
+“What do my prospects feel? What are their emotions?”
+
+There’s little or no market research required, because you probably already know these things about your prospects. You really do! As Dr. Benjamin Spock used to say: “Trust yourself. You know more than you think you do.”
+
+For instance, a company that provides “soft skills” training to information technology (IT) professionals was promoting a new on-site seminar. It sent out a flyer with the title of the program as the headline: “Interpersonal Skills for IT Professionals.” It generated less than half a percent response. (The offer was more detailed information about the program and registration.)
+
+So the marketing manager and the owner brainstormed and asked themselves the BDF questions. Here’s part of what they came up with:
+
+IT professionals BELIEVE that technology is all important … and that they are smarter than the non-techies they serve.
+
+IT professionals DESIRE recognition … respect … continuing opportunity to update their skill set in new technologies and platforms … job security … more money.
+
+IT professionals FEEL an adversarial relationship with end users … they are constantly arguing with them … and they resent having to explain their technology to us ignoramuses.
+
+
+
+Based on this BDF analysis, the company rewrote the letter and tested it. This time, it generated a 3 percent response, outperforming the old mailing by 6 to 1. And one-third of those inquiries purchased an on-site one-day training seminar for $3,000. That means for every one hundred pieces mailed, at a total cost of about $100, they got three leads … and one order for $3,000 … a 30-to-1 return on their marketing investment.
+
+Oh, and the headline based on the BDF analysis? It was this:
+
+
+
+
+
+IMPORTANT NEWS FOR ANY IT PROFESSIONAL WHO HAS EVER FELT LIKE TELLING AN END USER, “GO TO HELL.”
+
+
+Says the company owner, “The BDF formula forced us to focus on the prospect instead of the product (our seminar), and the result was a winning promotion.”
+
+Amount of money spent on market research before the mailing? Not a dime.
+
+
+
+
+
+STEP TWO: PROBLEM IDENTIFICATION
+
+
+Next, you need a clear definition of the pressing problem your product can help these buyers solve. What are your customers most concerned about that your product can help them with? Or as my colleague Don Hauptman is fond of asking, “What’s keeping these prospects up at night?”
+
+Marketing reaches prospects on a deeper level when it starts with those prospects—their needs, problems, concerns, worries, fears, and desires—and then connects those needs and wants to the benefits the product delivers.
+
+
+
+
+
+* * *
+
+
+
+ONE THING CONTENT MARKETING CANNOT DO
+
+White papers, and in fact all the marketing you do, cannot create a need or make someone want a benefit they do not already want. As Eugene Schwartz explains in his book Breakthrough Advertising:
+
+“The power, the force, the overwhelming urge to own that makes advertising work, comes from the market itself, and not from the copy. Copy cannot create desire for a product. It can only take the hopes, dreams, fears, and desires that already exist in the hearts of millions of people, and focus those already-existing desires onto a particular product. This is the copywriter’s task: not to create this mass desire—but to channel and direct it.”
+
+
+
+* * *
+
+
+
+Content marketing does not, for instance, create the desire among IT professionals to keep their computer systems safe from hacking and computer viruses. It was not until that desire already existed as a major concern that sales of firewalls, antivirus software, and other security solutions took off.
+
+What you as a marketer can do in this instance is (a) dramatize the severity and urgency of the problem to create even greater awareness among IT professionals, and (b) educate them about the best, most reliable, and most affordable solutions for solving the problem.
+
+For instance, SurfControl, a company since acquired by Websense, had a product that filtered unwanted Internet content. One of the goals of its content marketing program was to educate prospects about the dangers that unwanted Internet content, such as that delivered by spam and instant messaging, as well as use of the company computers for personal purposes, (e.g., checking stocks) pose to their networks and corporate productivity.
+
+
+
+
+
+STEP THREE: SOLUTION IDENTIFICATION
+
+
+Once you have clearly identified the problem, you want to offer a solution. In a conventional marketing campaign, this solution would clearly be the product or service you are selling. But in a content marketing campaign, we often position the white paper itself as a solution (albeit, a partial solution) to the prospect’s problem.
+
+So, for instance, if the prospect is a Web master struggling with the question of whether to spend a lot of his company’s money on a content management system (CMS), a white paper on “How to Calculate ROI from Your CMS” may be just the thing he needs to make the decision.
+
+Should your marketing materials focus on the product or the lead magnet? It’s not always clear. But here’s a rule of thumb that direct marketers have been using for decades with good results:
+
+If you have an exceptionally strong free content offer, LEAD WITH THE OFFER in your copy. On the other hand, if the offer is not strong, lead with the prospect’s problems and then offer the product as the solution. Therefore, I suggest the following guidelines:
+
+If your white paper is just average—meaning the content is either average or not of compelling interest to the prospect, or there is already a lot of similar information on the topic available—do not stress it in your advertising.
+
+If your white paper is superior—great quality content, valuable information, hard-to-get data, unique format or manner of presentation—consider stressing it early in your copy, perhaps even in the headline.
+
+If your product is similar to other products in its category, find an important aspect of the product that your competitors do not stress, and educate your prospects about this by offering them a free white paper explaining it.
+
+If your product is superior—more features, innovative technology, superior quality—devote a lot of your copy to making the case for its superiority, and then close with the offer of a white paper as an added incentive for prospects to response.
+
+
+
+
+
+STEP FOUR: CONTENT
+
+
+Here are a few more tips for writing white papers:
+
+The narrower the topic, the better.
+
+Tailor the content to the primary prospects (e.g., CEO, process engineer, plant manager).
+
+Craft the content so it helps move readers to the next step in the buying process.
+
+
+
+What main points and secondary points should be covered? You can determine this by making a content outline. Show it to subject matter experts (SMEs) in the company. They will tell you what doesn’t belong and add what you may have left out, as well as correct technical errors.
+
+
+
+
+
+STEP FIVE: MEDIA
+
+
+Where and how can you reach potential buyers—your target audience? To get results, you must promote your offer of a free white paper to prospects, and that is usually accomplished through some form of direct marketing.
+
+Direct marketing through postal mail or e-mail is difficult unless you can obtain a list of prospects in your target market. Look around to see what’s available in your target market with regard to mailing lists, databases, publications, Web sites, trade shows, conventions, professional associations, newsletters, e-zines, and other media. The more targeted your list, the greater the response rate to your marketing campaign.
+
+On an episode of President Donald Trump’s reality TV program The Apprentice, Trump gave the same assignment to two competing groups: create a bridal shop and hold an evening sale; whichever team had the higher sales would win.
+
+Team A’s marketing strategy was to print up flyers on the sale and hand them out at Penn Station during rush hour. Trump questioned the wisdom of this strategy, asking, “How many people are thinking of getting married when they get off the train to go to work in the morning?”
+
+Team B’s marketing strategy was to obtain a large e-mail list of New Yorkers who are getting married and e-mail a notice about the sale to the list.
+
+I think you can guess the outcome: Team A’s store was virtually empty. They had only a handful of shoppers, and sold just two dresses, grossing $1,000.
+
+Team B’s more targeted e-mail marketing strategy was the winner: they had people waiting in line to get into the shop, sold twenty-six dresses, and grossed more than $12,000 in sales, outselling Team A by better than twelve to one. (Sure enough, Trump fired Team A’s leader that week.)
+
+The point: the more targeted your media-mailing lists, online lists, banner ads, magazine and newspaper ads, radio and TV commercials, the more prospects who will download your white paper.
+
+
+
+
+
+STEP SIX: TACTICS
+
+
+Tactics are the means by which you will reach your prospects (i.e., direct mail, advertising, e-mail marketing, print advertising, radio spots, trade shows, banner ads, pay-per-click ads, joint ventures, and other marketing communications).
+
+Part of your decision regarding tactics is governed by cost and availability. For instance, if there is no list you can rent of prospects with their e-mail addresses, you probably can’t use e-mail marketing to reach them. Sometimes there is a mailing list priced at a reasonable rental cost of $100 per thousand e-mails. But if the list owner wants $1,000 per thousand, e-mail is not going to be economically feasible.
+
+Another factor governing tactic selection is your prospects. E-mail marketing will not work if the majority of your prospects don’t have access to the Internet—which, surprisingly, is still about half of the world’s population.4
+
+
+
+
+
+STEP SEVEN: SCHEDULE
+
+
+A useful schedule has all project tasks and milestones (e.g., “first draft of white paper”), their due dates, and the people responsible.
+
+Most white paper campaigns have multiple components and involve multiple contributors, reviewers, and approvers. Without a project schedule, including the tasks, steps involved in the task, the person responsible for each step, and the date the step must be completed, the likelihood of timely completion is remote.
+
+
+
+
+
+STEP EIGHT: BUDGET
+
+
+Budget is simply what the campaign will cost. To make a budget, you first make a list of the campaign deliverables.
+
+For the white paper, your costs are copywriting, design, and—if it is a hard copy document—printing and binding.
+
+There is also the cost of inquiry fulfillment, which refers to sending prospects who respond to the mailing the bait piece and other materials they requested. When you automatically fulfill requests for your white paper by sending a PDF via autoresponder, inquiry fulfillment is close to free.
+
+However, don’t forget to factor in the cost of your marketing campaign. Just because it is mainly digital doesn’t mean it’s free.
+
+On the contrary, digital marketing can in fact be relatively expensive. Your spending on banner ads, Google ads, Facebook ads, e-mails to rented lists can easily run into thousands of dollars a month, per week, or even a day.
+
+
+
+
+
+STEP NINE: METRICS
+
+
+Determine your goals. Key metrics for white paper marketing campaigns include:
+
+Click-through rates to the white paper landing page.
+
+Conversion rates of click to white paper downloads.
+
+Inquiries from white paper recipients via e-mail or phone.
+
+Number of white paper recipients who are qualified prospects for the product.
+
+Percentage of white paper recipients who make a purchase.
+
+
+
+
+
+BLOGS
+
+
+Blogging, which in its most basic form is journaling online—although it has farther-reaching ramifications—has gained national prominence over the past two decades.
+
+According to SoftwareFindr, there are more than half a billion blogs on the Web. Techjury reports that 77 percent of Internet users read blogs, and that adding a blog to your existing Web site can increase traffic by as much as 434 percent.5
+
+Search engines like content, and when you blog, you’re posting lots of new content to your Web site on a regular basis. Adding an active blog to your Web site will almost surely boost your search engine rankings.
+
+Unlike articles and white papers, which are traditionally one-way communications (you write it, your subscribers read it), blogs are a two-way online medium, a means of starting a lively conversation about an interesting topic.
+
+One effective blogging technique is to make a strong statement in your post, and then ask the reader for a response (e.g., I often end my posts with a question such as “What do you think?”). Another blogging technique that stimulates conversation is to withhold your opinion but ask readers for theirs.
+
+If you are discussing an article you or another source has already published, be sure to put a reference to the original article in your blog post. Hyperlink that reference to the actual article online, if it’s available.
+
+Many business blogs are written in the voice of a single author who becomes familiar to the readership over time, building a relationship and trust.
+
+Where appropriate, hyperlink a sentence or two in your posts to relevant material such as articles or Web sites covering the same topic as the post.
+
+According to Orbit Media, the average blog post is about a thousand words and takes more than three hours to write. Your blog should have at least one new post per week.6
+
+There are many blogging platforms. WordPress, an open-source software platform, is the most commonly used platform for creating blogs, and some hosts will set that up for you with just one click. WordPress comes with free and paid themes, but also check out others that can be used. For WordPress, there is the downloadable version you can get for free at WordPress.org. If you go this route, then make sure your hosting company supports the WordPress platform, and most do.
+
+The other version is found at WordPress.com, where WordPress hosts your blogging page, but is very minimal in terms of extending it farther. Extra purchase options are a custom domain name and added storage. You cannot use advertising platforms, such as Google AdSense.
+
+You will also run across the term “WordPress Theme Frameworks,” which means that the WordPress version you downloaded from WordPress.org has been taken by a company of developers and recoded to be more efficient, using its own toolkits. Some charge fees to get their package, while others offer them for free, such as CherryFramework.com.
+
+
+
+
+
+CASE STUDIES
+
+
+According to copywriter Heather Sloan, case studies are often more effective than brochures and traditional sales collateral. Why?
+
+“Everyone loves a story,” explains Heather. “Never did this wisdom ring truer than in sales conversations and marketing pieces. Stories paint pictures. Stories evoke emotions. Stories are memorable. Stories give your presentations sticking power. The easiest way to tell a marketing story is by case study.”
+
+A case study is a product success story. It tells how a company solved a problem using a specific product, process, method, or idea. As with other marketing techniques, case studies fluctuate in popularity: while almost any company can profitably market with case studies, an informal survey of B2B Web sites shows that most companies don’t take full advantage of the power of case study marketing.
+
+While case studies need not adhere to any one formula, here are some guidelines.
+
+The average case study is relatively brief: one or two sides of an 8½ x 11–inch page, or approximately 800 to 1,500 words. More complex or in-depth case studies can run 2,000 to 2,500 words.
+
+An effective case study makes the reader want to learn more about the product it features. It’s a soft-sell proposition designed to compel your prospects to request more detailed information. If you’ve mirrored the readers’ problem successfully, the case study will propel them deeper into the sales funnel and closer to buying.
+
+For the most part, case studies are not overly technical: they are written in a style similar to that of a magazine feature article. The intent of a case study is not to present in-depth minutiae and analytical data, but to briefly describe how a product or service can effectively address and solve a particular problem.
+
+You needn’t be creative or reinvent the wheel when creating a case study. Most case studies follow some variation of this time-tested outline:
+
+1—Who is the customer?
+
+2—What was the problem? How was it hurting the customer’s business?
+
+3—What solutions did they look at and ultimately reject, and why?
+
+4—Why did they choose our product as the solution?
+
+5—Describe the implementation of the product, including any problems and how they were solved.
+
+6—How and where does the customer use the product?
+
+7—What are the results and benefits they are getting?
+
+8—Would they recommend it to others and why?
+
+“We don’t have formal guidelines for case studies,” said Mark Rosenzweig, the former editor of Chemical Processing, a trade publication that has been running case study articles for decades. “Generally we’re looking for a relatively recent installation, say within the last two years, of innovative technology. What issues prompted the installation? What did it involve? What results have been achieved? We’re generally looking for 1,500 to 2,000 words.”
+
+Because case studies are presented in a story format, readers are naturally more inclined to take an interest—especially if the story has some sort of benefit to them. Unlike sales presentations, case studies are all about showing how a product or service works, rather than telling. Since the product benefits are extolled by an actual user—and not the manufacturer—the claims are more believable.
+
+By using a satisfied customer as an example, a case study essentially demonstrates how well your product works. Rather than present a pile of facts and figures, you tell an engaging story that vividly shows your product’s effectiveness.
+
+An equally strong selling point is the level of empathy a case study creates between your prospects and your satisfied customers. People tend to identify with people like themselves. Prospects feel far more at ease listening to their peers. They relate better, because they often share the same issues and problems.
+
+Readers also believe case studies more than other sales literature. They are skeptical of ads and find brochures full of puffery, and even podcasts and company blogs can seem self-serving. But in a case study, a customer who has no motive or financial incentive to praise the product does so, creating instant credibility.
+
+A survey by Forrester Research Inc. shows that 71 percent of buyers base their decisions on trust and believability. Relating your customers’ positive experiences with your product is one of the best ways to establish credibility in the marketplace. Giving your customers confidence in what you’re offering dramatically increases the likelihood they’ll do business with you.
+
+One of the best sources of candidates for case studies is the sales force. However, salespeople prefer to spend their time selling. They are often indifferent to marketing communications and view participating in case studies as an aggravation with no direct reward to them.
+
+You can get salespeople excited about finding case study candidates by offering them tangible incentives: the sales rep gets cash, merchandise, or a travel incentive if her candidate is chosen and profiled in a case study. When offered a nice incentive, the sales force suddenly gets excited about the case study candidate search. The incentive does not have to be huge, but it should be desirable—a new iPod, for example.
+
+To prepare the case study, a writer interviews the person in the customer organization who is most involved in the application. For a small business, this may be the owner; for a larger company, it could be a plant manager or engineer. Before the writer calls, the vendor salesperson or account manager handling that customer should call and make sure the customer is willing and even eager to participate. Case studies written about reluctant or hostile users are difficult to create and rarely successful.
+
+During the interview, get as many good quotations as possible. Use these quotations in the case study text and attribute them to the person being interviewed.
+
+Reason: the quotations in published case studies can do double duty as testimonials.
+
+Tip: If the subject is not saying exactly what you want him to say, use the “So are you saying” technique. Say to the subject, “So are you saying that…” followed by the statement you want him to make. If he answers “yes, that’s what I am saying,” you can attribute your phrasing to the subject.
+
+Often prospects are vague with their answers, and it is up to the interviewer/writer to wring the specifics out of the interview. Whenever possible, get the subject to give you numbers, so claims and results can be specific.
+
+For instance, if the subject says the product reduces energy costs, but can’t say by how much, pin him down: “Did it reduce energy consumption more than 10 percent? More than 100 percent?” He will give you a guesstimate, which you can use as an approximate figure (i.e., “The XYZ system reduced plant energy consumption by over 10 percent”).
+
+Before the case study can be released, the subject of the case study must approve and sign off on it. Keep these releases on file. If the subject takes a job with a different company, you may lose track of him. So you can’t afford to lose track of his signed permission form. Otherwise, if your authorization to use the case study is questioned, and you can’t produce a signed release, you may have to remove that case study from your site.
+
+Ask subjects of case studies whether they are willing to serve as reference accounts. That way, a prospect whose needs relate to a particular case study can in fact speak with the product user featured in that case study. Check your reference account list periodically to make sure names and numbers are current; update as needed.
+
+
+
+
+
+18
+
+
+
+GETTING YOUR COPY WRITTEN
+
+
+
+If you’re a business owner or employer who doesn’t write copy, today there are multiple options for getting your copy written. Some have been actively used for decades. Others were infrequent when I started forty years ago, but have exploded in popularity. A handful, most technology driven, are relatively new. In this chapter, we explore the options and how to best take advantage of each.
+
+
+
+
+
+OPTION #1: WRITE YOUR OWN COPY
+
+
+Back in the day, many clients wrote their own copy for these primary reasons:
+
+They already had a deep understanding of their product and their markets, and found it easier to use that market and product knowledge to write their own copy, rather than take the time to explain it to a copywriter who was not as conversant in their business.
+
+Clients did not value copywriting as a specialized skill. They believed everyone can write. So why not write their own copy instead of paying a copywriter?
+
+The copy that came back from the professional copywriters they hired was not exactly as the client would have written it, or else contained mistakes ranging from technical errors to sales appeals that missed the mark. And they found it a frustrating nuisance to direct the copywriter to write the ad exactly as they themselves would have done.
+
+
+
+In fact, you know your market and product better than outside writers and agencies. And some clients, especially today, when a plethora of copywriting courses are available, can gain considerable copywriting chops. For many of these copy-competent clients, they find that the best option is to write some of the copy themselves and assign other projects to staff or freelance writers.
+
+As a rule of thumb, the copy-competent client may choose to write his own copy when:
+
+The product is highly technical and requires specialized background (e.g., an engineering degree) to understand.
+
+The client feels in the time it would take to bring a writer up to speed, he could write it himself.
+
+He wants it written in his “voice” and doubts that a writer could capture that voice.
+
+
+
+The copy-competent clients may prefer to outsource the writing of a promotion when:
+
+The client doesn’t have time to write the copy.
+
+The client does not have the desire to write the copy.
+
+The client feels his time is better spent on other tasks.
+
+
+
+
+
+OPTION #2: OUTSOURCE
+
+
+Many clients, however, either can’t write their own copy, do not want to write copy, or do not have time to do so, and know they should instead focus on their core competencies—whether that’s machine learning or circuit design. These clients often hire outside copywriters, either freelancers or agencies, for several reasons.
+
+First, writing copy takes time. And busy executives realize that writing copy is not the highest and best use of their time.
+
+Some view writing as an unwholesome mental chore to be avoided at all costs; it’s just not in their wheelhouse.
+
+Third, they find that professional writers produce superior copy.
+
+This should neither surprise them nor give them an inferiority complex.
+
+Think of it this way. I write copy sixty hours a week and have been doing so for forty years. For that reason, I’m probably a little bit better than most business owners and managers who have many other responsibilities and tasks to juggle.
+
+A “little bit better” may not seem like much. But when promoting a consumer e-commerce product online, raising the conversion rate only a few percentage points can, in my experience, increase gross revenues by many hundreds of thousands of dollars or even more.
+
+Writing in PR Daily, Jake Herway gives these tips on how clients can work more effectively with freelancers and independent contractors:1
+
+Consistently clarify expectations.
+
+Orient freelancers and their peers to the larger purpose and the goal.
+
+Give freelancers opportunities to communicate with client staff members to enhance productivity and build rapport.
+
+
+
+
+
+OPTION #3: INSOURCE
+
+
+Insourcing means you assign the copy to various people employed full-time at the company, typically those working in a marketing communications function. But some clients recruit others, including technical writers, public relations specialists, and sometimes engineers.
+
+Unlike when hiring freelancers, who get a briefing, go away, and come back with a first draft, there are three advantages to insourcing.
+
+First, while a freelancer may be working on half a dozen projects, the staff writer can be assigned 100 percent to yours.
+
+Second, insourced writers have easier access to subject matter experts. These SMEs often have offices right down the hall. And some can enrich your knowledge by sharing their own stories, views, and specialized expertise that may not be in the copy briefing. They can also review your draft in progress and give you important direction on here that may be reflected throughout the rest of the piece.
+
+Third, most freelance copywriters sit alone in a room and write. Many corporations have multiple copywriters on staff. Members of the copywriting team can lend a helping hand to one another, from reading and reviewing rough drafts to helping one another come up with fresh campaign ideas.
+
+The primary reasons many businesses today outsource their copy despite the above factors are these: (a) many business owners do believe copywriters possess specialized skills that result in high response rates and (b) they can easily test this outside copy against copy written by other sources. In some cases, they may test the new copy against the copy they already have been using to determine whether the fresh copy in fact produces improved results.
+
+
+
+
+
+OPTION #4: SOFTWARE
+
+
+Increasingly, robots and artificial intelligence (AI) software are taking over tasks and jobs once performed by human beings. Can this happen with writing?
+
+According to an article in Popular Science, published just recently as I write the updates for this new edition,2 a computer program coded by Sverker Johansson has written 2.7 million articles, accounting for 8.5 percent of the entries in Wikipedia.
+
+Persado, an AI software company, has created algorithms that compare e-mail subject lines and their click rate. From this data, the software creates new subject lines. Based on data analysis, Persado subject lines almost always outperform those written by humans.3
+
+
+
+
+
+WHY SOME CLIENTS DON’T RESPECT THEIR COPYWRITERS
+
+
+Copywriters and their work are frequently criticized, and some writers get offended. Why do many copywriters “get no respect”? I can think of two reasons.
+
+First, writing is more subjective than most other fields. An accountant can point to a ledger and prove that the books balance. A lawyer can back up her case with legal precedents and logical arguments.
+
+Writing copy is not so cut-and-dried. There may be dozens of ways of writing an ad, each with merit. The copywriter can say he thinks his way is best. But he can’t prove his ideas are superior. The client has to take it on faith … and few do.
+
+Of course, there are guidelines for effective copy, presented earlier in this book, among other places. Unfortunately, many clients and writers are not aware of these rules. And without a clear idea of what makes good copy, how can the copywriter defend his work and say that it’s good?
+
+The second reason clients don’t respect writers is that, way down deep, many clients fancy themselves better writers than their copywriters.
+
+Doctors, lawyers, accountants, plumbers, mechanics, and software engineers deal in areas so technical and complex that their clients don’t know enough to interfere. But everybody can write. (Even parrots and mockingbirds use language!) So there is less mystery to the copywriter’s work, and clients are more confident that they could write the ad or letter “if only I had the time.”
+
+If you’re hiring outside copywriters, here’s a three-step recommendation to improve the relationship:
+
+1. Hire the right copywriter for the job: someone who fits in with the product and your company.
+
+2. Work with the writer on a professional basis. Treat the writer with the same respect you would your lawyer, accountant, or doctor. Stand back, and let the writer do her job.
+
+3. Establish logical guidelines for reviewing copy. Base your review on these concrete standards, not on subjective or aesthetic judgments. And, above all, be specific in your criticism.
+
+Let’s look at each step of the plan in more detail.
+
+
+
+
+
+HOW TO HIRE A STAFF OR FREELANCE COPYWRITER
+
+
+How do you go about finding copywriters to hire on a staff or freelance basis? And how do you know which writer is right for your business? Here are ten tips for finding and selecting the best copywriter for the job at hand.
+
+
+
+
+
+1. Ask around
+
+
+Need to find a writer? The best way to find one is through referrals. Ask your friends, colleagues, and acquaintances to recommend writers they have used in the past.
+
+The people most likely to know the name of a good copywriter include:
+
+Local advertising agencies and PR firms
+
+Magazine space reps and editors
+
+Printers, photographers, graphic artists, design studios, and other outside vendors
+
+Communications managers of nearby manufacturing and service firms
+
+
+
+
+
+* * *
+
+
+
+LOOKING FOR COPYWRITERS ONLINE
+
+Most copywriters I know have Web sites, so you can find plenty with a Google Search.
+
+The most important things you should look for: online portfolio of copywriting samples, copywriter’s bio and credentials, client list, client testimonials, content (e.g., a blog or newsletter) displaying knowledge of marketing, and a sample agreement for copywriting assignments.
+
+There are also a number of specialty “freelance Web sites” that help connect copywriters with clients. In my experience, these sites tend to attract hungry newbie copywriters who need assignments, and clients whose main concern seems to be finding writers who charge the lowest price.
+
+
+
+* * *
+
+
+
+
+
+2. Choose a writer with experience in your industry
+
+
+There are three advantages to using a writer who knows your business. First, you’ll spend less time briefing her and bringing her up to speed in your technology and your markets.
+
+Second, because the writer already speaks the jargon of your industry, your employees will accept her more readily than they would an “outsider” who doesn’t speak their language. This may be important if you want your managers and engineers to work closely with the writer.
+
+Third, the writer may be able to vet your strategy or suggest new ideas based on her experience working with clients whose products are similar to your own.
+
+Clients have asked me, “Do you have to be a software engineer to write copy on a computer account?” You don’t, and many great computer ads have been written by writers who didn’t know Pascal from Python when they started. On the other hand, a writer with programming experience does have a head start over the writer who has never written code.
+
+The writer you hire doesn’t have to be an expert in your particular product. (She won’t ever know as much about your business as you do.) But she should have a feel for your industry and a knack for writing the type of copy you need.
+
+For example, if you need a writer to write a brochure on your new Caribbean cruise package, don’t insist that the writer have a portfolio full of color brochures or Web sites on Caribbean cruises. Chances are you won’t be able to find such an individual. But you should look for a copywriter specializing in travel rather than one who is more at home with subscription mailings, annual reports, or fashion advertising.
+
+In other words, don’t insist that the writer have specific experience in your product line. Do look for a writer who specializes in your kind of advertising, be it travel, high-tech, home furnishings, or pharmaceuticals.
+
+
+
+
+
+3. Hire someone in your league
+
+
+Not all copywriting assignments require the same level of skill. Writing a bulletin board notice to sell your used Chevrolet doesn’t take the same level of copywriting sophistication that writing a corporate ad campaign for Exxon does.
+
+Copywriters also operate on different levels. There are high-paid specialists, middle-level generalists, and beginners to handle the easy stuff. These writers charge according to their level of skill, and you can save money by not overhiring for the job.
+
+A marketing manager at a small industrial firm needed a cover letter to accompany a new brochure he was mailing to customers, sales reps, and regional offices. Because I have experience writing shorter letters and e-mails for B2B firms, my copy is often successful for these firms, and I charge accordingly—$1,500 minimum for a one-page letter.
+
+
+
+
+
+4. Pick a writer whose style is somewhat in sync with your own
+
+
+The conservative company, thinking that it’s time to improve its image, hires the most creative digital marketing or branding agency in town.
+
+The first ads come in. They’re what you’d expect from a creative agency—creative. “A little too far out for us, though,” says the conservative client. “Can you come up with something a little more dignified. We’re just not sure about the dancing chemical drums.”
+
+“You’re stifling our creativity!” screams the agency, which picks up the presentation, stamps out of the conference room, sends a bill, and refuses to work with the barbaric client anymore.
+
+Moral of the story: an ad agency or freelancer is unlikely to convince the client to make a radical change in their way of doing business. So clients would do well to select copywriters whose approach and style are in tune with their own.
+
+If you like hard-sell ads—ads with coupons, with benefits in the headlines, with price and where-to-buy information, with straightforward body copy that sells the features and benefits of the product—you probably won’t like the ads you get from a copywriter trained on splashy “image” campaigns for national brands. After all, this writer may believe that an ad should have a “clever” headline and a glossy color visual, and that people “don’t read long copy.”
+
+Well, he’s not going to convert you to his point of view. And you’re not going to waste your hard-earned ad dollars so he can win creative awards. The best bet is to stay away from each other in the first place. Hire a writer whose portfolio is full of your type of fact-filled ads. Let a company who wants “showplace” ads hire the creative guy.
+
+Do you like long-copy ads or short-copy ads? Fancy color photos or plain-Jane graphics? Informational copy or emotional copy? Plain language or purple prose? Choose a copywriter whose style and “advertising philosophy” fit in with your own. You’ll both be happier with the working relationship—and with the copy it produces.
+
+
+
+
+
+5. Taking the first step
+
+
+Let’s say you have the name of a copywriter you want to hire. The first step is to phone or write her and ask to see background material on her copywriting services.
+
+At the very least, you want to see samples of her work, a résumé or capsule biography, and a list of clients. Many experienced copywriters already have a standard information package prepared that contains all of this and more. Novices often have to be told what to send you.
+
+Here are the things to look for when evaluating the freelancer’s information package or Web site:
+
+•  Is it well written? If the freelancer can’t promote himself effectively, how can he write copy for services and products with which he’s not intimately familiar?
+
+•  Do you like the sample work? The samples represent what she considers to be her best copy. If you don’t think they show promise, keep looking. This isn’t the right writer for you, and asking to see more samples isn’t going to change anything.
+
+•  Look at the client list. Make sure the copywriter has experience in your industry or in related fields. Don’t hire a straight technical writer to write your new perfume ad. Find a writer who likes doing perfume ads and is good at it.
+
+•  Did the copywriter include information on his fee rate and structure? A true professional will give you his rates up front. He doesn’t want to waste your time—or his—if you can’t afford to pay him.
+
+•  What related writing and communications experience does the copywriter have? A well-rounded copywriter does more than write copy. What else has your copywriter written? Any books? Articles? Papers? Speeches? Seminars? Teaching experience?
+
+•  What overall feeling do you get from the whole thing? You’ve looked over the writer’s material and chatted with her over the phone. Do her package and presentation say “professional” or “amateur”? Do you feel comfortable with the writer and confident that she can handle the job? Gut feelings are important. Go with your instincts.
+
+
+
+
+
+6. Don’t expect something for nothing
+
+
+An amazing number of smaller companies will call me up and say, “We’re a small manufacturer in South Jersey. We don’t do much advertising, but we saw your ad and may need a one-page press release to announce our president’s retirement next month. We’d like to meet with you to check you over. Can you come over this afternoon?”
+
+I have news for you. Unless you’re a major advertiser or ad agency with a large project in hand, you are not going to see me. And why not? Because if I jumped in the car and spent the better part of the day visiting every small business that wanted a $750 press release, I’d have no time to write copy for my dozens of regular and higher-paying clients.
+
+My point is: the copywriter, like a lawyer or doctor, is a professional. If you want his time, you must be willing to pay for it. Few copywriters give free house calls these days.
+
+You may object and say, “But I want to hire you! Isn’t a meeting the next step?”
+
+It doesn’t have to be. We can handle the assignment by e-mail, Skype, or Zoom.
+
+“But I want to meet you!”
+
+Fine. Come to my office and there is no charge. If I have to leave the office, though, I have to charge you for my time—if it’s just an exploratory meeting. If you have an assignment for me, I’ll include the meeting as part of my fee, provided we’ve already agreed that I’m going to handle the project for you.
+
+As I’ve said, I may make an exception if you’re a big advertiser or if you’re dangling an attractive project in front of me. But it’s unreasonable for most clients—smaller companies with infrequent copywriting assignments—to expect the copywriter to come running without compensation. The few projects they have to offer don’t justify the time spent in travel and meetings.
+
+Most copywriters will be glad to chat with you over the phone or in their office. But don’t expect the copywriter to make an out-of-office trip to your plant or office unless you’re willing to pay for a consultation. A writer who earns $1,000 to $2,000 a day or more isn’t going to spend half a day chasing down a $500 assignment.
+
+In the pre-Internet days, the major reason for copywriters to visit clients was to drop off their portfolio case of copywriting samples. But today many copywriters, myself included, post our samples on our Web sites (mine is www.bly.com), where anyone can see them at the click of a mouse.
+
+
+
+
+
+7. Discuss fees up front
+
+
+There’s no point in talking if you can’t afford the writer’s rates. Save yourself a lot of time and find out fees up front.
+
+Most writers can give you rough estimates of what they charge for different jobs: so much for an ad, so much for a sales letter, more for a brochure. Ask to see the copywriter’s fee schedule, if she has one.
+
+These estimates are “ballpark” figures only. The exact fee depends on the specific assignment. But the ballpark figures give you a good idea of what you’ll pay for the copy you need.
+
+If the copywriter charges by time instead of project, find out her rate for a week, day, half day, or hour. Ask how long she thinks your project will take. Multiply the number of days by the day rate to get the total cost estimate.
+
+Also discuss deadlines up front. The top copywriters are often booked weeks in advance and cannot always handle rush jobs. Some prospects are shocked to learn that I can’t write their ad overnight. They don’t realize that I already have six jobs on my desk, all due in a few weeks.
+
+Find out how much time the writer normally takes to do small projects (ads, letters) and large ones (Web sites, white papers, autoresponder e-mail sequences). If your deadlines are short, say so, and ask the writer if she can meet them.
+
+Copy revisions should also be discussed up front. Are they included in the copywriter’s initial fee or do they cost extra? How many drafts are included in the basic project price? How quickly can the writer make revisions? What happens if there is a change in the nature of the assignment? Are revisions still included? Is there a time limit in which revisions must be assigned?
+
+Make sure you understand the writer’s policy for revisions. Otherwise, it can become a problem area later on.
+
+
+
+
+
+8. Provide complete background information on the project
+
+
+Send the writer all the background information you can. With this material in hand, the writer can give the most accurate estimate as to what the job will cost. Without it, he is “flying blind” because he doesn’t know how much research is involved, and his high estimate will reflect this degree of uncertainty.
+
+You’ll get the best price by giving the writer whatever information he needs to make an informed, accurate estimate of what the copy will cost.
+
+
+
+
+
+9. Get it in writing
+
+
+Put the fee, terms, deadlines, and a description of the assignment in a purchase order or letter of agreement.
+
+A written agreement eliminates confusion and spells out what the client is buying and what the writer is selling. Too many buyers and sellers in all fields of business have gone to court because they made their deals orally. Don’t make the same mistake. A written agreement protects both the client and the writer. So don’t just shake hands on it. Put it in writing.
+
+
+
+
+
+10. Stand back
+
+
+Once you’ve hired the writer and given her the background material, stand back and let her do her job. Don’t interfere; don’t ask to “take a look at the first few pages”; don’t badger the writer with constant “how’s it going?” phone calls.
+
+You’ve hired a professional. Now let the professional work. You’ll get your copy by the deadline date or sooner. And it will be copy that pleases you and is effective in selling your product. If you need changes, the writer will make them. After all, that’s what you’re paying for.
+
+One veteran copywriter says: “On the first draft, the client gets what he needs. On the second draft, the client gets what he wants. On the third draft, the client gets what he deserves.”
+
+
+
+
+
+TIPS ON WORKING WITH YOUR COPYWRITER
+
+
+The best way to work with your copywriter is to leave him alone during the first-draft stage of the project. He knows what he’s doing, and you trust him. Otherwise, you wouldn’t have hired him in the first place.
+
+But, even when the copywriter is working at a distance, it’s important that the two of you start off with a comfortable, mutually agreeable working relationship. Copywriting is a partnership: you provide the information and direction, the copywriter provides the persuasive writing, and together you sell more of a product or service.
+
+If one or both partners aren’t happy, someone won’t be doing his job with enthusiasm. And a job done without enthusiasm is a job done poorly.
+
+Here are some suggestions for maintaining a good working relationship between client and copywriter:
+
+
+
+
+
+1. Pay fairly
+
+
+Pay fair rates for copywriting services performed. Remember, an underpaid worker is an unhappy and unproductive worker. Writers writing for extremely low wages rarely produce exciting prose.
+
+Everything in life is negotiable, but only so far. A good writer with a steady business may take 10 or 20 percent off the price if your assignment interests her. But she can’t afford to—and probably won’t—go much below that.
+
+A writer who needs the work may come very cheaply. But even if you sense you can get it for less, pay a fair wage. If you force the writer down to the bargain-basement price, she’s not going to feel very good about your project. And you want your writer to be enthusiastic, not apathetic.
+
+
+
+
+
+2. Pay on time
+
+
+There are few things as unpleasant in business life as trying to collect an unpaid invoice. Unfortunately, it’s not unusual for clients to be four, six, even eight weeks or more behind in their payments to their freelancers.
+
+Pay on time—in thirty days—and the freelancer will get a warm glow inside whenever you call. Better still, get a check out in ten days or less, and the freelancer will try to perform miracles for you on your next ad or campaign.
+
+
+
+
+
+3. Cooperate
+
+
+Provide complete background information on the product, your audience, and your objectives. Be available to answer questions or give direction. Review outlines and rough drafts in a timely fashion.
+
+One person from the client organization should be the contact between the company and the copywriter. It is inefficient for the copywriter to have to track down executives from half a dozen different departments of your firm, and this can result in conflicting instructions.
+
+
+
+
+
+4. Don’t waste time
+
+
+Avoid unnecessary meetings. Maybe a meeting or two will be needed, but most of the writing and revision can be handled by e-mail and phone.
+
+Don’t feed information or revisions to the writer one piece at a time. Give him the background information or the instructions for the rewrite in one shot.
+
+It is good manners not to keep people waiting when they have an appointment with you. This applies to copywriters, too.
+
+To the copywriter, time is money. If you do not waste their time, your account will be profitable to them, and they will gladly devote themselves to giving you the best copy possible.
+
+On the other hand, the more you waste the writer’s time, the less profitable the project becomes. The writer might either devote less time to writing your copy or drop your account.
+
+In general, writing copy should not require a great deal of contact between client and copywriter. The fewer number of contacts, the better. Meetings should never be more than two hours long and should follow a tight agenda. Phone conferences should be brief and to the point.
+
+Not only will the writer save time (and possibly charge you less as a result), but you will save time, too.
+
+
+
+
+
+5. Let them hear from you
+
+
+The copywriter mails his copy and never hears from the client until the next project. His insides are twisted with worry. Did the client hate the copy or did they love it? Probably they loved it—no news is good news—but the writer doesn’t know.
+
+A kind word from a client—a quick phone call or a brief, one-line note of praise—can do wonders for the copywriter’s ego. Writers seldom receive feedback on their work, even when the reaction is favorable.
+
+A thank-you note will be much appreciated by the writer starved for praise and ego gratification. Sincere flattery can quickly put you at the top of the writer’s “favorite clients” list. And the benefits of this—better service, better copy—are far in excess of the effort involved.
+
+
+
+
+
+6. Critique copy rationally
+
+
+“I don’t like it” is a meaningless critique and a frustrating response for the copywriter to deal with.
+
+The key to reviewing copy is to give specific, objective criticisms. Subjective and vague comments don’t give the writer any guidelines for revision and often lead to hurt feelings, defensiveness, and a gradual collapse of the client-copywriter relationship.
+
+Below are nine rules for reviewing and approving copy. They will eliminate bad feelings and misunderstandings and give the copywriter the guidelines he or she needs to rewrite the copy so that it will be acceptable and effective.
+
+
+
+
+
+THE #1 MISTAKE IN CRITIQUING COPY
+
+
+Simply put, you should not hire copywriters to write ads exactly as you would have written them if only you had the time.
+
+Rather, you select a good copywriter whose style you like, then sit back and let them write it in their own natural style.
+
+If there are rules or guidelines your company abides by (e.g., never just say your product is “better,” but rather be highly specific about what makes it different and superior to other products in its category), make note of those errors in your copy critique. Even better would be to inform the writer about your rules and guidelines before he starts writing.
+
+The key here is not to edit and rewrite strong copy from an experienced writer so that it sounds exactly like you would have written it. If you feel compelled to do so, don’t assign the project to other writers. Instead, write it yourself.
+
+There are two reasons for this. First, copywriters are not mind readers, so it’s impossible for them to know exactly how you’d write the ad. Second, hamstring good writers, and they concentrate on trying to please you rather than writing copy that sells the product. And serving two masters, in this case you and the market, almost never works.
+
+
+
+
+
+MORE WAYS TO REVIEW AND APPROVE COPY
+
+
+Reading and reviewing copy is as much an art as writing copy is. Here are some other guidelines to help you review copy in such a way that you end up with the strongest promotion possible:
+
+
+
+
+
+1. Be specific
+
+
+Make your critique of the copy factual and specific. Show the copywriter where he went wrong—and how you want him to fix it.
+
+Some examples of nonspecific versus specific criticisms:
+
+Nonspecific:
+
+Specific:
+
+
+
+“Not enough pizzazz.”
+
+“Our product is the only one that offers these features. The copy should stress its uniqueness more strongly.”
+
+
+
+“The copy doesn’t ‘position’ the product.”
+
+“Our process is 20 percent more efficient than the competition’s. That should be in the headline.”
+
+
+
+“The ad is dull and boring.”
+
+“Put in less about the technical features and more about what the product can do for people.”
+
+
+
+“It doesn’t tell the story we want to tell.”
+
+“Here are the four consumer benefits the copy should cover.”
+
+
+
+“I don’t like it.”
+
+“This is a good start. But there are some specific changes I’d like to see. Let me tell you what I have in mind.”
+
+
+
+Remember, it is not enough to say you want changes in the copy; you must specify what those changes are.
+
+This does not mean that you should do the copywriter’s job and rewrite the copy yourself. It does require that you write down specific, factual changes and corrections you want made and give them to the copywriter so he can rewrite your copy to incorporate these changes.
+
+And be sure to give these instructions in writing, not orally (unless they are very brief and very minor). The act of writing out your comments forces you to be more specific. Use Word’s Track Changes or Comments feature to mark up the electronic draft; this makes your edits easier to read and eliminates the need for the copywriter to struggle with your handwritten notes.
+
+
+
+
+
+2. The fewer levels of approval, the better
+
+
+Who should have approval authority? A product manager. A technical expert, usually an engineer or scientist. The marketing manager. The sales manager. And the company president. But certainly no more than that.
+
+Everybody has a different opinion of what should appear in an ad. By trying to please a committee, you end up with an ad that is too spread out, one that is weak and watered down, with no strong selling message or point of view.
+
+Four or fewer reviewers is ideal. Six should be the maximum. Any more, and you are writing ads by committee—and committees cannot write effective ads.
+
+When I write for small companies, my copy is usually approved by one person: the company owner or president. Some of my best copy has been published this way. If others in your organization want to see the copy before it is published, put them on a “cc” list of people who receive informational copies. These people can give you their opinion if they want to, but they have no right of approval or disapproval. Only a handful of team members should have a say over what the final content of the ad will be.
+
+
+
+
+
+* * *
+
+
+
+THE 25-50-25 PRINCIPLE OF COPY REVISIONS
+
+About 25 percent of the changes made by the client improve the copy. Around 25 percent make the copy weaker. The other 50 percent make no difference either way.
+
+My reaction? I make the 25 percent changes that improve the copy and thank the client for their careful review. I also make the 50 percent of changes that won’t affect the copy’s effectiveness one way or the other, and I do it without question or quibble.
+
+For the 25 percent of changes that I believe will adversely affect the campaign’s results, I voice my reasons why to the client. If they do not agree with me, I acquiesce pleasantly.
+
+
+
+* * *
+
+
+
+
+
+3. What about compliance?
+
+
+Compliance means making sure your copy meets all the legal and regulatory requirements required by the federal government and its departments.
+
+For instance, when writing copy to sell dietary supplements, you cannot say that your pill cures a disease. So you can’t say your joint supplement cures or eliminates arthritis. You can say that your supplement supports optimal joint health. Even safer is to say it “can” or “may help” support optimal joint health.
+
+I am not an attorney. I can’t advise you on legal matters or compliance issues.
+
+However, different companies nonetheless follow regulatory rules at varying levels. Some play it looser while others publish compliance copy as tight as a drum.
+
+One experienced direct marketer told me his compliance rule: “For each 10 percent your copy gets closer to strict 100 percent compliance, your response rate drops about 10 percent.”
+
+
+
+
+
+4. Be civil
+
+
+Some clients love to tear apart a writer’s work. Others are merely insensitive. They don’t realize that writing is a highly personal act, and writers take criticism on a personal level.
+
+Adman Amil Gargano says that some people “take delight in browbeating creative people. These are people who have a very fragile ego and a difficult time handling rejection. You should comment on their work in a way that is thoughtful, considerate, and articulate.”
+
+You don’t have to baby writers. Just remember they’re people. And, like your own employees, they are quick to respond to praise and to insult.
+
+Be tactful when you have to tell a writer that his work doesn’t meet your standards. Don’t say, “The copy isn’t very good, and we need a total rewrite.”
+
+Rather, start with praise, then get to the defects. Say, “Overall you’ve done a good job in putting this together. Let me show you our reactions and the changes we’d like you to make.”
+
+Companies spend a great deal of money motivating employees. Outside vendors also respond to the motivators of praise, kindness, courtesy, and decency. Treat your copywriters well, and they’ll give you their best.
+
+My former boss at Westinghouse, T. C. Smith, has a smart and effective way for giving critiques. The first step is to say “What I like about this is” and then praise one or two of the strong points, which you can always find if you look hard enough.
+
+Then you say, “If it were mine to do” and give your criticisms, sometimes referred to as “crits.”
+
+Copywriters are more accepting and less negative about the crits when you start with some words of praise first, as T. C. does in the example above.
+
+
+
+
+
+5. Let writers write
+
+
+“Good clients don’t write copy,” says Malcolm MacDougall, president of SSC&B. “Good clients know in their hearts that nobody from Harvard Business School ever wrote a great ad campaign. That is why they have an agency.”
+
+Let your writers do their job. Don’t write or rewrite copy. If you want changes made, write out what these changes are. But don’t make them yourself. Give them to the copywriter and let him redo the words.
+
+Don’t play schoolteacher or amateur grammarian. The copywriter is the expert on how to use language as a selling tool.
+
+If you think the ad doesn’t reflect your strategy and objective, say so. If there’s a wrong fact, point it out. But don’t change commas to semicolons or dot i’s and cross t’s. Leave writing to the writer.
+
+
+
+
+
+6. Don’t take opinion polls
+
+
+One of my clients had me come up with two versions of a brochure cover. He made his selection by asking his mother, his father, his wife, his wife’s parents, his grandfather, and several friends which they liked better. Cover “B” got more votes and that’s the one he went with. Don’t make the same mistake as my client. Ad copy should be judged by professional businesspeople, not by friends, relatives, and neighbors.
+
+When viewing an ad layout or reading a piece of copy, amateurs judge the ad by aesthetics, not by whether it would move them to buy the product. They’ll pick the pretty layout, the flowery, poetic-sounding copy every time. So, nice as these folks may be, their opinion of your ad shouldn’t play a part in your approval process.
+
+Some marketers circulate the copy, often on Google Docs, to many people, because they believe that the more opinions they get, the better this makes the copy.
+
+I am of the same mind as another former boss of mine, David Koch. One day at the office, more than half a dozen of us were arguing about whether we liked a piece of copy or not.
+
+Then David spoke up and asked us: “Do you know what a moose is?” We didn’t know what to say, so David told us: “It’s a cow designed by committee.” From this, I formulated my own rule of copy review:
+
+I have found that the quality of marketing copy is inversely proportional to the number of people who review it.
+
+
+
+
+
+7. Read copy as a customer, not as an advertiser or as an editor
+
+
+I worry when the client reads copy with pen or pencil in hand. It tells me he’s reading the ad as an editor, and not as a buyer.
+
+Instead, read the copy from the customer’s point of view. Ask, “If I were my customer, would this ad get my attention? Does it hold my interest strongly enough to get me to read or at least skim the body copy? Would I remember the ad, want to buy the product, or be moved to clip the coupon and respond?”
+
+Don’t worry if the ad doesn’t show a picture of the company president or talk about the new conveyor belts in the Kentucky factory. If the customer doesn’t care, then you shouldn’t, either.
+
+
+
+
+
+8. Develop and publish guidelines for copy review
+
+
+As I said, the copywriter can’t read your mind. He can’t know your corporate guidelines, your company’s likes and dislikes, unless you tell him what they are.
+
+Develop a set of rules and guidelines for your writers to follow. These rules should contain both mandatory stylistic requirements (for example, “The company name is to be set in all caps and followed by a registered trademark symbol”) and suggested guidelines.
+
+The suggested guidelines clue copywriters on the way you’re used to doing things. (For example, you might prefer long, informative subheads in brochures rather than short, snappy ones.) However, the copywriter should consider these guidelines as suggestions only. Rules can be bent and broken to make the 

@@ -1,0 +1,962 @@
+según la Bolsa y los dividendos. ¿Qué más necesita un
+accionista?
+
+Los errores admitidos. Esto lo hice bien y esto lo hice mal. Así, en
+primera persona. ¿Qué presidente de una empresa se echa tierra encima?
+Solo Buffett. "Cometí un error particularmente atroz, adquiriendo Dexter
+Shoe por 434 millones de dólares en 1993. El valor de Dexter rápidamente
+se fue a cero", dice refiriéndose a 2016, recordando uno de sus peores
+errores del pasado. Eso se llama humanizar un texto.
+
+La humildad. "Charlie y yo no tenemos un plan mágico para acumular
+ganancias excepto para soñar en grande, y para estar preparados mental y
+financieramente para actuar rápido cuando las oportunidades se presenten".
+
+Las metáforas e imágenes. "Cada década, el cielo económico se
+llenará de nubes oscuras, y solo brevemente lloverá oro. Cuando ocurran
+aguaceros de ese tipo, es imperativo que salgamos al aire libre cargando
+bañeras, no cucharillas. Y eso haremos".
+
+Piropos a los directivos. A cada rato, Buffett valora la destreza de las
+personas que están en puestos de responsabilidad, llamándolas "ese cuerpo
+soberbio de directivos" o "esos ejecutivos estupendos". De hecho, una de
+las fórmulas de éxito de las inversiones de Buffett cuando compra una
+empresa se basa en fijarse en si el personal directivo es bueno, diligente y
+confía en la empresa.
+
+Entusiasmo por su país. "Una palabra resume los logros de nuestro
+país: milagroso. Los estadounidenses han combinado el ingenio humano, un
+sistema de mercado, una marea de inmigrantes talentosos y ambiciosos y el
+estado de derecho para ofrecer abundancia más allá de cualquier sueño de
+nuestros antepasados".
+
+Optimismo por el futuro. Pase lo que pase, las cosas siempre estarán
+mejor que en el pasado. "Sí, la creación de riqueza se interrumpirá por
+períodos cortos de vez en cuando. Sin embargo, no se detendrá. Voy a
+
+
+repetir lo que he dicho en el pasado y diré en los próximos años: los niños
+nacidos en Estados Unidos hoy en día, son la cosecha más afortunada de la
+historia".
+
+Sus sabios consejos. ¿Qué pasa cuando se desata una oleada de
+pánico? "Como inversionista, el miedo general es tu amigo ya que sirve
+para adquirir gangas".
+
+Storytelling o contar historias. Refiriéndose a Ajit Jain, ahora
+responsable del Grupo Asegurador Berkshire, cuenta: "Cuando Ajit entró
+en la oficina de Berkshire en un sábado de 1986, no tenía nada de
+experiencia en el negocio de seguros. Sin embargo, Mike Goldberg,
+entonces nuestro director de seguros, le dio las llaves de nuestro negocio de
+reaseguros, que era pequeño y estaba en dificultades. Con ese gesto, Mike
+alcanzó el nirvana: desde entonces, Ajit ha creado decenas de miles de
+millones [de dólares] de valor para los accionistas de Berkshire. Si alguna
+vez te encuentras otro Ajit, y pudieras cambiarme a mí por él, no lo dudes.
+¡Cierra el trato!".
+
+Más información:
+
+Las Cartas al Accionista de Buffett tienen tanto éxito que ha logrado
+algo maravilloso: reunirlas en un libro, que a su vez se ha convertido en un
+best seller.
+
+El libro, por supuesto, se titula, Cartas de Berkshire Hathaway a los
+Accionistas. En la portada aparece la cara de Warren Buffett. Un artículo de
+la revista Fortune recomendaba diez libros que podían sustituir un MBA, y
+entre ellos estaba el de las Cartas de Buffett.
+
+Las Cartas de Buffet se pueden leer en www.berkshirehathaway.com.
+
+Recuerda que:
+
+Para escribir bien, no tienes que escribir complicado. La razón del éxito
+de Buffett, según Fortune, es que sabe explicarse con claridad y con
+sencillez.
+
+
+
+Textos jurídicos y tropiezos
+
+Cada profesional y cada sector de un país tiene su jerga. Los científicos
+hablan su jerga científica, los médicos la suya y los mecánicos la suya. Pero
+la jerga de los abogados, jueces y procuradores es una de las más
+pedregosas que he encontrado en mi vida como periodista. "Conocer",
+"celebrar" y "casar" tienen un significado diferente del coloquial. Emplean
+latinismos como ex tunc o erga omnes. Sus oraciones son tan largas y llenas
+de subordinadas, que requieren varias relecturas para saber qué se está
+tratando de decir.
+
+Parte de esa jerga es inevitable porque lo requiere el lenguaje judicial.
+Con toda humildad, creo que hay otra parte que sí se puede arreglar. A mi
+juicio, los principales defectos de los abogados es que emplean oraciones
+muy largas (casi no hay puntos), repiten mucho las ideas y les fascinan los
+sustantivos más que los verbos.
+
+Voy a poner dos ejemplos para mostrar cómo resumir y cómo puntuar,
+
+sin que los textos pierdan su rigor.
+
+He aquí el párrafo-océano:
+
+Por su parte el perito Don Ignacio Valverde Yagüe, Inspector de
+Hacienda, ha ratificado su informe, siendo éste la base de los
+escritos de acusación y cuya pericial nos merece plena confianza,
+pues de la inmediación que da la celebración del juicio se ha
+podido observar que el perito ha sido imparcial, ya que entre otras
+cosas ha manifestado que él no hizo las inspecciones, sino que él
+se limitó a analizar los dictámenes emitidos por los otros peritos -
+se refiere a don Vicente Marín y a don Miguel Ángel Molinapero que no tuvo en cuenta las periciales de las Defensas (sin
+embargo a lo largo de su informe se observa que al menos ha
+tenido también en cuenta el informe del Profesor Pérez Royo), ya
+que él lo que hizo fue intentar analizar objetivamente el encargo
+de la Fiscalía de categorías reconocibles en el ámbito tributario.
+
+Y ahora con puntos.
+
+
+
+
+Por su parte el perito Don Ignacio Valverde Yagüe, Inspector de
+Hacienda, ha ratificado su informe, siendo éste la base de los
+escritos de acusación [.] Su pericial nos merece plena confianza
+[.] De la inmediación que da la celebración del juicio, se ha
+podido observar que el perito ha sido imparcial [:] ha manifestado
+que él no hizo las inspecciones [.] Se limitó a analizar los
+dictámenes emitidos por los otros peritos [.] Se refiere a don
+Vicente Marín y a don Miguel Ángel Molina, pero no tuvo en
+cuenta las periciales de las Defensas [.] Sin embargo, a lo largo de
+su informe se observa que al menos ha tenido también en cuenta
+el informe del Profesor Pérez Royo [.] Él lo que hizo fue intentar
+analizar objetivamente el encargo de la Fiscalía de categorías
+reconocibles en el ámbito tributario.
+
+En este caso hay siete oraciones. Así es más fácil de procesar por la
+
+mente humana.
+
+No me cansaré de repetir que las frases demasiado largas despistan al
+lector. Lo más recomendable es sustituir los conectores y las conjunciones
+por puntos. Tardamos segundos en hacerlo.
+
+Se pueden usar más trucos como insertar comas (he insertado algunas
+arriba), suprimir palabras que estorban, convertir sustantivos en verbos y
+muchos más.
+
+Este segundo texto procede de los párrafos de introducción de una ley
+sobre subvenciones. Contiene 303 palabras. Voy a reducirlo a la mitad y a
+darle un pequeño retoque mágico para hacerlo más claro.
+
+Una parte importante de la actividad financiera del sector
+público se canaliza a través de subvenciones, con el objeto de dar
+respuesta, con medidas de apoyo financiero, a demandas sociales
+y económicas de personas y entidades públicas o privadas.
+
+Desde la perspectiva económica, las subvenciones son una
+modalidad importante de gasto público y, por tanto, deben
+ajustarse a las directrices de la política presupuestaria. La política
+los criterios de
+presupuestaria actual está orientada por
+estabilidad y crecimiento económico pactados por los países de la
+
+
+
+Unión Europea, que, además, en España han encontrado
+expresión normativa en las leyes de estabilidad presupuestaria.
+
+Esta orientación de la política presupuestaria ha seguido un
+proceso de consolidación de las cuentas públicas hasta la
+eliminación del déficit público y se propone mantener, en lo
+sucesivo, el equilibrio presupuestario.
+
+Este proceso de consolidación presupuestaria no sólo ha
+tenido unos efectos vigorizantes sobre nuestro crecimiento, sino
+que, además, ha fortalecido nuestros fundamentos económicos.
+
+La Ley de Estabilidad Presupuestaria vino a otorgar
+seguridad jurídica y continuidad en la aplicación a los principios
+inspiradores de la consolidación presupuestaria, definiendo la
+envolvente de la actividad financiera del sector público e
+introduciendo cambios en el procedimiento presupuestario que
+han mejorado sustancialmente tanto la transparencia en la
+elaboración, ejecución y control del presupuesto como la
+asignación y gestión de los recursos presupuestarios en un
+horizonte plurianual orientado por los principios de eficacia,
+eficiencia y calidad de las finanzas públicas.
+
+La austeridad en el gasto corriente, la mejor selección de las
+políticas públicas poniendo el énfasis en las prioridades de gasto,
+así como el incremento del control y de la evaluación, han
+reducido paulatinamente las necesidades de financiación del
+sector público y han ampliado las posibilidades financieras del
+sector privado, con efectos dinamizadores sobre la actividad, el
+crecimiento y desarrollo económico, y sobre la creación de
+empleo
+
+A continuación, uso paréntesis, mayúsculas y tachados para explicar
+
+cómo he corregido este texto.
+
+Una parte importante de la actividad financiera del sector
+público se canaliza a través de subvenciones, con el objeto de
+PARA dar respuesta RESPONDER, con medidas de apoyo
+financiero (idea repetida, pues arriba decimos 'actividad
+financiera'), a LAS demandas sociales y económicas (idea que ya
+se explica a continuación, pues una demanda social y económica
+
+
+es propia de las personas y entidades) de personas y entidades
+públicas o privadas.
+
+Desde la perspectiva económica, (es la tercera vez que repite)
+las subvenciones son una modalidad (UN) importante de gasto
+público (ya se ha dicho antes que hablamos del sector público) y,
+por tanto, QUE deben ajustarse a las directrices de la política
+presupuestaria. (LOS PRESUPUESTOS).
+
+(ESTA) La política presupuestaria actual está orientada por
+SIGUE los criterios de estabilidad y crecimiento económico
+pactados por los países de la Unión Europea, que, además, en
+España han encontrado expresión normativa SE PLASMAN en
+las leyes de estabilidad presupuestaria.
+
+Esta orientación de la política presupuestaria ha seguido un
+proceso de consolidación de las cuentas públicas hasta EL
+OBJETIVO ES la eliminación ELIMINAR del déficit público y
+se propone mantener, en lo sucesivo, el equilibrio presupuestario
+(se entiende que ese es el objetivo, pues ya se ha hablado de
+estabilidad en el párrafo anterior).
+
+Este proceso de consolidación presupuestaria no sólo ha
+tenido unos efectos vigorizantes sobre nuestro crecimiento, sino
+que, además, Y ha fortalecido nuestrA fundamentos económicos
+ECONOMIA.
+
+introduciendo
+
+INTRODUJO
+
+La Ley de Estabilidad Presupuestaria vino a otorgar HA
+DADO seguridad jurídica y continuidad A en la aplicación a los
+principios inspiradores de la consolidación presupuestaria [.] ,
+definiendo la envolvente de la actividad financiera del sector
+público e
+el
+procedimiento presupuestario que han mejorado sustancialmente
+tanto la transparencia en la elaboración, ejecución y control
+PARA ELABORAR, EJECUTAR Y CONTROLAR del
+presupuesto ASÍ como la asignación y gestión de PARA
+ASIGNAR Y GESTIONAR los recursos presupuestarios en un
+horizonte plurianual DURANTE VARIOS AÑOS. orientado por
+los principios de eficacia, eficiencia y calidad de las finanzas
+públicas.
+
+cambios
+
+en
+
+
+La austeridad en el gasto corriente, la mejor selección de las
+políticas públicas poniendo el énfasis en las ESTABLECIENDO
+prioridades de gasto, E INCREMENTANDO del control y de la
+evaluación, SE han reducido paulatinamente las necesidades de
+financiación del sector público y SE han ampliado
+las
+posibilidades financieras del sector privado [.] CON ELLO SE
+LOGRA CREAR EMPLEO , con efectos dinamizadores sobre la
+actividad, el crecimiento y desarrollo económico, y sobre la
+creación de empleo.
+
+He aquí la versión final integrada. Tiene 158 palabras, la mitad del
+
+original.
+
+Una parte importante de la actividad financiera del sector
+público se canaliza a través de subvenciones, para responder a las
+demandas de personas y entidades públicas o privadas.
+
+Las subvenciones son un importante gasto que debe ajustarse
+
+a las directrices de los presupuestos.
+
+Esta política sigue los criterios pactados por los países de la
+Unión Europea. En España se plasman en las leyes de estabilidad.
+
+El objetivo es eliminar el déficit público.
+Este proceso ha tenido unos efectos vigorizantes sobre
+
+nuestro crecimiento, y ha fortalecido nuestra economía.
+
+La Ley de Estabilidad Presupuestaria ha dado seguridad
+jurídica y continuidad a
+la consolidación presupuestaria:
+introdujo cambios que han mejorado la transparencia para
+elaborar, ejecutar y controlar el presupuesto, así como para
+asignar y gestionar los recursos durante varios años.
+
+Estableciendo prioridades de gasto e incrementando el
+control, se han reducido las necesidades del sector público y se
+han ampliado las posibilidades del sector privado. Con ello se
+logra crear empleo.
+
+¿Cuál es el patrón de corrección? Aplicar lo que he dicho en este libro.
+
+No repetir ideas. Para ello, hay que localizar palabras iguales o
+sinónimas, ver si se está diciendo lo mismo en el mismo párrafo. En este
+caso, se hablaba mucho de finanzas y economía.
+
+
+Convertir en verbos aquellos sustantivos que representan una acción.
+Es una regla muy fácil. Terminan en '-ción'. "Asignación y gestión" se
+convirtieron en "asignar y gestionar".
+
+Suprimir adverbios terminados en 'mente'. Sustancialmente.
+
+Dejar en la mínima expresión la palabra más importante del asunto:
+
+presupuestos. Ya se define al principio.
+
+Suprimir
+dinamizadores
+económico…".
+
+locuciones que no aportan gran cosa: "con efectos
+la actividad, el crecimiento y desarrollo
+
+sobre
+
+Sustituir
+
+locuciones conceptuales por coloquiales. "Horizonte
+
+plurianual" por "durante varios años".
+
+Recuerda que:
+
+Los textos jurídicos pueden ser más comprensibles aplicando técnicas
+de storytelling vistas aquí como acortar frases, sustituir sustantivos por
+verbos y no repetir ideas.
+
+
+
+Las mejores fórmulas para cerrar
+
+Cerrar un artículo y poner una frase final que "sostenga" todo el
+conjunto como una enorme columna, es más difícil que comenzarlo.
+Podemos comenzar con cualquier idea, película o imagen, pero el final tiene
+que resumir la idea principal y darle un remate inteligente. Los lectores
+esperan esa conclusión. Y si no llega, se enfadan.
+
+Hace tiempo, leí una magnífica historia sobre la vida del pintor italiano
+Caravaggio. Era un hombre rebelde, con amistades peligrosas, que usaba a
+prostitutas y borrachines como modelos para sus cuadros religiosos, o
+estampas de Italia. Uno de sus óleos más famosos como Virgen de los
+palafreneros fue retirado. Causó un enorme escándalo.
+
+El texto que estaba leyendo sobre Caravaggio terminó ahí. Con la
+retirada del cuadro. "¿Y… ya está?", se preguntaba un lector en la sección
+de comentarios. Le había pasado lo mismo que a mí: se quedó con la miel
+en la boca.
+
+Para la mente, definir una idea en pocas palabras, elaborar conceptos
+profundos o establecer razonamientos brillantes es una tarea dificultosa.
+También lo es usar la oración adecuada para terminar un texto.
+
+Después de leer muchos documentos, análisis, tesis y hasta reportajes
+(especialmente de The Economist), se me ocurren estas formas básicas de
+terminar un texto.
+
+1. La frase célebre. Me refiero a una frase de un pensador
+como Platón o Ramón y Cajal, no a un refrán, que es algo
+facilón. En internet hay muchas páginas dedicadas a
+encontrar frases célebres, tanto por temas como por autores.
+2. La idea concentrada. Admito que es muy difícil, porque se
+trata de resumir todo el escrito en una oración que debe salir
+de nuestro intelecto. Requiere mucha fuerza intelectual. Lo
+mejor es ensayar varias definiciones (ver el capítulo de los
+listículos), porque hasta nosotros mismos no lo tenemos
+claro. Al final, si nos esforzamos, encontraremos esa
+definición.
+
+
+
+3. La alerta mundial. Escribir al final algo como "si no lo
+hacemos así, entonces sucederá esto…". Este condicional
+sirve sobre todo para los artículos en los que avisamos de un
+peligro inminente.
+
+4. Frase de personaje entrevistado. Podemos reservar al final
+una frase de un personaje que hayamos entrevistado para el
+documento, el artículo o el reportaje. Saldrá bien si la frase,
+como en el caso 2, define todo el meollo.
+
+Recuerda que:
+
+Un texto con un buen cierre aumenta de calidad, sobre todo si esas
+
+líneas finales repiten la idea central.
+
+
+
+Trucos finales
+
+Cómo pasar de lo abstracto a lo concreto cuando se usa el adverbio
+
+'mejor'.
+
+-Al mismo tiempo nos posibilita una mejor y mayor integración
+social y adaptación emocional
+-Al mismo tiempo nos posibilita mejorar nuestra integración
+social y nuestra adaptación emocional.
+
+Y ahora, sustituyendo los sustantivos por verbos.
+
+-Al mismo
+integramos en la sociedad y adaptamos nuestras emociones.
+
+tiempo nos posibilita mejorar cuando nos
+
+Cómo sortear los sustantivos confusos.
+
+-A la hora de llevar las cuentas de tu negocio, también aparecen
+importantes diferencias entre una u otra opción, ya que a las
+sociedades se les exige la llevanza de una Contabilidad más
+exhaustiva.
+
+-A la hora de llevar las cuentas de tu negocio, también aparecen
+importantes diferencias entre una u otra opción, ya que a las
+sociedades se les exige llevar una Contabilidad más exhaustiva.
+
+Cómo evitar los sustantivos largos.
+
+-Las principales siniestralidades producidas en el 2013
+-Los mayores siniestros de 2013.
+
+Cómo evitar verbos funcionariales y poner verbos con más fuerza
+
+descriptiva.
+
+-Hacen su ingreso en la plaza con pancartas y banderas.
+-Irrumpen en la plaza con pancartas y banderas.
+
+La acumulación de palabras a veces es producto de la pereza.
+
+-Un grupo de pobres se arremolina ante un contenedor de basura:
+restos de comida, cartones, bolsas..
+
+
+
+
+-Haz un relato: "Un 'sin techo' abre una bolsa que contiene
+restos de comida. Otro hace un agujero en un cartón de leche y se
+echa el líquido en la boca. Se relame".
+
+Aportar datos o la fuente, otorga más credibilidad.
+
+-La crisis ha perjudicado a la clase media pero ha dejado a los
+pudientes intactos.
+-La crisis ha perjudicado a la clase media pero ha dejado a los
+pudientes intactos, según el informe del INE.
+
+Se puede mejorar la tensión de una oración introduciendo 'pero' donde
+
+hay una 'y'.
+
+-Hoy no sabemos más acerca de la felicidad de lo que sabía
+Aristóteles y, respecto a saber cómo obtener esta condición tan
+valorada, casi podríamos decir que no hemos realizado ningún
+progreso.
+-Hoy no sabemos más acerca de la felicidad de lo que sabía
+Aristóteles, pero, respecto a saber cómo obtener esta condición
+tan valorada, casi podríamos decir que no hemos realizado ningún
+progreso.
+
+Aprende a usar 'por eso' en
+
+tan
+acostumbrados a la adversativa 'pero' que no nos damos cuenta de que es
+incongruente en algunos casos. Ejemplo:
+
+lugar de 'pero'. Estamos
+
+-¿Cuál es el primer olvido en que incurrimos cuando vamos de
+viaje? El cepillo y la pasta de dientes. Pero resulta una sorpresa
+agradable encontrar en la cesta del baño un juego de cepillos y
+pasta de dientes.
+--¿Cuál es el primer olvido en que incurrimos cuando vamos de
+viaje? El cepillo y la pasta de dientes. Por eso, resulta una
+sorpresa agradable encontrar en la cesta del baño un juego de
+cepillos y pasta de dientes.
+
+Contracciones. Hay palabras como 'capacidad' o 'habilidad' que
+suelen arrastrar más palabras por delante y detrás. Pero se pueden reducir
+así:
+
+-No tiene la capacidad de…
+
+
+-No puede.
+
+-Tiene la capacidad de…
+-Puede.
+
+-Esta circunstancia es un factor de preocupación.
+-Esto preocupa.
+
+-Hacer dejación.
+-Dejar. Abandonar. Descuidar.
+
+-Ser de utilidad.
+-Ser útil.
+
+La preposición 'para' nos permite eliminar palabras:
+
+-Que ayuda a poner en marcha…
+-Para poner en marcha
+
+-Se puede usar la música como medio de fijar…
+-Se puede usar la música para fijar…
+
+-Con el objetivo de…
+-Para…
+
+Adjetivos equivocados. 'Pantagruélico' viene de Pantagruel, un
+personaje de novela que era muy comilón. No tiene nada que ver con el
+espacio, sino con un apetito desmedido.
+
+-El centro de San Fernando alcanza los 32.000 metros cuadrados.
+Parece un almacén de Ikea, pero a una escala pantagruélica.
+
+-El centro de San Fernando alcanza los 32.000 metros cuadrados.
+Parece un almacén de Ikea, pero a una escala desmedida.
+
+Algunas palabras abstractas tienen una levedad insoportable.
+
+-Instancia
+-Estructura
+
+
+
+
+
+
+
+
+
+-Función
+-Ritmicidad
+-Musicidad
+-Practicidad
+-Llevanza
+
+Los verbos suelen tener más fuerza que los sustantivos…
+
+-Para el logro de este objetivo…
+-Para lograr este objetivo…
+
+… pero a veces nos obligan a redactar de otra forma más clara.
+
+- La mencionada exención lineal se aprobó en 2006, como
+compensación a los contribuyentes de la supresión de la
+deducción por doble imposición de dividendos.
+
+- Los contribuyentes tenían que pagar dos veces por obtener
+los mismos dividendos. Durante muchos años, esos impuestos
+se podían deducir, pero esa ventaja fue suprimida en nuestro
+sistema tributario. Para compensarles, en 2006 se creó la
+exención lineal.
+
+Dicen que no se puede poner comas entre sujeto y verbo. Sí se puede.
+
+Se llama aposición:
+
+-Las flores, rosas o amarillas, selváticas o de jardín, son
+hermosas.
+
+La elección de verbos con muchos sinónimos despista al lector durante
+unos segundos. Por ejemplo, 'pasar' puede significar cambiar de estado,
+cambiar de sitio, o suceder. En la oración de abajo es mejor poner un verbo
+más ajustado como 'suceder' o 'surgir'.
+
+-Un diálogo socrático puede pasar en cualquier momento entre
+dos personas.
+-Un diálogo socrático puede surgir en cualquier momento entre
+dos personas.
+
+Sin darnos cuenta, escribimos cosas que repiten su significado.
+
+-Aquel hombre le dio un guantazo en la cara.
+
+
+Los guantazos suelen ser en la cara, no en las rodillas. Basta con decir.
+'le dio un guantazo' o 'le dio en la cara con un guante'. La repetición es
+válida cuando pretendemos enfatizar.
+
+-El deportista volvió a mostrar su mejor versión.
+-El deportista volvió a mostrar de nuevo su mejor versión.
+
+Redundancia cognitiva.
+
+-Autosuicidio.
+
+No tiene sentido porque suicidio ya significa la persona que se mata a
+sí misma. Autosuicidio vendría a ser una absurda repetición, como cuando
+se dice en broma: "Yo mí me a mí mismo conmigo".
+
+No es necesario repetir palabras.
+
+La identificación y evaluación de las amenazas, así como la
+gestión y minimización de
+realiza
+través de métodos deterministas y
+sistemáticamente a
+probabilistas durante todas y cada una de las fases de la vida de
+la planta, siendo parte del Sistema de Gestión Integrada. Dicho
+Sistema asegura la anticipación y prevención de posibles
+problemas, su seguimiento y rectificación.
+
+riesgos,
+
+los
+
+se
+
+La evaluación de las amenazas, así como la minimización de los
+riesgos, se realiza sistemáticamente a
+través de métodos
+deterministas y probabilistas durante todas las fases de la vida de
+la planta, siendo parte del Sistema de Gestión Integrada. Dicho
+Sistema asegura la prevención de posibles problemas, y su
+rectificación.
+
+
+
+
+Apéndice 1: hasta 36 formas de empezar
+
+Tras estudiar muchos comienzos, hice una recopilación de fórmulas
+que sirven para comenzar un texto. El tema que elegí es "Los poderes
+extrasensoriales". Pero se puede sustituir por otro cualquiera, como la
+revolución de los móviles o la historia del calzado humano.
+
+1. Con una historia humana. Phillippa Langley quería
+encontrar la tumba de Ricardo III. Un día viajó a la ciudad
+donde falleció este rey inglés. Al entrar a un aparcamiento
+municipal, tuvo escalofríos. "Yace aquí, bajo mis pies,
+enterrado", se dijo. Dos años después se encontraron los
+restos intactos del rey de Inglaterra justo donde ella había
+señalado.
+
+2. Con una historia personal. Voy a contarles una historia
+que me sucedió hace diez años. Estaba caminando
+tranquilamente por la calle, y me puse a pensar como sería
+mi mujer ideal. Pelo negro y corto, delgada, alta, atlética,
+ojos verdes. Cuando me detuve en el paso de peatones la vi.
+Estaba enfrente. Hoy es mi esposa.
+
+3. Con suspense. Jing Ming se levantó con la alegría de
+siempre. De camino a su pequeña tienda en la playa,
+observó que los animales estaban inquietos y que muchos
+huían asustados hacia la única colina de la isla de Danang.
+Si hubiera tenido instinto animal, Ming habría hecho lo
+mismo. (La clave del primer párrafo con suspense es que la
+historia 'gire' en la última oración).
+
+4. Con pregunta. ¿Tenemos intuiciones? ¿Cuántas veces
+hemos experimentado situaciones paranormales? ¿Existen
+las premoniciones? ¿Hay sueños que predicen el futuro? ¿Es
+verdad que usamos solo el 10% de nuestro cerebro? ¿Hay
+personas con poderes extrasensoriales?
+
+5. Con el quiz de preguntas. ¡Rápido! ¿Qué pasaría si todos
+tuviéramos el poder de leer la mente? A) ¿Acertar todos la
+
+
+
+lotería? B) ¿Torturarnos al saber lo que los demás piensan
+de nosotros? C) ¿Saber que nos están engañando?
+
+6. Con fecha y hora concretas. En la mañana del 28 de
+diciembre de 2004 a las 5.13 horas, Elsa Martínez se
+despertó sobresaltada. Había soñado que su casa se estaba
+derrumbando. Estaba sola pero sufría una conmoción tan
+grande que salió en bata al jardín a tranquilizarse. En ese
+momento, un meteorito cayó sobre el
+techo de su
+habitación.
+
+7. Con un estudio. Todo ser humano atraviesa por, al menos,
+una experiencia extrasensorial al día. Eso dice un estudio de
+la Universidad de Salamanca basado en pruebas a mil
+estudiantes. Los resultados fueron asombrosos.
+
+8. Con humor negro. Una persona afirma que aprendió a leer
+la mente tras consultar un libro sobre telepatía. Entonces
+descubrió que su mujer tenía un amante.
+
+9. Con la palabra 'imaginemos'. Imaginemos a una persona
+que va caminando por la calle y de repente se pone a pensar
+en otra persona a la que no ha visto desde hace 15 años. Al
+doblar una esquina, se la encuentra.
+
+10. Con algo familiar. Todos los seres humanos han
+sentido una experiencia extrasensorial al menos una vez en
+la vida: pensar en alguien lejano antes de recibir una
+llamada de esa persona; tener un sueño premonitorio que se
+cumple; o sencillamente, padecer un mal presentimiento que
+se ha hecho realidad
+
+11. Con la primera persona del plural. Ninguno de
+nosotros cree en los poderes extrasensoriales pero si nos
+preguntaran si nos gustaría prevenir un peligro inminente, a
+todos nos encantaría tener esas percepciones.
+
+12. Con afirmación preocupante. Dos de cada cuatro
+trabajos de hoy desaparecerán en 20 años porque los seres
+humanos habremos desarrollado poderes extrasensoriales
+para realizarlos.
+
+13. Con una paradoja. A todo el mundo le gustaría
+tener el poder mental de adivinar el futuro, excepto para
+
+
+predecir su propia muerte.
+
+14. Con una extravagancia. Cuentan que una persona
+confiaba tanto en sus premoniciones que gastó sus ahorros
+en un número de Lotería de Navidad. No le tocó, y eso le
+produjo la muerte instantánea.
+
+15. Con frase detonadora. Los hombres no podemos
+
+leer la mente: las mujeres sí.
+
+16. Con frase de experto reconocido. "Todo este
+inquietante mundo de la comunicación telepática, de la
+percepción extrasensorial y de las premoniciones constituye
+una advertencia, una invitación a la humildad para los
+psicólogos demasiado orgullosos de su ciencia" (José Luis
+Pinillos, psicólogo).
+
+17. Con una película. Lucy es una chica que, como
+todos, solo usa el 10% de su cerebro. Al ingerir una droga,
+va aumentando su poder mental hasta el 100%: mueve
+objetos, lee la mente, desarrolla una fuerza extraordinaria…
+¿Podremos todos desarrollar el 100% de nuestro poder
+mental como hace la protagonista de la película Lucy?
+
+18. Con miedo. Juan Arrainz tiene el poder de predecir
+el futuro inmediato y nunca se ha equivocado en sus
+asombrosas predicciones. Ayer predijo el estallido de la
+Tercera Guerra Mundial.
+
+19. Con la complicidad temporal. En el momento en
+que usted está
+leyendo esto, se está realizando un
+experimento en la Universidad de Barcelona con pacientes
+extrasensoriales. El resultado puede arrojar mucha luz sobre
+el poder de nuestra mente.
+
+20. Con esperanza para la humanidad. Los científicos
+han desarrollado un medicamento que nos permitirá
+desarrollar poderes extrasensoriales y dar un salto en la
+evolución de la humanidad.
+
+21. Con el caso de alguien conocido. El físico Pauli
+llegó a desarrollar de tal forma el poder de su mente que
+cuando entraba en un laboratorio, todas las cosas se
+rompían.
+
+
+las
+
+guerras
+
+22. Con un personaje de novela. En su libro, Los
+hombres que miraban fijamente a las cabras, Jon Ronson
+describe un departamento del ejército de EEUU que espera
+ganar
+paranormales.
+usando
+¿Exageración? "Es verdad", dice Ronson con cara de terror.
+23. Con tesis negada. Los psicólogos afirman que no
+existen los poderes extrasensoriales y que todo es un
+invento de los nuevos brujos para ganar dinero. Un estudio
+de la Universidad Carlos III demuestra que sí existen.
+
+poderes
+
+24. Con grandes calamidades. Este ha sido uno de los
+peores años del mundo en catástrofes. Caídas de aviones,
+inundaciones, sequías horrorosas y, para colmo, aumento de
+las temperaturas. Pues bien, todo eso lo predijo con
+exactitud hace cinco años una persona que tiene poderes
+extrasensoriales, pero nadie le hizo caso.
+
+25. Con un problema que se avecina. Desde pequeña,
+Sharon desarrolló la capacidad de prever en sus sueños
+barcos que sufrirían un hundimiento inminente. Un día,
+soñó con un barco llamado Primavera de los Mares. En ese
+momento estaba viajando en él con toda su familia.
+
+26. Con tintes de novela negra. En un motel de mala
+muerte en la nacional 66 hacia Asturias, se encontró el
+cadáver apuñalado de un varón de 48 años. Su tarjeta decía
+'detective con poderes extrasensoriales' y había sido
+contratado por una millonaria para averiguar quién había
+asesinado a su marido.
+
+27. Con comparación. Por cada persona que tiene
+poderes extrasensoriales en España, hay mil en China. Son
+una superpotencia extrasensorial.
+
+28. Con la palabra 'ejemplo'. La gente que vive en la
+montaña desarrolla con más facilidad el poder de la mente.
+Es el ejemplo de María Ferrera, una gallega que vive en un
+pueblo de Lugo y que predice con enorme exactitud los días
+en que va a salir el sol.
+
+29. Con datos. De cada mil personas, por lo menos cien
+admiten tener poderes extrasensoriales, y de esas cien, la
+
+
+mitad cree en las premoniciones. Es el resultado de una
+encuesta realizada a 20.000 personas en 83 países, entre el 4
+de febrero y el 31 de marzo de 2016.
+
+30. Con un verbo de fuerza. Asustado por la cantidad
+de jóvenes desaparecidas en EEUU, una médium se propuso
+localizarlas a todas invocando sus poderes extrasensoriales.
+31. Con acumulación. Cuando juegan a la lotería, los
+franceses son adivinos, los ingleses sufren premoniciones,
+los alemanes poseen sentido común, los norteamericanos
+consultan a los médiums, y los españoles tienen suerte.
+
+32. Con acercamiento personal. Si usted es estudiante
+de Psicología y ha leído libros de Jung, recordará cómo este
+eminente psicólogo suizo podía comunicarse con su
+inconsciente
+percepción
+extrasensorial.
+
+provocar
+
+estados
+
+de
+
+y
+
+33. Con repetición. Tengo miedo de todo. Tengo miedo
+a los animales. Tengo miedo a los insectos. Tengo miedo a
+la noche. Tengo miedo a las habitaciones cerradas. Tengo
+miedo a las personas. Mi enfermedad la sufren una de cada
+llama percepción
+diez millones de personas. Se
+extrasensorial.
+
+34. Con el acertijo. Piensen en una persona que todos
+los días entra en una venta de lotería, cierra los ojos, medita
+y escoge un número. Siempre acierta en la terminación. Los
+vecinos creen que tiene poderes extrasensoriales. Pero lo
+único que hace es sumar el día del calendario por el número
+del mes y dividirlo por ocho. ¿Cuál sería la terminación de
+hoy?
+
+35. Con información práctica. Todo el mundo ha
+sentido alguna vez el deseo de desarrollar sus poderes
+extrasensoriales. En este artículo se exponen diez poderes,
+desde la telepatía hasta la premonición, que pueden hacer
+nuestra vida más agradable.
+
+36. Con el descubrimiento. Hace exactamente tres años
+descubrí algo que cambió mi vida. Mi hija de seis años tiene
+
+
+el poder de predecir con sus sueños lo que iba a pasar cada
+día.
+
+NOTA: se pueden combinar estos comienzos y crear uno nuevo.
+
+
+
+Apéndice 2: los trucos de Pixar
+
+El blog Trucos de escritor tuvo el acierto de encontrar y traducir los
+trucos de Pixar para contar historias. Estas son sus 22 reglas. Las escribió
+Emma Coast, guionista y animadora de Pixar, la empresa que ahora está
+detrás de las mejores películas animadas de Disney.
+
+1. Se admira más a un personaje por intentar conseguir un objetivo que
+
+por conseguirlo.
+
+2. Tienes que tener en mente lo que es interesante para ti como
+espectador, no lo que es divertido hacer como escritor. Pueden ser cosas
+muy diferentes.
+
+3. Buscar el tema es importante, pero no sabrás de qué va la historia
+
+hasta que estés al final. Cuando llegues, reescribe.
+
+4. Érase una vez ___. Todos los días, ___. Un día ___. Debido a ello,
+
+___. Debido a ello, ___. Hasta que al final ___.
+
+5. Simplifica. Céntrate. Combina personajes. No te desvíes. Puede
+
+parecer que estás perdiendo cosas potentes pero te hará libre.
+
+6. ¿En qué es bueno tu personaje? ¿O en qué se siente cómodo? Pon lo
+
+contrario en su camino. Desafíalo ¿Cómo reaccionaría?
+
+7. Ten claro el final antes de pensar en el medio. En serio. Los finales
+
+son difíciles. Ten el tuyo cuanto antes.
+
+8. Termina tu historia, sigue avanzando incluso si no es perfecta. En un
+mundo ideal podrás tener ambas cosas, pero lo importante es seguir
+avanzando. Lo harás mejor la próxima vez.
+
+9. Cuando estés atascado, haz una lista de las cosas que NO pasarían a
+continuación. Muchas veces lo que necesitas para seguir avanzando
+aparecerá.
+
+10. Fíjate en las historias que te gustan. Lo que te atrae de ellas es parte
+
+de ti; tienes que reconocer esos elementos antes de poder usarlos.
+
+
+
+11. Poner la historia en papel te ayuda a darle forma. Si se queda en tu
+
+cabeza como idea perfecta nunca la compartirás con nadie.
+
+12. Desestima la primera cosa que se te venga a la cabeza. Y la 2º, 3º,
+
+4º, 5º - no te quedes con lo obvio. Sorpréndete a ti mismo.
+
+13. Dale opiniones a tus personajes. Un personaje pasivo/maleable
+puede parecer bueno para ti como escritor pero es veneno para la audiencia.
+
+14. ¿Por qué debes contar ESTA historia? ¿Cuál es la inquietud que
+
+arde en tu interior y de la que se alimenta la historia? Ese será su corazón.
+
+15. Si fueras el personaje ¿Cómo te sentirías en su situación? La
+
+honestidad da credibilidad a situaciones inimaginables.
+
+16. ¿Qué está en juego? Danos razones para que nos importe el
+
+personaje. ¿Qué pasa si no consigue su objetivo? Pónselo todo en contra.
+
+17. Ningún trabajo va a ser desperdicio. Si no funciona, déjalo y ponte
+
+a otra cosa . Te será útil más adelante.
+
+18. Tienes que conocerte a ti mismo: la diferencia entre hacerlo lo
+mejor que puedes y pasarse de perfeccionista. Una historia consiste en
+probar cosas, no en la perfección.
+
+19. Utilizar coincidencias para meter a los 
