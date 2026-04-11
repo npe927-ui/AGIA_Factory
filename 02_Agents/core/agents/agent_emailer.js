@@ -1,9 +1,4 @@
-require("dotenv").config({ path: require("path").resolve(__dirname, "../../../.env.local") });
-
-const Anthropic = require("@anthropic-ai/sdk");
-const { loadHistory, saveMessage } = require("../lib/memory");
-
-const client = new Anthropic();
+const AgentBase = require("./agent_base");
 
 const SYSTEM_PROMPT = `Eres el Agente Cold Email del SaaS Factory. Eres especialista en campañas de correo frío B2B en español.
 
@@ -32,24 +27,15 @@ Configuras y ejecutas campañas de cold email efectivas: desde la estrategia has
 - Cuando tengas contexto suficiente, ofrece redactar el primer email de la secuencia
 - Sé técnico y concreto. Este cliente quiere resultados, no teoría`;
 
-module.exports = {
-  name: "Agente Emailer",
-  role: "Especialista en campañas de cold email B2B",
-  goal: "Configurar y ejecutar campañas de correo frío efectivas",
-
-  async run(task, sessionId = "default") {
-    const history = await loadHistory(this.name, sessionId);
-    await saveMessage(this.name, sessionId, "user", task);
-
-    const response = await client.messages.create({
-      model: "claude-sonnet-4-6",
-      max_tokens: 1500,
-      system: SYSTEM_PROMPT,
-      messages: [...history, { role: "user", content: task }],
+class AgentEmailer extends AgentBase {
+  constructor() {
+    super({
+      name: "Agente Emailer",
+      role: "Especialista en campañas de cold email B2B",
+      goal: "Configurar y ejecutar campañas de correo frío efectivas",
+      systemPrompt: SYSTEM_PROMPT,
     });
+  }
+}
 
-    const reply = response.content[0].text;
-    await saveMessage(this.name, sessionId, "assistant", reply);
-    return reply;
-  },
-};
+module.exports = new AgentEmailer();

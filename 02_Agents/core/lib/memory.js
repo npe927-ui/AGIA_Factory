@@ -2,20 +2,16 @@
  * Memoria de agentes en Supabase.
  * Tabla requerida: agent_memory (session_id, agent_name, role, content, created_at)
  */
-require("dotenv").config({ path: require("path").resolve(__dirname, "../../../.env.local") });
-
+const { SUPABASE_URL, SUPABASE_KEY } = require("../config");
 const { createClient } = require("@supabase/supabase-js");
 
-const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SECRET_KEY
-);
+const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 async function loadHistory(agentName, sessionId) {
   const { data, error } = await supabase
     .from("agent_memory")
     .select("role, content")
-    .eq("agent_name", agentName)
+    .eq("agent", agentName)
     .eq("session_id", sessionId)
     .order("created_at", { ascending: true });
 
@@ -28,8 +24,9 @@ async function loadHistory(agentName, sessionId) {
 
 async function saveMessage(agentName, sessionId, role, content) {
   const { error } = await supabase.from("agent_memory").insert({
-    agent_name: agentName,
+    agent: agentName,
     session_id: sessionId,
+    type: "message",
     role,
     content,
   });

@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Node (por si se añade tooling en el futuro)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+.project
+.settings/
+
+# Credenciales — nunca commitear
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Build outputs (si se añade bundler)
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+logs/
+
+# Temporal
+*.tmp
+*.temp

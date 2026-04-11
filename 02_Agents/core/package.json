@@ -7,14 +7,26 @@
   "scripts": {
     "start": "node index.js",
     "cli": "node cli.js",
-    "test": "node index.js --test"
+    "test": "node index.js --test",
+    "test:heartbeat": "node test_heartbeat.js",
+    "test:mcp": "node test_mcp.js",
+    "test:learning": "node test_learning.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "@supabase/supabase-js": "^2.49.4",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "openai": "^6.33.0"
   },
-  "keywords": ["saas-factory", "agents", "claude", "setter", "closer", "emailer"],
+  "keywords": [
+    "saas-factory",
+    "agents",
+    "claude",
+    "setter",
+    "closer",
+    "emailer"
+  ],
   "author": "SaaS Factory",
   "license": "ISC"
 }

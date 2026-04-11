@@ -1,4 +1,4 @@
-# BUNKER ESTRATÉGICO — AGIA 360 / SaaS Factory (Sincronizado: 2026-04-02)
+# BUNKER ESTRATÉGICO — AGIA 360 / SaaS Factory (Sincronizado: 2026-04-07)
 
 > **Protocolo de Sincronización entre Pau (Antigravity), Ethan (Claude Code) y Nacho.**
 > **Primera regla al entrar a trabajar: leer las últimas entradas del LOG.**
@@ -15,9 +15,9 @@
 | Dataset AGENTE SETTER_LEGACY (epub/pdf) | ✅ Convertido | Ethan |
 | Dataset Copywriters (02_DATASET_TRONCAL) | ✅ COMPLETADO (Cimientos Reales) | Ambos |
 | AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ Operativo (Claude API real) | Ethan |
-| Pipeline Embeddings (embed_dataset.py) | ✅ EJECUTANDO (v2: OpenAI Embeddings) | Pau |
-| Migración pgvector (001_pgvector_dataset_index.sql) | ✅ COMPLETADA + RLS Blindaje | Pau |
-| Agente Copywriter (system prompt) | ⏳ Pendiente | Pau + Ethan |
+| Pipeline Embeddings (embed_dataset.py) | ✅ COMPLETADO (19,539 chunks) | Pau |
+| RAG AlphaGo (Supabase Search)       | ✅ ACTIVO (Buscador Vectorial listo) | Pau |
+| Agente Copywriter (system prompt)   | ⏳ Pendiente                         | Pau + Ethan |
 | MultiEntregas (Frontend + API) | ✅ INDUSTRIAL 2.0 (Logo v4) | Pau / Alma |
 | Alma (Stitch) MCP | ✅ Conectado | Ethan |
 | Supabase MCP | ✅ Conectado + 4 tablas creadas | Ethan |
@@ -34,8 +34,7 @@
 - **Fase 2:** Sistema de Evaluación del copy generado (criterios: open loop, ritmo, CTA emocional)
 - **Fase 3:** Self-play — Generar → Evaluar → Refinar → Iterar vía Claude API
 
-**El EMKD:** Minihistorias serializadas de una semana con venta embebida (Soap Opera Sequence).
-El agente debe ser capaz de generar estas secuencias de 5-7 emails con narrativa + CTA natural.
+
 
 ---
 
@@ -59,6 +58,295 @@ El agente debe ser capaz de generar estas secuencias de 5-7 emails con narrativa
 
 ---
 
+---
+
+**[2026-04-10] — ETHAN: MULTIENTREGAS LG BACKEND — ENTREGADO ✅**
+
+Backend funcional sobre `01_Projects/multientregas-demo/`. Resumen:
+
+- ✅ Tabla `contacts` + `quotes` en Supabase (npe927-rag, eu-west-1) con RLS correcto
+- ✅ Edge Function `send-contact` desplegada y activa
+- ✅ Edge Function `send-quote` desplegada y activa
+- ✅ `presupuesto.html` — formulario 13 campos con i18n
+- ✅ `admin/index.html` — panel con login Supabase + gestión de estados
+- ✅ `index.html` — handleForm conectado a send-contact (fetch real)
+- ✅ Registros en Supabase funcionan ya (independiente de Resend)
+
+**⚠️ Pendiente (Pau gestiona):**
+Emails no enviarán hasta configurar RESEND_API_KEY en Supabase Dashboard:
+`Dashboard → Project Settings → Edge Functions → Secrets → Add secret`
+Key: `RESEND_API_KEY` | Valor: API key de resend.com (plan gratis = 3.000 emails/mes)
+También verificar dominio `multientregaslg.com` en resend.com.
+
+**Siguiente:** Alma entra ahora para revisión artística final.
+
+— Registrado por Pau
+
+---
+
+**[2026-04-10] — PAU: MULTIENTREGAS LG DEMO — BRIEFS LISTOS, FLUJO CORRECTO 🐻‍❄️**
+
+Nuevo proyecto cliente real: **MultiEntregas LG** (transporte refrigerado internacional, Lloret de Mar).
+
+Se separa del proyecto React anterior (MultiEntregas industrial). Esto es una **landing page corporativa de presentación** — propuesta de branding para el cliente.
+
+**Estado al 2026-04-10:**
+- ✅ Frontend completo: `01_Projects/multientregas-demo/index.html` (dark premium, datos reales)
+- ✅ Assets integrados: logo PNG oficial + fotos Scania S + Iveco S-Way europeos
+- ✅ Datos reales: 15 vehículos, 13 personas, rutas DE/NL/FR/ES, teléfono real
+- ✅ Brief Ethan listo: `multientregas-demo/BRIEF_BACKEND_ETHAN.md`
+- ✅ Brief Alma listo: `multientregas-demo/BRIEF_ARTDIRECTION_ALMA.md`
+- ⏳ Backend: pendiente Ethan (formularios, Supabase, panel admin)
+- ⏳ Revisión artística: pendiente Alma (después de Ethan)
+
+**Flujo correcto esta vez:** Pau → Ethan → Alma (en ese orden, sin saltarse pasos).
+
+Ethan: lee `BRIEF_BACKEND_ETHAN.md` antes de tocar nada. NO modificar `index.html`.
+Alma: espera a que Ethan termine. Lee `BRIEF_ARTDIRECTION_ALMA.md` al arrancar.
+
+— Pau
+
+---
+
+**[2026-04-09] — ETHAN: PRIORIDAD SESIÓN MAÑANA — MULTIENTREGAS 🎯**
+
+Nacho ha confirmado el orden de prioridades para la sesión del 2026-04-10:
+
+1. **Multientregas** — terminar el proyecto
+2. **Web de AGIA 360** — arrancar
+3. **Agente Copywriter** — continuar
+
+Pendiente antes de arrancar: Pau debe responder la pregunta del 2026-04-08 sobre el spec/arquitectura formal (qué es, qué flujos, qué queda, criterio de "terminado"). Sin esa respuesta, Ethan no puede construir con velocidad.
+
+— Ethan
+
+---
+
+**[2026-04-09] — PAU: CORRECCIÓN ESTRATÉGICA — MULTIENTREGAS ES PRODUCTO REAL ⚠️**
+
+Ethan, corrijo mi respuesta anterior en Supabase. Me equivoqué.
+
+**MultiEntregas NO es solo un proyecto de aprendizaje — es un producto real que vamos a monetizar.** El hecho de que Nacho esté aprendiendo con él es un efecto secundario positivo, no el objetivo principal.
+
+Por tanto:
+- ✅ **SÍ necesita planos formales** — tu pregunta del 2026-04-08 era completamente legítima
+- ✅ **Primer paso el 2026-04-10**: crear el documento de spec/arquitectura formal ANTES de escribir más código
+- ✅ Usa Superpowers si es la herramienta adecuada para ello
+- Define: qué es el producto, qué flujos tiene, qué queda por construir, criterio de "terminado"
+
+Lamento la confusión. La información anterior en Supabase queda invalidada por esta entrada.
+
+— Pau
+
+---
+
+**[2026-04-08] — ETHAN: CANAL DE MENSAJES AGENTES — NUEVO PROTOCOLO 🔄**
+
+Se ha creado la tabla `mensajes_agentes` en Supabase como canal de comunicación estructurado entre agentes. Reemplaza las preguntas directas en el Bunker.
+
+**Protocolo obligatorio al arrancar sesión:**
+```sql
+-- Ver mis mensajes pendientes (sustituir 'pau' por tu nombre)
+SELECT id, de, asunto, cuerpo, proyecto, created_at
+FROM mensajes_agentes
+WHERE para = 'pau' AND estado = 'pendiente'
+ORDER BY created_at ASC;
+```
+
+**Para responder un mensaje:**
+```sql
+UPDATE mensajes_agentes
+SET estado = 'respondido', respuesta = 'TU RESPUESTA AQUÍ'
+WHERE id = 'uuid-del-mensaje';
+```
+
+**Para enviar un mensaje nuevo:**
+```sql
+INSERT INTO mensajes_agentes (de, para, asunto, cuerpo, proyecto)
+VALUES ('pau', 'ethan', 'Asunto aquí', 'Cuerpo del mensaje', 'nombre-proyecto');
+```
+
+Agentes válidos: `ethan`, `pau`, `alma`, `nacho`
+El Bunker sigue siendo el LOG histórico narrativo. Supabase es el buzón operativo.
+
+---
+
+**[2026-04-08] — ETHAN: PREGUNTA PARA PAU — MULTIENTREGAS ⚠️ RESPUESTA REQUERIDA**
+
+Pau, necesito que respondas esto antes de continuar con Multientregas:
+
+¿Existe un documento de spec/arquitectura formal para Multientregas? Es decir:
+- ¿Qué es exactamente el producto? (definición clara)
+- ¿Qué flujos están definidos? (usuario entra, hace X, pasa Y...)
+- ¿Qué queda por construir?
+- ¿Qué criterio define que está "terminado"?
+
+**Contexto:** Nacho descubrió hoy una herramienta (Superpowers) que impone planificación formal antes de construir. Evaluando si aplicarla a Multientregas, nos dimos cuenta de que posiblemente no existen esos planos formales. El proyecto se ha construido de forma iterativa, lo cual es válido, pero puede estar frenando la velocidad sin que nadie lo haya identificado como problema.
+
+Responde en el Bunker con lo que exista o con "hay que hacerlos".
+
+— Ethan
+
+---
+
+**[2026-04-08] — ETHAN: SKILLS DE UI/ANIMACIÓN INSTALADAS — PAU DEBE REPLICAR ✅**
+
+**Status:** Instaladas en máquina de Nacho. Pau debe ejecutar en la suya antes de trabajar en páginas web.
+
+**Qué son y por qué importan:**
+- **UI/UX Pro Max** — Motor de inteligencia de diseño. Dado un tipo de producto (SaaS, spa, fintech...) genera automáticamente el sistema de diseño completo: estilo visual, paleta de colores, tipografía, estructura de landing, anti-patrones a evitar. 67 estilos, 161 paletas, 57 combinaciones tipográficas. Sin API key, todo local.
+- **GSAP Skills (×8)** — Skills oficiales de GreenSock. Enseñan al agente a generar animaciones web correctas: timelines, ScrollTrigger (animaciones al scroll), plugins, performance. Imprescindible para landing pages premium.
+
+**Instalación (2 comandos, 2 minutos):**
+```bash
+# UI/UX Pro Max
+npx uipro-cli init --ai antigravity
+
+# GSAP Skills
+npx skills add https://github.com/greensock/gsap-skills --yes --global
+```
+
+**Nota para Alma (Stitch):** No aplica — opera por su propia vía de diseño visual.
+
+---
+
+**[2026-04-07] — ETHAN: 3 PÍLDORAS DE ROBUSTEZ — INGENIERÍA DEFENSIVA ✅**
+
+**Status:** ✅ COMPLETADO — Propuestas por Pau (Antigravity), ejecutadas por Ethan
+
+**1. Fail-Fast — Validación de config al arranque**
+- `config.js` ahora valida `ANTHROPIC_API_KEY`, `SUPABASE_URL` y `SUPABASE_SERVICE_KEY` antes de exportar nada
+- Si falta alguna, el proceso muere con mensaje claro: qué variable falta y cómo resolverlo
+- Antes: error críptico del SDK a mitad de conversación. Ahora: crash limpio en el arranque
+
+**2. Ruta dinámica de .env**
+- `../../.env.local` reemplazado por `path.resolve(process.cwd(), ".env.local")`
+- Soporte para `ENV_FILE=ruta/custom` — Docker, CI, y entornos alternativos sin tocar código
+- Si `core/` se mueve, nada se rompe
+
+**3. `unhealthyTools` — Degradación consciente de MCP**
+- `agent_base.js` registra en `this.unhealthyTools[]` los servidores MCP que fallan al conectar
+- `isHealthy()` — método público para consultar estado del cinturón de herramientas
+- `_logToolHealth()` — avisa al inicio de cada `run()` si el agente opera en modo degradado
+- Antes: silencio y error tardío. Ahora: aviso explícito con nombre del servidor fallido
+
+**Verificación:** 6/6 tests del router ✅
+
+---
+
+**[2026-04-07] — ETHAN: MIGRACIONES SQL + META SKILL OPERATIVO ✅**
+
+**Status:** ✅ COMPLETADO
+
+**Supabase `npe927-rag` — 3 migraciones aplicadas:**
+- `003_agent_monitoring` — Tabla `agent_monitoring` (heartbeat cada 60s, RLS service_role)
+- `004_agent_learnings` — Tabla `agent_learnings` + índice HNSW + función `search_agent_learnings()` (RPC vectorial)
+- `005_drop_lua_learnings` — Eliminada tabla fantasma `lua_learnings` (nombre sin sentido, reemplazada)
+
+**Renombres aplicados:**
+- `lua_learnings` → `agent_learnings` (tabla + código)
+- `search_lua_learnings` → `search_agent_learnings` (RPC + lib/learning.js)
+- `SUPABASE_SECRET_KEY` → `SUPABASE_SERVICE_KEY` (.env.local + config.js + .env.example)
+
+**Estado del Meta Skill:**
+- Antes: bucle de reflexión activo en código pero sin tablas reales → silenciosamente fallando
+- Ahora: `agent_learnings` + `search_agent_learnings()` operativos → aprendizaje acumulativo REAL
+
+**Estado de agent_monitoring:**
+- Antes: heartbeat tirando error cada 60s en producción
+- Ahora: tabla lista para recibir pulsos de todos los agentes
+
+---
+
+**[2026-04-07] — ETHAN: AUDITORÍA TÉCNICA + LIMPIEZA DE DEUDA ✅**
+
+**Status:** ✅ COMPLETADO
+
+**Hallazgos corregidos en `02_Agents/core/`:**
+
+- `config.js` — Centralización completa: dotenv se carga UNA sola vez, modelos configurables via env
+- `agent_base.js` — Eliminado `dotenv.config()` duplicado (líneas 1+9 → 0). Modelo: `claude-3-haiku` → `CLAUDE_MODEL` desde config
+- `lib/memory.js`, `lib/health.js`, `lib/learning.js`, `lib/ai.js` — Todos migraron a `require('../config')`, sin dotenv propio
+- `package.json` — Eliminada dependencia `@a2a-js/sdk` (nunca usada). Scripts de test añadidos: `test:heartbeat`, `test:mcp`, `test:learning`
+- `.env.example` — Actualizado con todas las variables: `OPENAI_API_KEY`, `CLAUDE_MODEL`, `CLAUDE_MINI_MODEL`, `NODE_ENV`
+
+**Verificación:**
+- Router: 6/6 tests ✅
+- Módulos: 10/10 cargan sin errores ✅
+
+**Nota de arquitectura (AppControldetiempos):**
+La auditoría inicial marcó Vite 8 + Tailwind 4 como error — es CORRECTO. Vite 8 es la versión más reciente (Vite 6 es LTS). `@tailwindcss/vite` es el plugin oficial para Tailwind v4. No se modifica.
+
+---
+
+**[2026-04-07] — ETHAN: AGENTES INSTANCIADOS + ROUTER ACTUALIZADO ✅**
+
+
+**Status:** ✅ COMPLETADO
+
+**Agentes creados en `02_Agents/core/agents/`:**
+- `agent_investigador.js` — AgentInvestigador con Tavily, proceso de 5 pasos, output estructurado
+- `agent_architect.js` — The Architect, blueprint protocol, modo auditoría
+
+**Router `index.js` actualizado:**
+- 6 agentes registrados + test suite 6/6 ✅
+- AgentArchitect tiene prioridad máxima (detecta antes que nadie)
+- AgentInvestigador cubre: investiga, busca información, competencia, tendencias, research, valida la idea
+
+---
+
+**[2026-04-07] — ETHAN: BLOQUE 4 COMPLETADO — PLAN DE 20 PIEZAS ✅ 20/20**
+
+**Status:** ✅ COMPLETADO
+
+**Las 5 piezas del Bloque 4 instaladas en `04_infra/skills/skills_md/`:**
+
+- `16_auto_crm.md` — Pipeline de ventas autónomo: tabla `crm_leads`, motor BANT scoring, integración con AgentSetter/Closer, dashboard de pipeline en Supabase
+- `17_rufio_cloud.md` — Despliegue con Coolify: arquitectura VPS, variables de entorno por proyecto, CI/CD con GitHub Actions webhook, checklist de despliegue
+- `18_claude_code_meta_ads.md` — Máquina de Meta Ads: generador de campañas A/B/C por placement, output JSON importable en Business Manager, auditoría AlphaLoop (mínimo 8.0/10)
+- `19_investigador_automatico.md` — AgentInvestigador con Tavily: arquitectura, system prompt completo, registro en router, integración con AlphaLoop como contexto de entrada
+- `20_the_architect.md` — The Architect (Ethan): agente de más alto nivel, protocolo de diseño de sistemas, registro de decisiones arquitectónicas, sistemas en cola
+
+**Plan de 20 piezas: 20/20 COMPLETADO.**
+
+**⚠️ Próximos pasos operativos (para Nacho/Pau):**
+1. Crear `agent_investigador.js` + `agent_architect.js` en `02_Agents/core/agents/` (están documentados, pendiente de instanciar)
+2. Ejecutar SQL de `crm_leads` en Supabase Dashboard (en `16_auto_crm.md`)
+3. Definir brief del primer producto para Meta Ads (Pau)
+4. Proveer IP del VPS para activar Rufio Cloud (Nacho)
+
+---
+
+**[2026-04-07] — ETHAN: INTEGRACIÓN MCP+A2A + 15 PIEZAS DEL PLAN DE 20**
+
+**Status:** ✅ COMPLETADO
+
+**1. AgentBase — MCP y A2A operativos**
+- `02_Agents/core/agents/agent_base.js` actualizado con `useToolServer()` y `delegate()`
+- Modelo corregido a `claude-sonnet-4-6` (era `claude-3-5-sonnet-20241022`)
+- `02_Agents/core/lib/memory.js` corregido: columna `agent`, campo `type: "message"`
+- Test `test_mcp.js` pasa limpio: 14 herramientas MCP conectadas, memoria en Supabase OK
+
+**2. Supabase — Constraints eliminados**
+- `agent_memory_agent_check` eliminado (solo permitía Pau/Ethan/Humano)
+- `agent_memory_type_check` eliminado (solo permitía decision/context/task/note/green_light)
+- La tabla `agent_memory` ahora acepta cualquier agente y tipo
+
+**3. Plan de 20 Piezas — 15/20 completadas**
+- Carpeta creada: `04_infra/skills/skills_md/`
+- 15 archivos `.md` creados (numerados 01-15)
+- Bloque 1 (Skills infra): APIs/MCPs/A2A, Meta Skill, Piloto Automático, Schedule, Dispatch
+- Bloque 2 (Skills especializadas): 5Skills=Dev, Computer Use, Estructura, SEO, Ads
+- Bloque 3 (Agencia+Agentes): Agencia Digital, G Stack, WhatsApp, Agency Agents, Crea Agentes
+
+**⚠️ Pendiente — Bloque 4 (5 piezas):**
+- Auto-CRM, Rufio Cloud, Claude Code Meta Ads, Investigador Automático, The Architect
+
+**⚠️ Pendiente — Acciones manuales de Nacho (sin cambios):**
+1. `python embed_dataset.py` → activa el RAG
+
+---
+
 **[2026-04-03] — PAU (Antigravity): CULMINACIÓN ERA EMERALD Y BLINDAJE ESTRUCTURAL**
 
 **Status**: ✅ COMPLETADO (Día de Transformación Visual & Infra)
@@ -75,7 +363,6 @@ El agente debe ser capaz de generar estas secuencias de 5-7 emails con narrativa
 4. **GitHub Actions**: Confirmada instalación y despliegue del pipeline CI/CD en el template base.
 
 **⚠️ Acción para mañana:** 
-- Iniciar Fase 3 del EMKD con motor Hemingway (Día 3). 
 - Validar despliegue de MultiEntregas en Vercel/Netlify si Nacho lo autoriza.
 
 **Estado de la Factory**: Snapshot guardado. Motor calentando. 💎🛡️🚀
@@ -257,8 +544,7 @@ Ethan, he recibido las 4 preguntas. Aquí tienes mi visión estratégica para bl
 **[2026-03-31] — ACTIVACIÓN SWARM ALPHA GO (Pau)**
 - **Orquestación**: Implementado `SWARM_CONFIG.md` para coordinar a Pau, Ethan y Alma.
 - **DNA Sincronizado**: Actualizado `01_prompt_maestro.md` con protocolos de handoff agéntico.
-- **Hito de Campaña**: Generado `DAY_02.md` con motor Hemingway. Auditoría AlphaGo: **9.3/10**. 
-- **Siguiente paso**: Ethan debe ejecutar el RAG del dataset literario para el Día 3.
+- **Siguiente paso**: Ethan debe ejecutar el RAG del dataset literario para el siguiente bloque.
 
 **[2026-03-31] — AUDITORÍA LOPD/RGPD Y SEGURIDAD (Pau)**
 - **Blindaje Laboral**: Implementado trigger de auditoría en `AppControldetiempos` para garantizar inalterabilidad (Art. 34.9 ET).
@@ -273,11 +559,6 @@ Ethan, he recibido las 4 preguntas. Aquí tienes mi visión estratégica para bl
 
 **[2026-03-31] — FIX INFRAESTRUCTURA (Pau)**
 
-**[2026-03-31] — OPERACIÓN ALMA: DÍA 1 (Pau)**
-- **Meta-Narrativa**: Lanzada la primera fase del EMKD "Secuencia EMKD 7 Días".
-- **Producción**: Creado `04_EMKD_7_DIAS/DAY_01.md` con motor Dan Brown.
-- **Evaluación**: Auditoría AlphaGo superada con un **9.0/10**. 
-- **Siguiente paso**: Ethan debe preparar el dataset literario para el Día 2 ( Hemingway para el contraste).
 
 ---
 
@@ -322,8 +603,7 @@ Ethan, procede con la integración. Humano, tienes mi Green Light. ¿Cerramos la
 **[2026-03-31] — Pau**
 - **Gestión de Crisis**: Identificado bloqueo de Ethan con tokens. Guiado al humano para obtener el Personal Access Token (PAT) y la `service_role` key.
 - **Glosario Expandido**: Inyectados conceptos AlphaGo (Move 37, Cliffhangers, Iceberg, Open Loops) en `GLOSARIO_TRONCAL.md`.
-- **Cerebro Actualizado**: `01_prompt_maestro.md` ahora incluye la arquitectura de 3 capas (Move 37 -> Motor Narrativo -> Calidad Tobogán) y perfiles de Dan Brown, Hemingway, etc.
-- **Workflow Creado**: Implementado `workflows/secuencia_serial_7_dias.md` para las historias del EMKD.
+- **DNA Actualizado**: `01_prompt_maestro.md` ahora incluye la arquitectura de 3 capas (Move 37 -> Motor Narrativo -> Calidad Tobogán).
 
 ---
 
@@ -421,9 +701,11 @@ Propongo este orden: RAG → `.env.example` → CI/CD → Tests. Pero si hay alg
 | ✅ | Corregir 02_prompt_auditor.md (V2.0) | Ethan | COMPLETADO |
 | ✅ | Pipeline embeddings embed_dataset.py | Ethan | COMPLETADO |
 | ✅ | Migración pgvector Supabase | Ethan | COMPLETADO |
+| 🔴 Alta | **MultiEntregas LG — Backend (formularios, Supabase, panel admin)** | **Ethan** | ✅ COMPLETADO |
+| 🔴 Alta | **MultiEntregas LG — Revisión artística final** | **Alma** | 🔄 EN PROGRESO |
+| 🔴 Alta | **Resend API Key — configurar en Supabase + verificar dominio** | **Nacho** | ⏳ Acción manual |
 | 🔴 Alta | Ejecutar migración SQL + `python embed_dataset.py` | Nacho | ⏳ Acción manual |
 | 🔴 Alta | Integrar `search_dataset()` en orquestador (RAG activo) | Ethan | ⏳ |
-| 🔴 Alta | Secuencia EMKD 7 Días - Días 3-7 | Pau | ⏳ |
 | 🟡 Media | Diseñar system prompt Agente Copywriter | Pau + Ethan | ⏳ |
 | 🟢 Baja | Despliegue en VPS Coolify | Ethan | ⏳ |
 
@@ -431,7 +713,7 @@ Propongo este orden: RAG → `.env.example` → CI/CD → Tests. Pero si hay alg
 
 ## IDEAS DE NACHO (pendientes de Green Light)
 
-- **EMKD:** Minihistorias serializadas de 1 semana con narrativa + venta embebida
+
 - **El gran sueño del polimata** (pendiente de revelar)
 - **Dataset literario:** Dan Brown, Lee Child, James Patterson, Michael Crichton, Hemingway, Grisham
 

@@ -1,9 +1,4 @@
-require("dotenv").config({ path: require("path").resolve(__dirname, "../../../.env.local") });
-
-const Anthropic = require("@anthropic-ai/sdk");
-const { loadHistory, saveMessage } = require("../lib/memory");
-
-const client = new Anthropic();
+const AgentBase = require("./agent_base");
 
 const SYSTEM_PROMPT = `Eres el Agente Setter del SaaS Factory. Tu misión es cualificar clientes potenciales mediante preguntas estratégicas de descubrimiento de ventas.
 
@@ -29,24 +24,19 @@ No intentas vender. Solo escuchas, preguntas y cualificas.
 - Responde siempre en español
 - Sé directo, profesional y empático`;
 
-module.exports = {
-  name: "Agente Setter",
-  role: "Cualificar leads y preparar el terreno para el cierre",
-  goal: "Extraer información clave del cliente antes de pasar al Agente Closer",
-
-  async run(task, sessionId = "default") {
-    const history = await loadHistory(this.name, sessionId);
-    await saveMessage(this.name, sessionId, "user", task);
-
-    const response = await client.messages.create({
-      model: "claude-sonnet-4-6",
-      max_tokens: 1024,
-      system: SYSTEM_PROMPT,
-      messages: [...history, { role: "user", content: task }],
+class AgentSetter extends AgentBase {
+  constructor() {
+    super({
+      name: "Agente Setter",
+      role: "Cualificar leads y preparar el terreno para el cierre",
+      goal: "Extraer información clave del cliente antes de pasar al Agente Closer",
+      systemPrompt: SYSTEM_PROMPT,
     });
+  }
 
-    const reply = response.content[0].text;
-    await saveMessage(this.name, sessionId, "assistant", reply);
-    return reply;
-  },
-};
+  /**
+   * Nota: Hereda run() de AgentBase, que ya tiene re-intentos y memoria.
+   */
+}
+
+module.exports = new AgentSetter();

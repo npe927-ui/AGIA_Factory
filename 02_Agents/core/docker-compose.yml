@@ -1,0 +1,17 @@
+services:
+  agent-cluster:
+    build: .
+    container_name: saas_factory_agents
+    restart: always
+    env_file:
+      - .env.cloud # Archivo específico para el contenedor
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - saas_network
+
+networks:
+  saas_network:
+    driver: bridge

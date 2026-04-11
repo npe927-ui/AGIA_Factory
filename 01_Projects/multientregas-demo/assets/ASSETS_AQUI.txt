@@ -1,0 +1,9 @@
+Coloca aquí los siguientes archivos antes del deployment:
+
+  logo.png            ← Logo_MultiEntregas_LG_DEFINITIVO.png  (renombrar)
+  camion_lateral.jpg  ← 59742.jpg  (renombrar)
+  camion_trasero.jpg  ← 59732.jpg  (renombrar)
+
+Si las imágenes de camiones no están disponibles, la web muestra
+un placeholder elegante. El logo en hero y header es SVG inline
+y no requiere el archivo PNG.

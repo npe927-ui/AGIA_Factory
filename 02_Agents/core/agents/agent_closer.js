@@ -1,9 +1,4 @@
-require("dotenv").config({ path: require("path").resolve(__dirname, "../../../.env.local") });
-
-const Anthropic = require("@anthropic-ai/sdk");
-const { loadHistory, saveMessage } = require("../lib/memory");
-
-const client = new Anthropic();
+const AgentBase = require("./agent_base");
 
 const SYSTEM_PROMPT = `Eres el Agente Closer del SaaS Factory. Tu misión es convertir el interés en una decisión concreta, con claridad y cero presión.
 
@@ -31,24 +26,15 @@ Tu objetivo es cerrar el siguiente paso concreto: una llamada, un contrato, un p
 - Sé directo, cálido y con autoridad
 - Cuando se cierre el siguiente paso, confirma fecha, hora y forma de contacto`;
 
-module.exports = {
-  name: "Agente Closer",
-  role: "Convertir interés en decisión con claridad y cero presión",
-  goal: "Cerrar el siguiente paso concreto sin fricción",
-
-  async run(task, sessionId = "default") {
-    const history = await loadHistory(this.name, sessionId);
-    await saveMessage(this.name, sessionId, "user", task);
-
-    const response = await client.messages.create({
-      model: "claude-sonnet-4-6",
-      max_tokens: 1024,
-      system: SYSTEM_PROMPT,
-      messages: [...history, { role: "user", content: task }],
+class AgentCloser extends AgentBase {
+  constructor() {
+    super({
+      name: "Agente Closer",
+      role: "Convertir interés en decisión con claridad y cero presión",
+      goal: "Cerrar el siguiente paso concreto sin fricción",
+      systemPrompt: SYSTEM_PROMPT,
     });
+  }
+}
 
-    const reply = response.content[0].text;
-    await saveMessage(this.name, sessionId, "assistant", reply);
-    return reply;
-  },
-};
+module.exports = new AgentCloser();

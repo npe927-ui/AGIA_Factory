@@ -4,13 +4,47 @@
  * Todos los agentes usan Claude API real + memoria en Supabase.
  */
 
-const agentBase   = require("./agents/agent_base");
+const { markStaleAgentsOffline } = require("./lib/health");
+const AgentBase = require("./agents/agent_base");
+const agentBase = new AgentBase();
+
+// Cron interno: marca offline agentes sin heartbeat en más de 2 minutos
+if (!process.argv.includes("--test")) {
+  setInterval(() => markStaleAgentsOffline(120000), 120000);
+}
 const agentSetter = require("./agents/agent_setter");
 const agentCloser = require("./agents/agent_closer");
 const agentEmailer = require("./agents/agent_emailer");
+const agentInvestigador = require("./agents/agent_investigador");
+const agentArchitect = require("./agents/agent_architect");
 
 function route(task) {
   const t = (task || "").toLowerCase();
+
+  if (
+    t.includes("diseña") ||
+    t.includes("arquitectura") ||
+    t.includes("cómo estructuramos") ||
+    t.includes("blueprint") ||
+    t.includes("audita el sistema") ||
+    t.includes("revisa la factory") ||
+    t.includes("the architect")
+  ) {
+    return agentArchitect;
+  }
+
+  if (
+    t.includes("investiga") ||
+    t.includes("busca información") ||
+    t.includes("analiza el mercado") ||
+    t.includes("competencia") ||
+    t.includes("tendencias") ||
+    t.includes("qué dice") ||
+    t.includes("research") ||
+    t.includes("valida la idea")
+  ) {
+    return agentInvestigador;
+  }
 
   if (t.includes("avanzar") || t.includes("propuesta") || t.includes("pago") || t.includes("cierre")) {
     return agentCloser;
@@ -48,10 +82,12 @@ async function run(task, sessionId = "default") {
 // Test sin llamadas API
 if (process.argv.includes("--test")) {
   const tests = [
-    { task: "quiero más leads y clientes",         expected: "Agente Setter" },
-    { task: "ya respondí, quiero avanzar a pago",  expected: "Agente Closer" },
-    { task: "necesito una campaña de cold email",  expected: "Agente Emailer" },
-    { task: "hola qué tal",                        expected: "Agente Base" },
+    { task: "quiero más leads y clientes",                   expected: "Agente Setter" },
+    { task: "ya respondí, quiero avanzar a pago",            expected: "Agente Closer" },
+    { task: "necesito una campaña de cold email",            expected: "Agente Emailer" },
+    { task: "investiga la competencia de MultiEntregas",     expected: "Agente Investigador" },
+    { task: "diseña la arquitectura del nuevo sistema",      expected: "The Architect" },
+    { task: "hola qué tal",                                  expected: "Agente Base" },
   ];
 
   let passed = 0;
