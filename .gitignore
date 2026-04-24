@@ -9,19 +9,59 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+.env.*
 
 # Virtual Environments
 .venv/
 venv/
 env/
 PYTHON_VENV/
+.venv_*/
+bin/
+
+# Security & Tokens (CRITICAL)
+*.json
+!package.json
+!composer.json
+!tsconfig.json
+!skills-lock.json
+!manifest.json
+!*manifest.json
+.gmail_token.json
+.eternal_token.json
+.pauethan_token.json
+credentials.json
+client_secret*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
 # Output & Build
 dist/
 build/
 .next/
 out/
-bin/
+.netlify/
 
 # IDEs & OS
 .vscode/
@@ -45,3 +85,6 @@ supabase/.storage/
 /tmp/
 *.tmp
 temp/
+.agents/
+.claude/
+01_Projects/AGIA_360/.venv_agia/
