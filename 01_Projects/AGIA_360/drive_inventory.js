@@ -24,7 +24,7 @@ async function listFiles() {
     
     // We search for common extensions. 
     // Drive API "q" doesn't support regex, so we use multiple "or" conditions.
-    const query = " (name contains '.epub' or name contains '.txt' or name contains '.md' or name contains '.EPUB' or name contains '.TXT' or name contains '.MD') and trashed = false";
+    const query = " (name contains '.epub' or name contains '.pdf' or name contains '.txt' or name contains '.md' or name contains '.mp3' or name contains '.mp4' or name contains '.wav' or name contains '.m4a' or name contains '.mov' or name contains '.EPUB' or name contains '.PDF' or name contains '.TXT' or name contains '.MD' or name contains '.MP3' or name contains '.MP4' or name contains '.WAV' or name contains '.M4A' or name contains '.MOV') and trashed = false";
     
     let allFiles = [];
     let pageToken = null;

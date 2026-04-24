@@ -4,7 +4,7 @@ const url = require('url');
 const fs = require('fs');
 
 const credentials = JSON.parse(fs.readFileSync('gcp-oauth.keys.json', 'utf-8'));
-const { client_id, client_secret, redirect_uris } = credentials.installed;
+const { client_id, client_secret, redirect_uris } = credentials.web;
 
 const REDIRECT_URI = 'http://localhost:4100/code';
 
