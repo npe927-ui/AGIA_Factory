@@ -88,3 +88,4 @@ temp/
 .agents/
 .claude/
 01_Projects/AGIA_360/.venv_agia/
+01_Projects/AGIA_360/input_books/
