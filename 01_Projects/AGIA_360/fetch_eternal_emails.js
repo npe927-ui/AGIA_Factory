@@ -3,15 +3,16 @@ const fs = require('fs');
 const path = require('path');
 
 const CRED_FILE = '.gauth.json';
-const TOKEN_FILE = '.pauethan_token.json';
-const OUT_DIR = path.join(__dirname, '../../03_Data/Emails_Copywriters_Pauethan');
+const TOKEN_FILE = '.eternal_token.json';
+const OUT_DIR = path.join(__dirname, '../../03_Data/Emails_Copywriters');
 
 const authors = {
-    "Isra_Bravo": 'from:isra@israbravo.com OR from:isra@motivante.com OR "isra bravo"',
-    "Enrique_Ruiz": 'from:enrique OR "enrique ruiz"',
-    "Luis_Monge_Malo": 'from:luis OR "luis monje malo" OR "luis monge malo"',
-    "Miguel_Vazquez": 'from:miguel OR "miguel vazquez"',
-    "Fran_Emprendemelon": 'from:emprendemelon OR "fran emprendemelon" OR "emprendemelón"'
+    "Isra_Bravo":        'from:isra@israbravo.com OR from:isra@motivante.com',
+    "Luis_Monge_Malo":   'from:mongemalo@cleverconsulting.net OR from:emalo@cleverconsulting.net',
+    "Miguel_Vazquez":    'from:miguiyaguis@miguelvz.com',
+    "Fran_Emprendemelon":'from:hola@emprendemelon.com',
+    "Mago_More":         'from:hola@magomore.com',
+    "Rosa_Morel":        'from:rosamore@substack.com'
 };
 
 const credentials = JSON.parse(fs.readFileSync(CRED_FILE, 'utf-8'));
@@ -32,22 +33,36 @@ function getHeader(headers, name) {
     return header ? header.value : '';
 }
 
+function stripHtml(html) {
+    return html
+        .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+        .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+        .replace(/\s+/g, ' ').trim();
+}
+
 function getBody(payload) {
     if (payload.parts) {
+        // Primero buscar text/plain (recursivo)
         for (const part of payload.parts) {
-            if (part.mimeType === 'text/plain') {
-                if (part.body && part.body.data) {
-                    return Buffer.from(part.body.data, 'base64').toString('utf-8');
-                }
+            if (part.mimeType === 'text/plain' && part.body && part.body.data) {
+                return Buffer.from(part.body.data, 'base64').toString('utf-8');
             } else if (part.parts) {
                 const b = getBody(part);
                 if (b) return b;
             }
         }
-    } else if (payload.mimeType === 'text/plain') {
-        if (payload.body && payload.body.data) {
-            return Buffer.from(payload.body.data, 'base64').toString('utf-8');
+        // Fallback: text/html
+        for (const part of payload.parts) {
+            if (part.mimeType === 'text/html' && part.body && part.body.data) {
+                return stripHtml(Buffer.from(part.body.data, 'base64').toString('utf-8'));
+            }
         }
+    } else if (payload.mimeType === 'text/plain' && payload.body && payload.body.data) {
+        return Buffer.from(payload.body.data, 'base64').toString('utf-8');
+    } else if (payload.mimeType === 'text/html' && payload.body && payload.body.data) {
+        return stripHtml(Buffer.from(payload.body.data, 'base64').toString('utf-8'));
     }
     return '';
 }
@@ -121,6 +136,8 @@ async function fetchEmails() {
                     const safeSubject = sanitizeFilename(subject);
                     const filename = `${datePrefix}_${safeSubject}.md`;
                     const filepath = path.join(authorDir, filename);
+
+                    if (fs.existsSync(filepath)) continue;
 
                     const body = getBody(payload);
 

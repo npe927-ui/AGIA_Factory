@@ -8,7 +8,7 @@ interface ChatMessage extends Message {
 }
 
 const AGENT_LABELS: Record<AgentType, string> = {
-    MANAGER: '🌙 Lua — Manager',
+    MANAGER: '🧠 Nacho — Manager',
 
     CLOSER: '🎯 Closer Agent',
     EMKD: '📧 Email Agent',
@@ -27,7 +27,7 @@ export function ManagerChat() {
     const [messages, setMessages] = useState<ChatMessage[]>([
         {
             role: 'assistant',
-            content: '¡Hola! Soy Lua, la Manager Agent de Agia 360. Como la luna guía a los navegantes, yo guío tu negocio a través de la IA y las ventas. Estoy entrenada con las mejores metodologías del mundo: SPIN, Challenger Sale, Cialdini, Sandler y más. ¿Por dónde empezamos?',
+            content: '¡Hola! Soy Nacho, el Manager Agent de Agia 360. Mi misión es diseñar tu estrategia de adquisición y ofertas irresistibles antes de activar a mis agentes especialistas. Estoy entrenado con las metodologías de Hormozi, Klaric, Lindstrom y los mejores copywriters del mundo. ¿En qué puedo ayudarte hoy?',
             agent: 'MANAGER',
         },
     ]);
@@ -99,11 +99,11 @@ export function ManagerChat() {
             <div className="bg-gradient-to-r from-indigo-600 to-purple-600 rounded-t-2xl p-6 text-white">
                 <div className="flex items-center gap-3">
                     <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center text-2xl">
-                        🌙
+                        🧠
                     </div>
                     <div>
-                        <h2 className="font-bold text-xl">Lua — Manager Agent</h2>
-                        <p className="text-white/70 text-sm">Coordinadora 360 · Agia 360</p>
+                        <h2 className="font-bold text-xl">Nacho — Manager Agent</h2>
+                        <p className="text-white/70 text-sm">Director de Estrategia · Agia 360</p>
                     </div>
                     <div className="ml-auto flex items-center gap-2">
                         <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />

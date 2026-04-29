@@ -1,55 +1,52 @@
-/* Google Fonts - Inter + DM Sans */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+/* Google Fonts - Inter + Outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* ============================================
-   DESIGN SYSTEM: LEXAGENDA - BUFETE LEGAL
-   Headings: DM Sans | Body: Inter
-   Estilo: Liquid Glass + Professional
+   DESIGN SYSTEM: AGIA 360 - AI AGENCY
+   Headings: Outfit | Body: Inter
+   Style: Deep Cyber + Liquid Glass
    ============================================ */
 
 :root {
-  /* Colores principales */
-  --color-primary: #1E3A5F;
-  --color-primary-50: #F0F4F8;
-  --color-primary-100: #D9E2EC;
-  --color-primary-200: #BCCCDC;
-  --color-primary-300: #9FB3C8;
-  --color-primary-400: #627D98;
-  --color-primary-500: #1E3A5F;
-  --color-primary-600: #1A3355;
-  --color-primary-700: #152A46;
-  --color-primary-800: #102238;
-  --color-primary-900: #0A1929;
+  /* Core Palette - Deep Cyber */
+  --color-primary: #0F172A; /* Slate 900 */
+  --color-primary-50: #F8FAFC;
+  --color-primary-100: #F1F5F9;
+  --color-primary-200: #E2E8F0;
+  --color-primary-300: #CBD5E1;
+  --color-primary-400: #94A3B8;
+  --color-primary-500: #64748B;
+  --color-primary-600: #475569;
+  --color-primary-700: #334155;
+  --color-primary-800: #1E293B;
+  --color-primary-900: #0F172A;
 
-  /* Dorado legal */
-  --color-secondary: #D4A853;
-  --color-secondary-50: #FDF8ED;
-  --color-secondary-100: #F9EDCF;
-  --color-secondary-200: #F2DBA0;
-  --color-secondary-300: #E7C570;
-  --color-secondary-400: #DCAF4A;
-  --color-secondary-500: #D4A853;
-  --color-secondary-600: #B8923F;
-  --color-secondary-700: #96762F;
-  --color-secondary-800: #745A22;
-  --color-secondary-900: #523F18;
+  /* Accent - Electric Indigo */
+  --color-accent: #6366F1;
+  --color-accent-50: #EEF2FF;
+  --color-accent-100: #E0E7FF;
+  --color-accent-200: #C7D2FE;
+  --color-accent-300: #A5B4FC;
+  --color-accent-400: #818CF8;
+  --color-accent-500: #6366F1;
+  --color-accent-600: #4F46E5;
+  --color-accent-700: #4338CA;
 
-  /* Acento para CTAs */
-  --color-accent: #2563EB;
-  --color-accent-50: #EFF6FF;
-  --color-accent-100: #DBEAFE;
-  --color-accent-200: #BFDBFE;
-  --color-accent-300: #93C5FD;
-  --color-accent-400: #60A5FA;
-  --color-accent-500: #2563EB;
-  --color-accent-600: #1D4ED8;
-  --color-accent-700: #1E40AF;
+  /* Secondary - Cyan Cyber */
+  --color-secondary: #06B6D4;
+  --color-secondary-50: #ECFEFF;
+  --color-secondary-100: #CFFAFE;
+  --color-secondary-200: #A5F3FC;
+  --color-secondary-300: #67E8F9;
+  --color-secondary-400: #22D3EE;
+  --color-secondary-500: #06B6D4;
+  --color-secondary-600: #0891B2;
 
-  /* Estados */
+  /* States */
   --color-success: #10B981;
   --color-success-light: #D1FAE5;
   --color-warning: #F59E0B;
@@ -59,29 +56,27 @@
   --color-info: #3B82F6;
   --color-info-light: #DBEAFE;
 
-  /* Estados de citas */
-  --color-pending: #F59E0B;
-  --color-confirmed: #2563EB;
-  --color-completed: #10B981;
-  --color-paid: #8B5CF6;
-  --color-cancelled: #EF4444;
+  /* Agent Status / Type Colors */
+  --color-manager: #6366F1;
+  --color-closer: #EC4899;
+  --color-emkd: #06B6D4;
+  --color-content: #8B5CF6;
 
-  /* Superficies */
-  --color-background: #FAFBFC;
-  --color-surface: #FFFFFF;
-  --color-surface-elevated: #FFFFFF;
-  --color-foreground: #1A1A2E;
-  --color-foreground-secondary: #64748B;
-  --color-foreground-muted: #94A3B8;
-  --color-border: #E2E8F0;
-  --color-border-light: #F1F5F9;
+  /* Surfaces */
+  --color-background: #020617; /* Darker Slate */
+  --color-surface: #0F172A;
+  --color-surface-elevated: #1E293B;
+  --color-foreground: #F8FAFC;
+  --color-foreground-secondary: #94A3B8;
+  --color-foreground-muted: #64748B;
+  --color-border: #1E293B;
+  --color-border-light: #334155;
 
-  /* Sombras */
+  /* Shadows & Glass */
   --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
-  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
-  --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
 }
 
 html {
@@ -89,6 +84,8 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
+  background-color: var(--color-background);
+  color: var(--color-foreground);
 }
 
 body {
@@ -103,43 +100,43 @@ body {
 }
 
 ::selection {
-  background-color: #1E3A5F;
+  background-color: var(--color-accent);
   color: white;
 }
 
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #F1F5F9;
+  background: var(--color-background);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #CBD5E1;
-  border-radius: 4px;
+  background: var(--color-primary-700);
+  border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #94A3B8;
+  background: var(--color-accent-500);
 }
 
-/* Tipografía para headings */
+/* Typography for headings */
 h1, h2, h3, h4, h5, h6, .heading {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: 'Outfit', system-ui, sans-serif;
   font-weight: 600;
   letter-spacing: -0.02em;
 }
 
 @layer base {
-  /* Estados de citas - clases base */
-  .status-pending { color: var(--color-pending); }
-  .status-confirmed { color: var(--color-confirmed); }
-  .status-completed { color: var(--color-completed); }
-  .status-paid { color: #8B5CF6; }
-  .status-cancelled { color: var(--color-cancelled); }
+  /* Agent type colors */
+  .color-manager { color: var(--color-manager); }
+  .color-closer { color: var(--color-closer); }
+  .color-emkd { color: var(--color-emkd); }
+  .color-content { color: var(--color-content); }
 }
+
 
 @layer components {
   /* Card con efecto glass */

@@ -50,14 +50,22 @@ export async function ingestDocument(title: string, content: string, source: str
 }
 
 export async function searchChunks(query: string, matchCount: number = 5) {
+    return searchAgiaCorpus(query, matchCount);
+}
+
+export async function searchAgiaCorpus(query: string, matchCount: number = 5) {
     const [embedding] = await generateEmbeddings([query]);
 
-    const { data, error } = await supabase.rpc('match_chunks', {
+    const { data, error } = await supabase.rpc('match_agia_corpus', {
         query_embedding: embedding,
+        match_threshold: 0.5,
         match_count: matchCount
     });
 
-    if (error) throw error;
+    if (error) {
+        console.error('Error in match_agia_corpus:', error);
+        throw error;
+    }
     return data;
 }
 

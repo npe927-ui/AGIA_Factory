@@ -1,9 +1,10 @@
 import os
 
-def save_svg(name, content, size=400):
+def save_svg(name, content, size=400, height=None):
+    h = height or size
     path = f"03_Branding/MultiEntregas/VECTOR_ASSETS/{name}.svg"
     with open(path, "w") as f:
-        f.write(f'<?xml version="1.0" encoding="UTF-8"?>\n<svg width="{size}" height="{size}" viewBox="0 0 {size} {size}" xmlns="http://www.w3.org/2000/svg">\n{content}\n</svg>')
+        f.write(f'<?xml version="1.0" encoding="UTF-8"?>\n<svg width="{size}" height="{h}" viewBox="0 0 {size} {h}" xmlns="http://www.w3.org/2000/svg">\n{content}\n</svg>')
     print(f"Generated: {path}")
 
 # --- LOGO V18: THE GRAVITY SPIKE ---
@@ -32,4 +33,4 @@ wrap_pattern = """
 if __name__ == "__main__":
     os.makedirs("03_Branding/MultiEntregas/VECTOR_ASSETS", exist_ok=True)
     save_svg("V18_Gravity_Spike", logo_v18, size=400)
-    save_svg("V18_Fleet_Wrap", wrap_pattern, size=800)
+    save_svg("V18_Fleet_Wrap", wrap_pattern, size=800, height=400)

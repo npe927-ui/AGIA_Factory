@@ -16,7 +16,7 @@ interface Step {
 
 const clientSteps: Step[] = [
   {
-    title: 'Bienvenido a LexAgenda',
+    title: 'Bienvenido a Agia 360',
     description: 'Tu plataforma de gestión de citas legales. Aquí podrás agendar consultas con abogados especializados de manera fácil y rápida.',
     icon: (
       <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -67,7 +67,7 @@ const clientSteps: Step[] = [
 
 const lawyerSteps: Step[] = [
   {
-    title: 'Bienvenido a LexAgenda',
+    title: 'Bienvenido a Agia 360',
     description: 'Tu plataforma de gestión de citas legales. Aquí podrás administrar tu agenda, atender clientes y hacer crecer tu práctica.',
     icon: (
       <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">

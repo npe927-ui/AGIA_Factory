@@ -4,7 +4,7 @@ import { Card } from '@/components/ui/card'
 import { PricingManager } from './PricingManager'
 
 export const metadata = {
-  title: 'Gestión de Precios | LexAgenda Admin'
+  title: 'Gestión de Precios | Agia 360 Admin'
 }
 
 export default async function AdminPricingPage() {

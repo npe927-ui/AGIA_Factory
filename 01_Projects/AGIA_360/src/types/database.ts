@@ -1,5 +1,5 @@
 // ============================================
-// TIPOS DEL DOMINIO - LexAgenda
+// TIPOS DEL DOMINIO - Agia 360
 // ============================================
 
 export type UserRole = 'client' | 'lawyer' | 'admin'

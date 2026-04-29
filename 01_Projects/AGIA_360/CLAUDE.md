@@ -316,6 +316,11 @@ test('should calculate total with tax', () => {
 - **Fix**: Siempre usar `npm run dev` (auto-detecta puerto)
 - **Aplicar en**: Todos los proyectos
 
+### 2025-01-09: Usar agia_corpus para RAG, no chunks/documents
+- **Error**: El sistema intentaba consultar tablas estándar `chunks/documents` que no existían, causando fallos en el Manager Agent.
+- **Fix**: Usar la tabla `agia_corpus` y el RPC `match_agia_corpus` para el dataset premium de copywriters.
+- **Aplicar en**: Cualquier nueva integración de RAG o Agentes Especialistas.
+
 ---
 
 *Este archivo es el cerebro de la fábrica. Cada error documentado la hace más fuerte.*

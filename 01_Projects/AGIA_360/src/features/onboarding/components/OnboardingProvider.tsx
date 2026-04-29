@@ -8,7 +8,7 @@ interface OnboardingProviderProps {
   userId: string
 }
 
-const ONBOARDING_KEY = 'lexagenda_onboarding_completed'
+const ONBOARDING_KEY = 'agia360_onboarding_completed'
 
 export function OnboardingProvider({ userRole, userId }: OnboardingProviderProps) {
   const [showOnboarding, setShowOnboarding] = useState(false)

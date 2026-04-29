@@ -1,4 +1,4 @@
-// Email templates for LexAgenda
+// Email templates for Agia 360
 
 interface AppointmentEmailData {
   clientName: string
@@ -40,13 +40,13 @@ export function appointmentCreatedClientEmail(data: AppointmentEmailData): strin
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cita Confirmada - LexAgenda</title>
+  <title>Cita Confirmada - Agia 360</title>
   <style>${baseStyles}</style>
 </head>
 <body>
   <div class="container">
     <div class="header">
-      <h1>LexAgenda</h1>
+      <h1>Agia 360</h1>
       <p>Tu cita ha sido agendada</p>
     </div>
     <div class="content">
@@ -92,8 +92,8 @@ export function appointmentCreatedClientEmail(data: AppointmentEmailData): strin
       </p>
     </div>
     <div class="footer">
-      <p>Este correo fue enviado autom&aacute;ticamente por LexAgenda</p>
-      <p>&copy; ${new Date().getFullYear()} LexAgenda - Gesti&oacute;n Legal Inteligente</p>
+      <p>Este correo fue enviado autom&aacute;ticamente por Agia 360</p>
+      <p>&copy; ${new Date().getFullYear()} Agia 360 - Gesti&oacute;n Legal Inteligente</p>
     </div>
   </div>
 </body>
@@ -108,13 +108,13 @@ export function appointmentCreatedLawyerEmail(data: AppointmentEmailData): strin
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nueva Cita Agendada - LexAgenda</title>
+  <title>Nueva Cita Agendada - Agia 360</title>
   <style>${baseStyles}</style>
 </head>
 <body>
   <div class="container">
     <div class="header">
-      <h1>LexAgenda</h1>
+      <h1>Agia 360</h1>
       <p>Nueva cita agendada</p>
     </div>
     <div class="content">
@@ -155,8 +155,8 @@ export function appointmentCreatedLawyerEmail(data: AppointmentEmailData): strin
       </div>
     </div>
     <div class="footer">
-      <p>Este correo fue enviado autom&aacute;ticamente por LexAgenda</p>
-      <p>&copy; ${new Date().getFullYear()} LexAgenda - Gesti&oacute;n Legal Inteligente</p>
+      <p>Este correo fue enviado autom&aacute;ticamente por Agia 360</p>
+      <p>&copy; ${new Date().getFullYear()} Agia 360 - Gesti&oacute;n Legal Inteligente</p>
     </div>
   </div>
 </body>
@@ -171,19 +171,19 @@ export function appointmentCreatedAdminEmail(data: AppointmentEmailData): string
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nueva Cita en el Sistema - LexAgenda</title>
+  <title>Nueva Cita en el Sistema - Agia 360</title>
   <style>${baseStyles}</style>
 </head>
 <body>
   <div class="container">
     <div class="header" style="background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);">
-      <h1>LexAgenda Admin</h1>
+      <h1>Agia 360 Admin</h1>
       <p>Nueva cita registrada en el sistema</p>
     </div>
     <div class="content">
       <p class="greeting">Notificaci&oacute;n de Administrador</p>
       <p class="message">
-        Se ha registrado una nueva cita en el sistema LexAgenda.
+        Se ha registrado una nueva cita en el sistema Agia 360.
       </p>
 
       <div class="details-card">
@@ -217,8 +217,8 @@ export function appointmentCreatedAdminEmail(data: AppointmentEmailData): string
       </div>
     </div>
     <div class="footer">
-      <p>Notificaci&oacute;n autom&aacute;tica del sistema LexAgenda</p>
-      <p>&copy; ${new Date().getFullYear()} LexAgenda</p>
+      <p>Notificaci&oacute;n autom&aacute;tica del sistema Agia 360</p>
+      <p>&copy; ${new Date().getFullYear()} Agia 360</p>
     </div>
   </div>
 </body>
@@ -246,13 +246,13 @@ export function appointmentStatusChangedEmail(
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cita ${config.label} - LexAgenda</title>
+  <title>Cita ${config.label} - Agia 360</title>
   <style>${baseStyles}</style>
 </head>
 <body>
   <div class="container">
     <div class="header">
-      <h1>LexAgenda</h1>
+      <h1>Agia 360</h1>
       <p>${config.message}</p>
     </div>
     <div class="content">
@@ -289,8 +289,8 @@ export function appointmentStatusChangedEmail(
       </div>
     </div>
     <div class="footer">
-      <p>Este correo fue enviado autom&aacute;ticamente por LexAgenda</p>
-      <p>&copy; ${new Date().getFullYear()} LexAgenda - Gesti&oacute;n Legal Inteligente</p>
+      <p>Este correo fue enviado autom&aacute;ticamente por Agia 360</p>
+      <p>&copy; ${new Date().getFullYear()} Agia 360 - Gesti&oacute;n Legal Inteligente</p>
     </div>
   </div>
 </body>

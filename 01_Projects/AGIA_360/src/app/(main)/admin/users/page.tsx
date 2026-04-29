@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge'
 import { UserManagement } from './UserManagement'
 
 export const metadata = {
-  title: 'Gestión de Usuarios | LexAgenda Admin'
+  title: 'Gestión de Usuarios | Agia 360 Admin'
 }
 
 export default async function AdminUsersPage() {

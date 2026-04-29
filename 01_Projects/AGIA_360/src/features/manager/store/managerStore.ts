@@ -35,6 +35,7 @@ export interface ManagerState {
   fetchProjects: () => Promise<void>
   setCurrentProject: (project: Project | null) => void
   createProject: (data: Partial<Project>) => Promise<Project | null>
+  updateProject: (id: string, data: Partial<Project>) => Promise<void>
 }
 
 export const useManagerStore = create<ManagerState>((set, get) => ({
@@ -90,5 +91,25 @@ export const useManagerStore = create<ManagerState>((set, get) => ({
     }))
 
     return newProject as Project
+  },
+
+  updateProject: async (id, data) => {
+    set({ loading: true, error: null })
+    const supabase = createClient()
+    const { error } = await supabase
+      .from('projects')
+      .update(data)
+      .eq('id', id)
+
+    if (error) {
+      set({ error: error.message, loading: false })
+      return
+    }
+
+    set((state) => ({
+      projects: state.projects.map((p) => (p.id === id ? { ...p, ...data } : p)),
+      currentProject: state.currentProject?.id === id ? { ...state.currentProject, ...data } : state.currentProject,
+      loading: false
+    }))
   }
 }))

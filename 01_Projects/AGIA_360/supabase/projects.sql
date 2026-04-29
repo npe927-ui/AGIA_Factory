@@ -1,5 +1,5 @@
 -- =====================================================
--- PROJECTS/CASES TABLE - LexAgenda
+-- PROJECTS/CASES TABLE - Agia 360
 -- =====================================================
 -- INSTRUCCIONES:
 -- 1. Ve a Supabase Dashboard > SQL Editor

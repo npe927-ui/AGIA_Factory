@@ -18,7 +18,7 @@ export function useTour() {
   return context
 }
 
-const TOUR_STORAGE_KEY = 'lexagenda_tour_completed'
+const TOUR_STORAGE_KEY = 'agia360_tour_completed'
 
 export function TourProvider({ children }: { children: ReactNode }) {
   const [showTour, setShowTour] = useState(false)

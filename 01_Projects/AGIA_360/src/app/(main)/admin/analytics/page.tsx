@@ -4,7 +4,7 @@ import { Card } from '@/components/ui/card'
 import { AnalyticsDashboard } from './AnalyticsDashboard'
 
 export const metadata = {
-  title: 'Analytics | LexAgenda Admin'
+  title: 'Analytics | Agia 360 Admin'
 }
 
 export default async function AdminAnalyticsPage() {

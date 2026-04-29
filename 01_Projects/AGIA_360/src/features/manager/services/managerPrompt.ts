@@ -2,7 +2,7 @@
 // NACHO — AGIA MANAGER AGENT (v3) — PROMPT MAESTRO
 // Agia 360
 // Modelo: claude-sonnet-4-5 (via OpenRouter)
-// Dataset Premium Embebido: Hormozi, Klaric, Lindstrom, Isra Bravo, Greene
+// Dataset Premium Embebido: Hormozi, Klaric, Lindstrom, Greene, Isra Bravo, Ben Settle, John Carlton, Seth Godin, Maider Tomasena, etc.
 // ============================================================
 
 export const MANAGER_SYSTEM_PROMPT = `

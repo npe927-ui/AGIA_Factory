@@ -8,8 +8,10 @@ import { AuditForm } from '@/features/audit/components/AuditForm'
 import { Badge } from '@/components/ui/badge'
 
 export function ManagerDashboard() {
-    const { projects, loading, error, fetchProjects, createProject, currentProject, setCurrentProject } = useManagerStore()
+    const { projects, loading, error, fetchProjects, createProject, updateProject, currentProject, setCurrentProject } = useManagerStore()
     const [newProjectName, setNewProjectName] = useState('')
+    const [editingProjectId, setEditingProjectId] = useState<string | null>(null)
+    const [editName, setEditName] = useState('')
 
     useEffect(() => {
         fetchProjects()
@@ -64,15 +66,67 @@ export function ManagerDashboard() {
                         {projects.map((project) => (
                             <div
                                 key={project.id}
-                                onClick={() => setCurrentProject(project)}
+                                onClick={() => !editingProjectId && setCurrentProject(project)}
                                 className={`group p-5 rounded-2xl transition-all duration-300 cursor-pointer border ${currentProject?.id === project.id
                                     ? 'border-accent-500/50 bg-accent-500/5 shadow-inner'
                                     : 'border-transparent hover:border-border hover:bg-background-elevated'
                                     }`}
                             >
-                                <h3 className={`font-bold transition-colors ${currentProject?.id === project.id ? 'text-accent-500' : 'group-hover:text-foreground'}`}>
-                                    {project.name}
-                                </h3>
+                                <div className="flex justify-between items-start gap-2">
+                                    {editingProjectId === project.id ? (
+                                        <div className="flex-1 space-y-2" onClick={(e) => e.stopPropagation()}>
+                                            <Input
+                                                value={editName}
+                                                onChange={(e) => setEditName(e.target.value)}
+                                                autoFocus
+                                                className="h-8 text-sm bg-background"
+                                                onKeyDown={(e) => {
+                                                    if (e.key === 'Enter') {
+                                                        updateProject(project.id, { name: editName })
+                                                        setEditingProjectId(null)
+                                                    }
+                                                    if (e.key === 'Escape') setEditingProjectId(null)
+                                                }}
+                                            />
+                                            <div className="flex gap-2">
+                                                <Button
+                                                    size="sm"
+                                                    className="h-6 text-[10px] px-2"
+                                                    onClick={() => {
+                                                        updateProject(project.id, { name: editName })
+                                                        setEditingProjectId(null)
+                                                    }}
+                                                >
+                                                    Guardar
+                                                </Button>
+                                                <Button
+                                                    size="sm"
+                                                    variant="ghost"
+                                                    className="h-6 text-[10px] px-2"
+                                                    onClick={() => setEditingProjectId(null)}
+                                                >
+                                                    Cancelar
+                                                </Button>
+                                            </div>
+                                        </div>
+                                    ) : (
+                                        <>
+                                            <h3 className={`font-bold transition-colors truncate flex-1 ${currentProject?.id === project.id ? 'text-accent-500' : 'group-hover:text-foreground'}`}>
+                                                {project.name}
+                                            </h3>
+                                            <button
+                                                onClick={(e) => {
+                                                    e.stopPropagation()
+                                                    setEditingProjectId(project.id)
+                                                    setEditName(project.name)
+                                                }}
+                                                className="opacity-0 group-hover:opacity-100 p-1 hover:text-accent-500 transition-all"
+                                            >
+                                                <PencilIcon className="w-3.5 h-3.5" />
+                                            </button>
+                                        </>
+                                    )}
+                                </div>
                                 <div className="flex items-center justify-between mt-2">
                                     <span className="text-[10px] text-foreground-muted uppercase tracking-tighter">{new Date(project.created_at).toLocaleDateString()}</span>
                                     <Badge variant="default" className="text-[9px] px-1.5 py-0">
@@ -172,5 +226,13 @@ export function ManagerDashboard() {
                 </div>
             </div>
         </div>
+    )
+}
+
+function PencilIcon({ className }: { className?: string }) {
+    return (
+        <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z" />
+        </svg>
     )
 }

@@ -3,7 +3,7 @@ import { redirect } from 'next/navigation'
 import { ProjectsList } from '@/features/projects/components/ProjectsList'
 
 export const metadata = {
-  title: 'Proyectos | LexAgenda'
+  title: 'Proyectos | Agia 360'
 }
 
 export default async function ProjectsPage() {

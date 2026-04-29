@@ -1,5 +1,5 @@
 -- =====================================================
--- NOTIFICATIONS TABLE - LexAgenda
+-- NOTIFICATIONS TABLE - Agia 360
 -- =====================================================
 -- INSTRUCCIONES:
 -- 1. Ve a Supabase Dashboard > SQL Editor

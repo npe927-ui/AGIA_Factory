@@ -47,8 +47,8 @@ async function retrieveContext(query: string): Promise<{ context: string; count:
         if (!chunks || chunks.length === 0) return { context: '', count: 0 };
 
         const context = chunks
-            .map((chunk: { content: string; similarity: number }, i: number) =>
-                `[Fuente ${i + 1} - Relevancia: ${(chunk.similarity * 100).toFixed(0)}%]\n${chunk.content}`
+            .map((chunk: { body: string; similarity: number; author: string; subject: string }, i: number) =>
+                `[Fuente ${i + 1} - Autor: ${chunk.author} - Asunto: ${chunk.subject} - Relevancia: ${(chunk.similarity * 100).toFixed(0)}%]\n${chunk.body}`
             )
             .join('\n\n---\n\n');
 

@@ -33,7 +33,7 @@ const CASE_TYPES = [
 const INITIAL_MESSAGE: Message = {
   id: '1',
   type: 'bot',
-  content: 'Hola, soy el asistente virtual de LexAgenda. Estoy aquí para ayudarte a agendar una consulta con nuestros abogados.',
+  content: 'Hola, soy el asistente virtual de Agia 360. Estoy aquí para ayudarte a agendar una consulta con nuestros abogados.',
   timestamp: new Date(),
   quickReplies: ['Agendar cita', 'Ver servicios', 'Horarios de atención']
 }
@@ -235,7 +235,7 @@ export function ChatWidget() {
             <ScaleIcon className="w-5 h-5" />
           </div>
           <div>
-            <h3 className="font-semibold">LexAgenda Asistente</h3>
+            <h3 className="font-semibold">Agia 360 Asistente</h3>
             <p className="text-xs text-white/70">En línea</p>
           </div>
         </div>
