@@ -19,17 +19,24 @@ import json
 import sys
 import argparse
 import anthropic
-from openai import OpenAI
 from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
-# RAG — Supabase client (opcional, se activa si SUPABASE_URL está presente)
+# RAG — ChromaDB local (143.942 chunks en /home/npe927/chroma_data2)
+_RAG_DIR = Path(__file__).parent.parent.parent.parent.parent / "02_Templates" / "agia360-agents-template" / "rag"
+# Carga las credenciales del RAG (OPENAI_API_KEY válida vive en el template)
+_rag_env = _RAG_DIR.parent / ".env"
+if _rag_env.exists():
+    from dotenv import load_dotenv as _load_env
+    _load_env(_rag_env, override=True)
+if str(_RAG_DIR) not in sys.path:
+    sys.path.insert(0, str(_RAG_DIR))
 try:
-    from supabase import create_client
-    _SUPABASE_AVAILABLE = True
+    from query import query_rag as _query_rag
+    _RAG_AVAILABLE = True
 except ImportError:
-    _SUPABASE_AVAILABLE = False
+    _RAG_AVAILABLE = False
 
 # 🛡️ Integración de Bóveda de Secretos (Persistencia Agéntica)
 # Añadimos el directorio de scripts al path para importar el recolector
@@ -92,17 +99,8 @@ class AlphaLoopOrchestrator:
         self.max_iterations = max_iterations
         self.min_score      = min_score
 
-        # RAG — Supabase & OpenAI
-        self.supabase = None
-        self.openai   = None
-        if _SUPABASE_AVAILABLE:
-            sb_url = os.environ.get("SUPABASE_URL")
-            sb_key = os.environ.get("SUPABASE_SERVICE_KEY")
-            oa_key = os.environ.get("OPENAI_API_KEY")
-            if sb_url and sb_key and oa_key:
-                self.supabase = create_client(sb_url, sb_key)
-                self.openai   = OpenAI(api_key=oa_key)
-                print("🔍 RAG activado — Supabase & OpenAI conectados")
+        if _RAG_AVAILABLE:
+            print("🔍 RAG activado — ChromaDB local (143.942 chunks)")
 
     # ── Carga de ficheros ─────────────────────────────────────
 
@@ -144,41 +142,45 @@ class AlphaLoopOrchestrator:
         return f"## PERFIL DEL MOTOR: {motor}\n\n{profile}\n\n## LÓGICA TÉCNICA\n\n{logic}".strip()
 
     def _get_rag_context(self, topic: str, motor: str, limit: int = 3) -> str:
-        """Busca fragmentos relevantes en el dataset indexado (RAG)."""
-        if not self.supabase or not self.openai:
+        """Busca fragmentos relevantes en el corpus de 143.942 chunks (ChromaDB local)."""
+        if not _RAG_AVAILABLE:
             return ""
 
-        print(f"    📡 Buscando en RAG para '{topic}' (Motor: {motor})...")
-        
-        try:
-            # 1. Generar embedding para la consulta
-            query_emb = self.openai.embeddings.create(
-                input=topic,
-                model="text-embedding-3-large",
-                dimensions=1024
-            ).data[0].embedding
+        # Construye dos queries complementarias: tema + estilo del motor
+        motor_style = {
+            "Hemingway": "minimalismo precisión copywriting",
+            "Dan Brown":  "urgencia misterio cuenta atrás copywriting",
+            "Patterson":  "gancho tobogán párrafos cortos copywriting",
+            "Grisham":    "empatía underdog conflicto copywriting",
+            "Lee Child":  "economía táctica control copywriting",
+            "Crichton":   "autoridad datos ciencia copywriting",
+        }.get(motor, "copywriting persuasivo conversión")
 
-            # 2. Búsqueda vectorial via RPC (search_dataset)
-            rpc_params = {
-                "query_embedding": query_emb,
-                "match_count": limit,
-                "filter_motor": motor.lower()
-            }
-            
-            res = self.supabase.rpc("search_dataset", rpc_params).execute()
-            
-            if not res.data:
-                return "No se encontraron fragmentos específicos en el RAG."
+        print(f"    📡 RAG: buscando para '{topic}' con motor {motor}...")
 
-            context_parts = []
-            for i, item in enumerate(res.data):
-                context_parts.append(f"--- FRAGMENTO {i+1} ---\n{item['content']}")
-            
-            return "\n\n".join(context_parts)
-            
-        except Exception as e:
-            print(f"    ⚠️  Error en RAG: {e}")
-            return ""
+        seen: set[str] = set()
+        context_parts: list[str] = []
+
+        for query in [topic, f"{motor_style} — {topic}"]:
+            try:
+                results = _query_rag(query, k=limit)
+            except Exception as e:
+                print(f"    ⚠️  RAG error: {e}")
+                continue
+            for chunk in results:
+                cid = chunk.get("content", "")[:80]
+                if cid in seen:
+                    continue
+                seen.add(cid)
+                src  = chunk.get("source_file", "")
+                text = chunk.get("content", "").strip()
+                context_parts.append(f"--- FRAGMENTO [{src}] ---\n{text}")
+                if len(context_parts) >= limit:
+                    break
+            if len(context_parts) >= limit:
+                break
+
+        return "\n\n".join(context_parts) if context_parts else ""
 
     # ── Llamadas a la API ─────────────────────────────────────
 
