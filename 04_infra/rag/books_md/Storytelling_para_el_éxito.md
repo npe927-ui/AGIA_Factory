@@ -1,0 +1,3885 @@
+# Storytelling para el éxito
+**Autor:** Peter Guber
+
+
+---
+
+Peter Guber
+
+Storytel ing para el éxito
+
+Conecta, persuade y triunfa gracias al poder
+
+oculto de las historias
+
+EMPRESA ACTIVA
+
+Argentina - Chile - Colombia - España - Estados Unidos - México -
+
+Perú - Uruguay - Venezuela
+
+El final...
+
+PERMÍTAME QUE LE DESVELE EL FINAL DE ESTE LIBRO. . Hay un tesoro  por  descubrir,  y  está  dentro  de  usted.  Inserto  en  su  ADN  l eva condensados  los  más  de  diez  mil  años  de  historia  durante  los  cuales  los seres  humanos  han  estado  contando  y  escuchando  relatos  orales.  Esta veneración por el relato es una fuerza tan poderosa y permanente que ha dado forma a culturas, religiones, civilizaciones enteras. Ahora, por medio del  storytelling para alcanzar el éxito, cada uno puede controlar esta fuerza para alcanzar sus metas más anheladas.
+
+Yo  descubrí  este  secreto  que  l eva  al  éxito  gracias  a  que  conté   muchos relatos con propósito, cara a cara (y a veces inconscientemente), a lo largo de  una  dilatada  carrera  profesional.  En  este  libro  mi  misión  es  ser  su catalizador,  entrenador  y  adalid,  transmitiéndole  herramientas  y  técnicas que he ido entresacando no sólo de mis propias experiencias, sino también al  solicitar  la  sabiduría  de  personas  a  las  que  considero  maestros  de  la narración.  Le  l evaré  de  adelante  atrás  por  toda  mi  carrera,  para demostrarle cómo estas habilidades, si se usan bien, tienen el potencial para cambiar  inmediatamente su vida.
+
+Durante  demasiado  tiempo  el  mundo  empresarial  ha  ignorado  o minimizado  el  poder  que  tiene  la  narración  oral,  prefiriendo  usar presentaciones de  PowerPoint, datos, cifras y hechos. Pero a medida que el volumen  del  ruido  de  nuestra  vida  moderna  se  ha  convertido  en  una cacofonía, cada vez se solicita más la capacidad de contar una historia con propósito que realmente pueda  escucharse. Además, en esta era de intensa incertidumbre económica y de rápidos cambios tecnológicos, lo que ofrece la mejor oportunidad de superar el miedo o de incitar a los oyentes a actuar
+
+para alcanzar un objetivo digno no son los ceros y los unos de la revolución digital,  sino  más  bien  los  «¡oooh!»  y  «¡aaah!»  de  contar  un  relato  para alcanzar el éxito.
+
+Cuando echo la vista atrás, a mis cuatro décadas profesionales, veo que convencer a los clientes, empleados, accionistas, medios de comunicación y socios  por  medio  del   storytelling  ha  supuesto  mi  ventaja  competitiva  más importante. Y quiero dedicar este libro a conseguir que sea también la suya.
+
+Voces
+
+Oscar Goodman, alcalde de Las Vegas
+
+Richard Bangs, miembro fundador del equipo directivo de Expedia.com Robert Rosen,  profesor  y  ex  decano  de  la  UCLA  School  of  eater,  Film and Television
+
+Dr. Dan Siegel, neurocientífico, codirector del UCLA’s Mindsight Institute Susan Feniger, restauradora, Border Gril , Ciudad and Street, y estrel a del programa  Too Hot Tamales, del canal Food Network Stacey Snider, copresidenta y directora de DreamWorks Studios Michael Jackson, icono de la música pop
+
+Charles Collier, presidente y director general de AMC Network Steve  Denning,  consultor,  ex  director  de  gestión  del  conocimiento  en  el Banco Mundial, y autor de  e Leader’s Guide to Storytelling Magic  Johnson,  superestrel a  de  la  NBA,  presidente  y  director  de  Magic Johnson Enterprises
+
+Ken Lombard, presidente y socio de Capri Capital Partners; ex cofundador y  socio/presidente  de  Johnson  Development  Corp.,  y  ex  presidente  de Starbucks Entertainment
+
+Chad Hurley, director y cofundador de YouTube
+
+Chris Anderson, editor jefe de la revista  Wired, y autor de  Free y  e Long Tail [ La economía Long Tail, Tendencias, Barcelona, 2007.]
+
+Gentry  Lee,  ingeniero  jefe,  exploración  del  sistema  solar,  Jet  Propulsion Laboratory
+
+Dr.  Marco  Iacobani,  catedrático,  Department  of  Psychiatry  and Biobehavioral Sciences, y director del Transcranial Magnetic Stimulation
+
+Lab,  Ahmanson-Lovelace  Brain  Mapping  Center,  David  Geffen  School of Medicine, UCLA
+
+Michael  Wesch,  profesor  asociado  de  antropología  cultural,  Kansas  State University;  «Profesor  del  Año»  2008  en  Estados  Unidos;  explorador revelación de  National Geographic 2009
+
+Richard Rosenblatt, presidente, director y cofundador, Demand Media, y ex presidente de MySpace.com
+
+Wolfgang Puck, restaurador, Spago, Cut, and Chinois; empresario y chef Norma  Kamali,  presidenta,  propietaria  y  diseñadora  de  OMO  (On  My Own)
+
+Su Majestad Bhumibol Adulyadej, rey de Tailandia
+
+Norio Ohga, ex director de Sony Corporation
+
+Dr. Deepak Chopra, autor  de  superventas,  endocrinólogo  y  fundador  del Chopra Center for Wel being
+
+John Paul Dejoria, cofundador, presidente y director de John Paul Mitchel Systems;  cofundador  y  presidente  de  Patrón  Spirits  Company;  y cofundador y presidente de John Paul Pet
+
+Gene Simmons, leyenda del rock, KISS
+
+Alice Walker, ganadora del premio Pulitzer, autora de  El color púrpura Scott  Sanders,  presidente  y  director  de  Scott  Sanders  Productions,  y coproductor del musical  e Color Purple, ganador de un premio Tony Larry King, presentador de  Larry King Live
+
+David Begelman, ex presidente de Columbia Pictures
+
+William  D.  Simon  (Bill),  socio  de  gestión  mundial,  medios  de comunicación y entretenimiento, Korn/Ferry International Teri Schwartz, decana, UCLA School of eater, Film and Television Lynda  Resnick,  vicepresidenta,  Rol   International,  copropietaria  y empresaria  de  marketing  para  Teleflora,  POM  Wonderful,  FIJI  Water, Wonderful Pistachios, and Cuties
+
+Pat  Riley,  entrenador  para  los  campeonatos  de  la  NBA  y  presidente  de Miami Heat
+
+Rob  Pardo,  vicepresidente  ejecutivo  de  diseño  de  juegos,  Blizzard Entertainment
+
+Wally Amos, fundador de Famous Amos Cookies
+
+Nelson Mandela, ex presidente de Sudáfrica
+
+Jodi Guber, empresario, diseñador y fundador de i am BEYOND
+
+Dr. Robert Maloney, famoso cirujano de LASIK, Maloney Vision Institute Gareb  Shamus,  presidente  y  director  de  Wizard  Entertainment  Group,  y cofundador de geekchicdaily.com
+
+Tim  Burton,  director  de  cine  de   Alicia  en  el  País  de  las  Maravil as, Batman,  Beetle Juice
+
+Michael Milken, financiero, filántropo y presidente del Milken Institute Jason Binn, director y fundador de Niche Media
+
+Bill Clinton, cuadragésimo segundo presidente de Estados Unidos Bob Dickman,  coautor  de   e  Elements  of  Persuasion:  Use  Storytelling  to Pitch  Better,  Sell  Faster  &  Win  More  Business,  y  fundador  de FIRSTVOICE
+
+Barry Levinson, director cinematográfico ganador de un Oscar,  Rain Man Tom Cruise, actor y productor, United Artists
+
+El decimocuarto Dalai Lama, líder espiritual tibetano Bill Haber, fundador de CAA; presidente de Save the Children y de Ostar Kevin Plank, fundador y director de Under Armour
+
+Peter Lowy, director ejecutivo del Westfield Group
+
+Tina Sinatra, de la junta directiva de Frank Sinatra Enterprises George López, actor, cómico y productor
+
+Arne Glimcher, fundador de la Pace Gal ery, cineasta y escritor Jack Warner, fundador de Warner Bros
+
+Dan Rosensweig, ex director y presidente de la franquicia Guitar Hero de Activision Blizzard, y presidente y director de Chegg.com Will Wright, creador y diseñador de los juegos  e Sims y  Spore, y director de Stupid Fun Club
+
+Shirley  Pomponi,  PhD,  directora  ejecutiva  del  Harbor  Branch Oceanographic Institute en la Florida Atlantic University
+
+Nora Roberts, escritora de superventas y propietaria de Inn BoonsBoro Bethany Hamilton, campeona de surf
+
+Kirk Kerkorian, empresario y ex propietario de MGM
+
+Anderson Cooper, periodista veterano de noticias de la CNN
+
+Al Giddings, cineasta galardonado,  e Deep,  Titanic Mark  Shapiro,  ex  presidente  y  director  de  Six  Flags,  Inc.,  y  ex vicepresidente ejecutivo de programación y producción, ESPN, Inc.
+
+Terry  Semel,  ex  presidente  y  director  de  Yahoo!  y  de  Warner  Bros.,  y presidente y director de Windsor Media
+
+Dr. George E. Marcus, profesor de ciencias políticas, Wil iams Col ege Jerry Weissman, fundador de Power Presentations, Ltd.
+
+Dr. Warren Bennis,  distinguido  profesor  de  administración  de  empresas, University of Southern California
+
+Mark Burnett, productor ganador de un Emmy,  Survivor,  e Apprentice, Are You Smarter an a 5th Grader? ,  e MTV Awards Keith  Ferrazzi,  experto  en  relaciones  profesionales,  autor  de   Never  Eat Alone  y   Who’s  Got  Your  Back,  y  director  y  fundador  de  Ferrazzi Greenlight
+
+Steve  Tisch,  copropietario  de  los  New  York  Giants;  ganador  del  Vince Lombardi Trophy; productor ganador de un Oscar de la Academia por Forrest Gump; y socio de Escape Artists
+
+Mark Victor Hansen, coautor de la serie  Sopa de pol o para el alma Ned Tanen, ex presidente de Universal Pictures
+
+David Copperfield, famoso ilusionista
+
+Carl Sagan, astrofísico, escritor ganador del premio Pulitzer y asesor de la NASA
+
+Muhammad Alí, campeón mundial de los pesos pesados
+
+Susan  R.  Estrich,  catedrática,  USC  Gould  School  of  Law;  primera  mujer que  dirigió  una  campaña  electoral;  abogada  y  comentarista  para  Fox News
+
+Tony  Robbins,  famoso  estratega  vital,  escritor  y  experto  en  mejoras radicales
+
+Fidel Castro, ex presidente de Cuba
+
+Curtis Hanson, guionista-director ganador de un premio de la Academia por  L. A. Confidential
+
+Rob Quish, director jefe de operaciones de JWT North America, y director de JWT inside
+
+Steven Spielberg, famoso cineasta y copresidente de DreamWorks Studios; director y productor ganador de un premio de la Academia Sidney Poitier, director y actor ganador de un premio de la Academia Nancy Traversy, propietaria y directora de Barefoot Books Bert Jacobs y John Jacobs,  cofundadores  de  la  línea  de  productos  Life  is good
+
+Tom  Werner,  presidente  de  los  Boston  Red  Sox;  cofundador  de  Carsey-Werner Company; y propietario de Good Humor TV
+
+Bran  Ferren,  cofundador  de  Applied  Minds,  y  ex  presidente  de investigación y desarrol o de Walt Disney Imagineering Brian Solis, analista digital, sociólogo y editor futurista en BrianSolis.com Chris Kemp, oficial jefe de tecnología, NASA
+
+Arianna Huffington, cofundadora y editora jefe, e Huffington Post Phil  McKinney,  vicepresidente  y  jefe  de  tecnología,  Hewlett-Packard Company
+
+PRIMERA PARTE
+
+SI NO HAY RELATO, NO HAY
+
+NEGOCIO
+
+POR QUÉ EL  STORYTELLING PARA EL ÉXITO ES SU
+
+INSTRUMENTO DEFINITIVO PARA TRIUNFAR
+
+1
+
+¡Es la historia, imbécil!
+
+El  «boom»  en  Las  Vegas  fue  nuestra  oportunidad  de  oro.  Éste  era  el pensamiento que daba alas a mis pies mientras avanzaba por el Strip para reunirme  con  el  guardián  político  de  las  puertas  de  la  ciudad,  el  alcalde Oscar Goodman. En mi calidad de presidente de Mandalay Entertainment Group,  estaba  decidido  a  aprovechar  la  inercia  que  había  convertido  Sin City en un lugar ideal para las familias. A principios de la década de 2000
+
+habían  l egado  a  Las  Vegas  tantísimos  residentes  nuevos  atraídos  por  la ciudad  que  a  la  grúa  de  construcción  la  l amaban,  bromeando,  «el  ave oficial  de  la  ciudad»,  y  aquel a  expansión  tan  saludable  garantizaba prácticamente el  home run empresarial que yo estaba a punto de conseguir para la división de béisbol profesional de mi compañía.
+
+Nuestra  propuesta:  construir  el  estadio  de  béisbol  más  moderno  del mundo  en  la  capital  del  ocio  más  famosa  del  planeta.  Nuestra  agenda: elevar nuestro negocio de ocio deportivo a la escena nacional. Nuestro éxito dependía de mi capacidad para convencer al principal político de Las Vegas para  que  dirigiese  la  campaña  de  una  emisión  de  bonos  municipales  que financiara  aquel  proyecto  urbano  multimil onario.  Pero  dado  que  esta ciudad,  enorme  e  icónica,  carecía  de  estadio  profesional  de  calidad,  y mucho  menos  de  las  instalaciones  de  última  generación  que  eran  la especialidad  de  Mandalay,  seguro  que  la  propuesta  que  iba  a  hacerle  al alcalde no se la tendría ni que pensar. O eso creía yo.
+
+En  aquel  momento,  Mandalay  Basebal   era  propietaria  de  cinco franquicias  profesionales  de  la  liga  menor  repartida  por  todo  el  país, incluyendo equipos Single-A, Double-A y Triple-A, y entre nuestros socios se contaban la superestrel a del baloncesto Magic Johnson; el ganador del trofeo  Heisman,  Archie  Griffin;  y  Tom  Hicks,  propietario  de  los  Texas Rangers.  En  el  negocio  de  las  ligas  menores  no  hay  nada  que  sea  menor, dado  que  atraen  a  más  de  40  mil ones  de  fans  cada  año,  y  nuestros beneficios lo justificaban. Teníamos la reputación bien ganada de atraer los fondos  públicos,  obtener  el  respaldo  local  y  construir  estadios  de  máxima categoría.  Hacía  poco  que  habíamos  adquirido  la  franquicia  Las  Vegas Triple-A  de  los  legendarios  LA  Dodgers.  Ahora  queríamos  acrecentarla trasladando  su  sede  de  Cashman  Field,  el  campo  universitario  anticuado donde jugaban en aquel a época, a un estadio recién construido, de calibre mundial y propio del siglo XXI, que el equipo local de Las Vegas se merecía con creces. Cuando l egué a las oficinas del alcalde, pensé:  Vale, ¡vamos a jugar duro!
+
+Aunque yo l egaba tarde, el alcalde me hizo esperar. Goodman manejaba el poder con astucia. La decoración de su antesala transmitía la idea de que uno trataba con alguien metido en el negocio del espectáculo; su negocio se reflejaba dondequiera que uno mirase, desde la réplica de todo un icono, la señal  de  Las  Vegas  donde  se  leía  BIENVENIDO  A  LA  FABULOSA  OFICINA  DEL
+
+ALCALDE GOODMAN, hasta las vitrinas expositoras que contenían más premios y  oropeles  de  los  que  podía  contar.  Había  fotos  de  Goodman  con  todo  el mundo,  desde  el  presidente  Bil   Clinton  hasta  Michael  Jackson,  y  los actores Tony Curtis y Steven Seagal. Incluso vi un par de guantes de boxeo de Muhammad Alí.
+
+Si  uno  prestaba  atención,  cada  detal e  de  aquel a  sala  gritaba   ¡Major League!
+
+Al final el alcalde pudo recibirme. Pero antes de que pudiera decirle una sola palabra, me bombardeó con una charla sobre las películas que yo había producido, como productor, productor ejecutivo o supervisor, sobre todo las
+
+dos que se hicieron en Las Vegas ( Rain Man  y  Bugsy). Me preguntó si tenía planes para rodar otra película en su hermosa ciudad. Luego citó las cifras de  recaudación  de  taquil a  que  habían  disparado  a   Batman  a  la estratosfera.  Interpreté  todo  este  juego  previo  como  un  indicio  de  que Goodman era mi público idóneo para mi charla perfecta.
+
+Le dije que había venido para obtener otro exitazo para Las Vegas, esta vez no con las películas, sino con el béisbol. Como prueba de el o, le solté de un tirón todos los datos que, estaba seguro, le iban a encandilar: cifras que demostraban que Mandalay mantenía bajo control los costes de diseño y de construcción, potenciaba la calidad y acababa sus proyectos a tiempo.
+
+Nuestro  estadio  más  reciente,  construido  para  nuestro  único  equipo  en  la Single-A,  los  Cincinnati  Reds,  situado  en  Dayton,  Ohio,  incluía  servicios como asientos en el piso superior y suites de lujo, convirtiéndolo en un caso único entre los estadios de las ligas menores de aquel momento.
+
+Hice  un  gesto  hacia  la  ventana,  desde  donde  se  veían  las  grúas  que avanzaban por el desierto.
+
+—Todos  esos  fans  nuevos  de  Las  Vegas  se  merecen  el  legado  de  un equipo y un estadio propios.
+
+El alcalde meditó sobre esta afirmación. Luego me preguntó:
+
+—¿Puede introducir aquí un equipo de la liga mayor?
+
+¿Alguien le había doblado la voz cuando dijo «mayor»? Había dejado de escucharme en cuanto dije «ligas menores», pero yo estaba tan obnubilado con mis datos y cifras que pensé que se había confundido.
+
+—Se trata de béisbol profesional, todos los afiliados a las ligas mayores —
+
+le aseguré—. Podrá subirse a cuestas del equipo más veterano de la historia del béisbol profesional, Los Angeles Dodgers.
+
+Meneó la cabeza.
+
+—Ya hace mucho que deberíamos haber encontrado algo que sea muy, muy grande.
+
+—Lo  que  yo  le  propongo  es  enorme  —insistí—.  En  los  años  que  han transcurrido  desde  que  abrimos  nuestros  estadio  en  Dayton,  hemos
+
+vendido todas las entradas  para cada uno de los partidos. Es un fenómeno sin precedentes. Y tenemos la intención de superarnos aquí.
+
+Goodman me lanzó una mirada gélida.
+
+—Esto no es Dayton, chico.
+
+Aunque me reuní con el alcalde en otras ocasiones, l evándole a mi casa de Los Ángeles y exponiéndole algunos rimeros más de datos aplastantes, mis  esfuerzos  sólo  demostraron  que  uno  nunca  tiene  una  segunda oportunidad  para  causar  una  primera  impresión.  Y  nunca  l egué  ni  a  la primera base con mi  home run (jonrón) «garantizado».
+
+Ese fracaso me dejó huel a. ¿Cómo me las había arreglado para convertir nuestro boleto ganador en una pérdida en Las Vegas? Estaba claro que la culpa no era del sistema. Poco después de fal ar el tiro con Goodman, un vendedor de coches de Detroit l amado Derek Stevens asistió a un partido en  Cashman  Field  y  se  emocionó  con  exactamente  la  misma  visión  que tuvimos nosotros: construir en Las Vegas un estadio de béisbol profesional.
+
+¡Buena suerte! Le vendimos nuestra franquicia Triple-A de Las Vegas por lo que  entonces  era  un  precio  récord,  obteniendo  así  un  sabroso  beneficio para  Mandalay.  Pero  el  objetivo  de  mi  negocio  había  sido  convertir  Las Vegas  en  el  motor  que  elevase  nuestra  empresa  al  siguiente  nivel.  Los beneficios  inesperados  eran  un  magro  consuelo.  Había  perdido  el  partido que fui a disputar.
+
+Sin embargo, el fracaso es un cal ejón sin salida inevitable en el camino que  l eva  al  éxito.  Cuando  empezamos  a  pergeñar  una  nueva  estrategia, uno  de  mis  colegas  en  Mandalay  comentó:  «Tendremos  que  cambiar nuestra historia».
+
+Y fue entonces cuando se me encendió la bombil a:  ¡Aaaah, claro! ¡Se te olvidó contar una historia, imbécil!
+
+Había  torpedeado  a  Goodman  con  una  l uvia  implacable  de  cruda realidad  (datos,  récords,  previsiones),  pero  no  la  organicé  de  ninguna manera  que  implicase  sus   emociones.  ¡No  era  de  extrañar  que  hubiera rechazado mi oferta!
+
+El  apelativo  «imbécil»  era  el  correcto.  ¡Estoy  en  el  negocio  del entretenimiento! Si alguien debe conocer la diferencia estratégica entre un aluvión de datos y una historia ganadora, ése soy yo. He producido docenas de  películas  y  de  programas  televisivos.  Antes  de  empezar  en  Mandalay, había  sido  jefe  de  estudio  en  Columbia  Pictures,  copresidente  de Casablanca  Record  and  Filmworks,  consejero  delegado  de  Polygram Pictures,  y  director  ejecutivo  y  consejero  delegado  de  Sony  Pictures Entertainment. ¡La esencia de mi negocio era contar historias para mover a la gente! Además, en mi calidad de profesor en la UCLA School of eater, Film  and  Television,  había  enseñado  prácticamente  todas  las  facetas posibles de este negocio a los estudiantes licenciados de cine, empresariales y derecho, y la lección número uno era distinguir una descarga de datos de una  historia  bien  contada.  ¿Cuántas  veces  les  había  machacado  todas  las cosas  que   no  son  historias?  Las  historias   no  son  listas,  plantil as, PowerPoints,
+
+rotafolios,
+
+conferencias,
+
+peticiones,
+
+instrucciones,
+
+reglamentos,  manifiestos,  cálculos,  esquemas  lectivos,  amenazas, estadísticas,  evidencias,  órdenes  o  hechos  puros  y  duros.  Aunque prácticamente  cualquier  forma  de  comunicación  humana  puede   contener historias, la mayoría de las conversaciones y de los discursos no son, en y por sí mismos, historias.
+
+¿Cuál es la diferencia esencial? Las «no historias» pueden proporcionar información,  pero  las  historias  tienen  la  capacidad  única  de  conmover  los corazones, las mentes, los pies y las carteras orientándolos en la dirección que  imprime  el  narrador.  Ahora  que  lo  pienso,  si  no  fuera  por  la   historia que  conté  para  emocionar  a  mis  oyentes  en  Dayton,  ¡ni  siquiera  hubiera dispuesto  de  todos  aquel os  baremos  para  demostrar  a  Goodman  los progresos de Mandalay!
+
+Al principio, Dayton había parecido un tiro al aire, tanto como Las Vegas parecía una apuesta segura. Los medios de comunicación de Ohio habían sugerido  que  el  desmantelado  centro  de  la  ciudad  era  un  socavón irrecuperable del paisaje, y que no merecía la inversión ni de un solo dólar.
+
+Pocos  de  los  oficiales  de  Dayton  creían  que  los  fans  suburbanos  se
+
+aventurasen  a  salir  por  el  centro  tras  caer  la  noche,  y  los  habitantes urbanos, supuestamente, no podían permitirse el lujo de asistir a un partido de  béisbol.  Además,  insinuaba  la  prensa,  aquel as  dos  culturas  nunca podrían combinarse. Pero moldeamos la historia perfecta para dar la vuelta a esta actitud.
+
+Les contamos la historia básica de  Campo de sueños, película en la que al personaje de Kevin Costner, Ray Kinsel a, lo tratan de loco por construir un campo  de  béisbol  en  mitad  de  un  campo  de  maíz.  Capté  su  atención instantáneamente.  Luego  disparé  su  imaginación  presentando  nuestro nuevo  estadio  como  el  catalizador  de  un  renacimiento  del  centro  urbano.
+
+«Si lo construimos —les dije—, el os vendrán.»
+
+Nuestra  historia  consiguió  que  incluso  quienes  se  oponían  al  proyecto creyeran que nuestro estadio realmente devolvería el comercio al centro de la  ciudad.  Juntos  seríamos  capaces  de  crear  ese  tipo  de  experiencia  de entretenimiento  sano  para  toda  la  familia  que  era  la  especialidad  de Mandalay. Y si teníamos éxito, esto conferiría a la ciudad una historia y una marca nuevas y únicas.
+
+Contamos la misma historia (que estábamos construyendo un Campo de Sueños en la vida real) para convencer a Magic Johnson y a Archie Griffin de  que  invirtieran  en  el  proyecto.  Luego  seguimos  contando  la  historia juntos, hasta que los líderes urbanos de Dayton patrocinaron una emisión de bonos municipales como la que yo había necesitado en Las Vegas.
+
+Por supuesto, para transmitir nuestra propuesta para Las Vegas a Oscar Goodman hubiera hecho falta una historia totalmente distinta. Aunque en aquel  momento  no  me  di  cuenta,  Las  Vegas  empezaba  a  transformar  su marca  de  ser  una  ciudad  orientada  a  las  familias,  para  la  que  el  béisbol familiar era una oferta perfecta, a la actitud «lo que pasa en Las Vegas se queda en Las Vegas». Así que, aunque me hubiese dado cuenta de que mi historia  iba  a  cambiar  el  juego,  ¡tendría  que  haberle  contado  a  Goodman una  historia  que  le  ofreciera  las  ligas  mayores  con  M  mayúscula!
+
+Lamentablemente,  no  le  conté   ninguna  historia,  ¡y  mucho  menos  la adecuada! De entre todas las personas, yo tendría que haberlo sabido, y en
+
+cambio  recurrí  por  defecto  al  procedimiento  operativo  estándar  de  los negocios en Estados Unidos, basándome solamente en hablar de puntos y de  modelos  económicos.  ¡Si  es  que  las  cifras  eran  estupendas!  ¿Cómo  es posible que el alcalde Goodman no se quedara con la boca abierta?
+
+No  fue  un  problema   suyo.  Fue  mío,  y  lo  repetí  varias  veces.  No  logré captar el interés de mi interlocutor. No logré escuchar a mi audiencia. Y no conseguí contarle una historia. ¿Cómo podía haberme equivocado tanto?
+
+A lo mejor. . ¿No sería que había apuntado a la cabeza y a la cartera de Goodman  en  vez  de  a  su  corazón?  En  el  negocio  del  cine  eso  supone  un suicidio estratégico. Siendo cineasta, si uno no acierta en el corazón de su público, la única cartera que se verá afectada será la propia. Esto se debe a que,  en  una  narración,  el  corazón  es   siempre  el  primer  objetivo.  Pero  mi fracaso  en  Las  Vegas  sugería  que  esta  norma  trascendía  el  negocio  del espectáculo. ¿Qué pasaría si alcanzar el corazón del público fuera esencial para  cualquier tipo de negocio?
+
+¿Y SI CONTAR HISTORIAS FUERA LO QUE
+
+MARCASE LA DIFERENCIA PARA USTED?
+
+A  lo  largo  de  mi  vida  he  obtenido  grandes  éxitos  en  diversos  negocios  e industrias,  pero  también  he  cosechado  un  aluvión  de  pifias  profesionales, patinazos económicos, desastres administrativos y tropezones creativos. He defendido  productos  que  me  han  dejado  pelada  la  cuenta  bancaria,  y  mi garaje  hasta  arriba  de  artículos  por  vender.  He  iniciado  compañías musicales que desafinaron, y compré el Las Vegas under, un equipo de hockey profesional que se metió de l eno en una racha de derrotas de cinco años  seguidos  frente  a  un  público  más  frío  que  el  hielo.  Aparte,  no  todas mis  películas  fueron  bien.  La  gente  intentaba  huir  de  la  sala  cuando pasaban  La hoguera de las vanidades, incluso cuando la proyectaban en un avión;  y,  sin  duda,  tuve  mis  más  y  mis  menos  en  Sony.  Esas  pérdidas  me
+
+resultaron económica y emocionalmente dolorosas, y a menudo fueron de dominio público. Encima, mis numerosos éxitos conseguían que los fracasos fuesen mucho más desconcertantes. Durante años me pregunté: ¿será que todo  es  cuestión  de  suerte?  ¿O  quizás  había  por  ahí  un  factor  clave  que ampliase  mi  objetivo,  aguzara  mi  trayectoria,  acelerase  mi  impulso  y redujera  la  distancia  hasta  mi  meta?  ¿No  sería  estupendo  que  ese  factor crítico aumentase también la alegría del negocio? Si alguien inventase una tecnología que lograra todo eso, ¡se haría de oro!
+
+Después de mi fracaso en Las Vegas, se me ocurrió que todos los que se dedican a los negocios comparten un problema universal: para tener éxito, usted tiene que convencer a otros para que respalden su visión, su sueño o su  causa.  Tanto  si  desea  motivar  a  sus  ejecutivos  como  organizar  a  sus accionistas,  dar  forma  a  sus  medios  de  comunicación,  involucrar  a  sus clientes,  obtener  nuevos  inversores  o  conseguir  un  empleo,  tendrá  que emitir una l amada inequívoca que capte la atención de sus oyentes, insufle emociones  a  su  objetivo  para  que  sea  el  de  el os,  y  los  motive  para  que actúen  a  su  favor.  Tiene  que  l egar  a  sus  corazones  tanto  como  a  sus mentes, ¡y esto es precisamente lo que hace el  storytelling!
+
+¿Qué  pasaría  si  el  storytelling  con  un  propósito  claro  fuera  ese  elemento transformador que yo siempre había buscado?
+
+Había enseñado durante más de treinta años que las historias explican, ejemplifican,  unen  y  motivan  al  transportar  emocionalmente  a  los interlocutores. Muchas de mis películas, incluyendo  Rain Man,  Gorilas en la niebla y  El expreso de medianoche, invitaban decididamente a la acción, cosas  que  trascendían  con  mucho  el  mero  entretenimiento.  Como  los miembros  del  público  se  sentían  conmovidos  emocionalmente  por  el mensaje central de la película, lo transmitían a otros al contarles y repetirles la historia de su propia experiencia del filme. Y ese boca a boca movió más mil ones a medida que la historia se iba transmitiendo oralmente por todo el mundo. Cada vez que se contaba el mensaje, se ampliaba el alcance y el impacto  de  la  historia  original,  pero  al  mismo  tiempo  cada  narrador convertía  la  historia  en  algo  nuevo  y  diferente  al  añadirle  sus  propias
+
+emociones;  esto  demuestra  que  para  contar  una  historia  conmovedora  no hace falta ser profesional. Todo el mundo puede hacerlo, ¡y lo hace!
+
+A medida que entendí que el  storytelling era la salsa secreta para el éxito, cada vez me fui entusiasmando más. Usted no necesita ningún título para contar la historia de su empresa, su marca o su producto, convirtiéndolo en una poderosa l amada a la acción. Tampoco necesita dinero ni privilegios.
+
+¡En  realidad,  se  trata  de  una  habilidad  natural  disponible  para  todo  el mundo! Además, contar historias es una fuente de alegría, no sólo de éxito.
+
+Es  como  un  placer  vergonzante  que  además  es  lucrativo.  ¿Qué  podría  ser mejor?
+
+Pero  si  esto  es  así,  ¿cómo  era  posible  que  en  mi  propia  carrera  yo  no hubiera detectado la importancia estratégica de narrar para ganar? ¿O sí lo había  hecho?  ¿Era  posible  que  me  hubiera  beneficiado  de  este  arte  sin siquiera darme cuenta? De repente me sentí como alcanzado por un rayo.
+
+ERA  A  PRINCIPIOS  DE  LOS  AÑOS  NOVENTA.  Acababan  de nombrarme  director  general  de  una  adquisición  reciente  de  Sony, Columbia  Pictures  Entertainment.  Ese  conglomerado  mundial  de  medios, de muchos miles de mil ones, fue una encarnación posterior de Columbia Pictures, donde yo había trabajado como jefe de estudio veinte años antes, de manera que al principio asumir ese nuevo cargo fue como volver a casa.
+
+Pero  no  pasó  mucho  tiempo  antes  de  que  me  diera  cuenta  de  que  la empresa había perdido el norte.
+
+Durante  años,  antes  de  la  l egada  de  Sony,  Columbia  se  dedicó  al negocio de quedarse sin negocio; todas sus divisiones estaban engrasadas y aceitadas para su venta al mejor postor. Aunque en aquel a época el mayor generador de ingresos en la industria del cine era el vídeo, habían vendido la distribuidora de vídeos de Columbia y TriStar a RCA, y que luego, antes de mi l egada, adquirió General Electric. La venta de aquel activo fue una rémora para la moral y la productividad de la compañía. Además, no había una  dirección  o  una  visión  unificada  que  conectara  las  divisiones
+
+supervivientes. Los activos de la adquisición de Sony incluían dos estudios cinematográficos  (TriStar  y  Columbia  Pictures),  operaciones  de  televisión globales, y el circuito de cines Loews. Sus ejecutivos estaban repartidos por instalaciones  alquiladas  de  costa  a  costa,  y  los  equipos  de  producción  y dirección de los estudios ocupaban el plató de MGM, importante en otros tiempos  pero  ahora  destartalado.  El  león  del  cartel  situado  en  un  edificio adyacente,  que  aún  era  propiedad  de  MGM,  parecía  reflexionar  sobre nuestro futuro.
+
+Nuestros  nuevos  propietarios  japoneses  no  sólo  estaban  separados  de nosotros  por  más  de  11.000  kilómetros  y  una  brecha  cultural  importante, sino  que  la  historia  reciente  había  demostrado  que  cada  vez  que  una corporación  extranjera  como  Sony  compraba  una  empresa  de entretenimiento estadounidense, no tardaba mucho en volver a colgar de la puerta  el  cartel  de  «Se  vende».  Dado  que  nuestros  ingresos  estaban  en caída  libre,  muchos  de  los  ejecutivos  veteranos  de  Columbia  habían trasladado  a  Sony  sus  beneficios  como  accionistas  de  la  venta,  y  ahora buscaban oportunidades más sólidas en otros lugares. Y como Columbia ya no  era  pública,  ni  siquiera  podíamos  ofrecerles  stock  para  incentivarlos  a quedarse. Mi única opción de tener éxito radicaba en encontrar otra forma más creativa de convencer  tanto a Sony  como al grupo dispar de ejecutivos, descontentos pero talentosos, que yo había heredado, para que colaborasen y luchasen por su futuro. Pero, ¿cómo?
+
+Ésta  era  la  pregunta  que  me  consumía  cuando,  a  última  hora  de  una tarde,  me  l amaron  por  teléfono  para  que  ofreciese  una  presentación  de PowerPoint  de  índole  financiera  en  las  entrañas  del  histórico  alberg Building  (bautizado  así,  por  supuesto,  por  Irving  alberg,  el  jefe  de estudio de MGM que tuvo un éxito inmenso en los años veinte y treinta del siglo XX). En esa época no existían los teléfonos móviles, y el teléfono más cercano  estaba  en  un  almacén  del  sótano;  pero  dado  que  la  l amada provenía de mis colegas japoneses, me senté dispuesto a escuchar. Como no podía concentrarme en el debate vacilante en dos idiomas, inglés y japonés,
+
+me entretuve hojeando algunos fotogramas que estaban apilados junto a la pared,  cuando  de  repente  me  l amó  la  atención  una  fotografía  de  Peter O’Toole vestido con una túnica blanca holgada. Reconocí la imagen como perteneciente  a  una  de  las  películas  más  queridas  de  Columbia  Pictures, Lawrence  de  Arabia.  En  aquel a  escena,  Lawrence  meditaba  sobre  cómo abordar un desafío que me resultaba sobrecogedoramente familiar:  ¿cómo voy a conseguir que un grupo variopinto luche por su futuro cuando ninguno de ellos cree que pueda o deba colaborar con los demás?
+
+El personaje de O’Toole, T. E. Lawrence, fue un oficial militar británico y experto en asuntos árabes durante los primeros años de la década de 1900, cuando  el  rival  de  Gran  Bretaña,  el  Imperio  otomano  turco,  gobernaba Arabia. Lawrence se dio cuenta de que la única manera de expulsar a los turcos de la región era uniendo a las tribus árabes en contra de el os. Pero las  tribus  poseían  distintos  valores,  creencias  y  reglas.  Y  Lawrence,  como representante de otro imperio extranjero, era considerado sospechoso. Los británicos  que  vivían  en  Arabia  en  aquel os  tiempos  eran  los  equivalentes de los japoneses en Culver City [sede de la MGM]: los toleraban, pero no los comprendían. A pesar de todo, Lawrence creía que si lograba convencer a  las  tribus  de  su  propio  poder  para  conseguir  lo  imposible,  actuando juntas, se unirían como un solo hombre. Su epifanía fue: « ¡Aqaba! ».
+
+Aqaba,  la  ciudad  portuaria  tremendamente  fortificada  y  situada  en  el extremo de la península Arábiga, estaba protegida al norte por el desierto de  Nefud,  aparentemente  infranqueable.  Los  turcos,  convencidos  de  que nunca podrían atacarlos desde el desierto, habían situado toda su artil ería apuntando  al  mar  Rojo.  Pero  el  plan  de  Lawrence  era  hacer  lo  imposible: marchar cruzando el desierto y sorprender a los turcos por la retaguardia.
+
+«Si queréis, lo haré», desafió a los líderes tribales.
+
+Y  lo  hicieron.  Al  arremeter  contra  la  espalda  desprotegida  de  Aqaba, aplastaron a los turcos y compartieron el oro y la gloria. La historia de aquel milagro  se  contó  una  y  otra  vez  por  toda  Arabia  y  por  el  mundo, convirtiendo  una  oscura  batal a  en  una  leyenda  inmortal.  Esta  historia
+
+mágica de alcanzar lo imposible se convirtió en el catalizador de un nuevo orden mundial.
+
+¿Podría  ser  aquel a  la  respuesta  que  yo  andaba  buscando?  Acabé rápidamente mi conversación telefónica y volví a ver la película entera. ¡Sí!
+
+Aquel a  historia  podía  ser  perfecta  para  inspirar  a  los  trabajadores  de  esta compañía a reclamar su venerable herencia y su rentabilidad.
+
+Empecé  contando  la  historia  de  Aqaba  a  nuestros  empleados  durante nuestra  gigantesca  fiesta  anual  de  Navidad.  Les  mostré  aquel a  fotografía crucial de Lawrence y, como recordatorio de nuestra misión, repartí copias de el a, enmarcadas en plexiglás, a unos cuantos ejecutivos elegidos.
+
+«Esto  es  lo  que  somos  —les  dije—.  Somos  un  grupo  variopinto  de empresas, pero una sola tribu. Hemos de creer que podemos hacer posible lo imposible.»
+
+La  historia  de  Aqaba,  convertida  en  el  nuevo  mantra  de  Columbia,  se propagó  entre  los  empleados  como  un  virus.  Contribuyó  a  invertir  el esquema mental de la organización, reformar actitudes y encuadrar nuestro estado emocional colectivo. La historia de Lawrence impulsó a nuestra tribu a  imaginar  un  futuro  integrado  que  atrajese  los  recursos  japoneses, evitando su retirada.
+
+Ahora me tocaba incitar a mis oyentes a actuar, alineando los corazones con  los  pies  y  las  carteras.  La  historia  era  la  l amada  a  la  acción,  el  factor transformador crucial, pero aquel sólo era el principio. Teníamos que coger aquel a historia y correr con el a. .  ¡a Aqaba!
+
+Nuestro primer asunto por tratar fue establecer una base de operaciones tan importante y tan tangible como lo había sido Aqaba para las tribus de Lawrence.  Para  continuar  con  la  misión  de  Sony,  que  era  construir  un imperio  de  última  generación  del  ocio  y  de  la  tecnología,  invertimos  cien mil ones de dólares para ampliar nuestro desastrado estudio de Culver City convirtiéndolo en una sede vanguardista que evidenciara toda la potencia tecnológica de Sony, y donde se pudiera albergar a toda nuestra tribu en un solo lugar.
+
+Entonces  izamos  la  bandera  de  la  unidad.  Compramos  el  edificio colindante, descolgamos la pancarta del león y la sustituimos por la insignia de Sony. Esto anunció a todos los visitantes que Columbia y Sony eran una sola.  Y  como  la  junta  directiva  japonesa  de  Sony,  tremendamente protectora,  no  pensaba  incluirnos  en  su  marca  de  fama  mundial  a  menos que nos considerasen parte de  su tribu, la colocación de aquel logo también garantizaba  el  compromiso  de  nuestros  nuevos  propietarios  con  los empleados. El éxodo de ejecutivos se invirtió. Pronto habíamos convencido a  Sony  para  que  rebautizase  a  la  compañía,  l amándola  Sony  Pictures Entertainment.  Volvimos  a  comprar  la  videoteca  del  director  de  General Electric,  Jack  Welch,  y  colocamos  la  marca  registrada  de  Sony  como  un imprimátur  unificador  en  cada  vídeo,  y  en  todo  lo  que  poseíamos  o producíamos. Al integrar el sonido SDDS de Sony, una proeza tecnológica, y los sistemas IMAX en nuevos y relucientes complejos en New York City, Chicago y San Francisco, aplicamos a nuestro circuito de cines Loews, tan mortecino,  una  pátina  radicalmente  exitosa,  bautizándolo  como  Sony
+
+eaters.
+
+Ahora  que  la  tribu  iba  cerrando  filas,  nuestros  estudios  empezaron  a conseguir  lo  imposible,  produciendo  una  serie  de  éxitos  que  incluyeron Philadelphia,  Algo  para  recordar,  Terminator  2,  El  día  de  la  marmota, Algunos  hombres  buenos,  El as  dan  el  golpe,  Los  chicos  del  barrio  y Despertares.  Los  filmes  de  Columbia  y  TriStar  recibieron  más  de  cien nominaciones a los Oscar, el total cuatrienal más elevado para un estudio en la historia del cine hasta aquel momento, y en 1991 obtuvimos la mejor cuota de taquil a del mercado doméstico.
+
+El resultado neto de todos estos cambios es que, mientras que el rival de Sony, Matsushita, controló a nuestro competidor Universal Pictures durante sólo  cinco  años  antes  de  abandonarlo,  Sony  ha  mantenido  el  rumbo.
+
+Aunque yo me fui en 1995, habiendo experimentado tanto el éxito como el fracaso,  hoy  Sony  Pictures  Entertainment  se  ha  transformado  en  una compañía  estadounidense  que  sigue  teniendo  su  sede  mundial  en  New York  City,  y  un  director  general  que  no  es  japonés,  Howard  Stringer.
+
+Genera  unas  ventas  anuales  de  más  de  7.000  mil ones  de  dólares,  y  su filmoteca de más de 3.500 películas sigue aumentando.
+
+Mientras  avanzábamos  en  nuestro  viaje  increíble,  yo  me  reunía regularmente  con  los  ejecutivos  que  se  habían  cohesionado  para  alcanzar nuestra victoria «en Aqaba». Al á en sus despachos, rodeados por las fotos de  sus  familias,  figuraba  la  fotografía  de  O’Toole  caracterizado  como Lawrence  de  Arabia.  No  cabía  duda  de  que  esa  historia  dio  forma  a  la dirección de nuestra compañía. ¿Cómo? Induciendo a todos los miembros de nuestra tribu a  sentir, y por consiguiente a creer, que trabajando juntos podríamos mejorar nuestra seguridad, aumentar las oportunidades, obtener más éxitos y aumentar nuestro orgul o.
+
+AL  MIRAR  ATRÁS  me  di  cuenta  de  que  mi  experiencia  en  Sony demostraba  que  contar  cara  a  cara  la  historia  adecuada,  en  el  entorno preciso,  en  el  momento  idóneo  y  de  la  manera  más  pertinente,  puede inducir a los oyentes a actuar, y también puede modificar la trayectoria de éxitos del narrador. ¡Esto tenía que haberme convertido en un apóstol del arte del  storytelling con un propósito claro veinte años antes! Sin embargo, durante  los  dos  primeros  actos  de  mi  carrera,  por  lo  general  había sucumbido  al  supuesto  dominante  en  nuestra  cultura:  que  las  decisiones empresariales  difíciles  están  gobernadas  exclusivamente  por  las  cifras,  las tácticas, los conceptos, los datos en bruto, «las cosas reales». Sólo ahora, en mi  tercer  acto,  mientras  volvía  a  pensar  en  Aqaba  a  la  luz  del  papel  que desempeñó en Dayton el  storytelling oral y con propósito (y también en Las Vegas,  aunque  por  su  ausencia),  había  adquirido  la  perspectiva  suficiente para ser un creyente.
+
+Aun  así,  necesitaba  más  evidencias  que  estas  experiencias  aisladas.  Mis amigos  y  mis  colegas  ¿habrían  descubierto  también  que  la  narración orientada al éxito cambiaba sus carreras? Esta herramienta de la narración interpersonal ¿era igual de poderosa en todos los sectores de la industria?
+
+¿Había algún peligro del que precaverse? Mi misión no consistía en realizar
+
+un estudio científico ni en escribir un relato lineal de mi carrera. Lo que me interesaba era el descubrimiento, no la cronología. Pero sí quería averiguar si  la  evidencia  respaldaba  mi  opinión  sobre  el  poder  del  relato  oral.
+
+También  quería  descodificar  los  elementos  esenciales  de  ese  poder.
+
+Entonces, otros profesionales podrían beneficiarse, en sus actos I y II, de lo que yo sólo había aprendido en el acto III.
+
+Empecé a viajar atrás y adelante en el tiempo, buscando otros relatos que había contado durante el curso de mi carrera, y analizando las motivaciones y  las  maneras  en  que  habían  funcionado  o  no  para  propiciar  el  éxito.
+
+También  repasé  historias  que  habían  contado  otros  para  instruirme, convencerme  o  motivarme.  ¿Cómo  y  por  qué  habían  sido  eficaces?  ¿Qué había  dotado  a  esas  historias  de  su  fuerza?  ¿Qué  podía  aprender  de  tales recuerdos?
+
+Me  sorprendió  descubrir  con  cuánta  claridad  recordaba  esas  historias,
+
+¡en algunos casos después de cuarenta años o más! Sí, es posible que en mi memoria  se  hayan  difuminado  las  fechas  exactas  y  los  detal es circunstanciales,  pero  los  relatos  en  sí  mismos  siguen  vívidos,  claros  y practicables. ¡Eso, por sí solo, es un tributo al relato para tener éxito!
+
+Después me concentré en otros líderes empresariales (sobre todo los que estaban   fuera  del  negocio  del  entretenimiento),  para  descubrir  qué  les parecía  mi  epifanía.  Mi  red  personal  y  profesional  abarca  una  amplia variedad  de  industrias  y  campos  académicos,  e  incluye  a  muchas  de  las personas de más éxito en Estados Unidos. Así que empecé a actuar como un detective, introduciendo en las conversaciones con mis amigos y colegas las historias que me habían contado personalmente (o que otros les habían contado  a  el os)  y  que  influyeron  en  sus  carreras.  Escuché  sus  relatos,  les pregunté  qué  era  lo  que  pensaban  que  había  hecho  que  esas  narraciones fueran  impactantes  e  indujeran  a  la  acción,  y  reuní  informalmente  sus puntos de vista. También celebré una serie de cónclaves en los que expertos en  psicología,  medicina  narrativa  y  relato  empresarial  compartieron  su investigación y sus opiniones. Invité a éstos y a otros expertos a mis clases en la UCLA, para hablar sobre las siguientes preguntas: el  storytelling con
+
+un  propósito  decidido,  ¿era  un  instrumento  vital  para  el  éxito  en  los negocios  que,  por  error,  no  se  había  tenido  en  cuenta?  Si  era  así,  ¿cuáles eran las claves para narrar y obtener el éxito, y cuál era la mejor manera de emplearlas? ¿De dónde procedía, en realidad, el deseo de contar historias y escucharlas? Y, además, ¿narrar para ganar podría ayudar a alguien a tener éxito, o requería un talento especial?
+
+Si las respuestas a estas preguntas demostraban que yo tenía razón sobre el  poder  estratégico  de  la  narrativa  oral,  entonces  ese  factor  trascendental seguro que convertía los negocios en algo mucho más divertido, interesante y  provechoso. .  y  mucho  menos  agobiante.  Pero  había  una  pregunta acuciante  que  había  que  responder  antes  que  las  demás:  ¿qué   es exactamente una historia?
+
+¡AJÁ!
+
+•  Conmueva los corazones de sus oyentes, y sus pies y sus carteras irán detrás.
+
+•  Los aluviones de datos no son historias: ¡vomítelos, no los narre!
+
+•  La historia no es la guinda del pastel,  es el pastel.
+
+•  No salga de casa sin el a. . sin su historia, quiero decir.
+
+2
+
+¿Tiene una historia?
+
+Yo  tenía  un  problema:  responsabilidad  civil  por  defunción.  En  el  río Colorado, abundante en rápidos y siempre emocionante, que discurre en lo profundo del Gran Cañón, había organizado una excursión fluvial de cinco días  para  diez  amigos,  y  los  chicos  se  habían  desmadrado  durante  mi guardia.  Entre  nuestro  colectivo  (todo  hombres)  figuraban  motores económicos  del  tipo  A,  con  el  presidente  y  director  general  de  la  NFL
+
+Network,  Steve  Bornstein,  el  director  administrativo  de  Bear  Stearns, Dennis  Mil er,  el  presidente  y  director  de  Onex,  Gerry  Schwartz,  Pierce Brosnan (alias James Bond), el genio programador de ESPN, Mark Shapiro, el  presidente  de  New  Line,  Toby  Emmerich,  el  estratega  vital  y  escritor Tony Robbins, y el bul icioso Joe Francis, que había encauzado su carrera por los rápidos de Girls Gone Wild. El grupo entero se había pasado los dos primeros  días  tirándose  botel as  de  agua  unos  a  otros,  saltando  de  una barca a otra y, en general, pasando olímpicamente de los guías de nuestra expedición.  A  1.500  metros  por  debajo  del  borde  de  una  de  las  siete maravil as naturales del mundo, se lo estaban pasando de muerte en el Big Wild Red, pero yo ya había bajado por el Colorado en otras ocasiones. Sabía lo  que  se  avecinaba,  y  la  perspectiva  de  perder  alguna  vida  empezaba  a presentarse como un peligro claro y tangible.
+
+Richard  Bangs,  uno  de  los  invitados  a  la  expedición,  también  había estado vigilando a los más descontrolados del grupo. A diferencia de todos los  neófitos  en  nuestra  barca,  Richard  era  un  aventurero  genuino.  Había
+
+sido el primero en descender 35 ríos en todo el mundo, incluido el Yangtsé en China y el Zambeze en el sur de África. Fundó Sobek Expeditions, una de  las  primeras  empresas  de  viajes  de  aventura  en  Estados  Unidos,  y  en 1980 ofreció su supervisión profesional durante las escenas de persecución en  un  río,  tremendamente  peligrosas,  en  una  película  que  producíamos titulada  e Pursuit of D. B. Cooper, sobre el secuestrador de aviones que saltó de un 727 cargado con 200.000 dólares recibidos por el rescate, y del que  nunca  más  se  supo.  La  persecución  por  un  río  l eno  de  rápidos  en aquel a  película  hizo  correr  un  gran  riesgo  a  los  actores  Robert  Duval   y Treat  Wil iams,  así  como  a  sus  dobles,  pero  Richard  consiguió  que  todos salieran ilesos. Pero en esos momentos me dijo: «Hemos de conseguir que estos tíos se sosieguen. Ahora mismo».
+
+Entonces,  cuando  atracamos  en  la  oril a  al  tercer  día,  Dennis  volvió  la cabeza hacia un rugido amortiguado que se oía a lo lejos.
+
+—Escuchad eso —dijo—. ¡No sabía que por aquí pasaban trenes!
+
+Aquel a era la oportunidad que había estado esperando Richard.
+
+—Dejadme que os enseñe ese tren —dijo. Nos condujo por el lateral del cañón  hasta  un  precipicio  que  daba  al  temible  Lava  Fal s,  un  rápido  de nivel  10  y  origen  del  tonante  estruendo.  En  ese  punto  el  río  tenía  un desnivel  de  más  de  once  metros  en  tan  sólo  unos  cientos,  lo  cual  lo convierte en las aguas bravas más temibles de todo el cañón. El bramido de aquel a locomotora hizo que el grupo guardara un silencio de muerte, hasta que Steve Bornstein comentó:
+
+—Ahora es cuando me entran ganas de volverme a casita. —Lo decía en broma. . en parte.
+
+—Pues no hay otra forma de seguir que por ahí —dijo Richard, con lo cual  captó  nuestra  atención  de  forma  indivisible—.  El  riesgo  puede transformar la vida, pero sólo si uno sobrevive.
+
+Sí, aquel era precisamente el pensamiento que me había dado vueltas y vueltas en la cabeza. Me sentí aliviado cuando Richard añadió:
+
+—Yo me dedico a la gestión de riesgos.
+
+Siguió diciendo:
+
+—El motivo de que bautizase a mi empresa de viajes de aventura como Sobek, la antigua deidad que protegía a los barcos que iban por el Nilo, fue la siguiente historia. ¡Escuchad!
+
+»Hace tres mil años, el primer rey de Egipto (un famoso gilipol as) estaba haciendo el idiota durante una partida de caza, y cabreó tanto a sus perros que  al  final  éstos  se  volvieron  contra  él.  La  jauría  lo  estuvo  persiguiendo hasta  l egar  al  Nilo,  que  estaba  infestado  de  cocodrilos.  Uno  de  estos grandes reptiles estaba tomando el sol en la oril a. Se ofreció a l evar al rey al  otro  lado  del  río,  y  éste  estaba  tan  desesperado  que  accedió.  Para  su sorpresa, el cocodrilo le l evó sano y salvo a la otra oril a, pero entonces el saurio salvador reveló que era Sobek, el espíritu del cocodrilo. A cambio de haber  salvado  la  vida  del  faraón,  le  exigió  que  hiciera  algunos  cambios importantes en su vida. El rey tenía que dejar de ser un tarambana, y hacer que  su  pueblo  tratase  el  río  y  a  sus  criaturas  con  respeto.  Mientras  los humanos lo honrasen, sus barcos transitarían por el río con total seguridad.
+
+En  este  punto,  Richard  echó  un  vistazo  al  Lava  Fal s  y  alzó  la  voz sombríamente.
+
+—Sólo  una  vez,  unos  dos  mil  años  más  tarde,  hubo  una  flotil a  militar que olvidó apaciguar a Sobek. Durante la travesía el río se cobró mil vidas.
+
+—¿Y  ahora  hay  cocodrilos  en  el  Colorado?  —preguntó  Pierce, intentando quitar hierro al asunto.
+
+—No. Pero si no los respetáis, esos rápidos os harán trizas como si fueran cocodrilos —concluyó Richard. En esas palabras subyacía el mensaje de que la naturaleza puede ser feroz. Para sobrevivir y medrar, debemos respetar el entorno.
+
+Mientras  volvíamos  a  pie  al  campamento,  el  grupo  guardaba  silencio.
+
+Bangs había transmitido su mensaje en el momento justo, y por primera vez colaboramos  para  decidir  la  estrategia  del  día  siguiente.  Nos  fuimos  a dormir pronto, y a la mañana siguiente todo el mundo estaba silencioso y concentrado  cuando  cargamos  los  bártulos  e  iniciamos  el  lento  recorrido hacia el precipicio.
+
+Pronto,  debido  al  creciente  volumen  de  los  rápidos,  se  nos  disparó  la adrenalina.  Cuando  nos  acercábamos  al  borde  de  la  cascada,  Gerry Schwartz  gritó:  «¡Vale,  cocos,  ahí  vamos!».  Y  tras  eso  los  rápidos  nos aferraron, sacudiendo nuestros botes de un lado para otro. Remamos a la una, frenéticos, para evitar las rocas de la derecha, afiladas como cuchil os.
+
+Los  botes  se  inclinaron,  poniéndose  casi  verticales,  y  luego  cayeron pesadamente sobre sus bordas en un remolino tranquilo, antes de sumirse en un socavón del lecho fluvial que nos lanzó al aire como una bala. Dos centímetros a la derecha y estábamos listos, pero paleamos y nos apiñamos como si nos fuera la vida en el o. . ¡y gracias a Sobek, sabíamos que así era!
+
+Richard  tenía  toda  la  razón  del  mundo.  El  entusiasmo  era  tan  intenso que,  tras  la  experiencia,  todos  nos  sentimos  transformados.  Por  eso  tuvo sentido  que  a  la  tarde  siguiente  Richard  me  dijese  que  Mountain  Travel, que se fusionó con su empresa en 1991, decidiera no sólo mantenerlo a él como socio, sino también conservar el nombre Sobek. «La leyenda de Sobek fue  el  factor  decisivo  del  negocio  —dijo  Richard—.  Yo  quería  que entendiesen que yo no me dedicaba al negocio del transporte de personas, sino  a  la  transformación  de  humanos.  Contarles  esa  historia  fue  la  mejor manera posible de que lo comprendieran.»
+
+¿POR QUÉ  ÉSA ES UNA HISTORIA CON UN
+
+PROPÓSITO CLARO?
+
+Cinco años después, al rememorar aquel viaje por el río, todavía recuerdo cada detal e de la leyenda de Sobek que nos contó Richard. Recuerdo que todos tuvimos que inclinarnos hacia delante para escuchar su voz, debido al rugido  de  la  cascada,  y  la  manera  en  que  estuvimos  pendientes  de  sus palabras para descubrir qué pasaría luego. Al mirar atrás, me doy cuenta de que nuestra transformación empezó en el momento en que dijo «historia».
+
+Esa  palabra  fue  como  una  campana  que  nos  indujo  a  escuchar.  Desde  la
+
+infancia todos estábamos condicionados a esperar que una historia ofreciese una recompensa mental, y esa expectativa nos mantuvo embelesados.
+
+Pero ¿qué convertía exactamente la leyenda de Sobek en una «historia»?
+
+¿Hubiera sido lo mismo si Richard no hubiese mencionado al rey? ¿Si nos hubiera dado una conferencia de una hora sobre los cocodrilos y la creencia de  los  egipcios  en  sus  dioses,  o  si  hubiera  diseccionado  la  estrategia  de Sobek para cambiar la conducta del faraón? ¿Hubiera seguido siendo una historia si Sobek hubiese sido un mero cocodrilo que se hubiera zampado al rey?
+
+Acudí  a  buscar  respuestas  a  Robert  Rosen,  ex  decano  de  la  School  of
+
+eater,  Film  and  Television  de  la  UCLA,  que  impartía  junto  a  mí  la asignatura  «El  tránsito  por  el  mundo  narrativo».  Rosen  me  dijo:  «Las historias  sitúan  todos  los  datos  clave  en  un  contexto  emocional.  La información  de  una  historia  no  está  al í  quieta,  como  lo  estaría  en  una proposición lógica. En lugar de el o, está construida para generar suspense».
+
+Y los elementos que construyen todas las historias atractivas, ya sea que se cuenten  oralmente  o  a  través  de  las  páginas  de  un  libro,  por  medio  de actores en una pantal a o en un monitor, son el  reto, la  lucha y la  resolución.
+
+Por lo tanto, así es como se construye una historia:
+
+•    Primero. .  capte  la  atención  de  sus  oyentes  con  un  reto  o  una pregunta inesperados.
+
+•  Luego. . ofrezca a sus oyentes una experiencia emocional al narrar la lucha  para  superar  aquel  desafío,  o  para  encontrar  la  respuesta  a  la pregunta introductoria.
+
+•  Por último. . dispare la respuesta de sus oyentes con una resolución reveladora, que  los  l ame a actuar.
+
+Aplicando este esquema a la leyenda de Sobek, me di cuenta de que la historia  comenzaba  con  el  reto  para  sobrevivir  al  que  se  enfrentaba  el faraón, que le hizo buscar una salvación. El punto medio de la historia le obligaba a luchar con tres elecciones en apariencia imposibles: confiar en un
+
+cocodrilo,  saltar  al  río  sin  protección  alguna,  o  enfrentarse  a  sus  propios perros,  sedientos  de  sangre.  Y  el  final  resolvía  la  lucha  del  rey  al transformarle del tipo de persona capaz de cabrear a su propia jauría en un guardián  honrado  del  código  fluvial,  que  sus  descendientes  respetarían  a partir de ese momento.
+
+¿Hubiera funcionado la historia si se hubieran dispuesto de otra forma el principio, el medio y el final? A menudo los cineastas y los escritores juegan con el orden en que se revela la información, a veces consiguiendo grandes efectos. Pero yo sabía, gracias a mis años transcurridos en la industria del cine,  que  si  no  ofrecen  el  esquema  tripartito  de   historia-experiencia  de escucha, que el público parece esperar instintivamente, están perdidos. Los oyentes raras veces se enganchan a un relato si no detectan al principio un cierto reto atractivo. No permanecerán atentos si no les emociona la lucha de la fase central. No recordarán la historia, ni actuarán en consecuencia, a menos que su solución final los deje hipnotizados.
+
+El modo en que Richard Bangs nos contó la leyenda de Sobek demostró que las historias no tienen por qué ser largas ni tortuosas. Lo que sí tienen que  hacer  es  sorprendernos.  El  relato  de  Sobek  primero  nos  preparó  para que  el  rey  tuviera  que  enfrentarse  a  sus  perros,  ¡pero  en  lugar  de  eso  se encontró con un cocodrilo! Por lógica, esperaríamos que el cocodrilo se lo comiera,  ¡pero  en  lugar  de  eso  le  ofreció  protección!  Entonces  podríamos esperar que el rey o el cocodrilo se engañasen mutuamente, pero en lugar de  eso  el  espíritu  de  los  cocodrilos  antropófagos  se  convirtió  en  el  nuevo mejor amigo del hombre. . ¡siempre que éste le rindiera homenaje!
+
+Todo aquel que haya leído una novela o haya visto una película sabe que la historia que no sorprende está muerta de antemano. La misma regla es aplicable a las historias que una persona cuenta en directo ante un público empresarial.  El  valor  de  la  sorpresa  puede  concretarse  en  algo  tan  sutil como un encogimiento de hombros o una punzada de arrepentimiento. No todos  los  relatos  emocionan  ni  embelesan,  pero  si  no  incluye   alguna sorpresa, usted perderá la atención de sus oyentes. ¿Por qué? Al pensar que en nuestro cerebro debe haber algo que anhela que le sorprendan, consulté
+
+con  mi  amigo  de  la  UCLA,  un  neurocientífico  l amado  Dan  Siegel,  para hal ar la respuesta.
+
+Siegel, codirector del Mindsight Institute de la UCLA y autor de libros científicos  muy  aclamados,  e  Developing  Mind ( La  mente  en  desarrol o, Desclée  de  Brouwer,  Bilbao,  2007)  y   e  Mindful  Brain  ( Cerebro  y
+
+«mindfulness»,  Paidós,  Barcelona,  2010),  me  explicó  la  secuencia  esencial de la sorpresa como  expectativa + violación de la expectativa. Citó a Jerome Bruner, uno de los padres de la psicología cognitiva, que dijo: «La narrativa surge  de  la  violación  de  la  expectativa».  Entonces  Siegel  me  puso  un ejemplo. «Tienes expectativas en tu cabeza; yo tengo otras en la mía. Nos sentamos a desayunar. Yo te digo: “Esta mañana me he levantado, he ido al baño, he cogido el cepil o de dientes y le he puesto dentífrico, bla, bla, bla”.
+
+Nuestras expectativas tienen una sincronía total. No hay violación alguna.
+
+Son  aburridas.  No  son  dignas  de  ser  recordadas.»  Esta  enumeración  no sorprende, ¡y por tanto no es una historia!
+
+¿Por qué Bangs no optó por darnos una conferencia sobre la seguridad fluvial? Dada nuestra condición y nuestra actitud, ambas despreocupadas, seguramente  le  hubiéramos  tirado   a  él  al  río.  ¡Las  conferencias  son  tan aburridas como las historias del perro que mordió a su dueño! En lugar de eso,  Bangs  captó  nuestra  atención  con  una  historia  totalmente impredecible:  un  hombre  que  se  hace  amigo  de  un  cocodrilo.  Este  relato sorprendente  nos  hizo  l egar  exactamente  adonde  él  quería,  no  como  un perro que ladra o un cocodrilo que asusta, sino como un cabal o de Troya.
+
+Según  el  mito  del  cabal o  de  Troya,  los  antiguos  griegos  estaban  hartos del asedio al que durante diez años habían sometido a aquel a ciudad, de modo que construyeron un gran cabal o de madera, hueco, que dejaron a las puertas de la ciudad de Troya. Luego fingieron marcharse en sus naves.
+
+Pensando que el cabal o era un trofeo de victoria, los troyanos lo metieron en  la  ciudad.  Aquel a  noche,  una  tropa  de  soldados  griegos  salió  de  su escondrijo dentro del cabal o y abrió las puertas. Entonces el ejército griego en pleno entró a saco en la ciudad, sorprendiendo a los troyanos y ganando la guerra.
+
+El  cabal o  de  Troya  era  un  vehículo  de  transporte  disfrazado.  Las historias  con  propósito  también  lo  son.  De  una  forma  astuta,  contienen información,  ideas,  acicates  emocionales  y  propuestas  de  valor  que  el narrador  quiere  infiltrar  en  los  corazones  y  las  mentes  de  los  oyentes.
+
+Gracias a su construcción mágica y a su atractivo, las historias transportan emocionalmente  al  público,  de  modo  que  éste  no  se  apercibe  siquiera  de que está recibiendo un mensaje oculto. Sólo después de haber escuchado el relato saben que han escuchado y sentido una l amada a la acción que les ha transmitido el narrador.
+
+Son numerosas las l amadas a la acción que puede transmitir un relato con  propósito.  Si  es  usted  vendedor,  quizá  su  objetivo  sea  convencer  a  su cliente de que adquiera más productos. La meta de un director de recursos humanos  puede  ser  inducir  a  los  empleados  a  respaldar  las  normas  y valores empresariales. Un director creativo querrá inspirar creatividad a su personal; un abogado, convencer a un jurado de que condene o absuelva a su  cliente.  El  objetivo  de  un  político  es  obtener  votos;  el  de  un  cómico, provocar la risa del público; el de una ONG, conseguir donativos. En cada caso, su éxito dependerá de su capacidad de transmitir su intención a sus oyentes de una manera que los induzca a actuar. ¿Qué mejor instrumento para conseguir esto que contar una historia?
+
+Hace unos años estaba cenando por primera vez en un restaurante cerca de  mi  casa,  que  se  l ama  Border  Gril .  Las  propietarias  del  Gril ,  Susan Feniger  y  Mary  Sue  Mil iken,  tenían  sus  propios  programas  televisivos  en Food  Network,  una  línea  de  alimentos  preparados  bajo  su  marca  Border Girls, y habían escrito juntas cinco libros de cocina. Además, tenían varios restaurantes  en  Los  Ángeles,  además  de  uno  en  Las  Vegas.  Como  sentía curiosidad por saber cómo habían construido su imperio culinario, pedí un
+
+«taco»  de  pescado.  El  sabor  me  dejó  pasmado.  Como  vio  mi  expresión,  el camarero se me acercó para charlar.
+
+«¿Sabe  —me  dijo—,  dentro  de  ese  taco  hay  toda  una  aventura.»  Me contó  cómo,  hace  veinte  años,  Mary  Sue  y  Susan  se  habían  encontrado tiradas a las cuatro de la mañana en una aldea costera de Yucatán. Lo único
+
+que estaba abierto era un pequeño puesto de tacos, y las dos se quedaron impresionadas  por  la  gran  cantidad  de  ingredientes  frescos  que  ofrecía: langosta, salmón, pepino en tiras, una botel a de aceite de oliva. «El dueño elaboraba las tortil as de maíz con sus propias manos, que eran enormes», añadió  el  camarero,  haciendo  un  gesto  con  sus  palmas.  Me  explicó  cómo Susan  y  Mary  se  quedaron  al í  durante  una  hora,  con  un  bloc  de  notas, intentando averiguar qué hacía aquel hombre, cuáles eran los ingredientes y qué le daba al taco aquel sabor espectacular. Entonces el hombre salió y las  invitó  a  un  par  de  cervezas  y  a  dos  tacos  más.  Acabaron  comiéndose todo lo que preparó, y las invitó a volver al día siguiente.
+
+A  estas  alturas  yo  ya  estaba  embobado.  «Era  domingo  —prosiguió  el camarero—. El puesto estaba cerrado, pero el vendedor preparó, sólo para el as,  un  impresionante  estofado  de  judías  pintas  en  salsa.»  Me  señaló  la foto  del  plato  en  el  menú  del  Border  Gril ,  e  inmediatamente  le  indiqué con un gesto de la cabeza que me lo trajese. «¡Se pasaron toda la tarde con aquel a familia mexicana!»
+
+Me sentí como si hubiera disfrutado de mi propia aventura culinaria sin haberme  movido  de  la  mesa.  Me  tragué  la  historia  y  la  comida  con  el mismo placer. La experiencia me impresionó tanto que más tarde le pedí a Susan Feniger que visitara nuestra clase en la UCLA, y que explicase cómo anima a los camareros a contar historias con propósito, como aquel a.
+
+El a  me  dijo  que  el   storytelling  constituye  una  parte  esencial  de  la formación  de  sus  empleados.  El a  y  Mil iken  viajan  por  el  mundo  para descubrir  los  auténticos  sabores  y  culturas,  colores,  alimentos,  música  y arquitectura  que  distinguen  el  Border  Gril ,  así  como  su  restaurante posterior, el Ciudad. Utilizan los relatos de sus aventuras como cabal os de Troya,  para  transmitir  su  pasión  a  los  miembros  de  su  personal.  «Si  les emociona lo que hacemos, quieren que los clientes conozcan la historia de dónde conseguimos esa receta, y cómo nos influyó.» Entonces, esos clientes cuentan esa historia a sus amigos. De esta manera, los relatos de Feniger y
+
+Mil iken convierten tanto a su personal como a su clientela en operadores de marketing viral. [1]
+
+Feniger  me  subrayó  que  la  marca  Border  Gril   no  se  centra  sólo  en  el sabor, la calidad o la cantidad de comida, o ni siquiera en la atmósfera o la clientela  de  sus  restaurantes.  En  Los  Ángeles  hay  cientos  de  restaurantes que  ofrecen  una  cocina  excelente  y  un  estilo  único.  Lo  que  siempre  han enfatizado Feniger y su socia es la pasión que invierten en sus restaurantes.
+
+Su l amada a la acción no es simplemente que los clientes vengan y coman, sino  también  que  compartan   su  experiencia  emocional.  Los  relatos  orales son  únicos  para  transmitir  esta  l amada,  porque  cuando  escuchan  una historia, las personas quieren sentirse emocionadas.
+
+¿CUÁL ES EL  ALIMENTO DEL TRANSPORTE
+
+EMOCIONAL?
+
+Stacey  Snider,  que  fuera  presidenta  de  Universal  Pictures  y  que  hoy  es copresidenta de DreamWorks Studios, fue la primera que me dijo, cuando era  presidenta  de  mi  empresa  hace  más  de  veinte  años:  «Las  mejores historias tiran del corazón, no de la mente». Esta revelación me impresionó de inmediato. ¡Por supuesto! Dentro del mundo de los negocios existe una presión constante para potenciar la tecnología puntera, pero sin que medie una propulsión emocional, ningún grado de efectos digitales ni de artilugios hará que el público se entusiasme de verdad.
+
+¿Qué  quiero  decir  con  «transporte  emocional»?  Estoy  hablando  del complejo sistema de acción y reacción que tiene lugar dentro de un relato, y que  conmueve  a  los  oyentes.  Son  historias  que  «activan»  el  transporte emocional  de  quien  las  escucha.  Nos  incitan  a  reír,  l orar,  contener  el aliento, suspirar o gritar con una rabia fruto de la empatía, y todo oyente, intuitivamente,  exige  esta  propulsión  emocional.  Es  importante  recordar que  esto  es  así  incluso  dentro  del  contexto  empresarial.  Los  hombres  de
+
+negocios son seres humanos, que crecieron escuchando relatos, como todo el mundo. Por lo tanto, en cualquier negocio, como en el del espectáculo, si uno  no  consigue  transportar  emocionalmente  a  sus  oyentes,  los  perderá.
+
+Pierda a sus oyentes, y su cabal o de Troya no podrá transmitir, de ninguna manera, su l amada a la acción.
+
+Pero la estructura tripartita de reto, lucha y resolución sólo dota al relato de una forma. ¿Cuál es el combustible que mueve este vehículo? Mientras reflexionaba  sobre  los  relatos  empresariales  con  propósito  que  me  habían conmovido  más  durante  mi  carrera,  me  di  cuenta  de  que  el  transporte emocional depende de cuatro elementos esenciales.
+
+1. Los verdaderos héroes son personajes simpáticos y reconocibles
+
+Intente imaginar una historia donde no haya, como mínimo, un personaje.
+
+Es  imposible.  ¿De  parte  de  quién  se  pondrá  usted?  ¿Quién  desarrol a  la historia? ¿Quién hace que las cosas cambien? ¿Y por qué nos iba a importar lo  que  sucediera  si  no  le  pasa   a  un  personaje  con  el  que  podamos identificarnos  o  simpatizar?  Da  lo  mismo  que  sea  un  hombre,  una  mujer, un animal, un grupo, una tribu, un producto o el Gigante Jol y Green: ese personaje es nuestro héroe.
+
+Si  la  historia  es  un  transporte  emocional,  el  héroe  es  el  conductor.
+
+Cuanto más cercano nos resulte ese personaje, más nos atrapará la historia; pero esto no quiere decir que el personaje tenga que ser mono y tierno, ni siquiera  agradable.  ¡Y  no  confundamos  simpático  con  patético!  La  mejor manera  de  resumir  la  empatía  es  con  la  frase  «siento  tu  dolor».  Las audiencias  sienten  empatía  por  los  personajes  cuyas  luchas  e  inquietudes los hace parecer auténticos y vulnerables. Las emociones como la esperanza, el  amor,  la  determinación  y  el  anhelo  hacen  mucho  más  por  los  héroes atractivos que la inteligencia, el aspecto físico, la fuerza o su estilo. Si no me cree,  piense  en  cómo  reacciona  usted  a  las  historias  auténticas  que representan  los  personales  reales  que  están  a  su  alrededor  todos  los  días.
+
+Estos  sucesos  observados  no  sólo  nos  enseñan,  al  nivel  visceral,  cómo funciona  el  transporte  emocional,  sino  que  a  menudo  se  convierten  en relatos poderosos que contaremos una y otra vez, con diversos propósitos, a lo largo de nuestras vidas.
+
+Un caso concreto: uno de los personajes más heroicos que he conocido en  mi  vida  fue  un  niño  que  padecía  una  enfermedad  degenerativa paralizante,  que  era  mi  vecino  cuando  vivía  en  Boston.  Se  embrol aba  al hablar. No podía caminar, ni tampoco asistir al colegio con todos los demás niños  del  barrio.  Pero  le  veía  cada  día,  asomado  a  la  ventana,  mientras nosotros pedaleábamos en nuestras bicicletas por la manzana.
+
+Un  día,  su  padre  apareció  en  la  acera  sujetando  una  bicicleta  con ruedecitas  de  seguridad  laterales  en  ambas  ruedas,  delantera  y  trasera.
+
+Parecía  que  en  aquel  vehículo  de  seis  ruedas  hubiera  podido  subirse  un elefante  sin  romperlo.  Mientras  yo  miraba  por  mi  ventana,  el  padre  del chico salió con él en brazos y lo sentó en aquel invento. Entonces el padre volvió a entrar en casa.
+
+El chico empezó a pedalear, y al cabo de un minuto la bicicleta volcó. Vi que  su  padre  lo  observaba  desde  la  ventana.  El  chaval  también  lo  vio.  El adulto lo miró mientras estaba al í tirado, y no hizo nada. Al final el chico se enderezó y se sentó en la bici. Avanzó cosa de metro y medio y volvió a morder  el  polvo.  Una  vez  más,  su  padre  se  limitó  a  observarlo.  Durante semanas, aquel muchacho estuvo probando suerte y cayéndose, y su padre no  movió  un  dedo.  Yo  se  lo  conté  a  mi  madre,  preocupado,  pero  el a  me dijo  que  me  metiera  en  mis  cosas.  Yo  no  podía:  aquel  drama  resultaba demasiado impresionante.
+
+Un domingo por la mañana, el chico se cayó de la acera. No tuve más remedio que ir. Pero cuando alcancé el bordil o, él me indicó con un gesto que no me acercase. Entonces su padre dio unos golpecitos en el cristal de la  ventana  y  me  indicó  con  el  dedo  que  me  fuese  a  casa.  Convencido  de que  aquel  hombre  era  una  especie  de  monstruo,  dejé  al  muchacho intentando levantarse solo y corrí de vuelta a mi casa.
+
+Entonces, un par de días más tarde, el chaval volvía a estar en la cal e. Se cayó una vez; se levantó. Y otra vez.
+
+Pero  entonces,  de  repente,  ¡comenzó  a  avanzar!  Logró  recorrer  unos veinte  metros. .  y  luego  giró  el  manil ar.  ¡Y  volvió  al  punto  de  partida  sin caerse!
+
+Miré a su casa y vi a su padre sonriendo a su hijo. Miré al chico, y estaba sonriéndole  a  su  padre.  Luego  los  dos  se  echaron  a  reír  y  a  hacer aspavientos como un par de locos. Y yo me puse a l orar.
+
+¡Al final lo entendí! Los dos sabían que el chico  necesitaba enfrentarse al reto,  luchar  y  superarlo  solo.  Precisaba  ser  su  propio  agente  del  cambio, participar activamente en su propio rescate. Si su padre lo hacía por él, el chaval  no  se  sentiría  un  héroe.  Y  sólo  si  fuera  un  héroe  esta  victoria trascendental le capacitaría para enfrentarse a los otros desafíos, inevitables y monumentales, que le aguardaban en el futuro. Lo único mejor que ser el héroe de su propia historia era ser el héroe de su propia vida; y aquel día aprendí hasta qué punto están entrelazadas ambas cosas.
+
+La alegría que sentí al ver el recorrido de cuarenta metros de aquel chico fue impresionante. Mi experiencia de su reto, su lucha y su triunfo, todos únicos,  se  convirtieron  en  un  relato  arquetípico  sobre  la  persistencia,  que me repetía cada vez que mis notas empeoraban en la escuela, unos matones me zarandeaban, o fracasaba en algún proyecto. La historia del chico en la bici  me  enseñó  que  el  fracaso  no  es  más  que  una  banda  rugosa  en  el camino al éxito. Los héroes no tiran la toal a, de modo que el único fracaso genuino  es  la  incapacidad  de  levantarse.  La  l amada  a  la  acción  de  esta historia era que siempre hay que levantarse.
+
+Aproveché  ese  episodio  para  superar  muchos  fracasos  en  mi  carrera, sobre  todo  al  principio.  Cuando  apenas  tenía  treinta  años,  Columbia Pictures me ascendió a director del estudio. Estaba aterrado, no sólo por la responsabilidad,  sino  por  el  resentimiento  que  me  profesaban  otros hombres  mayores,  con  más  experiencia,  que  querían  mi  puesto  y  habían albergado  la  esperanza  de  conseguirlo.  Uno  de  esos  hombres  era  John Veitch, el jefe de producción física de Columbia en aquel momento. John,
+
+un verdadero héroe de guerra, había resultado herido mientras luchaba en el Pacífico durante la Segunda Guerra Mundial. Podía oler el miedo a dos kilómetros,  y  sabía  que  no  es  una  buena  cualidad  para  un  líder.  No  hace falta  decir  que  fue  capaz  de  detectar  mi  angustia  y  mi  temor  después  del estreno  decepcionante  de   Horizontes  perdidos.  Lamentablemente,  en  mi calidad de ejecutivo más joven, yo había apoyado desde su comienzo aquel vergonzante  musical  para  las  que  entonces  eran  dos  superestrel as,  Burt Bacharach  y  Hal  David.  Sabiendo  que  aquel a  podía  ser  su  oportunidad para pasar por encima de mí y l egar a la cumbre de la compañía, Veitch se me acercó mientras todo el mundo iba saliendo de la sala donde se había estrenado ese fiasco. Me preguntó: «Bueno, ¿tienes miedo de lo que pueda pasar?»
+
+Yo  sabía  que  John  era  duro,  pero  también  que  apreciaba  la  firmeza  en otros. Reflexioné unos instantes y contesté: «Por supuesto». Y le conté mi historia  del  chico  y  la  bici.  «Es  posible  que  me  caiga  —concluí—,  pero mientras  siga  respirando  y  tenga  fuerzas  para  seguir  esforzándome,  me levantaré. La historia de aquel chico me enseñó que si me centro en algo, crece  y  determina  dónde  voy  a  acabar,  no  lo  que  se  interponga  en  mi camino».
+
+Aquel a  historia  consiguió  que  John  pasara  de  ser  mi  competidor  a colaborar conmigo. Le demostró que yo apreciaba las cualidades necesarias para obtener el éxito. Y me demuestra, ahora, que los héroes atractivos y las historias con propósito acechan en los rincones de nuestras vidas, listas para que las contemos.
+
+2. El drama pone en marcha su historia
+
+Una  vez  que  tenga  su  héroe,  ¿qué  activa  la  emoción?  ¿Qué  hace  que  nos quedemos absortos, pidiendo más? Michael Jackson me lo enseñó de una forma inconfundible: la respuesta es «el drama».
+
+Al á por 1991, Jackson ya era una fuerza que tener en cuenta. Después de  renovar  su  contrato  con  Sony  por  una  cifra  récord  de  65  mil ones  de
+
+dólares,  publicó  su  octavo  álbum,  Dangerous,  con  los  singles  «Black  or White»  y  «Remember  the  Time»;  ambos  dominaron  las  listas  de  música pop.  En  mi  calidad  de  director  ejecutivo  de  Sony  Pictures,  había  estado presente  en  el  estudio  de  producción  de  aquel  disco,  y  me  quedé impresionado  por  la  intensidad  creativa  de  Michael  y  por  su perfeccionismo.  Su  ambición  no  conocía  límites.  Pero  cuando  el  valor musical más importante de Sony me invitó a su casa en Encino para hablar de sus planes de entrar en el cine y en la televisión, me pil ó por sorpresa.
+
+Michael había demostrado que sabía todo lo que podía saberse de la música pop, pero las películas eran una historia muy diferente. Quería producir, no sólo actuar. Eso suponía contar historias. ¿Sería capaz de hacerlo?
+
+Ni  siquiera  tuve  que  preguntárselo.  «Tanto  en  las  películas  como  en  la música —me dijo Michael—, tienes que saber dónde está el drama, y cómo exponerlo. —Me dirigió una larga e intensa mirada y, de repente, se puso en pie—. Permíteme que te lo enseñe.»
+
+Subimos  al  piso  de  arriba,  al  pasil o  que  estaba  fuera  de  su  habitación, donde  se  detuvo  delante  de  un  enorme  terrario  acristalado.  «Ésta  es Muscles», me dijo.
+
+Dentro,  una  enorme  serpiente  estaba  enrol ada  en  una  rama.  El  reptil movía  la  cabeza,  siguiendo  algo  que  estaba  situado  en  la  esquina  opuesta del terrario.
+
+Michael  señaló  con  el  dedo  el  objeto  que  acaparaba  la  atención  de Muscles.  Un  diminuto  ratón  blanco  intentaba  esconderse  detrás  de  un montoncito de virutas de madera.
+
+Le pregunté, esperanzado:
+
+—¿Son amigos?
+
+—¿Tienen pinta de serlo?
+
+—No. El ratón está temblando.
+
+Michael me dijo:
+
+—A  Muscles, tenemos que darle ratones vivos, porque de lo contrario se negaría a comérselos. Los muertos no le l aman la atención.
+
+—Entonces, ¿por qué no lo atrapa y se lo come?
+
+Me contestó:
+
+—Porque le gusta jugar. Primero usa el miedo para captar la atención del ratón, y luego aguarda, creando tensión. Por último, cuando el ratón esté tan aterrorizado que no pueda ni moverse, lo atacará.
+
+La serpiente había captado la atención de aquel ratón, y el ratón la de la serpiente. . y Michael Jackson tenía la mía.
+
+—Esto es el drama —me dijo.
+
+—¡Desde  luego!  —contesté—.  Esta  historia  lo  tiene  todo:  interés, suspense, fuerza, muerte, el bien y el mal, la inocencia y el peligro. No lo soporto. Pero tampoco puedo dejar de mirar.
+
+—Exacto  —contestó  él—.  ¿Qué  pasará  luego?  Incluso  aunque  lo  sepas, no sabes cómo o cuándo sucederá.
+
+—Quizás el ratón logre escapar.
+
+Michael soltó una de sus risas agudas y extrañas.
+
+—Quizá.
+
+Si yo había albergado alguna duda sobre el dominio de Jackson del arte del narrador de historias, aquel día se evaporó. Su  storytelling para alcanzar una meta me enseñó, clara y profundamente, que nada atrapa más rápido nuestra atención que la necesidad de saber  qué pasará después.
+
+De vuelta en la UCLA, pedí a Dan Siegel que me ayudase a comprender, desde  su  posición  como  neurocientífico,  por  qué  a  las  personas  las  atrae tanto  el  drama.  Siegel  me  contó  que  las  emociones  no  surgen espontáneamente. Como sabe cualquier actor, tampoco se las puede invocar a voluntad. Las emociones hay que despertarlas. «Y ese proceso se agudiza
+
+—añadió— cuando te das cuenta de cosas como:  No sé si el puma seguirá ahí;  No  sé  si  la  nave  espacial  regresará;  No  estoy  seguro  de  que  gane  esa carrera. Hay que introducir tensión entre la expectativa y la incertidumbre.
+
+La tensión emocional nos induce a pensar que quizá la cosa vaya así, pero puede  salir  de  otra  manera,  lo  cual  nos  hace  preguntarnos  qué  pasará luego.» Cuanto más nos preguntemos qué sucederá después, más atención prestamos.  Y  cuanta  más  atención  prestemos,  más  escucharemos, percibiremos y retendremos.
+
+Uno de los motivos por los que me quedé tan rotundamente hipnotizado cuando vi el ratón y la serpiente de Michael es que ambos estaban inmersos en una historia de deseo y miedo primigenios. En algún punto, en lo más hondo  de  nuestro  ADN,  acecha  la  misma  historia,  porque  en  algún momento de nuestra evolución, si no en nuestra existencia más inmediata, vivimos esa historia. Fuimos la presa más débil que se ocultaba en la cueva, temblando, frente al tigre dientes de sable que acechaba fuera.
+
+Por supuesto, la mayoría de narradores en el mundo de la empresa no necesita  presentar  factores  tan  dramáticos  como  la  muerte  y  la supervivencia. Pero incluso las historias en ese campo se cuentan mejor si activan  el  conflicto  entre  el  miedo  y  el  deseo.  El  deseo  es  una  necesidad esencial humana, que dentro del mundo empresarial puede traducirse en conseguir  un  trabajo,  motivar  a  los  empleados,  l evar  las  cuentas, impresionar a un jefe, lanzar con éxito un producto o garantizar una marca.
+
+Cuanto más deseamos algo, mayor es nuestro miedo a no conseguirlo. Y esa tensión  emocional  involucra  a  nuestro  público,  porque  se  pregunta  «qué saca en realidad de todo esto».
+
+Lo que produce este impacto no es la cantidad de palabras. Incluso un relato rápido puede generar una tensión dramática. Por ejemplo, hace poco Charles  Col ier  me  contó  la  historia  que  utilizó  él  para  motivar  a  sus empleados cuando le nombraron presidente de AMC, esa red de películas clásicas que distribuyó la dilatada serie televisiva  Shootout, que yo presenté junto  a  Peter  Bart.  Col ier  quería  l evar  la  red  por  cable  en  una  nueva dirección, que incluyese espectáculos originales y emocionantes como  Mad Men,  además  de  seguir  ofreciendo  su  dosis  establecida  de  películas antiguas, pero tenía un problema. La actitud de muchos de sus empleados hacia  el  trabajo  se  limitaba  a  fichar  al  entrar  y  salir,  y  si  no  conseguía cambiar esa actitud de piloto automático en esas personas, nunca alteraría la  aptitud  de  la  organización.  De  manera  que  les  contó  una  historia  muy sencil a, explicándoles que cuando él era niño y sus padres le hacían asistir a  clases  de  piano,  tenía  esa  actitud  de  fichar  y  punto.  Se  pasaba  las  horas muertas moviendo los dedos. Estaba al í, pero al mismo tiempo no estaba
+
+al í:  su  mente  siempre  hacía  novil os.  Años  más  tarde  se  dio  cuenta  de cuánto  le  costó  aquel a  actitud,  tanto  en  experiencia  como  en  tiempo.
+
+Desperdició  la  oportunidad  de  obtener  la  habilidad  suficiente  como  para disfrutar tocando el piano, y jamás pudo recuperar aquel as horas. Pero sí que  podía  aprender  de  aquel a  pérdida.  Podía  cambiar.  Ahora  se  había comprometido  a  estar  presente,  no  sólo  física  sino  también  mentalmente.
+
+Dijo a sus empleados que, si no lo hacía, sabía que iba a salir perdiendo. La historia de Col ier traslucía que si sus empleados no cambiaban de actitud, tanto sus empleos como la supervivencia de AMC tenían los días contados.
+
+Col ier  entendió  que  «la  historia  es  importante».  De  hecho,  esa  frase  se convirtió en el mensaje central de su red por cable.
+
+La  historia  de  Col ier  ilustra  una  de  las  ventajas  básicas  del   storytelling que  Steve  Denning  ha  identificado  desde  que  l eva  siguiéndole  la  pista  a esta técnica de narrativa empresarial. Denning fue director de gestión del conocimiento en el Banco Mundial, escritor de los libros galardonados  e Secret Language of Leadership  y  e Leader’s Guide to Storytelling, así como una  autoridad  reconocida  en  estrategias  de  liderazgo.  Invité  a  Steve  a participar en uno de los conciliábulos sobre narrativa que organicé en 2008, donde  él  señaló  que  la  brevedad  de  un  relato  puede  proporcionar  a  un líder  una  ventaja  clara  en  un  entorno  empresarial.  «Es  posible  que  no dispongan  más  que  de  minutos,  de  segundos  —dijo—,  pero  una  historia oral puede conseguir que se haga el trabajo, incluso en un marco temporal tan estrecho.» Además, Denning ha descubierto que cuando los oyentes se enteran de que viene una historia (en lugar de un aluvión de datos), suelen darle la bienvenida. Se relajan, centran rápido su atención y se concentran en el narrador. No se mueven inquietos ni se ocupan en enviar SMS, como he  visto  hacer  a  tantos  empleados  y  estudiantes  cuando  empieza  una presentación de PowerPoint o una clase sobre estrategias.
+
+Sumidos  en  ese  estado  participativo,  los  oyentes  también  son  más receptivos  a  las  verdades  emocionales  y  humanas  contenidas  en  el  relato del  narrador.  De  hecho,  el  público  empresarial  confiará  en  un  narrador como  Col ier,  que  admite  su  propia  fragilidad  humana,  más  de  lo  que  lo
+
+haría  si  él  fingiera  ser  cierto  tipo  de  divinidad  ejecutiva  incapaz  de equivocarse.  Las  historias  sobre  la  perfección  fracasan  estrepitosamente porque no suenan ciertas. Pero cuando un líder emplea un drama auténtico para  revelar  la  verdad  oculta  sobre  un  problema  al  que  se  enfrenta  su negocio, induce al público a sentir que son el os mismos quienes descubren la verdad. Un drama convincente deja claro a los oyentes que el narrador tiene corazón.
+
+3. Me ha pil ado en el ¡Ajá!
+
+El  momento  de  la  verdad  para  su  historia  es  ese  clímax  que  galvaniza  al oyente, cuando el «¡ah!» que usted proporciona se une al «¡ja!» del público para  convertirse  en  ese  mágico  «¡ajá!»  unificador.  En  este  momento  de
+
+«eureka», su cabal o de Troya abre la trampil a y suelta la carga. Su oyente experimenta la misma descarga impactante de emoción, propósito y sentido que  sintió  usted  cuando  tuvo  su  epifanía  original.  Su  l amada  a  la  acción l ega al blanco con un resonante «¡Lo entendí!»
+
+Yo  fui  el  receptor  de  una  l amada  así  a  principios  de  los  años  noventa, cuando  la  superestrel a  del  baloncesto  Magic  Johnson  y  su  socio  Ken Lombard vinieron a mi despacho en Sony, a petición de mi director jefe de operaciones, para hablar de un proyecto de negocios. ¿Cómo iba a decirle que no a Magic Johnson? Era una de las ventajas de mi trabajo.
+
+Lo primero que me dijo Ken fue:
+
+—Cierra los ojos. Voy a contarte una historia sobre un país extranjero.
+
+Me parecía un proceder poco ortodoxo, pero le hice caso y cerré los ojos.
+
+—Ahora —prosiguió—, piensa en una ciudad con una cartera de clientes sólida,  bien  situada  geográficamente  y  con  inversores  cualificados.  Sabes cómo construir cines en Europa, Asia y Sudamérica, ¿no?
+
+Por supuesto que sabía. Como director de Sony, tenía la responsabilidad última del enorme circuito de cines Loews.
+
+—Sabes cómo invertir en países extranjeros que tienen idiomas, culturas y problemas diferentes. Lo que haces, Peter, es encontrar un socio de aquel
+
+país, que hable el idioma, conozca la cultura y sepa gestionar los problemas locales. ¿Es así?
+
+Asentí, con los ojos aún cerrados. Sony tenía sedes por todo el mundo.
+
+—Muy bien —prosiguió Ken—, ¿qué tal si te digo que existe una Tierra Prometida donde ya hablan inglés, donde les encantan las películas, tiene muchísimos solares disponibles y no hay competencia? Esa tierra prometida está a unos diez kilómetros de donde nos encontramos ahora mismo.
+
+Abrí  los  ojos  como  platos.  Todos  sabíamos  que  Loews  siempre  andaba buscando nuevos lugares y oportunidades para expandirse.
+
+Ken echó una mirada a Magic, quien me regaló su sonrisa de un mil ón de dólares. Ken siguió diciendo:
+
+—Yo  crecí  en  esa  tierra,  en  una  familia  que  formaba  una  pequeña empresa. No ganábamos mucho dinero, pero siempre estuvimos presentes en  el  vecindario,  hacíamos  limpiezas  en  seco. .  Mi  abuelo  tenía  una camioneta  para  el  transporte  de  hielo,  una  locura.  Teníamos  un  intenso espíritu empresarial.
+
+Lo que me estaba diciendo era que su cara era la misma cara del público que  yo  anhelaba  tener.  Me  preguntó  si  sabía  que  una  cuarta  parte  de  las personas que van al cine son afroamericanas. Y ese público, el de Magic y el de Ken, tenía su propia comunidad floreciente, a la que yo, como hombre de negocios blanco y rico, no podía l egar.
+
+—¡Ajá!  —exclamé.  ¡Ya  lo  pil o!  Aquel a  Tierra  Prometida  estaba  en mitad de Los Ángeles, y la historia de Ken y de Magic revelaba que el os serían los héroes locales perfectos para que construyéramos cines en aquel a zona—. Pero esperad un momento —dije, recordando la película  Los chicos del barrio, de Columbia, aquel drama de John Singleton dirigido a jóvenes negros  menores  de  veinticinco  años,  y  que  había  sido  un  gran  éxito  para Sony—. En esas zonas urbanas, los cines se convirtieron en el pararrayos de las bandas cal ejeras, que asustaban a los vendedores del centro comercial y a otras personas que iban a ver los pases.
+
+Magic  me  explicó  que  buena  parte  de  la  rabia  que  todos  habíamos presenciado en las comunidades negras tenía que ver con el hecho de que
+
+aquel os  barrios  eran  propiedad  de  forasteros.  La  piedra  angular  de  la historia  central  de  Magic  Johnson  era  su  creencia  en  la  propiedad  de  los habitantes locales. Todo lo que él y Ken pensaban construir iba a ser de la gente, dirigido por la gente y para la gente de su comunidad.
+
+—Proteges  a  los  tuyos  —dijo  Magic—,  porque  son  tu  equipo.  —Y  si alguien  sabía  cosas  sobre  el  trabajo  en  equipo,  era  la  estrel a  de  la  NBA Magic Johnson. Me estaba diciendo que el os dos estarían en la brecha, y dirían  a  los  Crips  y  a  los  Bloods,  o  a  cualquiera  que  intentase  sabotear nuestra labor en aquel a Tierra Prometida: «No durante mi guardia».
+
+Hicimos el trato.
+
+El  colofón  de  esta  historia  es  que,  afortunadamente,  Ken  y  Magic estaban realmente preparados para proteger su (nuestra) Tierra Prometida, porque  en  cuanto  comenzó  la  construcción,  las  bandas  hicieron  acto  de presencia.
+
+«Intenté  ser  educado  —recordaba  Ken  cuando  unos  años  más  tarde contaba  esta  historia  a  mis  alumnos  de  la  UCLA—.  Le  dije  al  cabecil a:
+
+“Mira,  tío,  tenemos  que  hablar”.  Él  me  contestó:  “¡Vete  a  la  puta  mierda!
+
+Tengo  otras  cosas  que  hacer”.  Bueno,  resulta  que  uno  de  mis  guardias  de seguridad había sido guardaespaldas de Mike Tyson. Así que se levantó y dijo: “Mira, tienes que hablar con mi colega. Porque, ¿sabes una cosa? Este tío controla”. El jefe se lo tomó como un desafío. Los dos estaban a punto de liarse,  y  los  otros  treinta  y  cinco  tíos  empezaron  a  rodearnos.  En  aquel momento dije: “Mirad, si lo que queréis son trabajos, hablemos de trabajos.
+
+Pero  si  queréis  bronca,  tú  tienes  a  tus  treinta  y  cinco,  y  yo  a  mis  seis.  Os garantizo que la mitad de vosotros hoy dormirá en el hospital.»
+
+¡Y lo captaron!
+
+«Una vez que vieron que pensábamos defender nuestro territorio, los tíos se  echaron  para  atrás  y  dijeron:  “Vale,  si  nos  vais  a  dar  trabajo,  para  eso hemos  venido”.»  Ken  contrató  a  un  par  de  docenas  de  los  miembros  de aquel a  banda,  y  la  mitad  de  el os  permanecieron  en  la  empresa constructora incluso después de que se hubiera edificado el cine.
+
+En  sus  primeras  cuatro  semanas  aquel  Magic  Johnson  eater  fue  uno de los cinco más rentables de toda la cadena de Sony.
+
+Al  final  Lombard  transmitió  esta  historia.  Ken  y  Magic  contaron  a Howard  Schultz,  el  fundador  de  Starbucks,  la  misma  historia  que  a  mí.
+
+Querían que Starbucks gozase del mismo éxito que obtuvo Sony por pensar globalmente,  actuar  localmente,  y  confiar  a  Ken  y  a  Magic  el  papel  de héroes  locales.  Schultz  les  permitió  abrir  el  único  Starbucks  de  toda  la cadena  que  tiene  dos  propietarios.  El os  entonces  siguieron  aprovechando la misma historia para conseguir una sociedad al cincuenta por ciento con T. G. I. Friday’s y Washington Mutual, aportando restaurantes y centros de préstamos hipotecarios en zonas donde no existía ninguno. Los resultados fueron  tan  imponentes  que  en  2004  Howard  Schultz  contrató  a  Ken Lombard para que fuese el director de Starbucks Entertainment.
+
+4. El factor yo-a-nosotros
+
+Las historias más impulsoras dentro del mundo de los negocios proyectan luz  sobre  un  interés,  un  objetivo  o  un  problema  que  comparten  tanto  el narrador  como  el  público.  El  poder  de  esos  relatos  nace  de  la  intensa relación  yo-a-nosotros  que  se  forma  en  cuanto  el  oyente  se  da  cuenta  de que el narrador le está hablando de un sentimiento o una situación que él mismo,  como  receptor  del  mensaje,  también  ha  experimentado.  Este vínculo activa la empatía del público, garantiza su confianza en el narrador y su interés por el l amamiento a la acción.
+
+Un relato que ha dado origen a una compañía de miles de mil ones de dólares gracias al factor yo-a-nosotros es el de YouTube. En una de nuestras conferencias  sobre  narrativa,  el  fundador  de  YouTube,  Chad  Hurley, compartió  esta  historia,  que  él  y  su  socio  Steve  Chen  contaban  a  sus patrocinadores  y  clientes  potenciales,  y  a  los  medios  de  comunicación, mientras  intentaban  poner  en  marcha  su  proyecto  en  2005,  justo  un  año antes de que vendieran la empresa a Google por 1.600 mil ones de dólares.
+
+«Durante  la  era  previa  a  la  existencia  de  YouTube,  estábamos  celebrando
+
+una  fiesta  en  San  Francisco.  Habíamos  hecho  unos  vídeos  estupendos  de nuestros invitados, que queríamos colgar en Internet para compartirlos con otros amigos y con la familia. Nuestro problema es que queríamos colgarlos de  inmediato.  Pero  el  proceso  era  complejo  y  exigía  mucho  tiempo,  y  el resultado  final,  penoso.  Eso  disipó  nuestro  entusiasmo,  y  se  esfumó  la diversión del momento.»
+
+Entonces se dieron cuenta de que cualquiera que se viera en semejante circunstancia se sentiría igual, ya que el impulso de compartir de inmediato experiencias  positivas  es  universal.  Esta  revelación  les  hizo  ver  que  su problema contenía una oportunidad. Si lograran idear la manera de colgar vídeos  en  la  red,  libremente  y  con  velocidad,  facilidad  y  calidad,  todo  el mundo querría usar ese servicio.
+
+Aceptaron  el  reto,  se  pusieron  manos  a  la  obra  y  crearon  un  vehículo eficaz,  rápido  y  fácil  de  usar,  que  pudiera  compartir  cualquier  persona  en cualquier  lugar,  incluso  si  todos  colgaban  sus  vídeos  al  mismo  tiempo.  El final feliz de la historia fue la creación exitosa de YouTube.
+
+Cuando  en  una  historia  el  factor  yo-a-nosotros  es  fuerte,  el  beneficio primario para el narrador es la empatía. La historia de Hurley y Chen decía a  sus  oyentes,  en  esencia:  «Yo  soy  tú.  Tengo  los  mismos  problemas  y frustraciones que tú». Su primer público de inversores confió que Hurley y Chen  eran  gente  «corriente»,  que  entendían  las  frustraciones  que  el os mismos sentían, y que realmente aquel os dos tipos se asegurarían de que su solución de YouTube resultara fácil de usar para todo el mundo. Cuando se lanzó YouTube, los socios siguieron contando su historia, reduciendo así la posible resistencia de los clientes a la tecnología nueva, y fomentando el anhelo de su público para probar su nueva solución. En 2006, en YouTube se  visualizaban  diariamente  cien  mil ones  de  vídeos,  y  cada  24  horas  se colgaban 65.000 vídeos nuevos.
+
+El  segundo  beneficio  del  factor  yo-a-nosotros  es  que  hace  que  las historias  sean  más  digeribles  y  accesibles.  Cuanto  más  rápidamente establece  una  historia  un  terreno  común  entre  usted  y  su  oyente,  más proporción  de  la  historia  asimilará  éste,  tanto  emocional  como
+
+intelectualmente.  Si  su  público  no  se  identifica  con  su  problema,  es probable que no les interese escuchar la resolución de su historia. Por otro lado,  una  vez  que  sienten  como  propia  la  experiencia  contenida  en  su relato, su atención es automática. La respuesta a la historia de YouTube fue prácticamente instantánea, y como la historia era tan universal, los usuarios y casi cualquier cobertura mediática de la compañía la repitieron una y otra vez.
+
+LO  MÁS  HERMOSO  DEL  FACTOR  yo-a-nosotros  es  que  subraya  la esencia  del   storytelling  para  ganar  como  una  experiencia  compartida.
+
+Contar  una  historia  es  un  proceso  bidireccional,  que  hace  participar  e, idealmente, beneficia tanto al narrador como al oyente. Pero ¿significa eso también  que  los  oyentes  y  los  narradores  son  igual  de  capaces  de  contar historias? Si esto es así, eso significaría que el  storytelling para el triunfo es un instrumento que puede usar cualquiera, y no sólo una ventaja para unos pocos afortunados.
+
+Ahora  que  ya  comprendía  mejor  lo  que  define  una   historia,  decidí explorar  más  a  fondo  esta  práctica  de   narrar.  Quería  descubrir  dónde  se origina la habilidad narrativa, quién la tiene realmente y por qué.
+
+¡AJÁ!
+
+•    Una  historia  con  un  propósito  claro  es  una  l amada  a  la  acción: asegúrese de emitirlo.
+
+•  Una historia sin estructura no cumple su objetivo. .
+
+– Elabore su principio para proyectar luz sobre su reto o su problema.
+
+– Haga girar el centro en torno al esfuerzo para superar ese desafío.
+
+– Concluya con una resolución que active en el oyente su l amada a la acción.
+
+•  Haga que su audiencia se ponga en el lugar de su héroe.
+
+•  Dirija desde el corazón, no desde la cabeza.
+
+•  Utilice el factor sorpresa.
+
+•  Las  historias  con  éxito  convierten  el  «yo»  en  «nosotros»:  ¡armonice sus intereses!
+
+•  Asegúrese que su historia les deje claro cómo se van a beneficiar.
+
+•  No habrá concluido su tarea hasta que digan «¡Ajá! ¡Ya lo entiendo!»
+
+1 Tipo  de  marketing  que  anima  a  las  personas  a  transmitir  a  otras  personas  un  mensaje comercial mediante el boca a boca o por Internet, produciendo así un aumento exponencial en la difusión de una marca.  (N. de la T.)
+
+3
+
+¡Ya lo ha pil ado!
+
+Papúa Nueva Guinea me ofreció el eslabón perdido. Más del 80 por ciento de su población aún vivía como cazadores-recolectores tribales, igual que lo hicieron  sus  ancestros  de  la  Edad  de  Piedra.  Incluso  en  2005,  algunos  de sus habitantes no habían visto a una persona blanca en toda su vida. Y a pesar del hecho de que sus 800 lenguas indígenas representan una quinta parte de todos los idiomas hablados en el mundo, la mayoría de esas tribus no  tenía  un  lenguaje  escrito.  Todo  esto  significaba  que  Nueva  Guinea  me podría acercar a los orígenes de la narración oral todo lo que sería posible hacerlo en el siglo XXI.  Hice  las  maletas  y  me  marché  al  otro  extremo  del planeta.
+
+Lo que descubrí superó todas mis expectativas. El vestido propio de los papúes incluía l evar un hueso atravesado en la nariz, y pelucas del tamaño de  Chicago.  Algunas  tribus  cazaban  arañas  como  exquisitez  alimenticia.
+
+Otros se pintaban el cuerpo con barro. Tan sólo unas décadas antes, hubiera tenido que considerar la amenaza del canibalismo, lo cual no resultaba muy reconfortante. Pero descubrí que las máquinas Polaroid antiguas eran una forma  estupenda  de  hacer  amigos.  Entregaba  a  los  nativos  las  fotos  de revelado  instantáneo,  y  se  quedaban  tan  alucinados  al  ver  cómo  aparecía lentamente la imagen de sus personas, que se las sujetaban en las cintas que l evaban en la cabeza para enseñarse mutuamente quiénes eran. Me dio la sensación  de  que  contarían  a  las  generaciones  venideras  la  historia  de aquel as fotos.
+
+Resultó  que  contar  historias  era  una  forma  de  vida  en  Nueva  Guinea.
+
+Cada tribu tenía distintos vestuarios, hábitats, alimentos, rituales de caza y creencias espirituales, y cada uno de esos factores estaba vinculado con la cultura a lo largo de su historia. Esto suponía que la supervivencia de cada tribu  dependía  de  que  las  generaciones  más  jóvenes  aprendiesen  esas historias  y  vivieran  según  el as,  las  más  importantes  de  las  cuales  se transmitían  durante  los  ritos  iniciáticos.  En  la  aldea  de  los  Hombres Cocodrilo, que vivían junto al río Blackwater, me invitaron a entrar en una cabaña alargada y con el techo de paja, para presenciar uno de esos ritos.
+
+La iniciación masculina en la tribu conl evaba un truculento calvario de cortes  de  cuchil o,  que  dejaban  cicatrices  con  la  forma  de  la  piel  del cocodrilo. Mientras los muchachos sangraban y sus heridas cicatrizaban, los ancianos  les  contaban  historias  que  daban  sentido  a  sus  cicatrices.  La mayoría de esos relatos estaban vinculados con el origen mítico de la tribu, que me recordó la leyenda egipcia del espíritu del cocodrilo que nos contó Richard Bangs. Pero los Hombres Cocodrilo l amaban a su espíritu Nashut.
+
+Mi  guía  me  tradujo  la  narración  del  líder  de  la  tribu,  que  dotaba  de significado al ritual. El héroe de la historia era un ancestro tribal a quien se le había caído la lanza al río. Se zambul ó en su busca, y descubrió una casa mágica en el fondo del lago. Cuando entró en el a, el espíritu del cocodrilo lo  atrapó.  Durante  un  mes,  Nashut  mantuvo  prisionero  a  aquel  hombre, enseñándole  todo  lo  que  necesitaba  saber  sobre  la  guerra,  la  caza  de cabezas, el cultivo de la tierra y la construcción. El espíritu también le dijo que si el hombre se hacía cortes para asemejarse al cocodrilo (en la práctica, si  adoptaba  la  marca  de  Nashut),  absorbería  el  poder  de  éste,  y  se convertiría en el guerrero más fuerte y feroz de todo el río. Entonces dejó que el guerrero se marchase, con la condición de que contase a su pueblo todo lo que él le había enseñado.
+
+Me di cuenta de que este mito era el cabal o de Troya de los Hombres Cocodrilo. No sólo contenía la historia de la tribu, sino que, a través de sus cientos  de  secuelas  y  variantes,  ofrecía  todas  las  habilidades  que  el  grupo debía  dominar  para  sobrevivir.  Aquel as  gentes  usaban  la  mitología  como
+
+una tecnología de la información. Pensaban mediante relatos. Recordaban por medio de el os. Se comunicaban con historias. Se relacionaban a través de el as. Incluso su verbo «hablar» significaba, literalmente «narrar». Cada miembro de la tribu era tanto un oyente de la historia como un narrador natural de relatos.
+
+A pesar de que no pude entender las palabras exactas del narrador en la Casa  de  los  Espíritus,  sentí  que  la  interacción  de  persona  a  persona potenciaba  la  magia.  Los  sonidos  vocales  que  emitía  el  narrador,  que manifestaban sorpresa, dolor y anhelo, además de sus conatos de embestida y sus posturas con los brazos abiertos de par en par, así como del contacto visual  directo  con  los  oyentes,  tenían  a  su  audiencia  embelesada.
+
+Contadores y oyentes se mecían a la vez. Se desmayaban. Proferían gritos ahogados:  «¡Ajá!»  Como  un  puente  entre  el  uno  y  los  muchos,  cada narrador transmitía su historia por medio de todo su cuerpo y su espíritu, directa a los corazones de sus oyentes. Me di cuenta, sorprendido, de que esta  experiencia  física  plena,  en  tiempo  real,  es  la  que  dota  a   todos  los relatos orales de su ventaja persuasiva frente a las historias escritas, rodadas o transmitidas por otro medio.
+
+Incluso  dentro  de  un  contexto  empresarial  moderno,  cuando  usted cuenta una historia directamente a una sala l ena de oyentes, sintoniza su cuerpo de forma natural con el os, y el os se vinculan con su experiencia del mismo modo instintivo. ¡Es un reflejo natural! Así que, aunque es posible que  la  historia  que  usted  cuente  en  una  negociación,  entrevista  o conferencia  de  ventas  no  requiera  el  mismo  grado  de  teatralidad  que  los relatos  de  los  Hombres  Cocodrilo,  todo  relato  oral  es,  por  definición, interactivo. La inmediatez física incita al narrador y a su público a percibirse unos  a  otros  como  participantes  activos,  no  pasivos.  Y  esta  interrelación sigue  activa  incluso  durante  las  pausas  en  silencio,  incluso  a  través  de  un contacto tan sutil como mirarse a los ojos. Es como un juego en el que la pelota  del  relato  va  pasando  constantemente  del  narrador  al  oyente  y viceversa.
+
+Cuando abandoné Nueva Guinea, estaba convencido de que la habilidad para  contar  historias  y  el  proceso  de  hacerlo  están  codificados  en  lo profundo de nuestro ADN. La narración oral, las historias contadas cara a cara  y  en  una  sala,  es  la  tecnología  de  la  información  básica,  ¡y  todos disponemos de el a!
+
+PERO  ¿ES  POSIBLE  QUE  NUESTRA  CONEXIÓN  con  los  relatos  sea demasiado  intensa?  Éste  fue  el  argumento  que  adoptó  Chris  Anderson, editor  jefe  de  la  revista   Wired  y  autor  de  los  superventas   Gratis   y   La economía  Long  Tail  [Urano,  Barcelona,  2009],  cuando  visitó  uno  de  mis cursos en la UCLA.
+
+Nuestra conversación empezó a calentarse cuando Chris dijo:
+
+—Nuestra  hambre,  nuestro  apetito  de  historias,  de  un  principio,  un punto  medio  y  un  final,  es  un  circuito  integrado  en  nuestro  cerebro.  —
+
+Explicó que los relatos asumen determinados patrones lógicos que (¡desde la Edad de Piedra!) el ser humano está preparado para anticipar gracias a la evolución. Durante el transcurso de un relato, esperamos que suceda algo o que  cambie  algo  que  afecte  a  un  personaje  o  personajes  con  los  que podemos  identificarnos.  Suponemos  que  el  resultado  se  deberá  a  lo  que suceda  durante  el  argumento  narrativo.  No  sólo  queremos  que  la  historia tenga  sentido,  sino  que  suponemos  que  los  acontecimientos  que  tienen lugar  en  el a  tendrán   más  sentido  para  nosotros  tras  la  conclusión  del relato.  Chris  admitió:  «Es  nuestra  estructura  cerebral,  una  habilidad evolutiva  que  nos  ha  permitido  enseñarnos  unos  a  otros  y  crecer,  forjar redes sociales y una cultura, pero que es una distorsión de la verdad».
+
+Pero, desafié a Chris, si el  storytelling fuera una técnica errónea, sin duda la evolución la habría erradicado de nuestro sistema hace mucho tiempo.
+
+—Por el contrario, la investigación demuestra que estamos predispuestos a las historias. ¡Si hasta los niños de dos años son capaces de contar y seguir un relato!
+
+Chris  me  señaló  que  los  relatos  son  accesibles  porque  son  concretos, activos, visuales; en otras palabras, digeribles fácilmente.
+
+—¡Exacto! —dije yo—. Los relatos toman porciones de la realidad y, por medio de la magia del transporte emocional, nos encauzan hacia la ilusión de una verdad mucho más amplia de lo que podrían ofrecernos los datos por sí solos. Esto explica la certidumbre que sentimos después de escuchar un  relato  eficaz.  También  explica  el  peligro  que  te  preocupa,  Chris.  En cuanto suspendemos nuestro juicio, se abre un vacío que el narrador puede l enar  de  esperanza  o  de  odio,  de  compasión  o  de  venganza,  y  de  una energía que puede ser constructiva o destructiva, según las intenciones del narrador.  La  paradoja  radica  en  que,  como  tecnología,  el   storytelling  es agnóstico respecto a los mensajes, valores y creencias que se transmiten en las historias. Como un coche o una bicicleta, es un vehículo de igualdad de oportunidades,  al  que  le  importa  un  bledo  quién  sube  en  él  o  qué  carga transporta.
+
+Chris me sorprendió cuando justificó mis razones.
+
+—Mi argumento no es que la narrativa no sea importante —me aclaró—.
+
+Es  que  nos  sentimos  atraídos  de  una  manera  tan  intrínseca  por  el storytelling que a menudo pasamos por alto el azar estadístico presente en esta  vida,  porque  no  encaja  en  nuestro  sentido  de  cómo  debería desarrol arse  la  historia.  La  tragedia  de  nuestra  especie  es  que  estamos predispuestos  a  la  narración,  aunque  vivimos  en  un  mundo  sin  orden  ni concierto.
+
+—Pero  —no  pude  contenerme—,  el  proceso  evolutivo  es  mucho  más lento  que  la  tecnología,  de  modo  que  si  los  seres  humanos  estamos programados de esta manera, ¡para ser eficaces  hemos de  narrar los datos y las  cifras!  Sobre  todo  en  el  mundo  de  la  empresa,  hemos  de  ofrecer  un vehículo  con  carburante  emocional  para  transmitir  los  datos  a  otros.
+
+Además —señalé—, nadie sabe esto mejor que tú, Chris. ¡Si escribes libros y diriges una revista l ena de historias!
+
+Se encogió de hombros.
+
+—El  mercado  quiere  historias.  Yo  les  doy  relatos  que  transmiten  ideas complejas en unos términos que hal en eco en las personas. La narrativa es una herramienta imperfecta, pero increíblemente poderosa.
+
+Mi conversación con Chris me dio fuerzas para continuar con mi labor detectivesca en nuevas direcciones. ¿Exactamente cómo se había convertido el   storytelling  en  un  instrumento  evolutivo  tan  poderoso?  ¿Cuál  fue  su origen?  Empecé  a  contactar  no  sólo  con  mis  conocidos  en  el  entorno empresarial,  sino  también  con  científicos,  psicólogos  y  expertos  en  el storytelling  empresarial,  personas  que  pudieran  ayudarme  a  responder  a estas preguntas.
+
+DE LAS CONVERSACIONES DE ALCOBA
+
+CON EL MÓVIL AL  STORYTELLING PARA EL
+
+ÉXITO
+
+Empecé  pidiendo  a  mi  amigo  Gentry  Lee  que  me  ayudara  a  comprender cómo se convirtieron los humanos, por primera vez, en máquinas de narrar.
+
+Gentry  es  un  científico  magistral  y  único  que  puede  traducir  las complejidades  del  cosmos  a  un  lenguaje  que  todo  el  mundo  puede entender  y  con  el  que  se  emociona.  Hace  años  tuve  el  privilegio  de presentar a Gentry al gran maestro de la ciencia-ficción Arthur C. Clarke.
+
+Más tarde, Gentry colaboró en algún libro con Clarke. Actualmente, como ingeniero  jefe  para  el  Solar  System  Exploration  Directorate  en  el  Jet Propulsion  Laboratory  (JPL),  es  responsable  de  la  integridad  de  la ingeniería  de  las  misiones  planetarias  robóticas,  entre  las  que  figuran  la misión Phoenix, que aterrizó en el Ártico marciano en mayo de 2008; las dos misiones gemelas Rover a Marte, que aterrizaron en enero de 2004; y las  misiones  Deep  Impact  y  Stardust,  de  la  NASA.  Me  imaginé  que  si Gentry  era  capaz  de  plantar  un  robot  en  Marte,  seguramente  sabría  de
+
+dónde  vienen  las  historias.  Como  era  de  esperar,  me  explicó  la  ciencia contándome un relato.
+
+«Durante tres mil mil ones de años —dijo Gentry—, todo lo que vivía en el  planeta  Tierra  era  unicelular.  Uno  de  los  grandes  misterios  en  los  que todos deberíamos reflexionar (porque si no, no estaríamos en este mundo) es  qué  hizo  que  esas  células  de  repente  se  combinasen  y  compartieran funciones,  hicieran  trabajos  distintos  y  se  comunicaran  entre  sí.  Si  eres unicelular,  para  reproducirte  no  tienes  más  que  dividirte,  y  listo.  Si  tienes dos células que intentan reproducirse, la cosa se complica mucho. Pero de alguna manera las células primitivas lograron comunicarse, y de repente se volvieron  más  eficaces.  Las  criaturas  multicelulares  sobrevivieron  porque compartían su funcionalidad, y la elevaron a un grado superior.»
+
+Gentry me dijo que esa persuasión reproductora y el hecho de compartir la  funcionalidad  eran  el  equivalente  metafórico  al   storytelling.  «Nosotros compartimos  ideas.  Dividimos  nuestras  funciones  en  varias  partes  y  las compartimos.  El  resultado  directo  es  que,  al  intercambiar  historias, mejoramos como grupo.»
+
+Pero  ¿cómo  es  que  el  hecho  de  contar  y  escuchar  historias  había permitido  el  salto  evolutivo  de  las  conversaciones  de  alcoba  celulares  a  la narrativa  humana?  Marco  Iacoboni,  profesor  de  psiquiatría  y  ciencias bioconductuales en la UCLA, proporcionó a mis alumnos de posgrado una respuesta  probable  cuando  vino  a  mi  clase  para  describir  su  investigación pionera  en  las  neuronas  espejo.  Esas  células  cerebrales  son  los descendientes modernos de las células interactivas originarias de las que me habló Gentry Lee. Nos permiten leer los actos y los sentimientos de otros como si penetrásemos y viviéramos la experiencia de esas personas.
+
+Las neuronas espejo nos permiten imitar, aprender e intuir los objetivos de otros, por medio de sentimientos de empatía y vinculación. «Sin el as —
+
+explicó Iacoboni—, es probable que fuéramos ciegos a los actos, intenciones y emociones de otras personas.» Tampoco captaríamos el significado de las historias,  dado  que  éstas  funcionan  cuando  las  neuronas  espejo  tanto  del narrador  como  del  oyente  se  activan  y  se  sintonizan.  Iacoboni  dijo:  «La
+
+evolución conformó nuestros cerebros para que aprendiesen por medio de la narrativa».
+
+El impacto de un relato se intensifica durante la narración oral, porque estas  células  también  se  activan  mediante  los  sonidos  físicos,  las expresiones,  los  aromas  y  los  movimientos  de  las  personas  a  nuestro alrededor.  Tanto  el  narrador  como  el  oyente  sienten  este  efecto  espejo.
+
+«Nuestros gestos, expresiones faciales y posturas son señales sociales —dijo Iacoboni—.  Cuando  te  veo  sonreír,  mis  neuronas  espejo  para  sonreír también  se  activan,  iniciando  así  una  cascada  de  actividad  neuronal.  De forma inmediata y sin esfuerzo, experimento lo mismo que tú.»
+
+Esta sintonización bilateral de las neuronas espejo crea el estado óptimo para contar una historia. Si un relato se cuenta bien, tanto el narrador como el  oyente  permanecerán  sumidos  en  ese  estado  hasta  l egar  al  «¡Ajá!»
+
+compartido,  cuando  el  oyente  experimentará  la  epifanía  originaria  del narrador  como  su   propio  «eureka».  El  valor  que  añade  la  sintonización sugiere  una  ventaja  esencial  que  se  pierden  los  hombres  de  negocios cuando  se  comunican  por  medio  de  documentos  y  presentaciones mediáticas, en lugar de recurrir a la narrativa oral.
+
+EL ESLABÓN PERDIDO EN LA EMPRESA
+
+En  una  de  las  reuniones  sobre  narrativa  que  celebré  en  2009,  nuestro conferenciante  invitado  fue  Michael  Wesch,  antropólogo  cultural  en  la Kansas  State  University,  y  experto  en  tecnología  de  la  información,  desde las  culturas  indígenas  hasta  los  medios  de  comunicación  más  modernos.
+
+Fue  él  quien  fortaleció  mi  sospecha  de  que  el  eslabón  perdido  en  la empresa es el  storytelling para el éxito.
+
+Además  de  activar  las  neuronas  espejo,  dijo  Wesch,  contar  y  escuchar relatos pone en marcha las regiones cerebrales que procesan el significado.
+
+¿Por  qué  es  importante  esto?  «Porque  los  humanos  somos  personas  que
+
+buscan  significado.  No  se  trata  meramente  de  absorber  información.  No podemos recordar nada a lo que no dotemos de significado.»
+
+Wesch  describió  la  importancia  que  tiene  el  relato  en  una  ecuación verbal:   significado  +   memoria  =   conocimiento-habilidad.  Dijo  que  el significado  surge  cuando  establecemos  conexiones  entre  fragmentos  de información.  ¿Por  qué  perdimos  200.000  dólares  el  último  trimestre?  ¿En qué  se  diferencia  el  nuevo  director  del  anterior?  ¿Cómo  es  que  hemos ganado doce mil ones de dólares más con ese producto que con aquel otro?
+
+Este  tipo  de  vínculos  es  el  cargamento  oculto  en  las  narrativas  con propósito.  Los  relatos  condensan  estas  conexiones  y,  cuando  se  cuentan, activan a los oyentes por medio de una tecnología «de última emoción». La recompensa emocional de la historia facilita el recuerdo de las conexiones, y  cada  vez  que  pensamos  en  el a,  también  experimentamos  por  qué  es importante  la  información  contenida  en  el  relato.  Por  el  contrario,  ¿qué significado adscribe usted a una lista de números en un PowerPoint? ¡Cero!
+
+Por  eso  las  listas  de  cifras  o  de  datos  no  son  dignas  de  ser  recordadas.
+
+Wesch  concluyó  diciendo:  «Si  queréis  transmitir  ideas  e  influir  en  las personas, deberéis ser capaces de contar una historia».
+
+Pero  un  relato  contado  oralmente  de  persona  a  persona,  ¿es  más persuasivo  dentro  de  las  organizaciones  que  su  equivalente  impreso  o filmado?  En  otro  de  nuestros  cónclaves,  Steve  Denning  recordaba  cómo había  formulado  la  misma  pregunta  cuando  era  director  del  banco  de conocimientos en el Banco Mundial. Para hal ar la respuesta, hizo que su equipo presentase veinticinco relatos bien construidos sobre la innovación a miembros del personal del Banco Mundial, a través de diversos medios. Las personas que leyeron las historias en fol etos o boletines informativos o las vieron en vídeo, apenas las mencionaron a sus colegas. Dijeron que no se fiaban  de  esas  presentaciones  empaquetadas  procedentes  del  «sistema», porque  no  les  parecían  genuinas  o  auténticas.  Sin  embargo,  cuando  las mismas  historias  se  relataron  cara  a  cara,  los  oyentes  las  escucharon atentamente  y  se  las  repitieron  unos  a  otros.  Cuanto  más  confiaba  la audiencia en el orador, más confiaba en la autenticidad de la narración, y
+
+mayor  era  la  capacidad  de  influencia  de  ésta.  «No  era  la   historia  la  que tenía impacto —se apercibió Steve— sino la  narración oral.»
+
+El  descubrimiento  de  Denning  me  recordó  un  comentario  que  el afamado  financiero  Mike  Milken  me  hizo  una  vez  acerca  de  su  éxito  en Wal   Street.  «Yo  solía  conectar  a  los  chicos  de  los  datos  con  los  buenos narradores —me dijo—. Así es como alcanzamos muchos objetivos.»
+
+El  éxito  de  Milken  con  esta  estrategia  refleja  el  hecho  de  que  cuando alguien nos cuenta una historia que contiene una serie de datos, nuestros cerebros adscriben con gran inteligencia dichos datos a los sentimientos que experimentamos  mientras  escuchamos  la  historia.  Entonces,  cuando  la recordamos,  sentimos  lo  mismo  que  cuando  la  escuchamos.  Cuanto  más satisfactoria haya sido nuestra experiencia de aquel momento, más positiva será  probablemente  nuestra  actitud  frente  a  los  datos.  Por  lo  tanto,  un narrador capaz de transmitir una experiencia emocional positiva, haciendo que  el  público  se  relaje,  haciéndoles  reír,  proferir  exclamaciones,  cantar, bailar,  o  incluso  soltar  un  par  de  lagrimil as,  ofrece  un  incentivo  añadido para que los oyentes asimilen la información contenida en el relato.
+
+Entonces,  pregunté  a  Steve  Denning,  ¿por  qué  tantos  hombres  de negocios menosprecian o ignoran completamente este potente instrumento empresarial?  Él  me  dijo  que  nuestro  sistema  educativo  concede  una  gran importancia  al  razonamiento  intelectual  a  expensas  de  la  emoción.  El aprendizaje se vuelve cada vez más conceptual e impersonal a medida que uno  avanza  en  sus  estudios  universitarios.  Y  como  el  mundo  profesional está dominado por licenciados universitarios, hoy los empresarios dan por hecho que los modelos teóricos y estadísticos  valen más que las historias.
+
+¡Pero eso no quiere decir que los relatos desaparezcan! «Siempre que nos relajamos con nuestros amigos, fuera de clase o en la oficina —dijo Steve—, recaemos  en  la  narración  de  historias.  Nos  sentimos  a  gusto  haciéndolo.
+
+Entonces,  ¿por  qué  no  comunicarse  con  las  personas  en  su  lengua materna?»
+
+Los comentarios de Denning me recordaron un incidente que tuvo lugar en  una  de  mis  clases  en  la  UCLA,  y  que  demostró  esta  idea  muy  a  las
+
+claras.  Aquel  semestre  impartía  la  asignatura  de  administración  de  la producción  a  un  grupo  l eno  de  lo  que  yo  l amo  «multi-amenazas»: aspirantes  a  guionistas-directores-productores  y  alumnos  de  MBA matriculados  en  el  Programa  de  Producción  y  Dirección  de  la  UCLA, tremendamente  competitivo.  Un  día,  justo  antes  de  clase,  escuché  por casualidad lo que decía una alumna, una joven que había puesto su mente y  su  corazón  en  el  negocio  cinematográfico.  Le  contaba  a  una  amiga  que había elegido esa carrera porque su padre no sabía leer.
+
+La amiga se la quedó mirando con incredulidad. «¿Qué?»
+
+La  voz  de  mi  alumna  se  enterneció.  No  respondió  directamente  a  la pregunta. En lugar de el o, explicó que su padre, que era granjero, sabía leer las  imágenes:  lograba  distinguir  las  señales  de  Stop  gracias  a  su  forma.
+
+«Cuando era pequeña, en los restaurantes veía a mi padre con el menú en la mano, que le temblaba un poco cuando se acercaba la camarera. Nunca nos explicó qué le pasaba. Nunca pidió ayuda. En lugar de eso, deslizaba el índice por la columna que tenía la foto de una hamburguesa en la cabecera, y a mitad de camino se detenía en otro símbolo visual y se lo señalaba a la camarera. Mi madre me dijo que era demasiado orgul oso como para volver al colegio, y a lo mejor le daba miedo. Pero no era tonto, y no permitió que nada se interpusiera en mi educación.»
+
+La  angustia  y  el  amor  que  sentía  aquel a  joven  por  su  padre  la  habían motivado  a  estudiar  alfabetización  visual,  para  poder  contar  la  historia  de su padre y ayudar a otros como él. No permitiría que se interpusiera nada en su camino hacia aquel objetivo.
+
+¡Menuda  historia!  Contenía  dolor,  lucha,  amor,  deseo,  y  hasta  un elemento de suspense. Yo quería que aquel a joven tuviera éxito. Quería ver qué podría producir aquel tipo de pasión genuina.
+
+Al  final  del  semestre,  los  alumnos  tenían  que  hacer  una  exposición  en clase subrayando sus calificaciones profesionales, sus objetivos artísticos y su motivación  personal.  Para  que  aquel a  ocasión  fuera  algo  más  que  una prueba de vestuario como en el teatro, invité a un par de ejecutivos de New Line y Paramount para que se sentaran entre el público. Siempre andaban a
+
+la  caza  de  nuevos  talentos,  y  aquel a  era  una  forma  de  ayudar  a  los estudiantes  más  prometedores  a  entrar  en  el  mercado  creativo.  Estaba seguro de que la hija del granjero nos iba a dejar con la boca abierta.
+
+Pero cuando le l egó el turno, se puso en pie y nos ofreció su currículum.
+
+Hizo  una  lista  de  sus  títulos  y  de  las  escuelas  a  las  que  había  asistido, anunció su nota media, y resumió un par de artículos que había publicado.
+
+Presentó algunos videoclips de sus películas como estudiante. Y se sentó.
+
+Me quedé anonadado y desconsolado. Sentí el impulso de aferrarla por los  hombros  y  gritarle:  «¿ Ésa  es  la  historia  que  vas  a  contarme  para  que quiera  contratarte,  para  hacerme  salir  corriendo  a  cantar  tus  alabanzas,  a insistir para que mis amigos te den trabajo?»
+
+¿Qué había pasado? Al í estaba una chica que podía contar una historia de  un  modo  que  resultaba  tremendamente  persuasivo  y  conmovedor.  Sin embargo,  cuando  se  presentó  al  público  que  podía  ayudarla  a  hacer realidad sus sueños, lo único que hizo fue regurgitar sus escasos méritos y credenciales.
+
+Era como si se hubiera olvidado de que las personas en el mundo de los negocios  son  también  humanas.  ¡Aaay!  Por  muy  frecuente  que  sea  este error, no altera el hecho de que las relaciones son las piedras angulares de toda  carrera.  Y  las  relaciones  son,  fundamentalmente,  conexiones emocionales  e  intuitivas,  creadas  por  medio  del  intercambio  bilateral  de empatía. Si no hay empatía, no hay relación. Los currículos y los gráficos,
+
+¿suscitan empatía? ¡No! ¿Y el  storytelling? ¡Puede apostar que sí!
+
+De  manera  que  si  un  narrador  nato  es  incapaz  de  contar  historias  con propósito en los negocios, comete un error mayúsculo. Pero ¿qué hay de las personas que no son narradores natos? Muchas personas insisten en que no serían  capaces  de  contar  una  historia  aunque  les  fuera  en  el o  la  vida.  Y
+
+muchas  de  esas  personas  viven  y  trabajan  en  el  mundo  de  la  empresa.
+
+Algunos l egan a lo más alto de su industria. ¿Es cierto que tienen éxito sin contar  historias?  Para  descubrirlo,  consulté  con  algunos  de  los   no narradores de más éxito que conocía.
+
+NO EXCLUSIVO PARA NARRADORES
+
+Richard Rosenblatt
+
+Hace  un  par  de  años,  el  niño  prodigio  de  los  nuevos  medios  de comunicación, Richard Rosenblatt, y yo impartimos un curso de posgrado en la UCLA, titulado «La convergencia del poeta y el ingeniero», basado en la  idea  clave  de  que  la  tecnología  y  la  creatividad  pueden  ser  socios elegantes  y  fortuitos.  Richard,  que  es  famoso  por  haber  vendido  iMal   a Excite@Home por 565 mil ones de dólares a la edad «madura» de treinta años, y por construir Intermix Media, el padre de MySpace.com, antes de venderla a News Corp. de Rupert Murdoch a la edad provecta de 37 años, constituía un personaje de peso entre nuestros alumnos de cinematografía, empresa y derecho. Sin embargo, a pesar de todos sus éxitos, Richard era un empresario intuitivo que no dedicaba mucho tiempo a analizar sus logros.
+
+Admitió  enseguida  que  estaba  aprendiendo  tanto  de  nuestro  curso  como los alumnos.
+
+Una noche, mientras atravesábamos el campus después de clase, yo iba pensando en una afirmación que había hecho Richard en clase: que había conseguido vender Intermix a Murdoch por 580 mil ones en tan sólo veinte minutos. Le pregunté cómo lo hizo.
+
+«Estaba  muy  nervioso»,  recordó  Richard.  Murdoch,  poseedor  de  un gigantesco imperio de los medios de comunicación, que incluía la red Fox TV, la Sky TV británica y montones de periódicos importantes, era uno de los hombres más poderosos del mundo, y Richard nunca le había visto en persona antes. Además, Murdoch era el comprador que posiblemente tenía menos  interés  en  adquirir  la  empresa  de  Richard.  Murdoch,  que  había estado jugando en Internet en los años noventa antes de abandonarla por completo  y  mantenerse  al  margen  durante  los  últimos  seis  años,  se  había convertido en el Mr. Scrooge de los nuevos medios. Para conseguir el trato con  Intermix,  Richard  tuvo  que  transformarlo  por  completo,  cambiar  su
+
+concepto  de  la  Web  y  volver  a  insertarle  en  el  juego  de  la  tecnología  de Internet.
+
+Mientras  me  lo  contaba,  Richard  no  era  consciente  de  lo  que  había hecho,  pero  pronto  me  di  cuenta  de  que  había  relatado  a  Murdoch  una historia  visionaria  clásica,  siguiendo  la  pauta  de   Cuento  de  Navidad,  de Charles  Dickens.  Instintivamente,  había  presentado  a  Murdoch  como  el protagonista  descarriado  que  necesitaba  redimir  su  honor  antes  de  que fuera demasiado tarde.
+
+«Le  dije:  “Señor  Murdoch,  con  todos  mis  respetos,  usted  es  la  persona más importante del mundo en el terreno de los medios de comunicación.
+
+No tiene ningún sentido que haya sido un auténtico visionario pionero en todos  los  campos,  desde  la  DirectTV  a  los  diarios,  y  que  ahora,  en  lo relativo a Internet, no tenga ninguna presencia”.»
+
+Richard me echó una mirada avergonzada. «Recuerdo que pensé que me había pasado, pero lo dije de una forma muy humilde.»
+
+Luego  me  describió  la  lucha  que  Murdoch  había  intentado  eludir  al mantenerse lejos de la Web: los gastos de las nuevas formas de creación de contenidos,  la  necesidad  de  innovación  constante  y  la  complejidad  de  la distribución  “online”.  Pero  Richard  expuso  el  proceso  que  prometía convertir esos problemas en una fuente de beneficios. . si Murdoch estaba dispuesto  a  correr  el  riesgo.  «Le  dije:  “Señor  Murdoch,  Intermix  es  la empresa perfecta de Internet. No tiene que gastarse un mil ón por episodio; no se gasta nada, porque los usuarios elaboran todo el contenido. No tiene que  pagar  distribución,  porque  los  usuarios  invitan  a  sus  amigos  y  se encargan  del  tráfico.  Lo  único  que  tiene  que  hacer  es  vender  anuncios”.»
+
+Por supuesto, vender anuncios era lo que Murdoch hacía mejor y a lo que menos temía.
+
+Por lo tanto, el punto medio de la historia exigía que Murdoch se tirase a la piscina y comprara Intermix, controlando así el poder de unos usuarios felices  que,  voluntariamente,  harían  de  personal  creativo  y  de distribuidores.  Entonces,  tras  sintonizar  la  mente  con  la  cartera  de  su oyente, Richard prometió una resolución transformadora que cautivase su
+
+corazón. «Dentro de un año a partir de hoy —le predijo— usted figurará en la portada de la revista  Wired. »
+
+Meneé la cabeza.
+
+—¡Y dices que no sabes contar historias!
+
+De repente, Richard sonrió, sorprendido.
+
+—Pues tienes razón. ¡Fue toda una historia! Él sería el héroe, porque era osado  y  comprendía  lo  que  supondría  aquel o  para  su  empresa.  Cuando pienso en que dije cosas como aquel as, me parecen una locura. Pero ¿sabes una cosa? Tengo un autógrafo que me firmó sobre su foto en la portada de la revista  Wired, exactamente un año después.
+
+La  historia  que  me  contó  Richard  sobre  Murdoch  como  el  héroe  que supera sus errores pasados le ofreció la ventaja que le reportó una venta de 580  mil ones  de  dólares.  ¡No  está  mal  para  alguien  que  «no  sabe»  contar historias!
+
+Wolfgang Puck
+
+«Cuando  empecé  en  Ma  Maison,  era  nuevo  en  Los  Ángeles,  y  me  sentía muy  afortunado  por  ser  el  chef  de  un  restaurante  de  categoría  —explicó Wolfgang  Puck.  Estábamos  hablando  mientras  comíamos  su  famosa   pizza de salmón ahumado y caviar, en su principal restaurante de Beverly Hil s, Spago, en 2009; pero yo recordaba al Wolfgang de los años setenta, cuando Ma  Maison  era  el  bebedero  predilecto  de  todas  las  grandes  estrel as  del celuloide, la televisión y la música, así como de los mirones profesionales—.
+
+Estaba muy nervioso cuando el propietario me obligó a ponerme delante de los clientes y hablarles —recordaba Wolfgang—. Quería esconderme en la cocina, pero él me dijo “¡La gente se lo tragará!” Ojalá alguien me hubiera dicho: “¡Wolfgang, limítate a contar tu historia. Es fácil”. Pensé: “¡Yo no soy un narrador! ¿Qué voy a decirles?” Mi trabajo se centraba en los alimentos y su preparación.»
+
+Hoy  Wolfgang  no  sólo  es  el  dueño  y  el  director  de  cuatro  restaurantes galardonados,  cada  uno  con  múltiples  locales,  sino  que  sus  empresas
+
+---
+
+incluyen  también  otras  dos  marcas:  Wolfgang  Puck  Catering  y  Wolfgang Puck  Worldwide,  que  dirige  y  franquicia  los  Wolfgang  Puck  Bistros,  los Wolfgang Puck Expresses y los Wolfgang Puck Cultural Center Cafés, y que también  autoriza  el  nombre  de  Chef  Puck  para  bienes  de  consumo  como artículos  y  libros  de  cocina  y  productos  alimenticios.  Sobre  todo  cuando viajo, me da la sensación de que Wolfgang es omnipresente, en aeropuertos, centros  comerciales,  locales  de  ocio.  Piense  en  un  lugar:  ¡al í  está  él,  a menudo en persona! Y cada una de esas empresas refleja su reputación de frescura,  calidad  y  sabor  superior.  Quería  saber  qué  contaba  a  sus empleados,  los  compradores  de  sus  productos  y  sus  franquicias  para mantener su grado de excelencia en una gama tan amplia de restaurantes, en  tantísimos  puntos  geográficos  distintos,  cuando  él  no  podía  estar presente en el os.
+
+—Bueno  —admitió—,  irónicamente,  fue  gracias  a  los  chicos  de  las franquicias como aprendí qué tenía que decir a cualquiera que gestionase mi  marca,  porque  su  única  motivación  es  el  dinero.  Yo  me  dedico  a  esto porque me gusta, porque es mi pasión, pero el tipo de una franquicia dice:
+
+“Le  pondremos  al  producto  el  nombre  de  Wolfgang,  y  explotaremos  al cliente.  Como  es  un  restaurante  Wolfgang,  enseguida  harán  cola”.  Pero  lo que olvidan es que esto es una espada de dos filos. Como tiene mi nombre puesto, la expectativa del cliente es muy superior.
+
+»Esa  expectativa  se  basa  en  mi  estándar  de  excelencia  personal  —
+
+continuó Wolfgang—. Y ese estándar se resume en el acrónimo WELL, que representa  Wolfgang,  Eat,  Love,  Live  («Wolfgang,  come,  ama,  vive»).  Esto viene  de  un  programa  radiofónico  que  hice  una  vez.  Me  preguntaron
+
+“¿Cuál es el lema de su vida?”, y yo respondí: “Vivir, amar, comer y beber buen vino”. Ése es mi estándar, y ésta es la pasión que ahora plasmamos en nuestro  compromiso  de  proporcionar  unos  alimentos  elaborados  sólo  con los  ingredientes  más  frescos,  naturales  y  orgánicos,  para  honrar  a  los granjeros  y  a  los  productos  de  temporada,  y  de  usar  productos  de  origen animal que no impliquen la explotación inhumana de éstos.
+
+—Pero  ¿qué  dijiste  a  tus  franquicias,  las  que  debían  alcanzar  ese estándar,  para  que  lo  hicieran?  —le  pregunté—.  Cuando  abrías  un  local nuevo, ¿los sentabas y les decías qué esperabas de el os?
+
+—Claro.  ¡Les  contaba. .  una  historia!  —exclamó,  mirándome sorprendido.
+
+Entonces  me  contó  la  historia  de  una  de  sus  primeras  franquicias,  un restaurante en Atlanta.
+
+—Estuve  al í  la  primera  semana  después  de  la  inauguración,  para asegurarme  de  que  todos  los  trabajadores  estaban  bien  preparados,  que seguían el estándar marcado y que todo funcionaba bien. Al principio en la puerta  siempre  había  cola,  y  casi  duplicamos  los  ingresos  que  habíamos previsto. Así que me dije: «Vale, lo están haciendo bien», y los dejé solos. Al cabo  de  seis  meses  me  l evé  una  sorpresa  cuando  regresé  a  Atlanta  por negocios, para pujar por el contrato de  catering para el Georgia Aquarium.
+
+»Estaba en mitad de mi charla cuando un tipo mayor que yo, de aspecto combativo,  me  dijo:  “Esa  franquicia  que  tiene  usted  en  el  centro  de  la ciudad. . tendría que cerrarla. Eche el cerrojo, cierre la puerta y tire la l ave.
+
+Baje la persiana. No le hace justicia”. Así que a la seis de la mañana del día siguiente me presenté en el café, sin previo aviso. El pan de los bocadil os no era del día, estaba seco. La lechuga romana tenía pintas marrones. Era lo más  sencil o  del  mundo,  una  ensalada  César,  pero  espantosa,  porque  los bordes de las hojas estaban marrones. No es que compremos productos de mala  calidad;  simplemente,  es  que  en  lugar  de  prepararlos  cada  día,  lo hacían  cada  tres,  porque  resultaba  más  barato  y  más  cómodo.  El  pol o provenía  de  una  fuente  inesperada  y  poco  de  fiar.  Aquel o  no  me  hacía justicia;  la  verdad  es  que  me  dieron  ganas  de  cerrar  de  inmediato  la franquicia.
+
+»Me  di  cuenta  de  que  tenía  que  incitar  a  la  acción  a  todos  los  que tuvieran relación con mi marca, y hacerlo de una forma diferente, de modo que  les  dije:  “Siempre  que  abro  un  restaurante  nuevo  estoy  nervioso, porque pienso:  ¿Y si no funciona? ¿Qué pensará la gente? ¿Por qué he abierto otro  restaurante?  ¿Y  si  no  aparece  nadie?   Es  muy,  muy  difícil,  y  me  hace
+
+sentir  muy  inseguro.  Pero  esa  ansiedad  también  es  buena,  porque  me mantiene siempre alerta. Y lo mismo sucede en este caso. Ya sabéis que la noche de la inauguración todo el personal está emocionado. La actitud del personal  debe  bril ar.  Los  alimentos  deben  ser  de  máxima  calidad,  y  el servicio óptimo, porque los críticos se apercibirán de todos los detal es. La noche  de  la  inauguración  todo  el  mundo  muestra  su  mejor  actitud, asegurándose de que todo salga bien.
+
+La  definición  de  Wolfgang  de  la  noche  de  la  inauguración  incluía  una actitud  hacia  los  empleados  y  los  clientes  que  los  hace  sentir  parte  de  la familia Wolfgang Puck. Estaba hablando de una energía y una emoción que el personal transmitiría a los clientes que, en una noche determinada, son tan importantes para el futuro del restaurante como lo son los críticos que asisten  la  noche  de  la  inauguración.  Y  no  se  trata  sólo  del  futuro  de  un restaurante, añadió Wolfgang, sino del de toda la empresa. «Puede que la gente  venga  a  Atlanta  desde  Michigan  —me  explicó—.  Uno  tiene  que tratarlos como si fuera la noche de la inauguración y el os unos críticos de peso.  Les  dices:  “Ah,  son  ustedes  de  Michigan.  ¿Saben  que  tenemos  un restaurante en Detroit, en la MGM?”. Entonces te sientes satisfecho porque les  has  hablado  de  tu  restaurante,  y  eso  supone  un  buen  negocio  para nosotros en ambas ciudades».
+
+Y  entonces,  Wolfgang  dijo  a  sus  empleados:  «En  cada  uno  de  mis restaurantes  cada  noche  debe  ser  una  inauguración.  Debemos  alcanzar siempre  nuestro  estándar,  el  WELL,  y  asegurarnos  de  que  todo  es  como debe ser. Hacer menos que eso supone fracasar».
+
+¿Noche de inauguración? ¡Ajá! Es posible que su personal no diera saltos de  alegría  por  tener  que  cambiar  de  actitud,  pero  de  súbito  recibieron exactamente la l amada a la acción encarnada en la historia del restaurante que Wolfgang inauguró en Atlanta.
+
+Wolfgang se dio cuenta de que el beneficiario último de esta historia era el cliente, quien una noche cualquiera no sólo consume alimentos, sino la experiencia  completa  de  una  inauguración  en  un  restaurante  Wolfgang Puck. Más que un estándar, esta historia refleja lo que hace falta para que
+
+sus  clientes  puedan  vender  su  historia  cuando  los  críticos  ya  hace  mucho que  se  han  ido.  Experimentan  la  noche  de  la  inauguración,  la  saborean  y luego la explican a otros.
+
+—Muchas  personas  invierten  dinero  en  publicidad  —dijo  Wolfgang—.
+
+En cambio, nosotros hacemos publicidad con las personas que conocemos, siguiendo  esta  historia  cada  noche,  y  tratándolos  tan  bien  que  luego regresan. Traen a sus amigos. Lo cuentan a sus amigos.
+
+—Y  cuentan  tu  historia  —le  dije—,  porque  les  has  hecho  sentir  que estaban al í la noche de la inauguración.
+
+Él asintió.
+
+—Como te dije, ojalá alguien me hubiera dicho: «Wolfgang, cuenta una historia. ¡Es fácil!».
+
+Norma Kamali
+
+De  todas  las  personas  que  conozco  en  el  mundo  de  los  negocios,  la  más imprevisible  es  la  diseñadora  de  alta  costura  Norma  Kamali,  cuyas creaciones  para  boutiques  suelen  venderse  por  miles  (cuando  no  por decenas de miles) de dólares la prenda. En 2008 me quedé asombrado al escuchar el anuncio de que Kamali iba a confeccionar una línea de prendas para Walmart, con precios de 20 dólares e incluso menos. Pensé:  Para que pase algo así, alguien tiene que haberle contado una historia a alguien más.
+
+Yo conocía a Norma desde mediados de los años setenta, cuando tenía una tienda pequeña en la parte alta de Manhattan y yo producía  e Deep.
+
+Llevé a ver a Norma a nuestra estrel a, la exuberante Jacqueline Bisset, para que aquél a la ayudase con su guardarropa, que incluía trajes de baño para nuestras  escenas  submarinas.  Lamentablemente  para  nosotros,  las creaciones de Norma en cuestión de bañadores tendían al lamé dorado con cortes  estratégicos,  y  bikinis  de  leopardo  con  diamantes  de  imitación.  El personaje que interpretaba Jacqueline era una buceadora, no una colega de surfistas,  y  aunque  ya  era  un   sex  symbol  establecido,  quería  que  la conociesen como una actriz seria. Los bikinis eran demasiado atrevidos.
+
+Norma no estaba pensando en una historia cuando nos dijo: «Ah, pues poned una camiseta encima del bikini». Pero la idea cuajó, y el resto forma parte de la historia de los símbolos eróticos. La camiseta mojada de Jackie Bisset dio a luz a los concursos de camisetas mojadas y propulsó a nuestro filme a la conciencia nacional. Más tarde, Norma se convirtió en un gigante en el mundo de la moda, al obtener los galardones Coty y CFDA, y ampliar su  marca  para  incluir  de  todo,  desde  cosméticos  a  fundas  de  sacos  para dormir.
+
+Sin  embargo,  nada  de  lo  que  había  hecho  Norma  resultó  tan sorprendente  como  su  asociación  con  Walmart.  Sólo  tenía  sentido  dentro del  contexto  de  la  propia  historia  de  fondo  de  Norma.  «Yo  nunca  me consideré guapa ni atractiva», me dijo. Pero descubrió que, por medio de la moda, podía potenciar su estilo, peculiar por naturaleza, y sentirse distinta pero  en  el  mismo  nivel  que  las  chicas  que  tenían  una  bel eza  más convencional.  Esta  habilidad  se  convirtió  en  el  fundamento  de  su  marca.
+
+«Uso  la  moda  para  aumentar  la  autoestima  de  las  mujeres.»  Por  tanto, cuando Walmart le pidió que diseñara una línea de ropa para mujeres con menos poder adquisitivo, a el a le entusiasmó poder ayudar a sentirse bien a un segmento de la población más desfavorecido.
+
+Pero  surgieron  incontables  problemas.  ¿Cómo  podría  diseñar  ropa  para venderla  a  ese  precio  sin  perder  a  sus  clientes  y  proveedores  de  alto standing?  ¿Cómo  podría  explicar  esa  decisión  a  los  medios  de comunicación? Norma estuvo pensando en su propia historia, y decidió que el mismo descubrimiento que hizo de niña era lo que podía guiarla ahora.
+
+Diferente pero igual se convirtió en su credo para esta nueva empresa.
+
+Las prendas que diseñara para Walmart serían totalmente distintas a sus diseños  de  elite.  Para  poderlas  vender  al  precio  radicalmente  bajo  que  se había decidido, tendrían un diseño más flexible y usarían materiales menos caros. A pesar de el o, su objetivo era que tuviesen un aspecto tan atractivo que  incluso  los  clientes  de  alto  standing  las  admirasen  y  quisieran comprarlas.
+
+Pero ¿cómo podría hacer l egar ese concepto de «diferente pero igual» a los  proveedores  de  Walmart,  las  personas  que  cortaban  y  cosían  las prendas? Esos trabajadores estaban acostumbrados a confeccionar prendas con el mínimo gasto y la máxima rapidez. Norma tenía que convencerlos de que,  aplicando  más  cuidado  y  atención,  sin  tomar  atajos,  podían  elaborar un  producto  de  precio  bajo  pero  con  una  excelente  calidad.  Pero  en  este caso  el os  eran  los  titulares,  un  tipo  de  personas  que  raras  veces  quiere cambiar.  Para  persuadirlos,  Norma  necesitaba  alcanzar  sus  corazones.
+
+¿Cómo hacerlo?
+
+Pues mirando en el suyo. Según su propia experiencia, ¿qué era lo que, exactamente,  la  había  motivado  a  aprovechar  esa  oportunidad  de  diseñar para  Walmart?  Lo  que  recordaba  eran  las  historias  que  le  habían  contado las  madres  con  pocos  recursos  en  un  instituto  público  de  secundaria  en Manhattan,  donde  el a  organizaba  a  los  alumnos  para  que  formasen  sus propias  empresas  creativas.  Aquel as  madres  estaban  tan  avergonzadas  de sus  prendas  de  vestir  que  nunca  iban  a  las  reuniones  de  la  escuela,  y  ni siquiera  se  relacionaban  con  los  profesores  de  sus  hijos.  Aquel  recuerdo encajaba con la propia historia de Norma, convenciéndola de que su nueva línea  de  diseños,  diferentes  pero  iguales,  podría  cambiar  de  modo significativo  las  vidas  de  muchas  mujeres.  Al  contar  esta  historia  de necesidad y de oportunidad a los proveedores que elaboraban esas nuevas modas,  Norma  les  demostró  cómo  podrían  convertirse  en  los  héroes  de aquel as mujeres. Su historia los hizo partícipes de su verdadero propósito, y como orgul osos adalides, superaron su reluctancia al cambio.
+
+Norma contó la misma historia a los proveedores, personal de ventas y medios de comunicación, y todo aquel que respaldó aquel a nueva marca se sintió como un héroe. Cuando se inauguró su línea de ropa en su Walmart local,  los  empleados  de  todas  las  edades,  complexiones  y  tamaños  se ofrecieron  para  convertirse  en  maniquíes  humanos,  subidos  a  plataformas en la zona reservada para aquel as prendas. Norma me dijo: «Estaban muy orgul osos de venderlas. Se me saltaron las lágrimas». Pues bien, ¡ésa es la fuerza que tiene contar una historia con propósito!
+
+La historia de Norma Kamali demuestra cómo las narrativas que usted ha  vivido  o  experimentado  pueden  dar  pie  a  historias  con  propósito  que, más tarde, podrá contar en su negocio. Pero no todas las historias surgidas de  la  experiencia  personal  son  útiles.  Algunas  resultan  totalmente paralizantes.  Quienes  dominan  el   storytelling  para  el  éxito  saben  cómo enfrentarse a estas historias negativas, superándolas. Y lo que aún es mejor: saben cómo transformar historias que podrían ser perjudiciales en otras que les resulten útiles.
+
+¡AJÁ!
+
+•    Usted  viene  naturalmente  diseñado  para  narrar.  ¡Pero  tiene  que activarse!
+
+•  El mercado quiere historias, así que déle lo que pide.
+
+•  Las historias hacen que la gente recuerde, viva y ponga en práctica los datos y las cifras.
+
+•  Incite la empatía en la sala y también cara a cara, y su público no sólo le escuchará: ¡le sentirá!
+
+•    El   storytelling  para  el  éxito  no  es  puro  espectáculo:  es  un   buen negocio.
+
+4
+
+La historia que dirige la historia de
+
+cada uno
+
+El rey y yo teníamos que bailar. Los piratas tailandeses estaban imitando una  amplia  gama  de  productos  Sony,  y  sólo  el  rey  Bhumibol  Adulyadej podía  ayudarnos  a  detener  aquel  hurto.  Por  lo  tanto,  en  mi  calidad  de presidente de Sony Entertainment, a principios de los años noventa volé a Bangkok  con  los  jefazos  de  Sony  Corporation,  Norio  Ohga  y  Mickey Schulhof, para convencer al rey de que respaldase nuestra causa. Tailandia sería una prueba definitiva de una nueva estrategia de Sony para combatir la amenaza mundial del pirateo comercial.
+
+Como  los  productos  de  entretenimiento  elaborados  durante  mi
+
+«guardia»  se  contaban  entre  los  que  más  pirateaban  a  Sony,  sabía  que tendría  que  exponer  bien  mi  postura.  Me  pasé  la  mayor  parte  del  viaje debatiendo  con  Schulhof  el  enfoque  que  iba  a  adoptar.  Mickey  era  el confidente  de  Ohga  y  su  mano  derecha  en  Estados  Unidos,  y  desde  que, unos  años  antes,  encabezó  la  compra  de  Columbia  Records  por  parte  de Sony,  se  había  interesado  apasionadamente  por  el  tema  de  la  piratería, dado  que  afectaba  a  los  intereses  de  Sony  en  el  negocio  de  la  música.  El propio  rey  era  músico,  de  modo  que  yo  estaba  seguro  de  que  podría exponerle el tema de una forma que le l egase.
+
+Decidí contarle al rey una experiencia que tuve en Chiang Mai tan sólo un par de años antes, después de que viera que en un cine local colgaban
+
+una copia hecha a mano del póster original de mi película  Rain Man, con Dustin  Hoffman  y  Tom  Cruise.  Como  es  natural,  sentí  curiosidad  por  ver cómo reaccionaría a la película un público tailandés. Compré una entrada y encontré un sitio libre en el cine, que estaba a rebosar. Le diría al rey que la proyección  más  bien  defectuosa  me  hizo  sentir  mal  por  el  director  de  la película,  Barry  Levinson,  que  se  había  esforzado  tanto  por  alcanzar  la perfección. Aun así, tuve la esperanza de que los espectadores tailandeses apreciaran la calidad del drama y la excelente interpretación.
+
+El punto culminante de mi historia l egó pocos minutos después de que empezaran  a  salir  los  créditos  iniciales  de  la  película,  cuando  alguien  se interpuso entre el proyector y la pantal a. Entonces me di cuenta de que la persona  que  oscurecía  la  pantal a,  ¡no  estaba  delante  del  proyector,  sino dentro de él! Estábamos viendo una copia pirata de la película, que alguien había  grabado  en  vídeo  sin  que  le  vieran  en  un  cine  de  Estados  Unidos; luego hizo una copia y la distribuyó para su propio beneficio. Aquel pirata estaba  arrebatando  los  beneficios  económicos  a  todos  los  artistas  y productores, entre los cuales figuraba yo, que habían pasado años creando aquel a  película.  Sin  embargo,  cuando  me  quejé  al  director  del  cine  de Chiang  Mai,  se  limitó  a  encogerse  de  hombros  y  a  decirme:  «Todo  el mundo lo hace».
+
+Tras haber contado esa historia, tenía pensado apelar al corazón del rey.
+
+En su calidad de músico, debía comprender que, si los artistas no pueden vivir  de  su  arte,  se  verán  forzados  a  abandonar  sus  sueños.  Pero,  aun  así,
+
+¡no estaba todo perdido! Si Su Majestad contribuía a hacer cumplir las leyes internacionales  contra  la  piratería  que  ya  se  habían  emitido,  juntos podríamos  burlar  a  los  piratas,  defender  al  equipo  creativo  y  proteger  los derechos  de  artistas  y  productores,  para  que  pudieran  seguir  ofreciendo películas, canciones e innovaciones tecnológicas estupendas.
+
+Llegué  a  Bangkok  con  la  tranquilidad  de  haber  preparado  la  mejor historia  posible  para  aquel  oyente  real.  Pero  mi  confianza  se  deterioró  un tanto  cuando  vi  por  primera  vez  el  recargado  palacio  real.  Era  como  un escenario  barroco  elevado  al  cubo.  Mientras  nos  conducían  a  las  enormes
+
+salas de recepción de Su Majestad, casi esperaba ver a Yul Brinner doblar alguna  de  las  esquinas.  En  lugar  de  eso,  me  encontré  cara  a  cara  con  un personaje imponente, vestido con un uniforme blanco almidonado cubierto de insignias multicolores.
+
+Sentí  que  un  sudor  frío  me  bañaba  el  cuerpo.  La  única  vez  que  había visto  a  un  hombre  adulto  vestido  con  tantas  insignias,  yo  era  un  crío.  Me habían  l evado  a  rastras  al  despacho  del  director  de  mi  nuevo  colegio, después  de  mi  cuarta  pelea  en  sólo  dos  semanas.  Durante  media  hora estuve  sentado  en  el  pasil o,  escuchando  cómo  el  director  contaba  a  mis padres su versión de lo sucedido. . adjudicándome el papel del malo. «No es  una  buena  influencia.  Ya  ha  tenido  otras  tres  peleas  con  los  alumnos.
+
+Tiene  una  mala  actitud.  Ni  siquiera  intenta  encajar.»  ¿ Encajar?  ¡Me atormentaban y me pegaban! La historia del director no mencionaba a los chicos  mayores,  que  no  dejaban  de  pegarme  para  quitarme  el  dinero  del almuerzo. No mencionó que lo único que había hecho yo era levantar mi bandeja  metálica  para  protegerme:  el  mayor  de  los  chicos  me  dio  un puñetazo y se rompió la mano al chocar con el a, ¡y no ni le toqué! Al final ya  no  pude  aguantarlo  más.  Entré  a  saco  para  contar   mi  versión  de  la historia.  Pero  ver  al  director  hizo  que  se  me  atragantaran  las  palabras.
+
+Llevaba  un  uniforme  de  jefe  de  scouts,  con  lo  que  me  parecieron  mil insignias  al  mérito  cosidas  a  una  banda  que  le  cruzaba  el  pecho.  La autoridad  que  proyectaban  aquel os  emblemas  me  dejaron  mudo  e indefenso. Me limité a quedarme con la boca abierta mientras él actuaba en consonancia con su historia y me expulsaba de su escuela.
+
+Aquel a historia l evaba oculta en los posos de mi subconsciente durante más de treinta años; hacía apariciones estelares cada vez que me encontraba con una persona rebosante de autoridad. Ahora, en Tailandia, resurgió con una ferocidad tal que fue un milagro que no me diera la vuelta y saliera por pies.  Pero,  de  algún  modo,  yo  sabía  lo  que  me  sucedía,  de  modo  que  me contuve. Me dije:  Esta vez no, colega.
+
+Me lancé a todo gas a contar mi historia preparada. De vez en cuando repiraba,  y  buscaba  las  reacciones  de  mi  público.  El  rey,  mientras  me
+
+escuchaba, parecía un modelo de empatía casi beatífica; asentía y sonreía.
+
+Me di cuenta de que el presidente Ohga giraba la cabeza para mirar algo al otro lado de la sala, pero como el rey era el único oyente que importaba, seguí adelante.
+
+Entonces Ohga me tironeó de la manga. Le susurré, torciendo la boca:
+
+«Un momento. ¡Casi he convencido al rey!»
+
+«Guber  san —me dijo Ohga en voz más baja aún—, este hombre no es el rey, es su guardia. —Señaló con la cabeza a un señor vestido con un traje gris arrugado, que charlaba animadamente con Schulhof al otro extremo de la sala—. Ése es el rey.»
+
+¡Ay, Dios mío! En un instante de pánico me di cuenta de que me habían saboteado.  Como  pasa  cuando  uno  acerca  una  ceril a  a  una  pira,  aquel as insignias habían encendido la historia de mi infancia, e hicieron saltar por los  aires,  en  una  gigantesca  deflagración,  mi  atención,  mi  intención  y  mi sentido común. Me había enredado tanto en mi propia historia, que había espetado  un  relato  perfecto,  cara  a  cara,  ¡pero  me  había  equivocado  de persona!
+
+Afortunadamente,  me  recuperé  de  mi  metedura  de  pata  y  más  tarde confesé mi error al rey. Él se rió, y luego escuchó una versión abreviada de mi historia sobre piratería. Su Majestad suspiró y contó una historia propia, sobre  un  gobernante  que  había  interpretado  la  música  de  su  país  y,  todo orgul oso,  vendió  65.000  copias  de  su  trabajo.  «Lamentablemente,  55.000
+
+eran  copias  piratas  —me  dijo—.  Y  yo  fui  ese  gobernante.  Si  no  puedo proteger mi propia música en mi propio país, ¿cómo podría ayudarle?»
+
+¡AYAYAY!, pensé. Quizá mi historia perfecta no fuera tan perfecta. Pero los relatos funcionan de maneras misteriosas. Aparentemente, aquel a tenía efectos retardados. Unos meses más tarde, el rey ordenó a su Gobierno que garantizase el cumplimiento de algunas de las leyes antipiratería. Así que, después  de  todo,  mi  historia  cumplió  su  propósito.  Pero,  a  nivel  personal, también  me  enseñó  una  lección  que  me  dio  que  pensar  sobre  el  poder oculto que tienen las historias del pasado para difuminar el foco, activar la inseguridad, reducir el entusiasmo y descarrilar el éxito.
+
+EL PODER OCULTO DE LAS HISTORIAS
+
+PERSONALES PASADAS: ¿BOMBAS DE
+
+TIEMPO O TESOROS ENTERRADOS?
+
+Al  repasar  mi  aventura  en  Tailandia  a  la  luz  de  mi  análisis  actual  del storytelling  para  alcanzar  el  éxito,  no  pude  evitar  preguntarme  qué  debió pasarle  a  mi  cabeza  aquel  día.  ¿Cómo  es  que  un  suceso  enterrado  tan profundamente  en  mi  pasado  pudo  sabotearme  tantas  décadas  después?
+
+¿No podría haber hecho algo para expulsar o desactivar ese recuerdo? Me planteé: ¿todo el mundo l eva esas bombas de tiempo ocultas, igual que yo?
+
+Si  es  así,  ¿hay  alguna  manera  de  usar  esas  historias  ocultas  en  lugar  de sucumbir a el as, como hice yo?
+
+En  busca  de  ayuda  para  descifrar  esos  misterios,  invité  a  mi  amigo Deepak  Chopra  a  que  hablase  sobre  el  fenómeno  de  las  anécdotas escondidas,  en  mi  asignatura  de  la  UCLA  «El  tránsito  por  el  mundo narrativo».  Además  de  ser  autor  de  superventas,  endocrinólogo  y  el fundador  del  Chopra  Center  for  Wel being,  Deepak  es  practicante  de  la medicina  narrativa.  Esta  forma  de  enfocar  el  tratamiento,  que  ahora  está ganando  terreno  en  la  medicina  convencional,  se  basa  en  evidencias científicas  que  sugieren  que  las  historias  enterradas  afectan  a  y  afligen  la vida de todo el mundo. Deepak nos dijo que, para bien o para mal, siempre están ahí. Debido a esto, los narradores deben prestar mucha atención no sólo a sus propias anécdotas sumergidas, sino también a las de sus oyentes.
+
+Nos  explicó  que  este  tipo  de  historias  surgen  de  nuestros  recuerdos  de experiencias  pasadas,  la  imaginación  y  el  deseo.  «Creamos  historias  sobre esos  pensamientos.  Luego  vivimos  las  historias  y  las  l amamos  vida.»  En realidad,  nos  dijo,  las  historias  ocultas  pueden  definir  el  futuro  de  una persona,  «porque  la  experiencia  nos  ha  condicionado  a  repetir  nuestras historias». Dependiendo de la naturaleza de esos episodios, esta repetición puede tener resultados positivos o negativos.
+
+Como  ejemplo  positivo  de  historia  enterrada,  Deepak  me  relató  el cuento  que  su  madre  solía  contarle  de  niño.  «“Hay  una  diosa  de  la sabiduría, y otra de la riqueza. Si persigues a la diosa de la sabiduría, la de la  riqueza  se  pondrá  celosa  y  te  perseguirá  a  su  vez.”  Yo  empecé  a  tener relaciones  con  esos  dioses  y  diosas  imaginarios,  y  a  crear  mis  propias historias  con  el os.»  Aquel as  relaciones  se  convirtieron  en  una  parte esencial de su historia oculta vivida.
+
+Como conozco a Deepak hace muchos años, puedo asegurar que nunca ha dejado de perseguir a la diosa de la sabiduría, y que la de la riqueza le ha l enado la cartera muchas veces. Pero si los mitos de mi infancia tienen tanto poder, ¿cómo es que todos los niños que escuchan cuentos de hadas no tienen tanto éxito como Deepak Chopra cuando crecen?
+
+Porque, me respondió él, los recuerdos negativos, como mi aturdimiento delante del director, pueden arrebatar el poder de la imaginación, e incluso el deseo de tener un final feliz. «Lo que hace extraordinaria a una persona
+
+—dijo—,  es  que  él  o  el a  encuentre  la  manera  de  contar  una  historia nueva. »  Esto  no  quiere  decir  alterar  la  experiencia  sobre  la  que  se fundamenta  la  historia.  Significa  crear  mentalmente  un  nuevo  contexto  y un  nuevo  significado,  que  rompan  el  patrón  y  el  poder  de  la  historia pasada. Entonces, la historia nueva sirve como «un puente entre lo que es y lo que podría ser».
+
+Para ilustrar cómo funciona todo esto, Deepak señaló los efectos  placebo y   nocebo  observados  en  la  medicina.  Los  tratamientos  con  placebo,  o pastil as de azúcar, tienen un índice demostrado de éxito en torno al 30 por ciento  para  tratar  una  amplia  gama  de  dolencias,  desde  el  dolor  crónico hasta  el  cáncer.  Y  el   efecto  placebo  supone  más  o  menos  un  tercio  del beneficio  de  los  medicamentos  clínicamente  probados.  En  otras  palabras, tener  confianza  en  una  medicación  aumenta  sustancialmente  su efectividad, sea cual fuere el valor demostrado del fármaco. Por el contrario, el  efecto  nocebo,  causado  por  la  creencia  de  que  la  medicación   no funcionará, reduce apreciablemente la eficacia de aquél a. «Lo que ayuda o no  a  los  pacientes  no  es  la  píldora  azucarada  —explicó  Deepak—,  sino  la
+
+historia  sobre  el a.  Lo  que  determina  el  resultado  es  la   historia,  no  la pastil a.» Deepak señaló que las compañías farmacéuticas tienen en cuenta estos  dos  efectos  opuestos  cuando  idean  sus  anuncios  televisivos.  Para suscitar una respuesta placebo, introducen fuertes activadores emocionales en el anuncio sobre la efectividad de un fármaco, pero presentan la lista de efectos  secundarios  negativos,  por  obligación  de  la  FDA,  de  una  forma recortada y carente de emoción, que es fácil no tener en cuenta.
+
+Para  ilustrar  el  poder  que  tienen  sobre  el  cuerpo  las  narrativas personales, Deepak contó a nuestra clase una anécdota sobre un soldado a quien el padre de Deepak, que también era médico, había tratado durante su época en el ejército del Raj británico. El soldado había perdido el habla, y la mayoría de médicos pensaban que era a causa de una embolia. «Pero mi  padre  hizo  un  poco  de  trabajo  detectivesco  y  descubrió  que,  algunas semanas  antes,  aquel  soldado  había  recibido  una  carta  procedente  de  su pueblo  natal,  donde  le  anunciaban  que  su  madre  había  fal ecido.»  El soldado se acercó a su sargento y le dijo: «Quiero un día de permiso porque mi madre. .» Pero el sargento denegó su petición sin dejarle acabar la frase.
+
+Entonces  el  soldado  recurrió  a  su  comandante,  luego  a  su  coronel,  y  fue subiendo por la jerarquía, pero nadie le dejó terminar la frase con un «. . ha muerto».
+
+«Al  final  —añadió  Deepak—,  aquel  hombre  perdió  el  habla  porque  su mente subconsciente le dijo:  Hablar  no  sirve  de  nada.  Nadie  te  hace  caso.
+
+Así que mi padre se acercó al paciente y le dijo: “He oído que ha perdido a su madre. ¿Qué sucedió?”, y el soldado se echó a l orar. Recuperó el habla.
+
+Su cuerpo estaba actuando en función de la historia.»
+
+Hubo  un  momento  en  que  yo  hubiera  pensado  que  el  hombre  de  la historia  de  Deepak  estaba  fingiendo.  Sin  embargo,  todo  lo  que  he aprendido  recientemente  sobre  el  arte  de  contar  historias  para  obtener  el éxito me ha convencido de que la circuitería que conecta mente y cuerpo es real,  y  que,  tanto  si  nos  damos  cuenta  como  si  no,  las  historias  están relacionadas  directamente  con  el a.  Nuestras  historias  soterradas  y  las  de nuestros  oyentes  siempre  acechan  bajo  la  superficie,  listas  para  entrar  en
+
+acción. Como descubrí a las malas en Tailandia, las ignoramos por nuestra cuenta  y  riesgo.  De  hecho,  cuanto  más  las  neguemos  o  intentemos distanciarnos  de  el as,  más  a  su  merced  estaremos.  Pero  Deepak  nos  dijo que si nos  enfrentamos directamente a el as, podemos convertir incluso las bombas de tiempo más peligrosas en un tesoro valioso.
+
+DIRIJA LA HISTORIA QUE LE DIRIGE A
+
+USTED
+
+Los comentarios de Deepak me trajeron a la mente a toda esa cantidad de empresarios  y  líderes  poderosos  a  los  que  conozco  que  tienen  historias ocultas que son auténticos sumideros. Mis encontronazos con los matones del  cole  no  tienen  ni  punto  de  comparación  con  la  pobreza,  los  hogares rotos, el exilio y la pérdida que son el denominador común de esas historias tan  notables.  Sin  embargo,  de  alguna  manera,  esos  individuos  lograron romper los patrones de su pasado negativo, y escribir el guión de un futuro positivo.  Muchos  de  esos  líderes  aprovecharon  relatos  sobre  sus  primeras frustraciones,  igual  que  la  diseñadora  Norma  Kamali  aprovechó  su  deseo infantil  de  sentirse  bien  consigo  misma  para  inspirar,  contar  y  repetir  una historia nueva con propósito, que se convirtió en su marca distintiva. Otros hacen  referencia  a  los  relatos  orales  que  conformaron  su  juventud usándolos  como  advertencias  sobre  cómo   no  hay  que  comportarse.  Sin embargo, algunos de los líderes y empresarios más poderosos que conozco convirtieron  sus  historias  ocultas  pero  esenciales  en  la  experiencia  y  el empuje empresariales que les permitieron construir imperios.
+
+El  empresario  de  los  seriales  John  Paul  Dejoria  es  uno  de  estos fenómenos.  Hoy  su  compañía  principal,  John  Paul  Mitchel   Systems, elabora más de 90 productos que se venden en 90.000 peluquerías de todo el  mundo,  con  unos  ingresos  anuales  que  superan  los  600  mil ones  de dólares.  Pero  hace  unos  sesenta  años,  el  pequeño  John  Paul  vivía  con  su
+
+hermano y su madre, una inmigrante griega soltera, en Echo Park, cerca del centro de Los Ángeles. La madre de John Paul no tenía suficiente dinero para  comprar  regalos  de  Navidad,  pero  a  John  Paul  y  a  su  hermano  les encantaba  mirar  los  juguetes  mecánicos  expuestos  en  los  escaparates,  de modo que se acercaban con el tranvía al centro comercial Bul ock’s. Cuando John  Paul  tenía  cinco  años,  su  madre  señaló  a  una  mujer  vestida  con  un traje  de  la  Marina  que  estaba  delante  de  la  tienda,  haciendo  sonar  una campanil a de plata.
+
+«Chicos —dijo a John Paul y a su hermano, de siete años—, os voy a dar diez  centavos.  ¿Veis  a  esa  señora  que  toca  la  campanil a?  Acercaos  y depositad la moneda en su cubo.»
+
+John Paul no lo entendió. En 1950, diez centavos era mucho dinero para un niño que nunca había tenido gran cosa. ¿Por qué tenía que regalarlos?
+
+«Es del Ejército de Salvación —le dijo su madre—. Lo necesitan más que nosotros.  En  esta  vida,  siempre  encontrarás  a  personas  que  necesitan  el dinero más que tú. Intenta compartirlo con el as. Sé que para nosotros es mucho, pero para el os tiene incluso más valor.»
+
+John Paul reflexionó sobre lo que le había dicho su madre, y mientras él y su hermano metían aquel os diez centavos en el cubo, sintió una emoción que  nunca  olvidó.  A  partir  de  aquel  momento,  su  juventud  fue  de  todo menos  fácil.  Mientras  aún  asistía  a  la  escuela  primaria,  se  levantaba  a  las tres  de  la  mañana  para  doblar  y  repartir  periódicos.  A  los  nueve  años vendía  postales  de  Navidad  puerta  por  puerta.  Más  tarde  vendió enciclopedias Col ier’s. Se alistó en la U. S. Naval Reserve, y desde entonces hizo de todo, desde trabajar en una gasolinera hasta reparar bicicletas, en un  intento,  a  menudo  infructuoso,  de  evitar  convertirse  en  un  sin  techo.
+
+Pero a través de todas sus luchas, la historia que le contó su madre (cuya moraleja, según él, es que el éxito sin compartir es un fracaso), permaneció en  su  mente.  Y  mientras  me  visitaba  en  mi  casa  de  Hawai,  unos  treinta años  después,  John  Paul  me  dijo  que  aquel  episodio  infantil  acabó l evándole de la pobreza a la riqueza.
+
+Dejoria  tenía  treinta  y  pocos  años  cuando  se  asoció  al  estilista  Paul Mitchel  para desarrol ar una nueva gama de productos para el cuidado del cabel o, que lanzaron gracias a un préstamo de sólo 700 dólares. «Durante las dos primeras semanas dormí en mi coche, y comenzamos con una línea de productos y una historia que captó el interés de los estilistas.» Basándose en  su  propia  experiencia  como  trabajadores  en  peluquerías,  ajustaron  su historia  para  exponerla  ante  un  público  de  estilistas  que  trabajaban  duro, que  a  menudo  eran  propietarios  de  sus  propios  salones  de  bel eza,  que estaban  sin  blanca  y  sometidos  a  la  presión  del  tiempo.  «Cuando  estás delante  de  la  pila  de  lavar  —les  dijo  Dejoria—,  acondicionas  el  cabel o, aplicas  el  producto  a  la  cabeza  de  otra  persona,  esperas  diez  minutos  y luego  aclaras.  Diez  minutos  de  tu  tiempo,  más  agua,  todo  se  va  por  el desagüe.»  Entonces,  tras  haberles  demostrado  su  empatía,  John  Paul  les dijo  cómo  podrían  reducir  drásticamente  aquel  problema.  «Nuestro acondicionador es el producto sin aclarado que la industria hace años que necesita. Cuando corten el pelo, las tijeras se deslizarán con más facilidad.
+
+El corte será más limpio. Y una vez que hayan secado el cabel o, ya estará acondicionado.»  La  historia  se  centraba  en  satisfacer  una  necesidad.  «La necesidad  de  el os,  no  la  mía.»  Para  rematarlo,  John  Paul  garantizaba  sus ventas  a  los  propietarios  de  salones;  si  no  vendían  su  producto,  podrían devolverlo  y  recuperarían  toda  su  inversión,  de  modo  que  con  aquel producto  nunca  perderían  dinero.  Por  supuesto,  aquel a  historia  era descendiente  directa  del  episodio  crucial  con  la  madre  de  John  Paul  y  la donación de los diez centavos. El ideal subyacente en ambas historias es el compromiso con el bien mayor.
+
+Dejoria  ha  contado  diversas  versiones  de  esta  epifanía  histórica  de  su infancia,  aplicadas  a  cada  producto  que  elabora,  incluyendo  el  tequila Patrón  (se  vende  en  botel as  recicladas  y  proporciona  trabajo  a  artesanos mexicanos)  y  los  productos  John  Paul  Pet  (probados   por  y   para  los animales,  no   en   el os).  Y  económicamente,  ¿hasta  qué  punto  ha  dado resultado  esta  historia  en  el  caso  de  Dejoria?  Según  Forbes,  tiene  un
+
+patrimonio neto superior a los 4.000 mil ones de dólares. ¡No está mal para alguien que solía vivir en su coche!
+
+LA LEYENDA DEL ROCK GENE SIMMONS, también conocido como «el demonio» de KISS, es otro superviviente de historias soterradas. Hace poco Gene  me  envió  por   e-mail  una  foto  desde  su  Blackberry:  estaba  en  un escenario, delante de 60.000 fans chilenos que le aclamaban. Este hombre tiene más de 60 años, y se dedica a una carrera que es famosa por ser corta,
+
+¡y l eva siendo un icono internacional durante más de la mitad de su vida!
+
+También ha aparecido en docenas de películas y programas televisivos, ha dibujado historietas y ha participado en su propio  reality. Sin embargo, este coloso  de  la  empresa  también  ha  experimentado  grandes  fracasos,  en algunos de los cuales, lamentablemente, participé. Al á en los años setenta, mi  socio  en  Casablanca  Record  and  Filmworks,  Neil  Bogart,  tuvo  la  idea inspirada de que deberíamos sacar al mercado álbumes en solitario de los cuatro miembros del grupo KISS, y además simultáneamente. Me encantó la  idea,  a  pesar  de  que  era  un  plan  evidente  para  ganar  cuatro  veces  más dinero que con nuestro típico álbum de KISS. A Gene el plan le daba mala espina,  dado  que  no  todos  los  miembros  del  grupo  tenían  calidad  para hacer  un  álbum  como  solistas.  Pero  la  avaricia  se  inventó  en  Hol ywood.
+
+Nada podía detenernos. Invertíamos oro, y el público nos devolvió platino.
+
+Afortunadamente,  Gene  se  tomó  bien  las  pérdidas.  «Soy  hijo  del  riesgo», me  contestó  cuando  le  pregunté  si  se  arrepentía  de  nuestro  proyecto arriesgado.  Había  empezado  su  vida  como  inmigrante  e  hijo  de  madre soltera, algo que nunca olvidó.
+
+A pesar de los altibajos de KISS, la propia marca de Gene sigue siendo un  coloso  de  la  comercialización  y  las  licencias.  Su  enorme  despacho  en casa  es  un  museo  vivo  de  productos  y  servicios  relacionados  con  KISS, desde  cómics  a  juguetes,  pasando  por  regalos  de  moda,  libros,  trofeos  y recuerdos  de  todo  tipo.  Llenan  hasta  el  último  rincón  y  espacio  de  una
+
+habitación del tamaño de un almacén, y desbordan los sentidos. Y fue al í donde nos reunimos para hablar del secreto del éxito de Gene.
+
+Gene  no  tiene  pelos  en  la  lengua.  «La  historia  de  mi  madre,  que  el a vivió y contó, es mi vínculo y mi filtro para casi todo lo que hago —dijo—.
+
+Mi  madre  nació  en  Hungría,  y  a  los  14  años  estaba  en  un  campo  de concentración  de  la  Alemania  nazi.  Me  contaba  que  vio  morir  a  toda  su familia, y cómo, a esa edad, le arreglaba el pelo a la mujer del comandante para sobrevivir.»
+
+Las historias personales no pueden ser mucho más crudas que ésta. Pero en  lugar  de  permitir  que  le  aplastase,  Gene  tradujo  la  suya  en  pura determinación.  Su  mantra  personal  fue:   Yo  también  sobreviviré,  cueste  lo que cueste, aunque tenga que ser un camaleón. «Mi vida ha sido un zigzag, siempre de un lado para otro —me dijo—, de modo que he tenido que ser flexible.  Pero  quién  soy  no  es  mi  fachada,  sino  lo  que  l evo  dentro.  Sé adónde voy, y estoy convencido de lo que voy a decir.»
+
+La supervivencia se volvió mucho más interesante para Gene después de trasladarse desde su país natal, Israel, a Estados Unidos. «La televisión y las pelis  de  cine  fueron  un  tremendo  choque  cultural.  En  Estados  Unidos  se podía  volar  por  el  aire;  se  podía  uno  poner  una  máscara.  Había  cómics  y películas de terror. Aquí todo se sale de la norma.» Gene imaginó que, para tener éxito, también él tendría que ser singular. Este deseo de sobrevivir se unió  entonces  al  deseo  de  tener  éxito.  «No  voy  a  permitir  que  nadie  me detenga,  y  que  me  condene  dos  veces  si  soy  yo  quien  se  impide  tener éxito.»
+
+Hasta hoy, Gene está motivado por la historia del Holocausto que vivió su madre, pero hace mucho tiempo convirtió ese episodio adverso en una ventaja. Aunque es consciente de que esa historia le dirige, nunca permite que  le  hunda.  A  menudo  comparte  ese  relato  cuando  inicia  una  nueva empresa, y le atribuye su negativa a centrar todos sus proyectos comerciales en  una  sola  área.  Dice  a  sus  socios,  sin  tapujos:  «Estamos  tú  y  yo,  tío.
+
+Lloramos y reímos juntos». Sin embargo, a pesar de esa unidad, mantiene separado  cada  uno  de  sus  intereses  empresariales.  Gene  Simmons  jamás
+
+garantizará  un  proyecto  con  otro,  ni  apostará  a  un  solo  número.  Esta política  no  vacuna  contra  el  fracaso,  pero  limita  las  pérdidas  y  admite,  al mismo tiempo, la necesidad de correr riesgos, encarnada en la historia de su  madre.  Ese  episodio  personal  confiere  a  Gene  la  fuerza  necesaria  para recuperarse  de  un  fracaso,  en  vez  de  permitir  que  lo  aplaste.  Y  esa flexibilidad de adaptación le ha proporcionado el trampolín para su marca y su carrera. Por muy mal que vayan las cosas, Simmons sobrevivirá.
+
+SI EL LEÓN NO CUENTA LA HISTORIA, LA
+
+CONTARÁ EL CAZADOR
+
+Lamentablemente,  algunas  de  las  historias  personales  que  amenazan  con sabotearnos las cuentan otros. Parece que esos episodios (o cuentos chinos, a veces) escapan a nuestro control. Pero si los ignoramos, también será por nuestra cuenta y riesgo.
+
+Si el león no cuenta la historia, la contará el cazador es un dicho africano que ojalá hubiera aprendido cuando trabajaba para Sony. Los cazadores con quienes debíamos bregar a principios de los años noventa eran los medios de comunicación estadounidenses, y antes de que yo entrase por la puerta, ya estaban afilando sus lanzas narrativas.
+
+Recordemos  que  en  aquel os  tiempos  no  había   blogs,  páginas  web  de empresa  ni  YouTube.  Los  medios  de  comunicación  dominantes,  en  su calidad de mediadores entre las empresas de Estados Unidos y el público, controlaban tanto el flujo como el contenido de todas las historias. Y como Sony,  el  gigante  japonés  de  la  electrónica,  había  adquirido  la  icónica compañía  estadounidense  Columbia  Pictures  Entertainment  y  me  había nombrado director, me consideraban el cabeza de turco por haber vendido el país. Mis jefes japoneses rechazaron la posibilidad de que aquel a fuera una historia con repercusiones económicas graves, de modo que yo les hice caso y dejé que el rebaño decidiera lo que iban a escuchar los demás. Me di
+
+cuenta  de  que  uno  no  puede  enfrentarse  a  gente  que  compra  tinta  por barriles. Ése fue mi primer error.
+
+En 1995, después de abandonar la compañía, me asocié con Sony para formar  Mandalay,  una  compañía  multimedia  en  la  que  sigo  después  de quince  años.  Al  mismo  tiempo,  supuse  que  dejaba  atrás  esa  historia persistente  en  los  medios  sobre  la  inversión  de  Sony.  Sin  embargo,  justo cuando me iba de la compañía, el presidente Ohga, de Sony Corp., estaba ordenando  los  libros  de  cuentas  preparándose  para  su  ascenso  hasta  la presidencia  del  imperio  mundial  de  Sony.  Afirmó  que  «quería  dejar  un espacio  saludable  para  su  sucesor».  De  manera  que,  al  final  de  su  cargo como  presidente,  aprobó  una  amortización  de  2.700  mil ones  de  dólares, que se anunció sólo dos semanas después de que me fuera de Sony.
+
+Buena parte de esta suma reflejaba el exceso de dinero que Sony había pagado  por  Columbia  seis  años  antes.  Ahora,  yo  estaba  totalmente preparado para aceptar las decisiones que tomé como director general, y no cabe  duda  de  que  habíamos  padecido  algunas  pérdidas  económicas importantes  al  final  de  mi  época  en  Sony.  Pero  buena  parte  de  la amortización consistió en costes de adquisición en los que habían incurrido antes  de  que  Sony  adquiriese  nuestra  compañía  pública  y  me  nombrara director del nuevo proyecto empresarial.
+
+A  pesar  de  todo,  la  coincidencia  de  mi  marcha  de  Sony,  mi  propia participación  y  la  elección  del  momento  para  amortizar  inflamaron  la imaginación  de  dos  escritores,  que  decidieron  aprovechar  la  historia,  ya conocida en los medios de comunicación, convirtiéndola en un libro. Como no quise dignificar ni validar la obra, me negué a colaborar.  Strike dos.
+
+Mi  reticencia  permitió  que  los  dos  autores  contasen  mi  parte  de  la historia  como  les  apeteció,  algo  que  yo  descubrí  más  tarde  para  mi desgracia.  El  libro  estuvo  dominado  por  las  payasadas  de  mi  ex  socio  Jon Peters,  a  pesar  de  que  él  se  había  ido  poco  tiempo  después  de  entrar  en Sony, y mi cargo de director se prolongó durante cuatro años más. El libro también  pasó  por  alto  los  numerosos  éxitos  de  la  compañía  durante  este periodo.  En  1992,  por  ejemplo,  Sony  Pictures  era  muy  rentable,  con  unas
+
+ventas de 2.400 mil ones, un aumento del 33 por ciento respecto a 1989, el año  en  que  Sony  compró  Columbia.  Sí,  es  cierto  que  en  mi  último  año también  sufrimos  pérdidas,  pero  los  escritores  olvidaron  mencionar  los factores  que  contribuyeron  a  eso,  como  la  revalorización  del  yen  frente  al dólar. Sólo en 1993, las fluctuaciones monetarias hicieron que los ingresos netos  de  Sony  se  redujeran  en  un  70  por  ciento.  Habría  que  ser sobrehumano  para  obtener  suficientes  éxitos  de  taquil a  como  para compensar  semejante  ángulo  muerto  económico;  y  eso  si  uno  no  se enfrentase  a  más  de  300  mil ones  de  deudas  en  concepto  de  pago  de intereses  anuales  o  deuda  heredada,  más  otros  100  de  «amortización  del fondo de comercio» aceptada más de cuarenta años antes de la compra que hizo Sony.
+
+Sin embargo, yo no rebatí directamente la historia que vendían aquel os escritores ni tampoco, lo que es más importante, conté mi versión. En lugar de eso, furioso, los culpé a el os, a los medios de comunicación, a su editor, e incluso a los lectores que les creyeron o echaron más leña al fuego. Dejé que la historia que contaron el os me hundiese.  Strike tres.
+
+Al final me di cuenta de que me había eliminado del juego yo mismo.
+
+Incluso  si  no  podía  impedir  que  aquel os  dos  escritores  contasen  o vendieran  su  versión  de  los  hechos,  ¡debería  haberles  respondido  con  la mía propia!
+
+Aquel a  epifanía  lo  cambió  todo.  En  vez  de  meterme  en  la  trinchera, empecé  a  responder  a  las  preguntas  y  a  dirigir  la  conversación  hacia  mis actividades  profesionales  futuras.  Cuanto  más  clara  y  tranquilamente rebatía la información errónea, mientras al tiempo entonaba el  mea culpa por  errores  que  sí  había  cometido,  menos  poder  tenían  los  medios  de comunicación sobre mis emociones.
+
+Como tantos otros desvíos en el camino hacia el éxito, este episodio me ofreció una historia útil, aunque dolorosa: si su público tiene una historia negativa  sobre  usted,  su  producto  o  su  negocio,  es  mejor  que  coja  el  toro por  los  cuernos.  Como  dijo  en  cierta  ocasión  el  famoso  escritor  Salman Rushdie: «Quienes no tienen poder sobre la historia que domina sus vidas,
+
+el poder para contarla, pensarla de nuevo, deconstruirla, bromear sobre el a y cambiarla al ritmo de los tiempos, ciertamente están indefensos, porque no  pueden  tener  pensamientos  nuevos».  Una  vez  que  usted  pierda  el control  de  su  propia  historia,  tendrá  que  esforzarse  el  doble  para recuperarlo.
+
+Esta lección resulta incluso más crucial en la era actual, la de los medios digitales.  Cuando  empiezan  a  circular   online  historias  negativas,  resulta especialmente imperativo alterar la narrativa (y además, rápidamente). Así que,  a  finales  de  2009,  cuando  los  blogueros  empezaron  a  contar  una historia  potencialmente  perjudicial  sobre  la  nueva  empresa  de  Rich Rosenblatt, Demand Media, presentándola como el malo de la creación de contenidos  digitales,  él  se  puso  en  acción  de  inmediato,  urgiendo  a  su equipo a que corrigiera la historia con la máxima fuerza, devolviendo a su empresa su papel de héroe.
+
+La controversia giraba en torno a la capacidad de Demand para producir unas  4.000  unidades  de  contenido  original  diario,  empleando  a  más  de 10.000  empleados  autónomos.  El  quid  de  la  narrativa  hostil  radicaba  en que  se  acusaba  a  Demand  Media  de  ser  una  «cadena  de  montaje  de contenidos».  Un  artículo  de  la  revista   Wired  fue  el  que  hizo  estal ar  la situación,  comparando  el  sistema  de  Demand  Media  con  la  línea  de producción de automóviles usada por Henry Ford a principios del siglo XX.
+
+Esta  historia  se  repitió  en  cócteles  y  cenas,  y  se  fue  filtrando  por  toda  la compañía. A diferencia de mí, Rosenblatt tuvo la sensatez de aprovechar la energía de sus atacantes y utilizarla a su favor.
+
+«Henry Ford mantenía en secreto el funcionamiento interno de su línea de  producción  —me  dijo  Rosenblatt  en  aquel a  época—.  Yo  retaré  a  los críticos  explicándoles  qué  es  lo  que  nos  mueve.  Nuestra  plataforma  es  el soporte para más de 3.000 mil ones de conversaciones mensuales. Al otro extremo  de  la  cadena  de  Demand  hay  miles  de  creadores  de  contenido, que le dirán que Demand Media es un héroe para el os, sus familias y sus
+
+carreras.  Voy  a  confrontar  las  críticas  con  un  manifiesto  que  refleje  la historia que cuentan el os.»
+
+Rosenblatt  me  contó  que  costó  mucho  redactar  aquel  documento, porque  tenía  que  servir  como  pauta  de  la  historia  oficial  que  contaría  su equipo,  pero  al  mismo  tiempo  no  restringir  su  capacidad  de  exponerla  y analizarla  individualmente  a  su  propia  manera.  Si  bien  la  prioridad  era refutar  «la  historia  de  la  cadena  de  montaje  de  Henry  Ford  y  las  cosas desagradables que se han dicho de nosotros recientemente», el manifiesto debía  plasmar  también  toda  la  anchura  y  la  profundidad  del  negocio  de Demand Media.
+
+El objetivo último no era necesariamente hacer cambiar de opinión a los críticos,  sino  poner  palabras  nuevas  en  labios  del  público  más  valioso  de Demand:  sus  creadores  de  contenido  y  sus  consumidores.  «Más  tarde  lo tomaremos  como  referencia,  y  será  el  fundamento  de  muchas  otras  cosas por  venir  —dijo  Rosenblatt—.  Será  una  espiral,  sí,  pero  diseñada  por nosotros, no por el os.»
+
+DOMINE LA HISTORIA QUE MOTIVA A SU
+
+PÚBLICO
+
+Es septiembre de 2008. Unos retazos de la Marcha Nupcial suenan por el jardín del Hotel Bel-Air. Pero la novia es un hombre, como lo es el novio, y el cura. . ¡es Alice Walker! Entre el público, conmigo, están Quincy Jones, Oprah Winfrey y muchos de los otros luminares que elaboraron la primera versión de la obra  El color púrpura, que consiguió que le dieran el premio Pulitzer  a  Alice.  Ahora  hemos  venido  a  celebrar  la  boda  del  productor, Scott Sanders, quien, con Quincy y Oprah, coprodujo la obra  Color Purple de  Broadway,  ganadora  de  un  Tony.  Mientras  contemplo  intercambiar votos a Scout y a su pareja, Brad Lamm, recuerdo cuántas dificultades tuvo Scott para convencer a Alice para que ésta permitiera la puesta en escena de
+
+su  novela.  Si  Scott  lo  hubiera  sabido,  el  obstáculo  era  la  propia  historia personal de Alice.
+
+En 1997, cuando Scott vino a verme por primera vez para que le ayudase a conseguir los derechos teatrales de  Color Purple, él acababa de abandonar Mandalay, donde era presidente de nuestra operación televisiva, para crear su  propia  productora  de  televisión  y  teatro,  con  el  respaldo  financiero  del multimil onario Phil Anschutz y del propietario de Carnaval Cruise Lines, Micky Arison. La Warner Bros. tenía los derechos que buscaba Scott, y yo me alegré de poder abordar a Terry Semel, que seguía siendo el presidente de WB, para avalar las credenciales profesionales de Scott y su pasión por el proyecto.  Semel  estuvo  de  acuerdo  en  cederle  los  derechos,  pero  sólo  si primero  Scott  obtenía  la  aprobación  de  Alice  Walker.  Aunque  el a  ya  no ostentaba  los  derechos  legales,  se  entendía  que   El  color  púrpura  seguía siendo un «hijo» de Alice.
+
+Yo  sabía  que  como  vendedor  Scott  era  magnífico,  pero  le  advertí  que Alice era dura de roer. Le conté mi primer peregrinaje a su casa en el norte de California, en aquel os tiempos en que yo aún l evaba cola de cabal o y mochila, para pedirle que confiase la versión cinematográfica de su historia a un hombre blanco de Boston, cuya única afinidad con las heroínas negras sureñas  y  esforzadas  era,  como  mínimo,  dudosa.  Le  conté  la  historia  que había compartido con Alice acerca de mi abuela, a quien estaba muy unido, que solía leer en voz alta cartas privadas de las personas de nuestra familia o  de  su  pasado.  Aquel as  cartas  me  introdujeron  en  mi  herencia,  y  me enseñaron a honrar la verdad de las vidas de aquel as personas. Dado que la novela de Alice se contaba por medio de unas cartas basadas en su propia herencia,  mi  historia  personal  se  hacía  eco  del  tema  central  de  su  libro, demostrando que yo comprendía el poder de la narrativa personal. Le dije a Alice: «¿Y si yo pudiera conseguir que las personas a las que usted más admira hagan una versión cinematográfica de su historia que conserve su voz  y  la  de  los  personajes  que  creó,  y  que  mantenga  la  misma autenticidad?» Cuando me preguntó qué tenía en mente, nombré a Quincy Jones,  un  viejo  amigo  con  quien  yo  había  hecho  películas  en  los  años
+
+sesenta  y  setenta,  y  un  talento  impresionante  dentro  de  la  comunidad afroamericana.  Poco  imaginaba  yo  que  poco  antes  de  mi  visita,  Alice  se había  enamorado  de  una  breve  composición  musical  de  Quincy.  Por  lo tanto,  cuando  mencioné  su  nombre  (me  contó  el a  más  tarde),  le  pareció como  un  acto  de  magia;  y,  en  la  vida  de  Alice,  la  magia  desempeña  un papel  importante  y  respetado.  ¡La  película  que  hicimos  juntos  acabó obteniendo once nominaciones para el Oscar!
+
+La moraleja de mi historia para Scott fue que necesitaba prestar atención a  la  historia  personal  de  Alice,  además  de  a  la  suya  propia.  Telefoneé  a Alice y le pedí que aceptase la reunión. Y tras esto, él se presentó en su casa y  le  dijo  lo  mucho  que  le  conmovía  la  historia  de  una  mujer  que,  contra todas  las  barreras  sociales,  encontró  a  la  persona  a  la  que  amaba.  Le  dijo que creía apasionadamente que en el libro existían historias con gran poder emotivo  que  nunca  l egaron  a  la  gran  pantal a,  y  que  él  quería  no  sólo plasmarlas en un entorno visual, sino enriquecerlas sobre el escenario por medio de la música que, según él creía, tenía la historia en su alma. Scott prometió a Alice que si no podía hacer una versión teatral al menos igual de buena que la película, ni siquiera lo intentaría.
+
+Lamentablemente, Scott no era plenamente consciente de que la historia personal  que  dirigía  a  Alice  en  aquel a  época,  y  que  el a  se  contaba  a  sí misma constantemente, se centraba en las secuelas  negativas de la versión cinematográfica. El a me contó más adelante que Scott le había caído bien de  inmediato.  «Creo  que  vino  motivado  por  su  gran  entusiasmo.»  Pero había un gran «pero». Scott no parecía consciente de que la reacción de la comunidad negra a la película había pasado cuentas emocionales a Alice, y además onerosas. Los críticos negros la acusaban de haberse aliado con «el Hol ywood blanco» para demonizar a los negros. La acusaron de venderse, y organizaron campañas que atacaron el filme, comparándolo incluso a la película muda y claramente racista  El nacimiento de una nación. «Seguían arremetiendo con fuerza cinco, seis y siete años después, escribiendo sobre el tema e insultándome. . Aquel a era la parte que Scott no conocía.»
+
+Si  Scott  lo  hubiera  sabido,  podría  haberle  contado  una  historia  que abordase  aquel as  preocupaciones  sensibles  y  tranquilizara  a  Alice  en  su primer encuentro. En lugar de eso, el a le dijo que no.
+
+Afortunadamente,  Scott  era  realmente  disléxico  al  pensar  que  «no»
+
+significaba  « on»  (adelante).  Consiguió  que  Quincy  Jones  y  Diana  Ross abogasen por él. Llevó a Alice a Nueva York para presentarla a la gente más bril ante  de  Broadway.  Se  la  ganó  a  base  de  pura  persuasión,  buena voluntad  y  persistencia.  Y  cuando  Oprah  firmó  como  tercera  productora, Scott tuvo la sabiduría de pedirle que convenciera al público afroamericano para que acudiesen al teatro a ver la historia y a respaldarla. El espectáculo acabó nominado a once Premios Tony, incluyendo las categorías de Mejor Musical, y recaudó más de cien mil ones de dólares. Pero todo esto tardó ocho largos años en l egar. Incluso hace poco que Alice me confesó: «Deseé muchas veces que él lo hubiera entendido. .»
+
+HABER  CONOCIDO  LA  VERDADERA  HISTORIA  de  fondo  de  Alice podría haber ayudado a Scott a abrir un atajo hasta la victoria. Pero ¿cómo?
+
+Mientras recordaba negociaciones parecidas en mi vida, me vino a la mente una  competición  que  yo  había  perdido,  como  Scott,  porque  no  conocía  la historia personal de mi oyente; pero aquel o también me enseñó cómo un genuino  maestro  de  la  narración  puede  convertir  el  relato  psicológico  en una ventaja profesional.
+
+Era a finales de los años ochenta. Mi socio laboral, Scott Sternberg, y yo nos habíamos enterado confidencialmente, gracias al agente de Larry King, Bob Wolfe, de que a Larry le interesaba explorar nuevas oportunidades más al á  del   Larry  King  Live  de  la  CNN.  Por  tanto,  Scott  y  yo  ideamos  un programa de entrevistas internacional l amado  Wired, teniendo a Larry en mente, y nos preparamos para ofrecerle una participación como propietario.
+
+Sabíamos  que  él  no  era  el  dueño  de  su  programa  de  la  CNN,  y  que trabajando  para  Ted  Turner  no  ganaba  mucho  dinero.  Pero  aquel  era  un proyecto ambicioso, que exigía un cebo considerable. Roone Arledge, de la
+
+ABC, también quería l evarse a Larry, y Ted Turner no quería que Larry se fuese de la cadena Turner.
+
+A lo largo de varias reuniones con Larry, Scott y yo le expusimos nuestro concepto de un programa que era más sólido y multifacético que el formato sin  rodeos  del   Larry  King  Live,  y  nos  aseguramos  de  que  entendiera  que nuestra oferta suponía el doble de su contrato con la CNN, y que además sería propietario. Estaba tan convencido de que había captado su atención y su  interés,  que  nunca  pensé  en  contarle  una  historia.  Cuando  declinó  la oferta, optando por quedarse en la CNN, me quedé asombrado. ¿Cómo le habría convencido Turner?
+
+Más  adelante,  mientras  tomábamos  café  en  su  casa  de  Beverly  Hil s, Larry me contó lo que había sucedido. Me enteré de que Turner tampoco le había contado una historia. Pero conocía lo bastante bien a su interlocutor como para aferrar las riendas de la historia personal que hizo que Larry se orientase en la dirección que Ted pretendía. Lo hizo pidiéndole solamente una cosa.
+
+Turner le dijo: «Limítate a decirme: “Adiós”».
+
+Esa  palabra  liberó  toda  una  cascada  de  recuerdos  y  emociones condensadas en la historia personal de Larry. Éste no pudo expresarlas. En lugar de hacerlo, le dijo a su agente: «Me quedo».
+
+Turner sabía de antemano que la historia que gobernaba la vida de Larry estaba dominada por la muerte prematura de su padre. En lo más hondo de su ser, Larry sentía que su padre fue injusto por abandonarle cuando él era pequeño. Turner sabía que Larry tenía problemas con la deslealtad. Al pulsar el botón emocional conectado con aquel episodio vital, Ted se l evó el gato al agua.
+
+SIN EMBARGO, PARA APROVECHAR su ventaja usted no tiene por qué ser  tan  radical.  A  veces,  conocer  alguna  historia  personal  de  su  público puede ayudarle a dar forma a su historia principal para ganárselo de forma
+
+positiva.  La  primera  vez  que  recuerdo  haberlo  hecho  fue  al á  en  los  años setenta, cuando le vendí a David Begelman  El expreso de medianoche.
+
+David era presidente de Columbia Pictures cuando abandoné mi cargo como jefe de estudio para crear mi propia productora. Él, que siempre me apoyó  en  todo,  estuvo  de  acuerdo  en  distribuir  mi  primera  película,  e Deep.  Después  del  gran  éxito  del  filme,  estuvo  dispuesto  a  financiar  un proyecto más arriesgado, basado en la historia verídica de un joven de Long Island a quien atrapan vendiendo drogas fuera de Turquía, y le condenan a cadena  perpetua.  Sin  embargo,  David  acordó  apuntarse  al  proyecto solamente  si  yo  le  ofrecía  una  garantía  colateral,  es  decir,  si  aplicaba  mis beneficios  de   e  Deep  para  cubrir  cualquier  pérdida  potencial  de   El expreso de medianoche. Ningún cineasta quiere arriesgarse de esta manera, pero yo deseaba tanto hacer aquel a película que estuve de acuerdo.
+
+Cuando  estábamos  concluyendo  la  fase  de  desarrol o  del  proyecto, empecé a oír rumores sobre una historia personal muy negativa que estaba afectando a David. A principios de 1977, el actor Cliff Robertson reveló que David  había  falsificado  un  cheque  de  10.000  dólares,  que  destinó  a  un estudio,  pero  que  debería  haber  cobrado  Robertson.  Hacienda  abrió  una investigación  y  descubrió  que  Begelman  había  falsificado  varios  cheques, por  un  importe  total  de  40.000  dólares,  para  cubrir  sus  deudas  de  juego.
+
+Según  los  estándares  de  Hol ywood,  aquel a  cantidad  era  relativamente exigua, y como Columbia había prosperado mientras él estuvo en el puesto, siguió  siendo  director  del  estudio.  A  pesar  de  el o,  ahora  la  investigación gubernamental  mantenía  un  foco  intenso  centrado  hasta  en  el  último movimiento de David.
+
+A principios de 1978, éste consiguió una versión temprana de  El expreso de  medianoche  para  proyectársela  a  Norman  Levy,  el  jefe  de  ventas domésticas de Columbia. David, sintiéndose claramente incómodo, se sentó delante  de  mí  y  estuvo  haciendo  gestos  nerviosos  durante  toda  la  sesión.
+
+Cuando  acabó  la  película,  Norman  asintió  con  la  cabeza,  en  señal  de aprobación.  Él,  en  cambio,  dijo:  «Es  una  película  cruda.  No  creo  que podamos estrenarla. ¿Qué dirá la Agencia Federal Antinarcóticos? No estoy
+
+nada  convencido  de  que  éste  sea  el  tipo  de  película  que  deba  rodar Columbia  Pictures».  Y  entonces,  al  olfatear  mi  pánico,  se  ofreció astutamente  a  librarme  de  la  pignoración  si  yo  liberaba  a  Columbia  del acuerdo de distribución.
+
+Aquel a  oferta  parecía  excesivamente  generosa.  Si  yo  no  aceptaba,  me arriesgaba  a  hundirme  con  la  película.  Pero,  mientras  iba  subiendo  las escaleras, pensé:  No  puedo  hacer  esto.  Cuando  l egamos  a  su  despacho,  le dije:  «David,  esta  historia  no  va  sobre  el  crimen.  Es  una  historia  sobre  el sufrimiento que provoca la injusticia. Puede que aquel chico fuera culpable, pero  el  castigo  excedió  con  creces  la  naturaleza  del  crimen.  Querían arrebatarle toda su vida. ¿No te imaginas la empatía que sentirá el público por él?»
+
+Sin darme cuenta, estaba enfocando directamente la historia personal de David. Dado que le preocupaba tremendamente pensar que le arrebatasen su vida por haber falsificado tres cheques, no podía por menos que ver la película como un reflejo de su propia historia. Al presentar al criminal de  El expreso  de  medianoche  como  víctima  de  una  injusticia  contra  la  que, valientemente,  sigue  luchando,  ofrecí  a  Begelman  tanto  un  destel o  de esperanza  para  su  propia  situación  como  un  incentivo  para  respaldar  la película.  Instintivamente,  yo  había  usado  el  «ingrediente  secreto»  del storytelling para obtener el éxito.
+
+Afortunadamente,  Norman  intervino  en  ese  instante  diciendo  que pensaba  que  Columbia  podría  ganar  dinero  con  aquel  filme.  David  echó una mirada feroz a Norman, y sólo con aquel o forjó un plan. Iba a hacer una  apuesta  conmigo.  No  haríamos  ninguna  proyección  de  prueba  en Estados Unidos. En lugar de eso, la película viviría o moriría en el Festival de Cine de Cannes. Si la recepción en Cannes era todo un fiasco, yo caería sobre mi propia espada.
+
+Tragué  saliva  como  pude  y  acepté  la  apuesta  de  David.  En  Cannes,  el público se mantuvo en silencio durante toda la película, hasta los títulos de crédito  al  final.  Entonces  se  encendieron  las  luces  y  dos  mil  personas  se pusieron en pie y ovacionaron el filme.
+
+Tristemente, la vida no siguió la pauta de mi maniobra artera. David se pasó varios años lidiando con una depresión, y al final acabó suicidándose.
+
+No  pude  cambiar  el  final  para  él,  pero   El  expreso  de  medianoche  acabó ganando dos Oscar, incluido el de Mejor Guión y Mejor Banda Sonora, y seis  Globos  de  Oro,  y  hasta  el  de  Mejor  Película.  Fue  un  tremendo  éxito comercial,  y  encima  durante  la  guardia  de  David  Begelman.  Y  la  DEA acabó respaldando la película.
+
+Pero, igual que sucedió con muchas de las historias que conté durante las primeras  fases  de  mi  carrera,  mi  forma  de  contárselo  a  Begelman  fue instintiva,  no  calculada.  Encontré  las  palabras  adecuadas  gracias  a  la casualidad, no de forma intencionada. Y mantuve la esperanza de que mi público  me  escuchara,  en  lugar  de  usar  el   stoytelling  para   garantizar  su atención.  En  resumen,  no  entendí  que  para  convertir  historias  con propósito en un instrumento para el éxito, que cambie las cosas, uno tiene que estar: preparado. . listo. . y ¡contar!
+
+¡AJÁ!
+
+•    Aduéñese  de  su  propia  historia  personal,  para  que  no  lo  sabotee cuando cuente su historia  principal.
+
+•  Participe en su propio rescate; confronte su historia con las que otros cuentan de usted.
+
+•    Aproveche  la  historia  personal  soterrada  que  dirige  a  su  oyente; puede ser un aliado poderoso.
+
+SEGUNDA PARTE
+
+EL ARTE DE LA NARRATIVA
+
+CÓMO PONER EN PRÁCTICA SU HISTORIA
+
+5
+
+Preparado...
+
+¡Vienen los Olímpicos! ¡Vienen los Olímpicos!
+
+Aunque  aún  faltaban  dos  años  para  los  Juegos  Olímpicos  de  1984,  en Los  Ángeles  se  vivía  una  gran  excitación.  Todos  los  empresarios  de  la ciudad  querían  desempeñar  un  papel  en  aquel  proyecto,  y  yo  no  fui  una excepción. En aquel momento, mi compañía producía películas, televisión y música.  Me  encantaban  los  deportes,  y  sentía  que  aquel  acontecimiento atlético,  histórico,  celebrado  justo  en  nuestro  patio  trasero,  podría  ser  la oportunidad  de  toda  una  vida.  Pero  ¿cómo?  ¿Cuál  era  mi  meta exactamente? ¿Qué quería conseguir en, para y con los Juegos Olímpicos?
+
+¿Quién era el público al que debía convencer? Y, ¿cómo apelar mejor a sus intereses y ganármelos para mi causa?
+
+Nadie me permitiría cruzar esa puerta sólo porque quisiera formar parte de la acción. Y las participaciones más jugosas ya estaban adjudicadas. ABC
+
+había  conseguido  la  producción  de  la  cobertura  televisiva  estadounidense de  los  Juegos.  Además,  el  LAOOC  (Los  Angeles  Olympic  Organizing Commitee),  dirigido  por  Peter  Ueberroth  y  Harry  Usher,  se  encargaría  de las  ceremonias  de  apertura  y  de  clausura,  las  instalaciones  y  las  pruebas atléticas. O sea, que yo no tenía ninguna oportunidad de producir nada de la acción, ni la física ni las emisiones. . pero ¿y la música? En mis compañías anteriores,  Casablanca  y  Polygram,  habíamos  creado  los  discos  con  las bandas sonoras de  Flashdance, que consiguió un disco de platino, y de  El
+
+expreso de medianoche, cuya partitura ganó el Oscar. Un papel relacionado con la música sería congruente con mi experiencia y mis intereses.
+
+De repente vi claro mi objetivo. ., o eso pensé. Mi compañía produciría la música  para  los  XXIII  Juegos  Olímpicos.  Esto  no  sólo  nos  haría participantes  en  esa  celebración  histórica,  sino  que  también  daría  a  mi compañía un crédito de calibre mundial.
+
+Con  grandes  expectativas,  organicé  una  reunión  con  Harry  Usher, director general y cancerbero del gurú último de los Juegos, el presidente del  LAOOC,  Peter  Ueberroth.  Harry  parecía  un  público  prometedor, porque me conocía y sabía cuál era mi experiencia y mi credibilidad en el terreno musical. Aun así, me preparé de antemano para asegurarme de que apuntaba a sus máximos intereses. Mi investigación reveló que el objetivo del LAOOC era convertir estos Juegos en los más bril antes y rentables de la historia,  demostrando  así  que  los  Juegos  Olímpicos  podían  ser  un  motor económico poderoso. Para apelar a los intereses de Usher y demostrar que mi  propuesta  tenía  tanto  autenticidad  como  congruencia,  tendríamos  que ofrecer al LAOOC el uso de la música gratis. Nuestro beneficio económico saldría de las ventas del álbum.
+
+Confiado en que tenía el público adecuado y la propuesta correcta, fui a reunirme con Usher en su terreno, la sede del LAOOC. Lamentablemente, en aquel momento de mi carrera aún pensaba que los datos y la estrategia pertinentes  me  proporcionarían  las  l aves  del  reino.  Usher  sólo  podía dedicarme  unos  minutos,  de  modo  que  los  invertí  en  exponer  nuestras credenciales  y  hablar  de  los  beneficios  que  podría  añadir  a  los  Juegos  la música nueva.
+
+Usher  me  escuchó  amablemente,  y  luego  me  dijo:  «No  lo  tengo  claro.
+
+Vaya  a  ver  a  Ric  Birch  en  la  oficina  de  David  Wolper.  El os  producen  las ceremonias de apertura y de clausura, y quizá puedan utilizar música. A lo mejor les interesa el tema». Traducción: a Usher  no le interesaba.
+
+Me  batí  en  retirada,  magul ado  pero  no  vencido.  El  problema  parecía estar en «el tema». Usher no pudo captar el eco emocional de mi propuesta.
+
+Yo  había  elegido  un  objetivo  sin  corazón.  No  me  extraña  que  no
+
+consiguiera  motivarle.  Pero,  ¿dónde  estaba  el  corazón  de  mi  oferta?  Lo sentía, pero no sabía cómo expresarlo.
+
+Un  mes  más  tarde  estaba  en  una  cabaña  de  África,  realizando  la investigación de preproducción para un documental sobre los gorilas de las tierras  bajas  y  de  montaña.  De  repente,  en  la  habitación  de  nuestro ingeniero  de  sonido,  en  la  puerta  de  al  lado,  se  escuchó  un  escándalo tremendo.  ¡Oí  trompetas!  ¡Tambores!  De  inmediato  reconocí  el  tema musical  icónico  de  Charles  Fox,  la  firma  musical  del   ABC  Wide  World  of Sports.
+
+En  mi  mente  se  proyectaron  las  imágenes  familiares  de  los  atletas compitiendo, con las imágenes finales del deportista que salía volando de la pista  de  esquí  y  aterrizaba  en  la  nieve,  mientras  el  presentador  del programa, Jim McKay, narraba: «La emoción de la victoria y la agonía de la derrota. .  El  drama  humano  de  la  competición  atlética».  Invadido  por  la emoción  y  la  anticipación,  seguí  aquel a  l amada  inequívoca  hasta  el televisor  portátil  del  ingeniero,  y  de  inmediato  me  vi  transportado  a  un drama atlético que tenía lugar en la otra punta del mundo.
+
+¡Aquel era mi «tema»! Al contar la historia de cómo una pieza musical me  había  transportado  emocionalmente  desde  África  hasta  un acontecimiento  concreto  en  el  otro  lado  del  mundo,  podía  ilustrar  la l amada  a  la  acción  que  nuestros  segmentos  musicales  para  los  Juegos Olímpicos  transmitirían  a  los  públicos  de  todo  el  planeta.  Yo  sabía  bien, gracias  a  mi  trabajo  en  el  cine,  cómo  la  partitura  adecuada  se  podía combinar  con  imágenes  visuales  para  captar  la  atención  de  la  gente.  Una música  estupenda  puede  codificar  toda  la  historia  de  una  película, proporcionándole unidad emocional. Y, si podíamos juzgar en función de la melodía «Gonna Fly Now», de Bil  Conti, para la película  Rocky, la relación entre  la  música  y  la  imagen  no  hace  más  que  intensificarse  cuando  la historia gira en torno al deporte. ¡La música que produciríamos codificaría y unificaría  el  drama  emocional  de  los  Juegos  Olímpicos  de  1984,  en  una serie de temas musicales característicos!  Aquel era el meol o de mi objetivo, el factor crucial «del tema».
+
+De vuelta en Los Ángeles realicé ciertas investigaciones y descubrí que, aunque  la  música  había  desempeñado  un  papel  limitado  en  los  Juegos Olímpicos  desde  los  años  treinta  del  siglo  XX,  nadie  había  creado  jamás toda  una  suite  de  piezas  de  tal a  mundial  concretamente  para  unos  solos Juegos. No estábamos hablando del hilo musical del ascensor ni del ruido de fondo. Emplearíamos a los mejores compositores del mundo para crear una  sintonía  musical  única  para  cada  modalidad  deportiva,  de  modo  que los  oyentes  identificaran  de  inmediato  qué  deporte  iban  a  ver  a continuación.  Cada  melodía  sería  una  l amada  inequívoca  para  que  el público  participase,  tanto  física  como  emocionalmente,  en  el  drama humano  contenido  en  la  prueba.  La  seducción  musical  comenzaría  varias semanas  antes,  con  vídeos  promocionales,  y  continuaría  durante  la retransmisión de los Juegos. La música atraería a las personas presentes en las  instalaciones.  Además,  las  induciría  a  recordar  esos  Juegos  Olímpicos durante  años  y  años,  gracias  a  nuestro  álbum,  que  contendría  la  banda sonora de todas las melodías.
+
+Ahora que controlaba el meol o de mi objetivo, las ideas fueron fluyendo mientras volvía a prepararme para contar mi historia. Pero, ¿a qué público debía dirigirla primero? Harían falta muchas gal inas para poner ese huevo de oro, y cada una representaba un conjunto distinto de intereses.
+
+Decidí que el respaldo oficial del LAOOC, plasmado en el sel o gráfico de  aquel os  anil os  olímpicos,  sería  la  clave  para  contar  y  vender  mi propuesta a cualquier persona. Y dado que Ric Birch era mi único camino para volver a ver a Usher, éste tendría que ser mi siguiente público.
+
+Me  cité  con  Birch  en  la  sede  del  LAOOC  (el  lugar  donde  era  más probable  que  me  considerase  un  competidor  olímpico),  y  le  dije  que  mi idea para los Juegos Olímpicos estaba inserta en una experiencia que tuve en  África.  Entonces  le  conté  la  historia,  concluyendo  con  mi  l amada  a  la acción. «Gracias al arco iris de talentos que aportaremos a la composición y la ejecución de esta música, honraremos el espíritu de los Juegos Olímpicos,
+
+e  incrementaremos  muchísimo  la  experiencia  de  los  Juegos  que  tenga  el público.»
+
+Ric sonrió. «Lo capto», me dijo.
+
+Y  así  empezó  todo.  Con  el  respaldo  de  Ric,  conté  a  Harry  Usher  mi experiencia  en  África.  Ahora  sí  lo  entendió.  El  productor  de  ABC  Sports, Roger Goodman, escuchó mi historia, y la captó. Al contar con el apoyo de la  cadena  ABC,  pasé  a  ver  al  director  gerente  de  CBS  Records,  Walter Yetnikoff.  Ya  habíamos  tenido  relaciones  profesionales,  y  compartiríamos los  beneficios  de  aquel  disco,  de  modo  que  costaría  menos  convencerle.
+
+Pero a Yetnikoff le interesaba una música que siguiera vendiéndose mucho tiempo,  de  modo  que  subrayé  el  valor  de  nuestro  álbum  como  pieza  de coleccionista, sobre todo si atraíamos a los compositores del mayor calibre posible.
+
+Con  el  respaldo  de  Yetnikoff,  conté  mi  anécdota  a  los  ganadores  de Grammy y de Oscar, John Wil iams, Quincy Jones y Bil  Conti. Para apelar a sus intereses, enfaticé que el público de los Juegos se calculaba en unos 2.000  mil ones  de  personas,  todas  las  cuales  escucharían  su  música.  Pero también  tuve  que  desactivar  los  prejuicios  que  tenían  algunos  de  esos artistas  contra  «la  maquinaria  de  Hol ywood».  Si  les  parecía  que  yo intentaba  ganar  dinero  aprovechando  los  Juegos  y  a  costa  de  el os,  me dejarían  de  lado.  Así  que,  dando  una  vuelta  de  180  grados  a  la  práctica habitual,  les  prometimos  que  conservarían  todos  los  derechos  sobre  sus composiciones.  De  repente,  todo  el  mundo  lo  entendió  y  quiso  subirse  al tren. En nuestra lista de talentos apuntamos a Giorgio Moroder, Bob James, Burt  Bacharach,  Carole  Bayer  Sager,  Christopher  Cross,  Toto,  Foreigner, Herbie  Hancock  y  Philip  Glass.  Ahora  sólo  nos  quedaba  elaborar  el producto.
+
+Con sólo diez meses para que estos artistas tan diferentes compusieran, ejecutaran  y  grabasen  sus  composiciones,  me  despertaba  cada  noche empapado  en  sudor  frío,  imaginando  un  Coliseum  de  Los  Ángeles atiborrado de público, a un director de orquesta que levantaba la batuta, y. .
+
+no  había  música.  Pero  al  final  l egó  el  día  en  que  el  compositor  John
+
+Wil iams y David Wolper, que se encargaba de las ceremonias de apertura y de  clausura,  nos  l amaron  al  escenario  de  orquestación  de  MGM  para escuchar  un  ensayo  de  la   Fanfarria  de  Wil iams.  Cuando  brotaron  las primeras diez notas de aquel a orquesta de 101 músicos, se me l enaron los ojos de lágrimas. Sentí que toda la experiencia por la que habíamos pasado daba fruto por fin. La música resultó ser tan conmovedora y poderosa como había prometido mi historia.
+
+Hicimos algo más que l egar a nuestro público mundial: los conmovimos.
+
+El tema olímpico de John Wil iams ganó un Grammy. En la cubierta final del álbum figuraban los anil os olímpicos y un sel o dorado donde se leía:
+
+«Música oficial de los XXIII Juegos Olímpicos, Los Ángeles 1984». Y desde ese momento todos los Juegos han tenido una banda sonora propia.
+
+LA PREPARACIÓN ES LA MADRE DEL
+
+ÉXITO
+
+Hoy veo claramente por qué fracasó mi primera entrevista con Harry Usher, y  por  qué  mi  historia  posterior  tuvo  éxito.  Incluso  antes  de  contar  mi historia,  debería  haber  definido  mis  objetivos  con  mucha  más  claridad, desde el meol o de mi meta hasta el «y nosotros qué sacamos de esto». Para incitar a la acción a mi público meta, necesitaba encender su pasión, y para eso tenía que meterlos en la  experiencia que les ofrecía, no sólo en el plan de  negocio.  Las  l aves  del  reino  nunca  fueron,  y  nunca  podían  ser,  sólo informativas.
+
+En  retrospectiva,  este  episodio  demuestra  qué  importante  es  la preparación para dominar el arte de la narración. Por al á, en 1983, puede que  yo  no  entendiera  plenamente  que  lo  que  necesitaba  contar  era  una historia,  pero  sí  me  daba  cuenta  de  que  hay  un  motivo  por  el  que  los tiradores  no  gritan  « ¡Apunten!  ¡Listos!  ¡Fuego! ».  Si  bien  nadie  puede
+
+garantizarle que alcanzará sus blancos si primero no los enfoca con claridad, usted está casi seguro de que fal ará el tiro.
+
+Puede que esto parezca de Perogrul o, pero sin embargo el gurú ejecutivo Bil   Simon  me  dijo  hace  poco  que  la  falta  de  preparación  es  el  motivo número  uno  por  el  que  los  candidatos  ejecutivos  no  logran  ganarse  a  los empleadores  potenciales  en  las  entrevistas  de  trabajo.  Simon  es  socio principal  y  director  ejecutivo  del  sector  de  los  medios  de  comunicación, entretenimiento y convergencia en Korn/Ferry International, ese coloso de compañía  de  captación  especializada  en  la  contratación  mundial  de  alto nivel y la gestión del talento. Yo había recurrido a el os en varias ocasiones para captar a los altos ejecutivos que formarían parte de mis empresas, así que  sabía  que   sólo  representaban  a  individuos  plenamente  cualificados  y con mucha experiencia. Eso hizo que su comentario resultase mucho más alarmante.  Si  esas  personas  no  se  preparaban  para  que  las  contratasen,
+
+¿cómo  podrían  hacerlo  para  dirigir  organizaciones,  convencer  a  clientes, dirigir a los empleados y vender productos?
+
+Simon me explicó que la arrogancia y la santurronería pueden confundir a ejecutivos con posibilidades de que los contraten, induciéndoles a pensar que  no  deben  prepararse.  En  lugar  de  realizar  el  trabajo  de  antemano necesario  para  proyectar  luz  sobre  su  actitud  y  su  aptitud,  algunos  se fundamentan  en  sus  currículos.  Esto  suele  ser  un  error  fatal,  me  dijo, porque la esencia de lo que recuerda el público no está en un currículum, sino en el modo en que la persona cuenta su historia.
+
+Cuando le pregunté cómo aconseja que se preparen sus clientes, Simon me  dijo  que  lo  primero  que  les  dice  es  que  fijen  sus  objetivos  y  los clarifiquen.  «Hoy  la  palabra  “transparencia”  está  muy  manida.  Todo  el mundo la usa en el lugar de trabajo y en los negocios, pero en realidad es muy importante. La historia debe tener un propósito, debe ser pertinente, y debe tener una conclusión.» Hizo una pausa y repitió, para subrayar la idea:
+
+«Incluso en el entorno de la empresa, debe haber un motivo para contar la historia».
+
+Para ejemplificar lo que quería decir con «propósito», Simon mencionó al candidato que había impresionado al comité de búsqueda de la UCLA en 2009, cuando trabajábamos para contratar a un nuevo decano.
+
+¿Cuál es el corazón de su objetivo?
+
+Nuestro comité buscaba a un líder para una de las mejores escuelas de cine, teatro y medios digitales del país, donde habían asistido alumnos de la tal a de  Francis  Ford  Coppola,  el  director  de   El  padrino.  Llevábamos  meses buscando  tres  candidatos  principales  que  presentar  al  rector  para  que  él tomase  la  decisión  final.  Entonces  Bil   Simon  convenció  a  Teri  Schwartz para que se reuniera con nosotros.
+
+Teri era la decana fundadora de la School of Film and Television de la Loyola  Marymound  University,  pero  lo  que  nos  impresionó  de  el a  no fueron sus credenciales. Lo que captó de inmediato nuestra atención fue el modo  en  que  comenzó  su  entrevista  de  dos  horas,  contando  una  historia que nos demostró que se había puesto al día sobre  nosotros.
+
+«El problema al que se enfrenta la UCLA es evidente —empezó—. Está perdiendo rápidamente fondos y recursos. Pero, lo que es más importante, su centro educativo ha perdido su viveza. Un decano nuevo debe cambiar el ambiente y sistema de trabajo y crear una historia nueva para el centro.
+
+La pujanza económica será una consecuencia de la respuesta colectiva, pero jamás puede antecederla.»
+
+Nos dijo que aquel a era la oportunidad de toda una vida para ayudar a la escuela a replantearse a sí misma para el siglo XXI. Pero el cambio no se iba a producir sin cierto grado de lucha interna, dado que la UCLA era una institución madura. El héroe de nuestra historia, el futuro decano, tendría que ser alguien capaz de incitar a la acción a todo el mundo, desde alumnos a  administradores,  para  que  transitaran  por  un  camino  muy  nuevo  y especial.
+
+«No  se  trata  de  mí  —nos  dijo—.  Se  trata  de  la  visión  para  una  escuela estupenda,  cuyos  licenciados  se  convertirán  en  líderes  de  la  industria,  e
+
+inspirarán los cambios que l even a un mundo mejor.» Aquel a visión era el corazón del objetivo que tenía la historia de Teri Schwartz.
+
+Pero lo que me cautivó y lo que siempre recuerdo es la manera en que expuso  su  objetivo.  Teri  concluyó  su  historia  usando  una  analogía  mágica de nuestra escuela: una laguna límpida en la que cada persona asociada con el  centro  dejará  caer  una  nueva  cualidad  de  diversidad,  innovación  y tecnología. Todas esas gotas saldrían, como pequeñas olas, hacia el mundo y  el  futuro,  y  cada  una  de  esas  ondas  reflejaría  nuestra  visión  y  nuestra participación, tanto individuales como colectivas.
+
+La  historia  de  Teri  al anó  el  camino  para  una  entrevista  participativa  y energética,  después  de  la  cual  se  reunió  con  nosotros  como  grupo  e individualmente en varias ocasiones más, antes de que tomásemos nuestra decisión final. A lo largo de todas esas reuniones, su historia introductoria y,  en  concreto,  su  metáfora  de  aquel a  laguna  espejo,  siguió  incitándonos.
+
+Al expresar con tanta claridad la esencia de su objetivo dentro del contexto de nuestro problema, la decana Schwartz estableció un vínculo emocional que le sirvió de mucho. La presentamos al rector como una de las finalistas, y unas pocas semanas más tarde la contrataron.
+
+PERO ESTAS MISMAS NORMAS de preparación que gobiernan el arte de la  narrativa,  ¿son  aplicables  también  al  arte  de  contar  para  vender  un producto comercial? Para descubrirlo, consulté con la líder en creación de marca,  Lynda  Resnick.  Junto  a  su  esposo,  Stewart  Resnick,  Lynda  es propietaria  y  directora  de  Rol   International,  una  corporación  de  2.000
+
+mil ones  de  dólares  que  tiene  más  de  4.000  empleados,  y  líneas  de producto tan distintas como Teleflora, FIJI Water y POM Wonderful. Como supervisora  de  todo  su  marketing  y  su  marca,  Lynda  siempre  tiene  el objetivo  último  de  convertir  sus  compañías  en  negocios  sólidos  que beneficien al cliente y proporcionen ingresos económicos. Y el a, con total transparencia, atribuye el éxito de su empresa al arte de contar historias.
+
+«No  trabajo  con  empresas  que  no  tengan  una  historia  —me  dijo—, porque si no tienen historia, no tienen negocio.»
+
+El  padre  de  Resnick  es  el  veterano  de  Hol ywood  Jack  Harris,  que produjo  clásicos  de  culto  como   La  masa  devoradora   y   Los  ojos  de  Laura Mars.  De  manera  que  el a  creció  no  sólo  escuchando  relatos,  sino  viendo cómo su padre los desarrol aba. Ese legado le enseñó que la primera regla de la narrativa es ofrecer al público una experiencia emocional. De modo que el meol o del objetivo de cada historia que cuenta es el sentimiento que quiere generar en sus oyentes. Pero esta l amada a la emoción debe servir a un  propósito  mayor,  que  es  lo  que  el a  desea  que  haga  la  audiencia.  En otras palabras, la l amada a la emoción debe  motivar al público a escuchar ese  l amamiento.  Tanto  si  Lynda  quiere  que  sus  oyentes  financien, fabriquen,  vendan  o  compren  productos,  sabe  que  lo  primero  que  debe hacer es hal ar un modo de vincularlos emocionalmente con ese producto.
+
+Lynda  me  contó  que  nunca  se  inventa  la  emoción  que  quiere  hacer sentir  a  sus  oyentes.  En  lugar  de  el o,  busca  la  esencia  de  cada  producto.
+
+«Pienso  dentro  de  esquemas  habituales  —me  dijo—.  La  respuesta  a  cada problema  radica  dentro  del  problema.»  Si  usted  tiene  éxito  al  contar  una historia que hace que su público sienta que ese corazón late por el os, me dijo, comprarán su producto para hacerse con la historia. Un caso claro: las perlas falsas de Jackie Kennedy.
+
+En 1996, Lynda se enteró de que Sotheby subastaba un col ar de perlas de imitación procedente de la herencia de Jacqueline Kennedy Onassis. El a quería  adquirirlo  para  fabricar  imitaciones  por  medio  de  la  empresa Franklin Mint, que en aquel momento era propiedad de los Resnick, pero primero  tendría  que  contar  su  historia  de  tal  manera  que  obtuviese  el respaldo de su marido, Stewart. Él supuso que el col ar se vendería por el precio  señalado,  de  entre  300  y  700  dólares,  pero  Lynda  le  advirtió  que probablemente el precio final rondaría los 25.000. Entonces, antes de que él pudiera objetar, el a le explicó el meol o de su objetivo por medio de una serie  de  fotos  donde  aparecía  Jackie  con  el  col ar  de  perlas,  en  la  Casa Blanca.  En  una  se  veía  al  pequeño  John  John  sentado  en  su  regazo,
+
+tironeando  del  col ar.  «Lo  l evaba  puesto  en  casi  todas  las  fotos  que  le hicieron  —dijo  Lynda  a  su  esposo—.  Son  el  icono  de  un  icono.»
+
+Inmediatamente,  él  lo  entendió:  cualquier  mujer  que  l evase  una  réplica exacta  de  aquel as  perlas  se  sentiría  como  si  canalizase  a  la  reina  del Camelot estadounidense. Por lo tanto, lo que Lynda quería comprar era la historia de Jackie. Entonces filtraría esa historia en las perlas de imitación, y la contaría a sus empleados, los medios y los clientes, ofreciendo a todos y cada  uno  de  el os  la  experiencia  de  la  reina  de  Camelot.  El os,  entonces, contarían la historia a otros, para inspirarlos a comprar el mismo col ar.
+
+Los  Resnick  acabaron  pagando  211.000  dólares  por  el  col ar, convirtiendo  aquel as  perlas  falsas  en  las  más  caras  del  mundo.  Pero  el hecho de poseerlas dio a Lynda el derecho y la capacidad de analizarlas y copiarlas,  l egando  incluso  al  «cierre  de  plata  de  ley  y  las  tres  pequeñas circonitas  cúbicas,  junto  con  el  cordón  de  seda  y  las  diecisiete  capas  de laca».  Se  vendieron  más  de  130.000  ejemplares  de  aquel a  réplica  exacta, cada  uno  por  un  precio  de  200  dólares,  arrojando  un  beneficio  neto  de varios mil ones; todos el o contado y vendido por medio de una historia.
+
+Lynda  me  impresionó  por  su  dedicación  completa  a  la  autenticidad.  El motivo de que disponer del original fuera tan importante para el a era que aquel objeto le daría el derecho y la capacidad de producir las réplicas más fieles  posibles  al  original,  y  poseer  y  contar  la  historia  que  relataban  las perlas.  Aunque  aquel as  perlas  fueran  copias,  eran  copias  creíbles.  «Tiene que  ser  real  —me  dijo,  enfáticamente—.  La  promesa  de  la  historia  debe cumplirse. Si no se cumpliera, ¿a quién le iba a interesar?»
+
+SI ALGUIEN SABE CÓMO CREAR historias que cumplen sus promesas, es  Pat  Riley,  el  legendario  entrenador  de  baloncesto  que  condujo  a  Los Angeles Lakers a la obtención de cuatro títulos de campeonato en los años ochenta, antes de pasarse a los Miami Heat. Seguramente Riley ha bebido en  su  vida  menos  champán  del  que  le  han  echado  por  la  cabeza.  Lo conozco  hace  años,  y  le  he  visto  utilizar  el  arte  de  la  narrativa  de  mil
+
+maneras  diferentes,  para  motivar  y  guiar  a  sus  jugadores.  Pero  la  historia que me produjo una impresión más duradera fue la que contó para ganar el Campeonato de la NBA de 2006.
+
+Los  Heat  ni  siquiera  parecía  que  tuvieran  opciones  para  entrar  en  los play-offs  de  ese  año.  Pero  como  el  novato,  Dwyane  Wade,  y  la  ex superestrel a  de  los  Lakers,  Shaquil e  O’Neal,  estaban  que  se  salían,  el equipo  fue  subiendo  a  buen  ritmo  hasta  situarse  tres  a  dos  en  las  finales contra los Mavericks; los dos últimos partidos de la serie estaban previstos para  celebrarse  en  Dal as,  donde  los  Mavericks  jugarían  en  casa.  Con  la esperanza de ver un partido histórico, decidí acudir a Dal as con el experto en  crecimiento  personal  Tony  Robbins,  que  también  era  amigo  de  Riley.
+
+Telefoneamos a Pat y le pedimos que nos ayudara a conseguir entradas para el séptimo partido. Insistió en que fuéramos a ver el sexto. Yo le dije: «Pero es que a mí me interesa ver el último partido». Él me respondió: «Sólo os conseguiré entradas para el sexto».
+
+No  lográbamos  entenderlo.  ¿Por  qué  no  nos  permitía  ver  el  séptimo partido?  Un  poco  molestos,  tomamos  el  avión  para  ver  el  sexto  y,  ¡mire usted por dónde!, ¡los Heat ganaron el campeonato esa misma noche!  No habría un séptimo partido.
+
+Pero ¿cómo podía haberlo sabido Pat de antemano? Más tarde, cuando vino de invitado a uno de mis cursos de posgrado de la UCLA, le formulé esta pregunta. Él respondió: «Le conté una historia a mi equipo».
+
+Riley  estaba  convencido  de  que  su  equipo  podría  derrotar  a  los Mavericks siempre que el os estuvieran  seguros de poder hacerlo. Pero ya se dio cuenta de antemano que los Mavericks tendrían una enorme ventaja en Dal as.  Estadísticamente,  el  equipo  que  tiene  la  ventaja  de  jugar  en  casa gana más de tres de las cuatro series de los  play-offs. Y el hándicap de los Heat sería más intenso en el séptimo partido. Riley dijo: «Obviamente, no queríamos tener que ir a Dal as a disputar el séptimo partido». Por lo tanto, su objetivo era acicatear el deseo de sus jugadores de ganar en el sexto.
+
+Pero  ¿cómo?  Instintivamente,  Riley  sabía  que  tenía  que  meter  a  sus jugadores  en  la  experiencia  positiva  de  una  victoria  en  seis  partidos,  que
+
+fuera  contundente,  rápida  y  definitiva.  Además,  debía  hacer  que  el os sintieran que aquel a meta era real y alcanzable, para sincronizar su actitud mental con su propósito.
+
+¿Y qué hizo? Una apuesta: contó a su equipo la historia de su victoria, condensada  en  una  sola  línea.  «Dije  a  todo  el  mundo  que  hiciera  el equipaje para un solo día, no para dos, tres o cuatro; sólo una muda para un día». Aquel a historia breve y elegante telegrafió la intención de Riley: que  no  habría  un  séptimo  partido.  Los  Heat  no  iban  a  necesitar  una segunda muda de ropa, les dijo implícitamente, porque iban a volver a casa la noche del sexto partido, en calidad de campeones de la NBA. Él lo contó, el os lo sintieron, y luego lo hicieron.
+
+Al  volver  la  vista  atrás,  me  doy  cuenta  de  que  Pat  Riley  nos  había contado a mí y a Tony una variante de la misma historia cuando se negó a conseguirnos entradas para el séptimo partido. ¿Por qué no lo entendimos?
+
+¡Porque  no  éramos  el  público  meta!  El  corazón,  el  cuerpo  y  el  alma  del público meta de Riley debían verse transportados hasta que se apropiaran de su objetivo. Nosotros éramos simples espectadores.
+
+PERO  ¿QUÉ  SUCEDE  CUANDO  hay  que  entrenar  a  un  equipo empresarial? Sin duda, el meol o del objetivo en una historia con propósito aplicada  a  los  negocios  adopta  varias  dimensiones.  Rob  Pardo, vicepresidente  ejecutivo  del  diseño  de  juegos  en  Blizzard  Entertainment, una  división  del  líder  de  mercado  Activision,  me  contó  una  de  esas historias:  un  relato  que  contó  a  sus  diseñadores  cuando  trabajaban  en World of Warcra.
+
+Pardo  me  dijo  que  en  su  negocio,  dominado  por  los  grandes  éxitos fugaces, la posibilidad de unas ganancias de mil mil ones de dólares resulta muy  seductora,  pero  el  fracaso  también  ronda  por  ese  territorio.  El desarrol o de un juego es tremendamente complejo e impredecible. «Hacer un juego es como rodar una película mientras, al mismo tiempo, inventas la cámara.  Fabricamos  una  tecnología  nueva  de  trinca  para  respaldar  un
+
+juego,  mientras  éste  todavía  está  en  fase  de  desarrol o.»  Como  diseñador jefe de  World of Warcra,  el  objetivo  posterior  de  Pardo  era  inspirar  a  su equipo  de  diseño  y  de  ejecución  para  que  asumiera  los  riesgos  necesarios para la verdadera innovación. El problema era que había mucho en juego.
+
+«Diseñar, desarrol ar e introducir un juego en el mercado es muy caro —
+
+dijo—. Y, ¿cómo le dice uno a su equipo que  no vaya a lo seguro? Una vez que  han  invertido  meses  y  años  de  tiempo  y  energías,  lo  natural  es  que quieran ver su producto en las estanterías.»
+
+Parecía una idea contraintuitiva, pero cuando se preparaba para decir a su  equipo  que  fuera  más  innovador,  se  dio  cuenta  de  que  la  esencia  del objetivo  de  su  historia  era  introducir  un  cambio  drástico  en  sus sentimientos  sobre  el  fracaso.  «Tenía  que  demostrarles  que  no  iban  a desperdiciar su trabajo, que siempre aprendemos de sus esfuerzos, y que lo que transmitimos es su conocimiento y experiencia. El fracaso forma parte integral  de  cómo  uno  alcanza  el  éxito  siendo  un  diseñador  de  juegos magnífico.»
+
+Pero  no  podía  limitarse  a  exhortarles  a  que  no  fracasaran.  Precisaba ganarse su confianza y motivarlos a sentir aquel o de lo que les hablaba. De repente,  Pardo  tuvo  la  historia  perfecta:  un  relato  de  un  fracaso  público, doloroso y multimil onario al que él mismo logró sobrevivir.
+
+Dijo  a  sus  diseñadores:  «Hace  unos  años  adquirimos  una  compañía  en Silicon Val ey, la que hizo los primeros juegos de  Diablo. El  Diablo original, el de 1996, era un juego de rol de acción, que debutó como número uno en todo el país; pero después del éxito de  Diablo II, las versiones siguientes no funcionaron  lo  bastante  bien  como  para  comercializarlas.  Yo  intenté trabajar con la compañía para obtener una buena visión del diseño de los juegos, pero entonces cambiaron sus directivos. Perdieron diseñadores, y ya no  pudieron  poner  el  proyecto  en  marcha  otra  vez».  Al  final,  Blizzard decidió cerrar la empresa. «Entrevisté a todos sus diseñadores para decidir a quiénes  nos  traeríamos  al  sur  de  California,  a  Blizzard  South.  Y  fue  una experiencia muy humana, porque no sólo se trataba de cancelar un juego.
+
+Llevaban  años  trabajando  en  esos  juegos  nuevos,  ¡y  fracasaron!  No
+
+tendrían nada con lo que demostrar todo aquel esfuerzo. Los miré a todos a los ojos, consciente del coste humano.»
+
+Pero, como Pardo dijo a su nuevo equipo, lo que había estado buscando en aquel os rostros era energía, curiosidad y orgul o. Quería encontrar a los diseñadores  que  admitieran  que  todos  sus  esfuerzos  «fal idos»  habían producido,  en  realidad,  activos  valiosos.  Sabía  que  algunos  empleados  del proyecto  Diablo habían extraído de sus fracasos ideas y puntos de vista que estaban ansiosos por aplicar a juegos nuevos. Aquel as eran las personas que Pardo conservó para que le ayudasen a trazar el rumbo futuro de Blizzard.
+
+«Nuestro índice de éxitos seguramente no supera mucho al de cualquier otra empresa en la industria —dijo para concluir su historia—. La diferencia estriba  en  que  cuando  el  fracaso  es  inevitable,  nosotros  lo  aceptamos, cancelando  juegos  multimil onarios  donde  hemos  invertido  durante  años incluso  antes  de  hacerlos  públicos.  El  fracaso  puede  ser  punto  de  apoyo para hacerlo mejor la próxima vez.»
+
+La historia de Pardo transmitía este mensaje: «Si  World of Warcra está destinado a ser una de esas bajas, que así sea, mientras los diseñadores lo hayáis dado todo en vuestros esfuerzos por innovar». «Al estar dispuestos a arriesgarnos  a  fracasar  en  la  búsqueda  del  éxito,  perdemos  cierto  capital financiero  —dijo—,  pero  damos  prioridad  al  capital  intelectual.  Nuestra meta  no  es  fracasar  intencionadamente,  o  fingir  que  nos  gusta  el  fracaso, sino estar  dispuestos a fracasar en la búsqueda de la grandeza.»
+
+El equipo captó la idea. En 2009, había 11,5 mil ones de suscriptores que jugaban “online” a  World of Warcra,  y  sólo  en  Estados  Unidos  se  habían vendido 8,6 mil ones de ejemplares del juego, convirtiéndolo en uno de los juegos de PC que se han vendido más rápido en toda la historia. Lo que es más importante, los más de 1.200 empleados de Blizzard están encantados trabajando para esa compañía. El  Orange County Register citaba a Blizzard como uno de los mejores lugares donde trabajar en Orange County, y un empleado actual dijo que uno de los motivos era que le «capacitaban para tomar decisiones y aprender de el as».
+
+Sus motivos, ¿son auténticos y congruentes con su objetivo?
+
+Da  lo  mismo  que  usted  sea  director  gerente,  vendedor,  organizador voluntario  o  propietario  de  una  pequeña  empresa:  sus  oyentes  nunca conectarán plenamente con usted, aceptarán su propuesta o se unirán a su desfile a menos que puedan confiar en usted. Y para sentir esa confianza es necesario  que  respeten  sus  motivos  y  sientan  empatía  hacia  usted  en  su calidad  de  ser  humano,  como  el os.  Por  lo  tanto,  para  contar  una  historia atractiva usted debe manifestar una pasión auténtica por su objetivo, pasión que debe ser coherente con su experiencia y su compromiso. Si no me cree, pregúntele a Wal y Amos.
+
+La  mayoría  de  personas  conoce  a  Wal y  como  fundador  de  Famous Amos  Cookies  [Famosas  Gal etas  Amos],  pero  yo  le  conocí  en  los  años setenta, cuando era un agente de talento en la Wil iam Morris Agency. Al í teníamos  a  un  tipo  que  acababa  de  salir  del  instituto  de  secundaria, consiguió un empleo en la sala de correo de la agencia, y que al cabo de un año  se  había  convertido  en  el  primer  agente  afroamericano  de  Wil iam Morris,  y  el  primero  en  contratar  a  e  Supremes,  Simon  &  Garfunkel, Marvin Gaye y a muchos otros artistas legendarios de esa época. Como me contó unas tres décadas después: «Mi sueño en aquel entonces era ser un peso pesado en el mundo del espectáculo de alto nivel. Si los clientes eran importantes, yo sería importante, porque para l egar hasta el os habría que pasar por mí. Ésta es la mentalidad pura de la industria del espectáculo».
+
+Pero  había  un  problema.  «Yo  nunca  me  sentí  parte  del  mundo  del espectáculo. Trabajaba en él, pero nunca me dio la sensación de encajar en ese  ambiente.»  Por  mucho  que  quisiera  ser  una  celebridad  entre  las celebridades, Wal y no se sentía auténtico en Hol ywood. Así que, ¿cómo lo hizo?  Siguió  la  receta  de  una  tía  que  le  crió. .  literalmente.  Al  elaborar gal etas según la receta de aquel a señora, volvió a sentirse real. «Fue una manera de liberar la tensión, la angustia. Éramos sólo las gal etas y yo.»
+
+Entonces  empezó  a  l evar  gal etas  al  despacho.  «Veía  a  un  director  de casting, a un productor, a un director o a un ejecutivo de estudio, como lo
+
+hice  contigo,  Peter,  y  antes  de  ponernos  a  hablar  de  los  clientes  que  yo vendía, abría mi bolsa Ziploc y empezaba a repartir gal etas.»
+
+¡Qué bien lo recordaba yo! «Aquel as gal etas eran estupendas.»
+
+Asintió.  «Durante  cinco  años,  la  gente  me  estuvo  diciendo:  “Tendrías que  venderlas”.»  Al  final,  harto  del  negocio  del  espectáculo,  hizo precisamente  eso,  con  el  apoyo  financiero  de  su  cliente  Marvin  Gaye,  la cantante  Helen  Reddy  y  su  esposo  Jeff  Wald,  así  como  del  presidente  de United Artists Records, Artie Mogul .
+
+«Te  juro  —me  dijo  Wal y—  que  me  comprometí  con  las  gal etas  con virutas  de  chocolate,  no  para  ser  famoso  ni  para  tener  una  cadena  de establecimientos, sino sólo para pasarlo bien y tener un mayor control sobre mi  vida.  A  la  mañana  siguiente,  yo  ya  era  una  persona  nueva.  Tenía  un propósito nuevo.»
+
+Lo que cambió fue que, de repente, el propósito de Wal y sintonizó con quién era él realmente. Se sintió auténtico porque su receta procedía de la tía  que  le  acogió  y  le  enderezó  cuando  tuvo  problemas  de  pequeño.  Le había proporcionado amor y bondad, y ahora él ponía en la elaboración de su  producto  ese  mismo  corazón.  También  se  sentía  coherente  consigo mismo porque apostaba su modo de vida a una empresa en la que creía con cuerpo y alma. «Las gal etas son una representación de qué siento respecto a la vida, ¿sabes? —me dijo—. Esas gal etas son como yo.»
+
+Del mismo modo que utilizó las gal etas como tarjeta de presentación en el mundo del talento, ahora, mientras repartía sus gal etas a los medios, a los  clientes  e  inversores,  Wal y  contaba  la  historia  de  cómo  el  amor  y  la atención de su tía se habían traducido en el amor y el cuidado que ponía en la  elaboración  de  las  gal etas.  En  poco  tiempo  se  convirtió  en  el  héroe  de una historia l amada Famous Amos, horneada en una gal eta que derretía corazones. Por muy sensiblero que suene esto, funcionó para levantar una marca nacional tan irresistible que al final la adquirió la Kel ogg Company, y  que  sigue  en  marcha  treinta  años  después  de  que  Wal y  la  vendiera.  A pesar  de  que  las  gal etas  ya  no  se  elaboran  con  los  ingredientes  de  Wal y, que  eran  excelentes  y  caros,  siguen  siendo  populares  por  todo  el  país
+
+debido  al  apego  emocional  existente  con  su  historia  fundacional.  ¡Vaya donde vaya Wal y, sus admiradores siguen l amándole «Famous Amos»!
+
+EN 1993 tuve el privilegio de pasar un par de días en compañía de uno de los  líderes  más  auténticos  del  planeta.  Nelson  Mandela,  el  líder  del movimiento  antiapartheid  de  Sudáfrica,  me  había  l amado  para preguntarme si yo, en calidad de director gerente de Sony Entertainment, sería el anfitrión de una fiesta en Los Ángeles celebrada con motivo de su 75  cumpleaños.  Esto  fue  sólo  36  meses  después  de  que  lo  hubieran liberado, tras casi treinta años de encarcelamiento por oponerse al Gobierno mayoritariamente blanco de su país. Más tarde, ese mismo año de 1993 le concedieron el Premio Nobel de la Paz, y al año siguiente se convirtió en presidente del primer Gobierno realmente democrático de Sudáfrica. Pero cuando  recibí  aquel a  l amada  telefónica,  el  destino  político  de  Sudáfrica aún  era  incierto.  Mandela  tenía  un  papel  crucial  en  los  planes  para  un Gobierno de Unidad Nacional, una proposición infrecuente y valiente que debía  incluir  al  antiguo  régimen  sudafricano  y  a  unos  líderes  nuevos, procedentes de múltiples grupos raciales y partidos políticos. En Occidente pocos podían imaginar que un Gobierno así tuviera éxito después de todo el derramamiento de sangre y el odio fomentados por 45 años de  apartheid.
+
+Pero  el  nuevo  Gobierno  necesitaría  el  respaldo  diplomático,  cultural  y (sobre  todo)  económico  de  Occidente.  De  modo  que  Mandela  venía  a Estados  Unidos  para  cambiar  la  visión  predominante  que  se  tenía  de  su país, y buscar un respaldo para su visión pacífica de una nueva Sudáfrica.
+
+Por supuesto, acepté ofrecerle toda mi ayuda.
+
+Me  preguntó  si,  además  de  ser  el  anfitrión  de  la  fiesta,  podría  arreglar que  se  entrevistara  en  privado  con  algunos  líderes  empresariales.  Por  lo tanto,  pude  pasar  varios  días  observando  y  escuchando  a  Mandela.  Hubo una  historia  que  contó,  en  concreto,  que  hizo  irresistible  su  l amada  a  la acción para participar en el futuro de Sudáfrica.
+
+«Cuando l evaba veintisiete años en la cárcel —empezó—, un guardia al que había l egado a conocer bien me susurró que pronto me iban a liberar.»
+
+Mandela  nos  dijo  que  se  dio  cuenta  de  lo  emocionado  que  se  sentía  el carcelero al decírselo. Aquel hombre consideraba que era un momento de celebración,  pero  él  tuvo  una  reacción  distinta.  «Me  entristecí  por  aquel hombre  con  quien  había  conversado  con  tanta  frecuencia.  Él  no comprendía  que  mi  espíritu  y  mis  creencias  nunca  habían  estado encerrados  en  aquel a  celda.  Mi  cuerpo  podía  estar  encerrado,  pero  la historia de mis sueños no. No entendía que la única cárcel que arrebata la libertad al hombre es aquel a que no le permite soñar.»
+
+Entonces  Mandela  transfirió  su  historia  a  un  escenario  más  amplio,  y comenzó  a  hablar  de  su  país.  El  meol o  de  su  objetivo  era  que  su  pueblo sintiera  la  misma  libertad  que  él,  que  creyera  que  era  posible  cumplir  sus sueños. De no ser así, la futilidad y el desespero encarcelarían el alma de su nación, y el país estaría perdido.
+
+En ese momento transmitió su l amada a la acción. «He venido a Estados Unidos  —dijo  Mandela—,  para  invitarlos  a  invertir  en  mi  país  no  sólo económicamente,  sino  también  por  medio  de  su  reputación  y  su credibilidad. Los invito a contar nuestra historia a sus amigos y conocidos, a extender  el  mensaje  del  futuro  que  es  posible  para  mi  país.  Los  invito  a mantener vivo el potencial de realización que tienen los sueños de nuestros jóvenes.»
+
+La autenticidad de Mandela era tan evidente, y confería una fuerza tan tremenda a su historia, que su narración fue directa al corazón de todos los miembros  de  su  público.  Inspirados  y  motivados,  sus  oyentes  extendieron cheques y ofrecieron su capital intelectual y su reputación para ayudarle a cumplir sus sueños. Más tarde contaron sus propias historias, como yo he hecho  muchas  veces,  de  cuando  escucharon  hablar  a  Nelson  Mandela  y sintieron  la  sinceridad  de  su  convicción:  que  Sudáfrica  podría  hacer  una transición hacia la democracia sin asesinatos revanchistas ni caos político. Y
+
+gracias sobre todo al faro que constituyó el liderazgo de Nelson Mandela, su visión de esa transición pacífica se hizo realidad.
+
+IRÓNICAMENTE,  CUANTO  MEJOR  le  conozca  una  persona,  más tendrá  que  prepararse  usted  para  demostrar  su  autenticidad.  Yo  aprendí esta  lección  hace  unos  pocos  años,  cuando  mi  hija  Jodi  me  pidió  que invirtiera en su nueva empresa de ropa. Jodi, que ya tenía más de treinta años,  había  obtenido  un  máster  y  había  planeado  convertirse  en  maestra.
+
+De repente dio un giro de 180 grados y anunció que quería diseñar prendas de  vestir  de  moda  y  estilo,  en  torno  al  yoga.  Para  ponerse  en  marcha necesitaba cientos de miles de dólares, y lo único que me vino a la cabeza fue  ¿Por qué yo? , una pregunta seguida en rápida sucesión de  ¿Por qué eso?
+
+y   ¿Por  qué  ahora?   El a  no  tenía  experiencia  en  negocios  de  venta  al  por menor  o  al  por  mayor,  ni  tampoco  de  corte  y  confección.  Como  era  su padre, sabía esto mucho mejor que cualquier otro inversor al que pudiera pedírselo.  De  hecho,  lo  sabía  demasiado  bien.  Yo  era  su  cliente  más recalcitrante, y para mí, al principio, esta imagen tenía muy mala pinta.
+
+Pero la autenticidad tiene una gran fuerza de persuasión. Sea cual sea la historia  que  cuente,  si  otros  se  dan  cuenta  de  que  es  auténtica,  le escucharán  con  empatía,  y  será  más  probable  que  se  sumen  a  su  visión.
+
+Cuando  alguien  demuestra  un  empuje  genuino  para  superar  todos  los obstáculos,  resulta  estimulante,  porque  para  tener  éxito  uno  debe  poseer una convicción auténtica. Jodi me demostró su pasión con una historia que yo  sabía  que  era  cierta,  pero  que  nunca  consideré  un  catalizador  para  la carrera de mi hija ni para mi inversión. Después de todo, una cosa era ser su admirador, y otra financiar su empresa.
+
+Me  contó  cómo,  siendo  una  adolescente  que  creció  en  Los  Ángeles, deseaba  formar  parte  del   glamour  que  veía  en  torno  a  el a.  Pero  siempre sintió que estaba fuera, mirando hacia un mundo donde cualquiera tenía mejor aspecto y se sentía mejor que el a. El problema era que su cuerpo no se  conformaba  a  esas  líneas  esbeltas  que  celebraban  las  revistas  que  el a hojeaba  constantemente.  Jodi  luchaba  con  su  sobrepeso.  No  tenía  una figura  perfecta  de  modelo,  y  sabía  que  la  mayoría  de  mujeres  tampoco  la
+
+tenían. Le encantaba la moda, pero se preguntaba por qué había tan pocas prendas  sumamente  atractivas  que  sentasen  bien  a  mujeres  que  midieran menos  de  1,78  o  tuvieran  más  de  una  tal a  «50».  Sentía  que  la  moda tendría  que  diseñarse  para  incluir  a  todos,  de  modo  que  nadie, independientemente  de  su  tamaño,  forma  o  estatus  social,  se  sintiera marginado. La línea de prendas deportivas, en concreto, debería hacer que todos  tuvieran  buen  aspecto,  y  hacerlos  sentirse  cómodos  y  a  la  moda.
+
+Lamentablemente, parece que a la mayoría de los fabricantes de ese tipo de prendas nunca se les había ocurrido algo así. Por último, Jodi decidió que, dado que nadie confeccionaba las prendas de ese estilo, lo haría el a misma.
+
+El vehículo fue su práctica de yoga. Confeccionaría prendas que pudieran l evar todas las mujeres, que fueran lo bastante cómodas para hacer yoga,  y lo bastante atractivas para aparecer en las revistas.
+
+Cuando  escuché  a  mi  hija  contarme  su  historia  con  un  objetivo  tan definido que nunca antes había percibido, supe que aquel a misión iría de dentro afuera, no al revés. Parecía mucho más verdadera de lo que nunca fue  su  ambición  de  ser  maestra.  Y  esa  historia  también  parecería  más verdadera a sus clientes, porque demostraba que el a entendía y compartía la  experiencia  de  el os,  y  diseñaba  un  producto  emocionalmente satisfactorio,  además  de  práctico.  Su  narración  me  incitó  a  superar  mi preocupación sobre su falta de conocimientos técnicos, sobre todo cuando me  demostró  que  «había  hecho  los  deberes»  con  respecto  a  su  carrera futura, y estaba realmente lista para sacar al mercado una línea de prendas deportivas  a  la  que  había  bautizado  como  Beyond  Yoga  [«más  al á  del yoga»].
+
+Una  vez  que  se  puso  en  marcha,  Jodi  siguió  vendiendo  su  producto  al contar su propia historia verídica. Contó versiones de ésta a sus vendedores, clientes  y  a  los  medios  de  comunicación.  Hal aba  eco  en  todos  los  que  la escuchaban,  pero  impactó  sobre  todo  en  aquel as  personas  que  habían tenido su experiencia. Oprah Winfrey, por ejemplo, que ha luchado con su peso durante toda su vida se apropió de los valores de Jodi, y salió vestida con  sus  prendas  en  la  portada  de  la  revista   O.  Poco  tiempo  después,  las
+
+ventas de Beyond Yoga pasaron de 80.000 a 5 mil ones de dólares, y hoy la línea  ha  trascendido  el  yoga  y  crea  prendas  propias  de  un  estilo  de  vida concreto, y l eva el nombre de «i am BEYOND» («yo estoy más al á»). Es posible que al principio yo fuera el público más severo de mi hija, pero su historia me convirtió en su patrocinador más orgul oso y satisfecho.
+
+¿QUIÉN ES SU PÚBLICO?
+
+Los  narradores  de  mayor  éxito  son  quienes  escuchan  las  historias  con mayor atención. Comprenden que es más importante estar interes ados en su audiencia que parecer interes antes. ¿Por qué? Porque lo que averiguen sobre  su  público  determinará  su  manera  de  contar  la  historia.  Pueden contarle la misma historia a dos mil clientes durante una convención, luego a  cincuenta  empleados  en  una  reunión  de  marketing,  y  más  tarde  a  un director  de  la  competencia  mientras  se  toman  unas  copas  en  un  centro turístico, pero cada versión deberá ser diferente. Si no, la historia se volverá aburrida,  un  destino  que,  en  el  mundo  de  la  narrativa,  equivale  a  la muerte.  Tal  como  me  dijo  el  experto  en  liderazgo  empresarial  Warren Bennis: «El aburrimiento hace acto de presencia cuando uno no consigue que la otra parte se interese».
+
+Lo  que  interese  a  su  público  conformará  siempre  el  modo  en  que  éste escuchará su historia, de modo que a usted le atañe encauzar ese interés en beneficio propio. En este caso la palabra «público» es deliberada. Si piensa en sus oyentes como en un público, recordará que lo más importante es la experiencia  emocional  que  usted  transmite  y  que,  para  conectar  con  esa emoción,  debe  buscar  una  manera  de  captar  su  atención.  Los  narradores empresariales  no  cuentan  con  el  beneficio  de  un  cine  a  oscuras  o  de  una banda  sonora  que  interrumpa  el  patrón  de  los  pensamientos  que  tiene  el público. Así que, ¿cómo superará la cacofonía mental dentro de las cabezas de sus oyentes para captar su interés? Es esencial saber quiénes son.
+
+¿Cuál es su edad, su sexo, su educación, su personalidad? ¿Dónde viven y  de  dónde  vienen?  Lo  más  importante  de  todo,  ¿qué  quieren  y  qué necesitan? Provisto de este conocimiento, podrá utilizar los intereses  de ellos para crear una historia a medida que alcance los fines que  usted desea.
+
+¿Qué les interesa?
+
+Nadie entiende el arte de cautivar a un público profesional mejor que mi amigo  astrofísico,  Gentry  Lee.  Como  ingeniero  jefe  del  Solar  System Exploration  Directorate  en  el  Jet  Propulsion  Laboratory,  Gentry  está embarcado  constantemente  en  la  misión  de  convencer  a  las  personas, cuando solicita fondos al Congreso y a las corporaciones para invertirlo en las  misiones  robóticas  interplanetarias  del  JPL;  coordina  numerosos programas  del  JPL  que  requieren  la  colaboración  de  muchos  equipos  de ingenieros; educa a los medios; recluta científicos para su equipo, e inspira a los  escolares  para  que  se  conviertan  en  la  próxima  generación  de astrofísicos. Da igual cuál sea su público: el instrumento de venta que usa preferentemente  es  el   storytelling.  Y  hace  poco  me  dijo  que  la  clave  para contar  una  historia  que  encuentre  eco  en  los  oyentes  es  comprender  la estructura de valores de éstos. «En cualquier tipo de negocio —me dijo—, si vas  a  contar  una  historia  para  que  la  otra  persona  vea  o  haga  algo,  tienes que  saber  a  qué  va  a  responder.  ¿Cuáles  son  las  fibras  sensibles  de  tu audiencia? Estructura tu historia para l egar a esas fibras.»
+
+En  ocasiones,  me  dijo  Gentry,  la  fibra  más  sensible  es  el  miedo.  «A  la gente le da miedo el futuro, de modo que si puedo mostrarles que lo que aprendamos  por  medio  de  la  exploración  espacial  reducirá  su incertidumbre  sobre  el  futuro,  entonces  comprenderán  por  qué  deben respaldar nuestra misión.»
+
+¿Cómo  puede  aprovechar  Gentry  el  miedo  para  convencer  a  un congresista  que  tiene  la  vista  fija  en  el  déficit  federal  de  que  tiene  que respaldar una misión a Marte? «Hubo una vez —le diría Gentry—, en que Marte fue un planeta exuberante con un clima como el nuestro. Tenía aire
+
+y  agua  y,  posiblemente,  vida.  Pero  ahora  es  un  desierto.  ¿Por  qué?  ¿Qué sucedió?» Y luego, para pulsar la cuerda del miedo, preguntaría: «¿Podría ser éste el destino futuro de la Tierra?»
+
+Entonces,  dijo  Gentry,  pasaría  a  describir  algunas  de  las  pistas  que buscaría la misión a Marte, qué esperaban encontrar, y qué consecuencias tendrían esos hal azgos para la comprensión que tienen los científicos sobre nuestro futuro en la Tierra. «Los hal azgos en Marte, ¿podrían ayudarnos a redirigir  nuestro  destino  manifiesto  y  salvar  nuestro  mundo?  Vayamos juntos y averigüémoslo.»
+
+Si  esta  historia  puede  aplacar  hasta  cierto  punto  el  miedo  que  ha suscitado,  me  explicó  Gentry,  contarla  venderá  bien  su  propuesta.  Sin embargo,  cuando  el  público  está  compuesto  por  alumnos  o  científicos jóvenes, Gentry puede vender la misma historia, pero enfatizando algo que suscite  la  curiosidad  y  el  deseo  de  aventura,  no  el  miedo.  «Creo  que encontraremos  un  planeta  semejante  a  la  Tierra  lo  bastante  cerca  como para  que  l egue  una  nave  espacial  multigeneracional  —les  diría—.  Tendrá agua y océanos, y una atmósfera como la nuestra. Imaginémonos como los primeros  pioneros  que  l egaron  a  Estados  Unidos  con  sus  carretas.  Yo imagino  a  los  seres  humanos  partiendo  en  este  viaje  multigeneracional, hacia un nuevo mundo. ¿No les gustaría formar parte de esta historia?»
+
+El mensaje central de Gentry era que, para que a la audiencia le importe lo  que  decimos,  tenemos  que  saber  qué  es  lo  que  más  les  importa.  ¿La familia?  ¿La  posición  social?  ¿El  hogar?  ¿La  aventura?  ¿La  seguridad?  Las historias más poderosas comienzan situando un interés crucial en el centro de una amenaza, una promesa o una posibilidad que el público jamás había imaginado  y  que  ahora  no  puede  ignorar.  «La  propuesta  de  valor  —dijo Gentry— debe ir a la vanguardia de la historia.»
+
+RECORDÉ LAS PALABRAS DE GENTRY mientras hablaba del arte de la narración  con  el  doctor  Robert  Maloney,  director  del  Maloney  Vision Institute  y  profesor  clínico  de  oalmología  en  la  UCLA.  Maloney  fue  el
+
+primer cirujano en el oeste de Estados Unidos que utilizó la cirugía LASIK
+
+como parte de las pruebas clínicas originales de la FDA. Lo que yo quería saber  era  cómo  Maloney  había  averiguado  qué  historia  contar  a  sus pacientes  para  ayudarles  a  superar  su  temor  al  bisturí.  Después  de  todo, este  procedimiento  exige  que  se  practique  una  incisión  en  la  córnea,  la superficie del ojo. No es para los pusilánimes.
+
+Me contestó que encontrar el enfoque más adecuado fue difícil, porque tenía  que  explicar  el  proceso  a  fondo,  y  era  fácil  que  las  posibilidades negativas acabaran dominando la historia, desanimando a la gente para que se  sometiera  al  procedimiento  que  necesitaba.  Al  principio  luchó  con  este dilema  e  intentó  suavizar  las  advertencias,  pero  muchos  pacientes  aún albergaban dudas injustificadas. Por último, al escuchar más atentamente a sus pacientes, descubrió que la propuesta de valor que más les importaba en realidad era la confianza. No necesitaban garantías, sino tranquilidad.
+
+Así  que,  sin  alterar  los  hechos  que  les  permitieran  tomar  una  decisión médica informada, Maloney empezó a decir a sus pacientes: «Suceda lo que suceda, yo estaré al í para cuidarles». Entonces les contaba la historia de lo que  él  esperaba  que  lograse  su  intervención  quirúrgica.  Como  antes, exponía  la  información  negativa  sobre  los  problemas  con  los  que,  quizá, tendrían que bregar. Pero luego concluía la historia con una resolución que satisfacía sus intereses  emocionales. «Nunca voy a dar su caso por perdido
+
+—les  prometía—.  Incluso  si  surge  un  problema,  estamos  en  esto  juntos, hombro  con  hombro.»  Y  con  este  sutil  cambio  de  énfasis,  convertía  su historia en otra centrada en la relación personal y la amistad. Su l amada a la acción consistía en pedir a sus pacientes que confiaran en él lo suficiente como para dar ese salto a la incertidumbre, y son miles quienes ya lo han hecho.  En  realidad,  Robert  Maloney  ha  realizado  más  de  50.000
+
+intervenciones para corregir la vista.
+
+EN 2009, GAREB SHAMUS, fundador de Wizard Entertainment, vino con su socio Peter Levin para pedirme que invirtiese en su proyecto  online Geek
+
+Chic Daily, un  ex boletín diario  online  para  los  amantes  de  la  cultura  pop, que destacaba lo último en cómics, juguetes, juegos, películas, tecnología y prendas de vestir guays pero extravagantes. Poco me imaginaba que yo era el  blanco  de  una  historia  cuidadosamente  elaborada  para  apelar  a  mis intereses personales.
+
+Las publicaciones de Shamus incluyen la revista  Wizard, considerada la más  influyente  en  el  género  de  libros,  juguetes  y  artículos  basados  en personajes,  así  como  las  revistas   ToyFare  y   FunFare.  También  es  dueño  y director  de  los  festivales  Comic-Con  de  la  Gran  Manzana  [Nueva  York], Chicago, Philadelphia, Toronto y Anaheim, que son como Woodstock, pero para los fans del cómic. En otras palabras, que Gareb es como el gurú de los friquis.
+
+Desde que Peter Levin nos había presentado unos meses antes, Gareb se había  dado  cuenta  de  que  yo  también  elaboraba  productos  destinados  a jóvenes. Se había apercibido, además, de que yo ya había superado los 20
+
+años por algunas decenas, y que carecía de voz directa en la conversación de  mi  público  juvenil.  Como  sabía  que  aquel as  vulnerabilidades  me preocupaban,  Gareb  las  usó  con  gran  precisión  para  interesarme  por  su boletín  digital  y  por  su   website  dedicada  a  los  entusiastas  de  la  cultura popular.
+
+Nada más empezar nuestra reunión puso mis inquietudes sobre la mesa, literalmente,  ofreciéndome  evidencias  físicas  de  que  yo  había  perdido  el contacto con un amplio y nuevo ámbito de posibilidades empresariales. Me enseñó algunos de los cómics y novelas gráficas que publicaba a través de su sel o  editorial  Black  Bul .  Me  entregó  un  ejemplar  de   Wizard,  que  había empezado  a  publicar  justo  al  salir  de  la  universidad,  y  que  abarcaba  un imperio de revistas y ocio que desde entonces se ha ramificado en juguetes, juegos de rol y páginas informativas de Internet. Me enseñó un programa de su Comic-Com más reciente, describiéndolo como «¡la convención más grande  de  todo  el  mundo  en  el  ámbito  del  cómic  y  las  artes  populares!»
+
+Como había predicho Gareb, no reconocí ni uno solo de los artículos que me  mostró.  Aquel o  fue  una  prueba  clara  de  que  yo  no  estaba
+
+aprovechando aquel mercado tan valioso y misterioso. ¿Por qué tendría que interesarme  por  él?  Porque  aquel  mismo  público  era  el  que  consumiría muchos  de  mis  productos  de  ocio.  Cuanto  más  me  enseñaba  Gareb,  más quería saber.
+
+Una vez que hubo despertado mi interés y me enseñó qué podía sacar yo de  todo  aquel o,  me  demostró  su  autenticidad  al  contarme  su  propia historia  vital.  Cuando  era  pequeño,  al á  en  los  años  ochenta,  había cambiado cromos de deportistas, y luego se pasó a los cómics en cuanto sus padres  comenzaron  a  venderlos  en  su  tienda  de  tarjetas  postales.  Pero siempre  quiso  más  información.  «No  sabía  qué  artistas  y  guionistas trabajaban en qué cómics —me dijo—. En realidad, no había nada que me dijera qué iba a salir, qué era nuevo y qué resultaba emocionante. Me sentía totalmente  desconectado.  Así  es  como  se  me  ocurrió  la  idea  de  la  revista Wizard.»
+
+Chico  listo.  Incluso  mientras  hablaba,  yo  me  daba  cuenta  de  lo desconectado  que  me  sentía  en  aquel  momento.  Pero  lo  que  me  contó luego fue una demostración de genio narrativo, y sel ó el acuerdo.
+
+«¿Se  acuerda  de  la  película   Big?  —me  preguntó.  Por  supuesto  que  me acordaba. Es una película de 1988, de Penny Marshal , donde aparece Tom Hanks haciendo el papel de un niño pequeño atrapado en el cuerpo de un adulto—. Bueno —siguió diciendo Gareb—, pues cuando yo era pequeño vi esa  película,  y  me  di  cuenta  de  que  todos  los  adultos  l evan  un  niño dentro.» Entonces me recordó la escena en la que Hanks y su jefe, mucho mayor que él y propietario de una empresa de juguetes, ejecutan un dueto con la pieza «Chopsticks» en un teclado enorme que está en el suelo de la tienda. Aquel a experiencia puso al adulto en contacto con su infancia y con el público al que intentaba l egar. También creó un vínculo emocional entre él y Hanks, como el espíritu de la juventud. Gareb comprendió que yo era como aquel hombre maduro que necesitaba aquel a relación para conectar con el público más joven, y Gareb era la contrapartida de Hanks. Su historia decía  que  Geek  Chic  Daily  era  el  piano  que  los  dos  podíamos  tocar  para unir  nuestros  mundos.  Si  me  convertía  en  su  socio,  obtendría  la  moneda
+
+que  yo  necesitaba  urgentemente  para  introducirme  en  el  grupo demográfico  que  componía  la  tribu  de  Gareb.  Una  vez  que  dispusiera  de esa  moneda  de  cambio,  podría  vender  mis  productos  como  un  miembro tribal, desde dentro, sin que importase mi edad.
+
+Como Gareb se había informado sobre mi persona antes de entrar por la puerta, me contó su historia de un modo que repercutió en mi mente, mi corazón y mi cartera. En otras palabras, apeló a lo que me interesaba, lo que quería y lo que necesitaba. Me uní a él y a Peter en calidad de tercer socio, y en octubre de 2009 abrimos la Geek Chic Daily.
+
+OJALÁ  HUBIERA  TENIDO  a  mano  a  Gareb  en  2003  para  instruirme, cuando  Bruce  Stein  y  yo  organizamos  lo  que  creíamos  era  una  propuesta empresarial «de Grand Slam» para animar el imperio de Starbucks. Bruce disponía  de  las  credenciales  idóneas  para  ese  reto.  Había  trabajado  como gerente ejecutivo en Mattel, Inc., en Sony Interactive Entertainment, Inc., y en Kenner Products, Inc., y nos conocíamos desde 1989, cuando adquirió unos derechos cruciales de comercialización para nuestra primera película de   Batman.  Yo  había  detectado  que  Bruce  poseía  un  sexto  sentido  para captar los intereses y las necesidades de los minoristas. Sin embargo, como descubrimos luego, no todos los minoristas son iguales.
+
+Cuando  tomamos  el  avión  a  Seattle  para  vender  nuestra  propuesta  al consejero  delegado  de  Starbucks,  Howard  Schultz,  desbordábamos confianza.  No  conocíamos  a  Schultz,  pero  teníamos  una  carta  de presentación de la directora de Indigo y Chapters, Heather Reisman, que se había  asociado  con  él  para  introducir  Starbucks  en  sus  librerías,  de  modo que  Howard  nos  recibió  como  a  colegas.  Se  trataba  de  un  cumplido importante si tenemos en cuenta la escala relativa de su imperio. Aquel año, Starbucks estaba creciendo al ritmo de 1.300 locales anuales, y su gran plan consistía en disponer de 40.000 de el os repartidos por todo el mundo.
+
+Para respetar su tiempo precioso, empezamos de inmediato a exponerle nuestra propuesta. Nuestra idea era instalar, sin que a Starbucks le costase
+
+nada,  un  gran  televisor  de  plasma  en  cada  tienda,  en  el  espacio  abierto situado  fuera  del  alcance  de  los  clientes,  aprovechando  así  una  zona  del local que carecía de uso. El contenido estaría programado desde una fuente central,  pero  diseñado  concretamente  para  el  lugar  y  la  hora  de  cada cafetería, de manera que la naturaleza de los programas sería distinta por la mañana  y  por  la  tarde,  en  la  costa  este  y  en  la  oeste,  y  también  en  los locales urbanos o rurales. Schultz no tendría que pagar el contenido, y no supondría  ninguna  interferencia  para  los  camareros  ni  los  demás empleados,  dado  que  todo  estaría  controlado  desde  una  sede  central.  La pantal a  de  vídeo  de  alta  definición  funcionaría  con  subtítulos,  pero  los clientes  podrían  acceder  al  sonido  mediante  Ethernet  o  una  conexión telefónica.  Y  al  final  del  horario  laboral,  los  directores  regionales  podrían usar  las  pantal as  con  propósitos  docentes,  con  unos  contenidos  que Starbucks generaría y controlaría.
+
+Además,  como  le  dijimos,  sólo  habría  diez  minutos  de  publicidad  por hora, y todos los anuncios estarían sujetos a la aprobación de Schultz, con quien compartíamos los beneficios. También podría publicitar sus productos a  lo  largo  de  los  programas.  Entonces  le  enseñamos  datos  científicos  que demostraban  que  las  personas  consumen  más  cuando  ven  la  tele,  en  los campos  de  béisbol  y  en  locales  donde  se  celebran  espectáculos.  La  idea central  era  que  esas  pantal as  aumentarían  de  diversas  maneras  sus beneficios.
+
+Pero,  ¡un  momento!  Aún  quedaba  un  premio  gordo,  pues  cuando  la programación  echara  raíces,  Schultz  pudiera  darle  la  vuelta  a  la  técnica  y lanzar su red «Starbucks Live» para su emisión por cable.
+
+A   nosotros  nos  sonaba  muy  bien.  A  Howard,  no  tanto.  Escuchó atentamente,  y  unos  días  después  nos  dijo:  «No,  gracias.  Yo  me  dedico  a vender café».
+
+¿Qué  quería  decir?  ¿Cómo  habíamos  fal ado  el  blanco?  Durante  los meses posteriores intentamos averiguar qué había salido mal. Al final, hice lo que debería haber hecho antes de volar a Seattle: me puse en la piel de Howard para ver qué  le interesaba .
+
+Me di cuenta demasiado tarde de que la historia fundacional del propio Schultz  presenta  Starbucks  como  «el  tercer  lugar»  para  sus  clientes:  un hogar lejos de casa y de la oficina, donde puedan relajarse y sentir que es  su lugar.  En  esta  historia,  el  cliente  es  el  héroe,  quien  decide  no  sólo  qué quiere tomar, sino también cómo pasar su tiempo en la cafetería: leyendo, trabajando  en  un  portátil,  charlando  con  amigos  o  escuchando  música.
+
+Starbucks proporciona alternativas, pero es el cliente quien es el dueño de su experiencia, y ésta es la historia que Schultz quiere contar.
+
+Si hubiera prestado atención, habría sabido que Schultz nunca aceptaría una  propuesta  que  tratase  a  sus  clientes  como  un  público  pasivo.  Le interesaba  su  participación   activa  en  la  historia  de  Starbucks.  ¡No  era  de extrañar que hubiésemos fracasado! Habíamos apuntado a un blanco por el que Schultz no sentía ningún interés. Si nos hubiéramos preparado bien, si nos  hubiésemos  interesado  en  lugar  de  procurar  ser  interesantes,  y  si hubiéramos respetado su historia con una propuesta que encajase con el a, es posible que el resultado hubiera sido diferente.
+
+¿Cuáles son los prejuicios de los otros?
+
+La otra cara de los intereses son los prejuicios. Unos atraen, otros repelen.
+
+El narrador que ignore los prejuicios de su público se busca problemas. Y
+
+cuidado:  los  símbolos  de  los  prejuicios  están  por  todas  partes,  incluso  en detal es aparentemente inocuos.
+
+A lo largo de mi carrera he visto cómo los prejuicios socavaban el arte de la  narración  en  numerosas  ocasiones.  La  más  memorable  de  el as,  por curioso  que  sea,  gira  en  torno  a  un  narrador  diabólico  que,  en  realidad, usaba los prejuicios como instrumento a su favor. Dado que su l amada a la acción  era  odiar,  Adolf  Hitler  pudo  l evar  al  frenesí  a  mil ones  de  sus compatriotas,  contándoles  historias  que  alimentaban  sus  prejuicios  contra los  aliados,  los  judíos,  los  gitanos,  los  minusválidos,  y  todo  aquel  que  no encajara  en  su  perfil  ario.  Sin  embargo,  los  crímenes  de  Hitler  contra  la humanidad  fueron  tan  espantosos  que  hoy  la  mayoría  de  personas
+
+reacciona  con  unos  prejuicios  iguales  pero  opuestos  contra  todo  lo relacionado con él o con su Tercer Reich.
+
+Estos  prejuicios  crecieron  hasta  el  punto  de  darle  un  mordisco importante a la película que nuestra compañía comercializó en 1997,  Siete años  en  el  Tíbet,  la  versión  cinematográfica  de  la  historia  verídica  de Heinrich Harrer, un montañero austriaco que, durante la Segunda Guerra Mundial, se convirtió en tutor y amigo íntimo del futuro líder tibetano, el joven  Dalai  Lama.  La  historia  de  Harrer,  que  habla  de  su  transformación espiritual,  es  un  poderoso  testamento  para  la  paz,  la  comprensión  y  la humanidad. En toda la película sólo en una escena sale Brad Pitt con una esvástica  nazi,  para  señalar  la  sumisión  reacia  de  Harrer  al  Tercer  Reich cuando  era  más  joven.  A  pesar  de  todo,  antes  del  estreno  de  la  película algunos  periodistas  vieron  esa  imagen  única  del  temible  símbolo  y,  sin molestarse en ver nada más, etiquetaron  Siete años como una película nazi.
+
+Los  medios  de  comunicación  judíos  exigieron  boicotear  el  filme,  y  dio  lo mismo cuántas veces nosotros o los actores contáramos la historia real: no pudimos superar el poder de aquel artificio visual. El símbolo de la esvástica en el traje de Brad Pitt generó unos prejuicios tan poderosos que minaron nuestro auténtico mensaje.
+
+Diez años más tarde, en mi casa de Hawai, conté la historia de  Siete años en el Tíbet a mi invitado Mark Shapiro, quien, junto con el propietario de los  Washington  Redskins,  Dan  Snyder,  financiaba  la  próxima  película  de Tom  Cruise  sobre  la  Segunda  Guerra  Mundial,  Valkyrie.  Advertí  a  Mark que las imágenes publicitarias del preestreno donde se veía a Tom Cruise, la estrel a de su filme, exhibiendo una insignia nazi, seguramente generarían los  mismos  prejuicios  que  habían  hecho  que  criticasen  nuestra  película.
+
+Lamentablemente,  algunas  fotos  de  Cruise  vestido  con  uniforme  nazi,  y encima con un parche en un ojo, se filtraron a los medios de comunicación desde  un  buen  principio,  etiquetando  a  la  película,  erróneamente,  de apología del nazismo. Los prejuicios del público volvieron a hacer estragos, impactando negativamente en la recaudación de taquil a.
+
+Yo  también  he  sido  el  destinatario  de  una  narración  que  activó  mis propios prejuicios. En 1992, cuando era director de Sony Pictures, hice un viaje a Berlín con los directivos de Sony Corporation, Norio Ohga y Mickey Schulhof, para visitar la que, según estaba proyectado, sería la nueva sede europea de Sony. Acabábamos de terminar la construcción de un enorme multicine en Manhattan, que incluía la última tecnología de Sony, y a Ohga le  apasionaba  la  idea  de  construir  más  instalaciones  de  vanguardia.
+
+Pretendía construir en Berlín la sede corporativa de Sony, con un bloque de oficinas para ejecutivos adyacente a un megacentro de ocio que incluiría un Múltiplex,  un  cine  IMAX,  varios  restaurantes  y  una  zona  de  locales dedicados a la comida rápida. Dado que yo había desempeñado un papel clave  para  planificar  el  Múltiplex  de  Sony  en  la  cal e  67  de  Nueva  York, Ohga  quiso  que  también  abanderase  aquel  nuevo  proyecto.  Hasta  aquí, perfecto.  Berlín  parecía  un  lienzo  de  ensueño  en  el  que  pintar  un  retrato del futuro de Sony.
+
+Schulhof,  piloto  de  jets,  nos  l evó  hasta  esa  ciudad  con  el  avión  de  la empresa.  Aterrizamos  en  un  pequeño  aeropuerto  urbano  y  dejamos  el avión aparcado bajo un voladizo gigantesco, que parecía desproporcionado con respecto a aquel a pista de aterrizaje tan corta. Me pregunté en voz alta cuál  sería  la  historia  detrás  de  aquel  proyecto  arquitectónico,  y  Ohga  me dijo, entusiasmado:
+
+—Éste  es  un  gran  aeropuerto,  Tempelhof.  ¡Hitler  lo  construyó  en  los años treinta! Es famoso.
+
+—Estupendo  —dije—.  Hitler.  —No  creí  que  fuera  necesario  comentar que no era precisamente mi héroe.
+
+Al  parecer,  yo  estaba  equivocado.  Ohga  no  percibió  en  absoluto  mi sarcasmo.  Estaba  demasiado  ocupado  explayándose  sobre  su  historia visionaria: el Sony Center como una resplandeciente ciudadela tecnológica que surgiría de las cenizas del pasado bélico de Berlín.
+
+Pocos  minutos  después  estábamos  en  un  amplio  campo  abierto  justo delante de la sede mundial de Mercedes-Benz. Ohga parecía manifestar un puntito de orgul o extra mientras me contaba que Sony ya había concluido
+
+la compra de aquel solar, una tremenda extensión de terreno situado justo en  el  centro  de  una  ciudad  que  crecía  a  marchas  forzadas.  Para  alcanzar nuestro  objetivo,  aquel o  era  mejor  y  más  rápido  que  Nueva  York.  Casi parecía demasiado bueno para ser cierto.
+
+—¿Cómo es que estaba a la venta un solar de tanta calidad? —pregunté
+
+—. ¿Era un parque?
+
+—No,  parque  no.  —Ohga  señaló  con  un  gesto  la  tierra  desnuda,  y empezó  a  contar  su  historia—.  Al á,  en  1945,  éste  era  lugar  famoso.  Aquí bajo tierra estaba el búnker de Hitler. .
+
+—¡El búnker de Hitler! —aul é, mientras la historia tóxica se filtraba en mi  cerebro—.  ¿Va  a  construir  la  sede  de  Sony  sobre  el  búnker  de  Hitler?
+
+¡No lo dirá en serio!
+
+Ohga respondió, como si tal cosa:
+
+—Peter,  usted  trabaja  para  japoneses.  Nosotros  fuimos  aliados  de Alemania  durante  la  guerra.  —En  otras  palabras,  que  Ohga  no  sentía ningún prejuicio contra Hitler, así que, ¿cuál era  mi problema?
+
+Pensé algo que no dije en voz alta:  ¿Podría  haber  elegido  un  lugar  peor donde contar la historia de su gran y nueva visión empresarial?
+
+No podía quitarme de la cabeza que aquel había sido el lugar donde se había atrincherado aquel monstruo genocida. La historia de Hitler y de sus víctimas  arrol ó  de  inmediato  todo  lo  que  Ohga  dijo  después.  Tenía  que largarme  de  al í,  y  no  quería,  ni  mucho  menos,  participar  en  un  proyecto que, según lo veía ahora, veneraba el Holocausto.
+
+Me  hizo  falta  toda  la  mano  izquierda  que  poseía,  pero  al  final  logré abandonar  aquel  nuevo  proyecto  tan  querido  para  Ohga,  y  jamás  volví  a aquel a  extensión  cubierta  de  césped,  antes  o  después  de  que  se transformase  en  el  Sony  Center,  de  195.000  m2  que  abrió  en  2000.  Pero ahora me pregunto: ¿Ohga podría haber contado aquel a historia de alguna manera que obtuviera mi apoyo? Sólo se me ocurre una, y no hubiera sido fácil.  Tendría  que  haber  admitido  mis  prejuicios  contra  Hitler  y  luego haberlos  desactivado.  Pero,  aparentemente,  no  se  le  ocurrió.  En  lugar  de
+
+eso,  al  limitarse  a  ignorarlos,  saboteó  cualquier  probabilidad  de  que  yo participara  activamente  en  el  proyecto,  incluso  antes  de  contarme  su historia.
+
+¿Cuál es su contexto óptimo?
+
+Conocer a su público también supone imaginar el lugar en que serán más receptivos a su narración. ¿En el campo de golf? ¿Durante el almuerzo en un  restaurante  tranquilo?  ¿En  casa  o  en  el  despacho?  Para  identificar  el lugar en el que sus oyentes le concederán la máxima atención, usted tiene que  mirar,  escuchar  y  localizar  sus  zonas  de  comodidad.  Esto  parece sencil o, pero puede suponer algunos retos, como descubrí junto al director Tim  Burton  cuando  intentamos  convencer  a  Jack  Nicholson  para  que hiciera el papel crucial del Joker en la primera película de  Batman.
+
+Batman  supuso  un  proyecto  desmesurado  para  nuestra  productora.
+
+Aunque  luego  se  convertiría  en  el  abuelo  de  todas  las  franquicias  de películas  basadas  en  cómics,  los  ocho  años  que  pasamos  desarrol ándola estuvieron  plagados  de  incertidumbres.  La  clave  de  la  película  fue  la actitud.  En  aquel a  época,  su  precio  (más  de  40  mil ones  de  dólares)  era estratosférico,  de  modo  que  no  podíamos  permitirnos  que  el  filme  sólo atrajese a los niños. Por eso, como productores, contratamos al director Tim Burton, que había dejado en  Beetle Juice [ Bitelchús  en España] su impronta memorable. Tim convenció al propio  Bitelchús,  Michael  Keaton,  para  que hiciera  de  Batman,  y  en  1988  todo  empezaba  a  encajar.  Lo  único  que necesitábamos era un vil ano de fama mundial.
+
+Nicholson era perfecto. Había hecho  El último deber,  Mi vida es mi vida y   Tommy  con  Columbia  Pictures  mientras  yo  trabajaba  en  aquel a compañía,  y  todos  sabíamos  que  sería  un  Joker  formidable.  Pero  el  reloj seguía corriendo, y aunque dijo estar interesado, no acababa de decidirse.
+
+Al  final  dijo:  «Vale,  quiero  conocer  a  Tim  Burton».  Me  dijo  que  l evase  a Tom a Aspen, donde él tenía una casa.
+
+Era lógico que Nicholson quisiera conocer al cineasta, sobre todo en un proyecto como ése, donde la dirección sería un factor crucial. De modo que volamos  a  Aspen  en  el  jet  de  la  Warner.  Tim,  un  personaje  notoriamente peculiar y con inclinación a lo macabro, se sintió automáticamente fuera de su zona segura. No sólo no estaba acostumbrado al país, sino que sobre él recaía toda la presión para buscar una historia con la que convencer ahora a Jack, porque si no lo conseguía, era posible que nunca se rodase la película.
+
+Aquel a  historia  contaría  cómo  Burton,  con  la  ayuda  de  Nicholson, pretendía  revolucionar  el  cine  con  un  nuevo  tipo  de  supervil ano,  un personaje  más  complejo;  una  especie  de  antihéroe,  con  un  aspecto  que nunca antes se hubiera visto en la gran pantal a. La mayor baza del filme no estribaba  en  la  importancia  del  papel,  sino  en  su  impacto.  Debía  ser  un vil ano al que el público apoyase y del que hablase luego.
+
+Entonces  Jack  subió  la  apuesta.  Nos  l amó  poco  después  de  aterrizar  y nos dijo: «Vamos a dar un paseo a cabal o».
+
+Cuando colgué el teléfono, Tim me dijo: «No sé montar a cabal o».
+
+Le respondí: «Ahora sí. Prepárate».
+
+Yo  no  tenía  ni  idea  de  si  Jack  había  investigado  a  Tim  y  le  estaba poniendo  a  prueba:  ¿no  sería  demasiado  excéntrico  para  trabajar  con  él?
+
+Pero sí sabía que no era cuestión de iniciar la relación con una negativa. Es necesario hacer que el público se dé cuenta de que uno se siente cómodo y está dispuesto a l egar con el os adonde sea. Si Jack vivía en Aspen y quería ir a cabalgar, entonces tendríamos que seguir sus normas, no las nuestras.
+
+Tim no podía elegir el contexto en el que contar su historia.
+
+A  la  mañana  siguiente,  mientras  Tim  estaba  plantado  observando  a  su cabal o, casi le oía pensar:  ¡Ay, madre! Esto es más complicado que hacer la película.  Pero  lo  consiguió.  Sospecho  que  fue  el  último  cabal o  al  que  se haya acercado Tim, pero al í, en el sendero, mientras cabalgábamos por los prados de la zona segura de Jack, Tim contó apasionadamente su historia de cómo él y Jack, trabajando juntos, cambiarían la historia del cine. Aquel contexto  colocó  a  Jack  en  la  disposición  más  adecuada  para  escuchar  la historia de Tim. Cuando acabamos el paseo, ya estaba dentro del proyecto.
+
+ENCONTRAR  EL  CONTEXTO  ADECUADO  donde  contar  su  historia también  fue  crucial  para  Michael  Milken  en  uno  de  los  proyectos  más grandes de toda su carrera: un compromiso voluntario que comenzó en los años setenta y que sigue adelante hoy. Cuando Milken me invitó hace poco a su casa para contarme su historia, yo no sabía muy bien qué esperar. Él había sido una influencia importante en la investigación médica, además de uno  de  los  hombres  más  poderosos  y  con  mayor  éxito  en  Wal   Street,  y empezó nuestra conversación preguntándome por mi negocio de béisbol de las ligas menores. Pero el vínculo entre sus intereses y los míos quedó claro a medida que me contaba su historia.
+
+«En  1993  yo  era  un  padre  de  46  años  —recordó—.  Fui  al  médico  y  le dije  que  quería  hacerme  un  reconocimiento  físico  completo,  incluso  una prueba  PSA  (antígeno  prostático  específico)  para  detectar  cáncer  de próstata.  Yo  sabía  bastante  sobre  el  cáncer,  porque  había  participado  en investigaciones oncológicas durante veinte años. Pero en realidad no sabía nada  del  cáncer  de  próstata,  excepto  que  mi  buen  amigo  Steve  Ross,  que era  director  de  Time  Warner,  acababa  de  fal ecer  a  los  65  años  de  edad debido  a  un  cáncer  de  próstata.  El  doctor  me  dijo  que  yo  era  demasiado joven para hacerme una prueba PSA, pero al final acabé convenciéndole.
+
+»Bueno,  pues  no  sólo  tenía  cáncer  de  próstata,  sino  que  mis  nódulos linfáticos tenían un tamaño cien veces superior al normal, y mi esperanza de vida oscilaba entre 12 y 18 meses. Tenía hijos y una gran familia, y no quería que el cáncer de próstata me dejase fuera de juego.
+
+Milken  luchó  contra  la  enfermedad  mediante  un  régimen  agresivo  de terapia  hormonal  y  radiación.  Cambió  su  dieta  y,  aparte  del  tratamiento convencional, utilizó algunas terapias alternativas. Al cabo de unos meses, su PSA volvió a ser cero. Su cáncer de próstata remitió. Pero esta remisión le dio  una  misión:  cambiar  la  trayectoria  de  la  enfermedad  y  potenciar  su objetivo de siempre: acelerar los progresos de la medicina.
+
+Milken  se  dio  cuenta  de  que,  si  bien  la  conciencia  pública  de  la existencia  del  cáncer  de  mama  iba  en  aumento,  el  cáncer  de  próstata  no tenía  un  rostro  o  una  historia  públicos.  Decidió  cambiar  la  situación contando  su  propia  historia  con  su  propia  voz,  acicateando  así  a  los hombres  de  mediana  edad  o  mayores  a  someterse  a  la  prueba  y  a  hacer correr la voz por medio de sus propias historias. Pero ¿cuál era el contexto óptimo para contar su historia?
+
+Como  quería  alcanzar  al  público  multigeneracional  masculino  más amplio posible, eligió como contexto ideal el deporte del béisbol. El béisbol se  basa  en  historias.  El  estadio  y  el  juego  crean  un  escenario,  y  entre  los turnos  para  batear  hay  tiempo  para  contarlas  y  escucharlas,  para  asimilar una l amada a la acción. Además, los seguidores de este deporte no sólo son en su mayoría hombres, sino que prácticamente todos los que están en el terreno de juego y en el club también lo son. Aquel o ampliaba la base de narradores para Milken. «Si yo transmitía el mensaje, estaría bien —dijo—, pero si eran Ken Griffey, Jr., y otros jugadores de relieve quienes dijeran a sus  padres  que  se  hicieran  la  prueba,  eso  tendría  un  efecto  muy  distinto.
+
+Estadísticamente,  además,  a  muchos  directores  deportivos  les diagnosticarían cáncer de próstata, dado que eran mayores. Por lo tanto, la estrategia era convertir a todos los mánagers en patrocinadores del esfuerzo para  l egar  a  sus  equipos.  Entonces  buscaría  a  un  representante  de  los jugadores, como Terry Steinbach, cuyo padre tenía cáncer de próstata, para alcanzar  a  los  demás  jugadores  y  sacar  el  tema  a  la  luz.  Y  lo  que  es  más importante: tenía que conseguir que alguien en las instalaciones deportivas hablase  a  los  muchachos  cuando  practicaban.  Sería  cuestión  de  que  el director  deportivo  y  el  entrenador  participaran  en  el  proyecto.  La  única forma  de  involucrarlos  era  hacer  que  también  fuese  su  historia.  Es  su estadio, son los dueños.»
+
+Pronto Milken tuvo un titular para su historia: MANTÉN A PAPÁ EN JUEGO.
+
+Después de todo, él era padre, y el béisbol era el contexto perfecto para que se  contase  una  historia  intergeneracional  a  los  padres  y  sobre  el os.
+
+«Nuestra idea era culminar el proyecto el Día del Padre. Yo comenzaría el 1
+
+de  junio,  seguiría  durante  el  Día  del  Padre  [tercer  domingo  de  junio],  y viajaría por todo el país con antiguos miembros del panteón de celebridades deportivas,  visitando  cada  día  campos  de  béisbol  de  las  ligas  mayores.  El primer  año,  1994,  visitamos  unas  diez  ciudades.  Desde  entonces,  Tommy Lasorda ha viajado conmigo cada año.»
+
+Durante  quince  años  (y  más)  Milken  ha  contado  generosamente  su historia por doquier, y el impacto que ha tenido en la lucha contra el cáncer es impresionante. El mes durante el que la mayoría de hombres se hacen la prueba  del  PSA  es  junio,  el  mes  del  Día  del  Padre.  Desde  que  Milken empezó a contar su historia sobre «Mantén a papá en juego», el número de hombres que fal ecieron a causa del cáncer de próstata se ha reducido a la mitad  de  lo  que  pronosticaban  las  estadísticas.  Y  él  sigue  ampliando  el escenario  del  béisbol  de  su  historia,  motivo  por  el  cual  en  ese  momento hablaba conmigo, para poder contarla en los campos de las ligas menores.
+
+Entre tanto, Milken ha expandido la obra de su vida al contar su historia.
+
+Es  posible  que  hubiera  una  época  en  que  el  nombre  de  Michael  Milken estuviera asociado sobre todo a las finanzas, pero en 2004 eso cambió para siempre.  La  revista   Fortune  colocó  en  portada  una  historia  sobre  Michael Milken de una naturaleza muy diferente. Titulada EL HOMBRE QUE CAMBIÓ LA MEDICINA, hablaba de cómo su historia mantenía a papá en juego.
+
+INEVITABLEMENTE,  EL  CONTEXTO  en  el  que  cuente  su  historia influirá en el a. El truco consiste en emplear esa influencia a su favor. Jason Binn, director y fundador de Niche Media, ha dominado esta técnica hasta tal  punto  que  ha  convertido  el  contexto  del   storytelling  en  una  empresa multimil onaria.  Mientras  el  resto  de  la  industria  de  las  revistas  cae  en picado, Binn preside un auténtico imperio de revistas de alta categoría en comunidades  muy  codiciadas,  como  los  Hamptons,  Aspen,  Los  Ángeles, Manhattan, Miami, Boston, Philadelphia, Washigton D.C. y Las Vegas. Su
+
+estrategia  empresarial  me  l amó  la  atención  por  primera  vez  cuando  nos conocimos en un simposio celebrado en Fiyi, a finales de los años noventa.
+
+«En Estados Unidos hay diez mercados —me dijo entonces— que son los que  realmente  producen  cambios  drásticos  en  cualquier  estilo  de  vida  o marca  de  lujo,  sea  un  producto  o  un  servicio;  en  cada  uno  de  esos mercados  hay  400  personas  que  inspiran  y  motivan  a  otros  mediante  su forma de vestir, su manera de actuar.» Su gran plan consistía en infiltrarse entre esos «creadores de mercado» dentro de los diez máximos mercados, y hacerlo  mediante  sus  revistas  locales,  pidiendo  luego  que  todos  contasen sus propias historias y atrajeran a anunciantes nacionales. «Los de dentro a los de dentro», es como lo expresó él.
+
+Pudo hacerlo porque, literalmente, fue a las casas de aquel as personas para descubrir qué les interesaba en su propia residencia. «Antes de sacar una  revista  al  mercado  —me  dijo—,  vivo  al í.  Da  igual  si  son  seis  meses seguidos o paso una semana sí y la otra no. Me aseguro de estar arraigado en  esa  comunidad.»  Pero  no  sólo  vive  en  el  contexto,  sino  que  lo  vincula con  el  contenido  de  sus  revistas.  Por  ejemplo,  recordaba  haber  visitado  a una  coleccionista  de  arte  en  su  hogar  de  Venice,  California,  para convencerla de escribir para  Los Angeles Confidential. Entró en su casa y vio un enorme cuadro de un artista local, Ed Ruscha. Jason le dijo: «Veo con mis propios ojos que usted es alguien que vive la vida de LA, y queremos ayudarla  a  celebrar  la  vida  que  vive  y  que  comparte  con  su  comunidad».
+
+Entonces,  una  vez  que  el a  aceptó  escribir  para  el os,  Jason  contaría  la historia de su encuentro, su cuadro y su participación a anunciantes tanto locales como nacionales, de modo que todos se beneficiasen del mismo club de gente dotada de información privilegiada.
+
+La historia del contexto como contenido ha tenido tanto éxito para Jason que ahora los anunciantes se aproximan a él para decirle: «¿Por qué no está en este mercado? Si tuviera una presencia en él, nosotros le apoyaríamos».
+
+Parece  natural  suponer  que  una  buena  idea  funcionará  en  todas  partes, pero  Jason  es  tajante.  «No,  nunca  sucederá  en  otro  lugar.  Ésa  no  es  mi
+
+intención. Yo sólo quiero contar mi historia donde cuente con ese público concreto.»
+
+¿Cuál es la comida para l evar que Jason Binn distribuye a todos los que figuran en su cadena alimentaria? Que el mejor escenario en el que contar su  historia  es  el  de  su  público,  y  que  la  mejor  manera  de  localizar  ese escenario es conociendo a la audiencia.
+
+PERO  TODO  ESTO  de  localizar  los  objetivos  y  los  intereses  del  público deja abierto el proceso de elegir y dar forma a la historia concreta que vaya a contar usted. Después de que el juez grite « ¡Preparados! », no pasa directo al « ¡Fuego! ».  Hay  un  paso  intermedio.  Lo  mismo  sucede  en  el  arte  de  la narración.  Por  muy  preparado  que  esté  usted,  aún  tiene  que  encontrar  la materia prima de su historia. ¿Cómo le da forma dividiéndola en tres pasos: reto,  lucha  y  resolución?  ¿Cómo  asegurarse  de  que  funcione  como transporte  emocional?  No  podrá  emocionar  a  su  público  hasta  que  su historia esté  ¡Lista!
+
+¡AJÁ!
+
+•  Para contar una gran historia, asóciese con la preparación.
+
+•    Manifieste  autenticidad  y  coherencia;  son  los  rieles  sobre  los  que discurre su historia.
+
+•  Demuestre que se juega algo.
+
+•  Apunte al  corazón  de su objetivo: insufle emoción a su oferta.
+
+•  Interésese por lo que interese a sus oyentes, y su historia les parecerá interesante, y su meta atractiva.
+
+•  Recuerde: el contexto en el que cuente su historia influirá en ésta.
+
+•  Conozca bien el percal: los prejuicios de sus oyentes pueden sabotear incluso la mejor historia.
+
+6
+
+Listos...
+
+El ex presidente Bil  Clinton dijo una vez que la política consiste en «contar a  la  gente  historias  mejores».  Bueno,  pues  nadie  ha  contado  una  historia para obtener un mejor propósito político que el propio Clinton. De hecho, su  maestría  en  el  arte  de  la  narración  tuvo  un  papel  esencial  para convencernos a mi esposa y a mí de que le ofreciéramos nuestro respaldo activo cuando declaró su intención de aspirar a la presidencia. Nosotros le conocíamos desde su época como «gobernador de Educación» de Arkansas, cuando le invitamos a hablar durante un almuerzo en el Beverly Hil s Hotel en  beneficio  de  Education  First,  una  organización  que  fomentaba  la educación pública de calidad por todo el país. Sabiendo que la celebridad era una moneda política que él querría aprovechar, reuní a 600 miembros de  la  comunidad  del  ocio  de  Los  Ángeles,  para  escucharle,  y  Clinton  nos deslumbró  contando  una  historia  atractiva  tras  otra,  que  subrayaban  la necesidad  del  país  y  la  oportunidad  de  mejorar  las  escuelas  públicas.  Su narración  destel aba  intelecto,  pasión  y  corazón,  y  nos  quedamos convencidos de que sería presidente.
+
+Entonces,  a  principios  de  las  primarias  de  1992,  Clinton  se  vio bombardeado  por  acusaciones  sobre  haber  eludido  su  reclutamiento  para Vietnam e infidelidad sexual. Perdió New Hampshire, que en su calidad de demócrata liberal debería haber conservado. Desde 1952 ningún candidato había alcanzado la presidencia sin ganar primero New Hampshire, y dado que  la  Regla  de  Oro  en  la  política  es  «donde  hay  votos  hay  dinero»,  esta
+
+pérdida sumió a la organización de Clinton en una crisis financiera. Uno de sus jefes de personal me l amó a la mañana siguiente tras las primarias para decirme  que,  si  Clinton  quería  pasar  al  siguiente  estado  esencial  para  las primarias,  necesitaba  reunir  90.000  dólares  al  final  de  ese  mismo  día.  Y
+
+dado que yo en aquel entonces era director de Sony, él tenía la esperanza de que yo hablase a la comunidad de Hol ywood a favor del gobernador.
+
+La  suma  que  pedían  me  reveló  lo  mal  que  andaban  las  cosas.  Aquel hombre  se  presentaba  como  candidato  a  presidente  de  Estados  Unidos.
+
+Para  cruzar  la  línea  de  meta,  la  solicitud  de  medio  mil ón  de  dólares hubiera  sido  una  cantidad  sensata.  Pero  que  pidiera  90.000  dólares  en  el último  momento,  sólo  para  avanzar  su  campana  un  estadio  más,  indicaba que ésta estaba en el filo de la navaja.
+
+—¿De  verdad  creen  que  puede  ganar?  —pregunté,  manifestando  mis propias dudas.
+
+—Por supuesto —respondió—. Si no, no pediríamos dinero.
+
+Pero  las  reglas  financieras  de  la  campaña  limitaban  estrictamente  a  mil dólares  la  cantidad  que  podía  donar  un  individuo,  de  modo  que  para alcanzar el total solicitado por Clinton tendría que arriesgar mi credibilidad con  un  montón  de  personas.  Necesitaba  al  candidato  en  persona  para convencerme de que realmente tenía alguna opción de ganar.
+
+Clinton se puso al teléfono. «Hola, Peter, soy Bil .»
+
+Entonces se produjo una larga pausa. Al echar la vista atrás me imagino que en aquel os instantes Clinton estaba haciendo una sesión de gimnasia mental,  buscando  el  contenido  perfecto  para  la  historia  que  guiara  a  ese público concreto, yo, hacia esta meta particular.
+
+Por último dijo: «¿Has visto la película  Solo ante el peligro?»
+
+Él sabía que yo la había visto. ¿Cómo iba a ser un ejecutivo en el mundo del  cine  y  no  haberla  visto?  Solo  ante  el  peligro   es  un  clásico  de  1952,  un western  de  Fred  Zinneman  donde  actuó  Gary  Cooper  en  el  papel  del heroico  sheriff  Wil   Kane,  quien  se  pasa  la  mayor  parte  de  la  película preparándose  para  enfrentarse  a  una  famosa  banda  que  debe  l egar  en  el tren del mediodía. Kane espera que la comunidad le respalde en esa lucha,
+
+pero  sólo  un  muchacho  tiene  el  valor  de  ponerse  a  su  lado  mientras aguarda el momento de la verdad.
+
+Clinton  no  me  relató  la  historia  de  la  situación  urgente  y  solitaria  de Kane. No hacía falta. Sólo me dijo: «Peter, esto es  Solo ante el peligro».
+
+¡Ajá!  Aquel as  palabras  me  transportaron  emocionalmente,  y  capté  la idea  de  inmediato.  Cuando  en  la  película  suena  el  silbato  que  anuncia  el mediodía,  el  héroe  se  enfrenta  a  sus  demonios,  internos  y  externos,  y  se abre camino hasta la victoria. Y eso era exactamente lo que  nuestro héroe, Bil  Clinton, haría si yo desempeñaba el papel de aquel ayudante solitario y le respaldaba a pesar de las circunstancias.
+
+No sé si en realidad Clinton es un fanático del cine, pero es evidente que sabía dónde buscar material que despertase ecos en la comunidad del ocio.
+
+Después de colgar, me fui directo a ver a Sid Ganis, director de marketing de  Sony,  que  más  tarde  se  convertiría  en  presidente  de  la  Academy  of Motion  Picture  Arts  and  Sciences.  Mientras  tomábamos  una  taza  de  café rápida  le  conté  mi  historia,  y  le  pedí  su  consejo  sobre  cómo  arreglar  el problema. Sid me dijo: «Es fácil. Llama a todas las personas que sabes que dependen de nosotros y cuéntales la misma historia».
+
+Los  dos  empezamos  a  marcar  números  de  teléfono  en  nuestra  lista  de Hol ywood,  comenzando  por  la  A.  «¿Conoce  la  película   Solo  ante  el peligro?», preguntamos a cada interlocutor. ¡Sí, claro que sí! «Bueno, pues esta  situación  es  el   Solo  ante  el  peligro   de  Bil   Clinton.  Necesitamos  que usted y su mujer donen mil dólares cada uno, y los necesitamos ya, antes de que suene el silbato del mediodía. En nuestro caso, el mediodía son las cuatro de esta tarde.»
+
+Casi  todos  nuestros  interlocutores  se  sintieron  transportados emocionalmente  a  través  del  contenido  familiar,  aunque  inesperado,  de aquel a historia cinematográfica. Aquel a tarde recogimos los cheques. A las cuatro l amé al jefe de personal de Clinton: «Ya es mediodía —le dije—, y tenemos el dinero. Ahora id a por los malos y vencedlos».
+
+Entonces  comenzó  la  racha  ganadora  de  Clinton,  que  ya  no  decayó.
+
+Cuando se bajó del avión en mayo, para organizar la campaña antes de las
+
+primarias  de  California,  yo  le  esperaba  en  el  aeropuerto  junto  a  mil personas  más.  Me  vio  desde  lo  alto  de  la  escaleril a  y  me  hizo  una  seña levantando el dedo pulgar. Ahora la historia ya había quedado a nuestras espaldas. El equipo de Clinton estaba destinado a la Casa Blanca, y Ganis y yo compartiríamos su alegría, en calidad de invitados, durante la toma de posesión.
+
+AQUEL EPISODIO CON CLINTON disipó todas mis dudas de que, en el arte  de  la  narración,  el  contenido  de  la  historia  es  el  súmmum.  Pero  las historias acechan por todas partes. Todos experimentamos cada día historias vivas,  y  l evamos  en  la  mente  auténticos  tesoros  sacados  de  los  libros  que hemos  leído  y  de  las  películas  de  cine  y  programas  televisivos  que  hemos visto.  Con  todo  ese  contenido  potencial  y  más  de  donde  elegir,  ¿cómo pergeñamos  la  historia  correcta  que  debemos  contar  para  alcanzar  un objetivo concreto? Por ejemplo, ¿cómo eligió Bil  Clinton  Solo ante el peligro, de  entre  todas  las  películas  que  podría  haber  encontrado  para convencerme?
+
+Es  cierto  que  para  él,  era  lógico  que  me  contara  una  película  de  cine, dado que yo estaba dentro del gremio. Pero hay miles de películas de entre las  que  podía  haber  elegido,  incluso  comedias,  dramas  y  aventuras  de acción. Lo que hizo que  Solo ante el peligro  fuera perfecta fue el modo en que  reflejaba  la  intención  de  Clinton  de  superar  los  obstáculos  que  se  le presentaban. No tuvo que elaborar mucho la historia: capté la asociación de inmediato. Nuestro héroe, como el sheriff Kane, se pondría en pie cuando todos  los  demás  se  sentaran.  Clinton  creía  en  su  propia  capacidad  de enfrentarse  a  los  malos,  y  seguiría  luchando  hasta  que  los  derrotase.
+
+Convenientemente,  gracias  al  aguerrido  muchacho  que  le  ayudó  a  que  la victoria fuera posible, la historia de la película también me ofrecía un papel.
+
+Y  como  yo  había  experimentado  personalmente  el  drama  emocional,  la urgencia y la euforia final de la lucha de Kane a lo largo del filme, aquel a historia tan conocida activó de inmediato mi empatía por la experiencia de
+
+Clinton en su campaña. Me sentí movido emocionalmente para respaldar a aquel hombre al que todos l egamos a l amar «Comeback Kid».
+
+¿QUIÉN ES SU HÉROE?
+
+El asesor de comunicaciones Bob Dickman, coautor del libro  e Elements of Persuasion, hizo un comentario en uno de nuestros cónclaves dedicados a  la  narración  que  me  recordó  por  qué  los  héroes  tienen  un  papel  tan esencial en las historias con propósito. «Toda la pasión de este mundo no servirá de nada —nos dijo Bob—, a menos que tengamos un lugar donde invertirla. Ahí es donde entra en juego el héroe. Con este término no me refiero necesariamente a Supermán, o a una abuela que entra en un edificio en l amas para salvar a un bebé, sino al personaje de la historia que ofrece al  público  un  punto  de  vista.  El  héroe  es  tanto  nuestro  sustituto  como nuestro guía.»
+
+---
+
+En  otras  palabras,  el  héroe  es  el  personaje  con  quien  se  identificará  su oyente. ¿Por qué es importante la identificación en el arte de la narración?
+
+Porque si su audiencia experimenta la historia por medio de su héroe, y la historia conduce a éste a aceptar la l amada a la acción, ¡automáticamente su público escuchará también ese l amamiento!
+
+Dicho  de  una  forma  sencil a,  su  héroe  es  la  persona,  lugar,  producto  o marca que permite a su público sentir el cambio que le promete su historia.
+
+Recuerde  que  las  historias  de  empresa,  al  igual  que  las  novelas  y  las películas, tienen tres partes: el reto, la lucha y la resolución. Y el héroe es el personaje que se enfrenta al reto y lucha para l egar a la resolución. Puede que  parezca  evidente,  pero  tal  como  descubrí  durante  el  rodaje  de   Rain Man, en ocasiones, y por sorprendente que parezca, el héroe resulta muy difícil  de  localizar,  y  hasta  que  usted  lo  detecte,  para  usted  no  habrá historia.
+
+La historia de  Rain Man, que mi compañía produjo en 1988, se centra en  un  genio  autista,  protagonizado  por  Dustin  Hoffman,  y  su  hermano, mucho  menor  y  manipulador,  protagonizado  por  Tom  Cruise.  Desde  que empezamos  a  desarrol ar  la  película,  yo  pensaba  que  el  mensaje  de  la historia  radicaba  en  centrar  la  atención  en  la  vida  extraordinaria  de  un sabio  autista.  Pero  pasamos  por  tres  directores,  ninguno  de  los  cuales encontró  el  modo  de  contar  aquel a  historia,  antes  de  contratar  a  Barry Levinson.  Barry  comprendió  que  nuestra  historia  necesitaba  tener  un propósito  además  de  ser  entretenida.  Su  objetivo  era  motivar  al  público  a cambiar  la  manera  en  que  se  trata  y  cuida  a  las  personas  que  tienen  una minusvalía  grave.  En  la  historia  que  contó  Barry,  el  hermano  menor, Charlie, intenta aprovecharse de su hermano Raymond, pero al final l ega a apreciarlo. Aquel o me pareció bien, pero aun así pensé que Raymond, con sus capacidades casi sobrenaturales, era el héroe de la historia.
+
+Después  de  que  Barry  filtrase  la  versión  del  director  para  nosotros,  yo sólo  tuve  una  sugerencia.  «Es  genial  —le  dije—,  pero  al  final,  ¿no  podría Dustin volverse y hacerle un guiño a Tom? Como si le dijera al público: “Lo he captado. Voy a tener una buena vida, he visto la luz”.»
+
+Barry  me  echó  una  mirada  paciente  y  me  respondió:  «No  lo  pil as.  El héroe no es Dustin».
+
+¿Cómo  que  no?  Pero  si  Dustin  Hoffman  era  nuestra  estrel a  (y,  como resultó  después,  fue  directo  a  recibir  un  premio  de  la  Academia  por  ese papel).  En  aquel a  época  Tom  Cruise  era  sólo  un  veinteañero,  y  yo  le consideraba  un  actor  secundario.  A  pesar  de  el o,  me  explicó  Barry pacientemente, y sin tener en cuenta el poder de la estrel a, el héroe de una historia  es  el  personaje  que  toma  decisiones  difíciles  y   siente  de  verdad cómo  se  produce  un  cambio  con  sentido  dentro  de  su  vida.  El  personaje autista de Dustin era pasivo: era incapaz de cambiar su propia vida, mucho menos de experimentar una transformación emocional. Era el personaje de Tom  Cruise,  Charlie,  quien  tomaba  todas  las  decisiones  clave,  y  al  final cambiaba su vida y su punto de vista. Fue mediante la transformación de sí
+
+mismo como cambió la vida de su hermano, de modo que  él  era el héroe de la historia.
+
+La lección de  Rain Man  tuvo su aplicación práctica unos años más tarde, cuando entrevisté a Tom Cruise en mi programa de televisión para la AMC, Storymakers.  Tom  recordaba  que  Barry  Levinson  le  dijo:  «Mira,  esta película depende de que seas capaz de hacer creíble esta transición, porque todo el mundo se meterá en tu piel. Todo el mundo dirá:  ¿Y si mi esposa tuviera un accidente que le produjera daños cerebrales? ¿Y si tuviera un hijo o una hija con este problema? ¿Qué pasaría si mi padre tuviera Alzheimer?
+
+¿Cómo  podría  cambiar  para  adaptarme  al  problema? »  El  héroe  debía  ser alguien  que  pudiera  encarnar  las  metas  con  propósito  de  la  historia  que contaba Barry.
+
+El  propósito  de  Barry  iba  más  al á  de  la  mera  venta  de  entradas  y  de entretener a la gente. Pretendía motivar al público a cambiar su forma de ver a las personas que padecen una minusvalía física o mental. Y tuvo éxito.
+
+Aunque   Rain  Man  obtuvo  cuatro  Oscar  de  la  Academia,  incluido  el  de Mejor Película, el público captó una l amada a la acción que resonó mucho más  al á  de  Hol ywood.  Mediante  un  aluvión  de  cartas  que  recibimos  en nuestras  oficinas,  los  espectadores  nos  dijeron  que  la  película  les  había inspirado para ser más compasivos, sensibles y muy activos al tratar con las personas  autistas  con  las  que  convivían,  o  bien  afectados  de  Alzheimer  u otras  lesiones  o  enfermedades  discapacitadoras.  La  lección  que  extrajeron de la historia no fue cómo contar cartas, como hacía Raymond, sino cómo transformar sus propias actitudes y aptitudes. No recibimos una sola carta de  un  autista  o  un  genio.  Las  recibimos  de  las  personas  que  siguieron  el camino marcado por nuestro héroe.
+
+El narrador como héroe
+
+«En cada historia hay un personaje que puede marcar la diferencia —dijo recientemente Pat Riley a mis alumnos de posgrado de la UCLA—. Ése será vuestro  héroe.»  Por  supuesto,  al  ser  toda  una  leyenda  del  baloncesto
+
+profesional  como  entrenador,  Riley  está  acostumbrado  a  contar  historias que  presentan  a  sus  jugadores  como  héroes.  Pero,  en  ocasiones,  al  contar una  historia,  es  uno  mismo  quien  tiene  que  presentarse  como  el  héroe.
+
+¿Cómo se hace eso sin resultar pomposo ni parecer egocéntrico? Riley nos dio  un  ejemplo  perfecto  sacado  de  la  primera  temporada  en  que  Magic Johnson jugó con los Lakers, cuando Riley era el ayudante del entrenador, al á en 1979.
+
+«Aquel a  temporada  —recordaba  Riley—  acabamos  en  las  finales  de  la NBA, que disputamos contra los Philadelphia 76ers. Entonces, durante el quinto partido en Los Ángeles, Kareem Abdul-Jabbar se hizo un esguince en  el  tobil o  y  tuvimos  que  retirarlo  en  la  segunda  parte.  Era  el  mayor anotador  de  toda  la  historia  de  la  NBA,  y  le  perdimos  para  los  partidos sexto  y  séptimo.  Así  que,  aunque  ganábamos  tres  a  dos,  se  me  acercaron jugadores que me dijeron: “Vamos a perder”. Bueno, pues Magic Johnson oyó  este  comentario,  y  se  puso  frenético.  Con  sólo  19  años,  e  intentando volver a meter a sus chicos en el partido, dijo: “Ya sé cuál es el problema.
+
+Todos vosotros estáis asustados porque no está Kareem. Vale, pues yo seré Kareem”».
+
+Por tanto, la historia que Magic contó, respiró, actuó y disputó durante los dos partidos siguientes fue que era el héroe de su equipo, alias Kareem.
+
+«Nos subimos al avión para ir a Filadelfia —recordaba Riley—, y el asiento de Kareem era el 1A. Incluso cuando estaba de baja, nadie se sentaba en el 1A.  Había  colgado  un  cartelito  que  decía:  “No  ocupes  mi  asiento.  Soy Kareem”.  Pues  Magic  se  sentó  en  aquel  asiento  y  dijo:  “Eh,  soy  Kareem.
+
+Aquí estoy”».
+
+En Filadelfia, Magic, que jugaba como distribuidor de juego, jugó en la posición  de  Kareem,  en  el  centro,  durante  todo  el  partido.  «En  el  sexto encuentro  —dijo  Riley—,  el  mejor  partido  que  haya  disputado  jamás  un novato de la NBA fue el que nos ofreció Earvin Magic Johnson. Anotó 42
+
+puntos, pil ó 15 rebotes, hizo 13 asistencias y robó siete balones. Ganamos 123 a 107. Y fue Kareem.» Al día siguiente,  e New York Times  colocó en
+
+titulares al verdadero héroe de la historia: «ES MAGIC», rezaba. Aquel año los Lakers  ganaron  el  campeonato  de  la  NBA,  y  Magic  ganó  el  premio  al Jugador más Valioso de las finales de la NBA.
+
+La ironía estriba en que el acto de magia más grande de Earvin Johnson fue la historia que contó para motivar a su equipo a creer que el héroe era él. Era una historia que destilaba valor al tratarse de un novato, pero salió adelante porque sabía que estaba a la altura del papel, y porque su objetivo último era beneficiarlos a todos. Y ahí radica la moraleja de la historia para otros narradores con propósito que se atreven a presentarse como héroes.
+
+Los verdaderos héroes de la narrativa son tan generosos como poderosos.
+
+Nunca pierden de vista qué contiene la historia para su público. Y sólo se presentan como héroes si saben que están a la altura.
+
+El oyente como héroe
+
+«Yo  no  soy  su  héroe.»  Eso  sí  que  fue  toda  una  novedad  para  mí.  Estaba hablando con el Dalai Lama, el más elevado y sagrado de todos los líderes budistas del Tíbet, y el mayor de todos los héroes políticos para cientos de miles  de  tibetanos,  tanto  dentro  del  país  como  en  el  exilio.  Pero  lo  que quería decir el Dalai Lama es que no era el héroe de la historia particular que yo pretendía contar.
+
+El problema al que nos enfrentamos al á por 1996 fue que el Gobierno chino  condenó  nuestra  película  en  rodaje  de   Siete  años  en  el  Tíbet.  Esta película,  uno  de  los  primeros  proyectos  conjuntos  entre  mi  compañía Mandalay  y  Sony,  rendía  tributo  al  valor  y  a  la  humanidad  del  pueblo tibetano por medio de la historia verídica de Heinrich Harrer, que conoció a  Su  Santidad  cuando  éste  era  un  niño,  durante  la  Segunda  Guerra Mundial, y del que fue maestro hasta la invasión china del Tíbet en 1950.
+
+Incluso antes de que empezásemos con la fotografía principal, los oficiales chinos se habían enterado de nuestros planes de mostrar la brutalidad de su invasión del país, mientras homenajeábamos a su enemigo, Su Santidad, y estaban muy, pero que muy enfadados.
+
+El Gobierno chino no podía presionarnos directamente. Nuestro director, Jean-Jacques  Annaud,  que  antes  había  dirigido   En  busca  del  fuego  y   El nombre  de  la  rosa,  ya  había  hecho  una  expedición  secreta  al  Tíbet  para hacerse  con  el  metraje  documental  que  necesitaba.  Planeábamos  rodar  el resto  de  la  película  en  India,  donde  vivía  el  Dalai  Lama  y  desde  donde dirigía  su  Gobierno  en  el  exilio,  y  donde  además  tendríamos  acceso  a muchos  actores  y  extras  tibetanos.  Ya  nos  habíamos  gastado  mil ones  de dólares en los escenarios en ese país, y Brad Pitt se había comprometido a hacer  el  papel  de  Harrer.  Los  chinos  esperaron  hasta  el  último  minuto, antes de que comenzásemos la fotografía, para presionar al Gobierno indio e  inducirle  a  negarnos  los  permisos,  pensando  que  eso  evitaría  que  se rodara la película.
+
+A  pesar  de  nuestros  mejores  esfuerzos  para  presionarlo,  el  Gobierno indio  cedió  ante  los  chinos,  primero  negándose  a  otorgar  una  licencia  de producción al filme, y luego insistiendo en que nos fuéramos del país. Para empeorar las cosas, Martin Scorsese nos pisaba los talones con su película Kundun,  una  versión  cinematográfica  de  la  biografía  de  Su  Santidad.  En cincuenta años no se había rodado ni una película sobre el Dalai Lama, y de  repente  había  dos.  Sabiendo  que  Scorsese  estaría  la  mar  de  tranquilo rodando  su  película  en  Marruecos,  decidimos  encontrar  una  localización parecida,  bien  alejada  de  la  esfera  de  influencia  china.  Doblamos  nuestra apuesta y trasladamos la producción del filme a Argentina.
+
+Pero aunque aún l evábamos varios meses de ventaja a Scorsese, parecía imposible librarse de los chinos. Envalentonados por su capacidad de haber obligado a India a pasar por el aro, ahora apuntaron a la compañía madre de  Sony  Entertainment,  el  gigante  de  la  electrónica  Sony  Corporation.
+
+China  les  amenazó  diciendo  que,  independientemente  de  dónde rodásemos la película, conseguirían cancelar los negocios de Sony en China si la compañía distribuía  Siete años en el Tíbet. Fue entonces cuando pedí al Dalai Lama que fuera nuestro héroe.
+
+Yo  había  tenido  la  suerte  de  haber  coincidido  con  Su  Santidad  en diversas ocasiones, y pensé que si él defendía nuestra causa, los medios de
+
+comunicación  podrían  contar  una  historia  que  obligase  a  los  chinos  a echarse atrás. El Dalai Lama lo entendió mejor. «Debe convertir a Sony en su héroe», dijo.
+
+Así  que  acudí  a  John  Cal ey,  que  entonces  era  el  jefe  del  estudio cinematográfico de Sony, y le planteé nuestro problema, pidiendo que él, el oyente, se metiera en el papel del héroe. Entonces le conté la historia del viaje de aquel otro héroe.
+
+Le dije que él y Sony se enfrentaban a un dilema urgente, y que tenían dos  opciones,  ambas  arriesgadas.  El  imperio  electrónico  de  Sony  era  una fuente  de  orgul o  nacional  que  superaba  con  creces  a  sus  divisiones dedicadas  al  entretenimiento.  ¿Cómo  iba  a  arriesgarse  Sony  a  perder  un socio  comercial  tan  importante  como  China  por  hacer  una  película?  Por otro lado, sugerí, si no convencía a Sony para que defendiese la película, se resentiría la reputación de integridad artística que tenía la compañía. En su calidad de jefe de estudio, Cal ey sabía que lo correcto era proteger la l ama artística  y  no  permitir  que  la  extinguieran  los  chinos  ni  cualquier  otra medida política.
+
+Luego  le  conté  la  historia  que  me  había  contado  Jean-Jacques  Annaud sobre su película  En busca del fuego, que trata de una tribu prehistórica que aún  no  había  aprendido  a  encender  un  fuego.  Cuando  los  miembros  de otra tribu les roban su último leño encendido, tres guerreros deben viajar en busca de una l ama que sustituya el fuego que ha perdido su tribu. Se encuentran  con  tigres  dientes  de  sable,  mamuts  y  otros  peligros,  pero  el destino de su pueblo depende de que encuentren y protejan la l ama. De la misma manera, añadí, la compañía madre japonesa de Sony Pictures tenía la responsabilidad de mantener viva la l ama. A pesar de las amenazas de China, Sony podía revelarse como un defensor a ultranza de los derechos creativos, y así convertirse en un héroe para todos los productores presentes y  futuros  de  música,  televisión  y  cine.  Dije  a  Cal ey  que  aquel a  crisis,  en realidad,  daba  a  Sony  la  oportunidad  de  convertir  la  adversidad  en  una ventaja.
+
+John percibió la l amada a la acción de la historia, que le motivó a actuar a  nuestro  favor  ante  el  liderazgo  corporativo  de  Sony.  Gracias  a  su intermediación,  Sony  no  se  echó  para  atrás.  Nuestro  filme  se  estrenó  en 1997, tres meses antes del de Scorsese. Y aunque las relaciones comerciales de Sony con China, sobre todo en sus divisiones electrónicas, se resintieron, el  liderazgo  corporativo  perseveró,  y  la  reputación  internacional  de integridad  creativa  de  Sony  se  puso  por  las  nubes.  Al  final,  mi  oyente  se había convertido en el héroe, y consiguió resolver nuestro problema.
+
+EL  HECHO  DE  CONTAR  A  LAS  PERSONAS  historias  sobre  su  propio heroísmo, ¿puede cambiar el mundo de verdad? Bil  Haber pensaba que sí, y para demostrarlo estaba dispuesto a abandonar la empresa de la que fue cofundador veinte años antes. Aquel a empresa, Creative Artists Agency, es una  de  las  primeras  agencias  de  talentos  dentro  del  mundo  del entretenimiento.  Yo  figuraba  entre  los  primeros  clientes  de  Bil .  Pero cuando  se  fue  en  1995,  aquel  agente  de  Hol ywood  estaba  decidido  a convertirse  en  un  instigador  del  cambio  mundial.  Quería  utilizar  sus talentos  para  ayudar  al  grupo  humano  más  vulnerable  del  mundo,  los niños, de modo que se convirtió en el líder de la ONG Save the Children.
+
+El  problema  al  que  se  enfrentaba  de  inmediato  era  la  escala  de  la organización  y  el  ámbito  de  la  necesidad  que  quería  aliviar.  «Save  the Children  tiene  41  secciones  internacionales  diferentes  —me  explicó—.
+
+Exceptuando a UNICEF, es la organización no gubernamental y no sectaria destinada a los niños más grande del mundo. Trabajamos para 35 mil ones de niños sin esperanza. Pero, ¿cómo suscitar el interés de los donantes por 35  mil ones  de  niños?  Decir  a  la  gente  que  tenemos  que  pagar  a  4.000
+
+empleados, 5.000.000 de comidas y 6.000 lápices no conmueve al público.
+
+Los seres humanos se desactivan, instintivamente, cuando los números se vuelven  muy  grandes  e  impersonales.  Estamos  diseñados  para  responder emocionalmente  de  uno  a  uno.  Por  tanto,  nuestra  historia  tendría  que convertir  al  oyente  en  el  héroe  de  un  niño  en  concreto.  Nuestra  historia
+
+debería decir que cada niño tiene una historia, y que si uno salva la vida de un niño o hace que ésta sea plena gracias a lo que uno hace, entonces habrá marcado  una  diferencia.  Por  medio  de  esa  vida,  uno  puede  cambiar  el mundo.»
+
+Este  enfoque  al  arte  de  la  narrativa  podía  aplicarse,  me  dijo  Bil ,  a  las historias que contaba a los donantes, a los patrocinadores gubernamentales y al propio personal y voluntarios de Save the Children. Su mejor historia, tanto  si  quería  obtener  fondos,  atraer  a  personal  nuevo,  influir  en  una política o suscitar el respaldo político, era que usted puede salvar a un niño.
+
+Usted puede ser el héroe.
+
+«No  se  trata  de  35  mil ones  de  niños  —dijo  Bil —.  Se  trata  de  ser  el héroe de la historia que conté acerca de una niña de 9 años a la que conocí en Trípoli, Líbano, y que no podía asistir a la escuela porque su familia no tenía cinco dólares para comprarle un uniforme. O la historia sobre aquel niño croata que tenía que l evar sombrero porque se había arrancado todo el  cabel o  después  de  ver  cómo  un  trozo  de  metral a  decapitaba  a  su hermana en el salón de su casa. Cuando hablaba a las personas de Save the Children,  les  decía:  “Pueden  ganar  más  dinero  en  otras  compañías,  y pueden  tener  vidas  más  fáciles,  y  no  tienen  por  qué  soportar  que  les disparen o los bombardeen, como nos pasó cuando estuvimos en Sarajevo.
+
+Pueden conseguir otro empleo y tener una vida normal, pero si eligen hacer esto es para salvar la vida de un niño”.»
+
+Pero Haber me dijo también que no sirve contar cualquier historia triste sobre un niño. Cuando el propósito general es tan serio como el de Save the Children,  hay  una  línea  muy  fina  entre  conmover  a  las  personas  y horrorizarlas. «Cuando l egué, su anuncio de mayor éxito era una foto que ganó  el  Premio  Pulitzer,  en  la  que  se  veía  a  un  niño  moribundo  con  un buitre  al  lado.  Les  dije:  “Yo  no  puedo  estar  aquí  conviviendo  con  esa imagen. Han ido demasiado lejos”. Ésa no es manera de contar una historia.
+
+No  pueden  ganarse  el  corazón  de  las  personas  si  las  aterrorizan.  Muy pronto se alejarán del estímulo, para protegerse».
+
+Bil   dijo  que  para  que  la  historia  abra  la  posibilidad  de  que  el  público desempeñe  un  papel  heroico,  tiene  que  presentar  una  esperanza.  La solución que ha adoptado Save the Children es contar la historia por medio del  mecanismo  del  patrocinio.  «El  patrocinio  consiste  en  que  uno  invierte 24  dólares,  que  van  destinados  a  un  niño.  Entonces  el  niño  le  escribe.
+
+Recibe una foto del niño, lo cual pone cara al personaje más importante de una  historia  en  la  que  usted  participa  personalmente.  Esta  historia demuestra  que  usted  es  el  héroe  que  cambia  el  mundo.  Eso  es  lo  que realmente  le  motiva,  y  entonces  l ega  la  clave  de  todo  el  asunto:  usted cuenta su historia a sus familiares y a sus amigos, y la historia que cuenta de
+
+“su” niño, la l amada a la acción al que ha respondido, y cómo le hace sentir esta historia, es lo que les convence para ser patrocinadores. Así funciona.»
+
+Este  enfoque  atrae  y  conserva  a  los  donantes  año  tras  año,  porque  los héroes, de forma natural, sienten que han invertido en los niños a los que ayudan a salvar. En 2008, Save the Children recibió más de 33 mil ones de dólares en patrocinios infantiles. La captación de héroes donantes también ha sido tremendamente eficaz para garantizar donantes colectivos. En 2006, los patrocinadores de Save the Children incluían a más de un tercio de las marcas  mundiales  más  importantes,  según  las  clasificaba   Business  Week.
+
+«Sencil amente,  digan  a  la  gente  que  pueden  marcar  una  diferencia  en  la vida de un niño —dijo Bil —. Así es como usted puede cambiar el mundo.»
+
+Meter a su oyente en la piel del héroe tiene sentido, como es obvio, si su l amada a la acción conl eva correr un riesgo o hacer un sacrificio, o si sabe que  su  audiencia  tendrá  que  superar  cierta  resistencia  para  cumplir  el propósito  que  tiene  usted.  Al  motivar  al  oyente  a  que  se  sienta  como  el héroe al final de la historia, su narración puede proporcionar la motivación necesaria para superar la reluctancia propia del oyente. Pero ¿qué sucede si su objetivo consiste simplemente en inspirar a la gente para que compre su producto?
+
+El cliente como héroe
+
+En 1996, cuando era un defensa central emprendedor en la universidad de Maryland,  Kevin  Plank  tuvo  la  bril ante  idea  de  vender  camisetas  hechas con los tejidos propios de las prendas interiores femeninas. Plank se había dado  cuenta  de  que  sus  prendas  de  entrenamiento  de  algodón  le  hacían empaparse  de  sudor  y  le  ralentizaban  en  el  campo,  de  modo  que  soñaba con una camiseta interior confeccionada con Capilene, un tejido ultraligero que mantiene la forma y el color y aleja el sudor de la piel, para mantener el  cuerpo  fresco  en  verano  y  caliente  en  invierno.  A  sus  23  años,  invirtió todo su dinero en el desarrol o de un prototipo con una tecnología puntera para  la  absorción  de  la  humedad,  que  l evaría  el  nombre  Under  Armour.
+
+Para ofrecer una prueba del proceso, regaló prendas a sus amigos y colegas de  atletismo.  Su  razonamiento  era  que  aquel os  defensas  de  120  kilos definían  lo  que  es  la  resistencia  física,  de  modo  que  si   ellos  aceptaban  el producto, cambiarían por completo la opinión sobre el tejido. Y mire usted por dónde: las prendas tuvieron éxito. De hecho, Jeff George apareció en la portada  de   USA Today  vestido  con  su  uniforme  de  los  Raiders,  y  con  un suéter  de  cuel o  vuelto  Under  Armour;  y  Jeff  ni  siquiera  fue  uno  de  los jugadores  que  recibieron  el  equipo  de  regalo.  El  teléfono  no  dejaba  de sonar  con  l amadas  procedentes  de  atletas.  Pero  ¿cómo  se  las  arreglaría Plank para hacer la transición del producto hacia el público general?
+
+Cuando Kevin vino a mi despacho en 2009 para aprovechar algunos de mis  contactos  en  el  mundo  del  entretenimiento  deportivo,  compartió conmigo la historia que contó para ampliar el atractivo de Under Armour.
+
+«Tenía que convertir al cliente en mi héroe —me dijo—. Como si fuera la historia de Supermán al revés, tenía que hacerles creer que lo que les iba a conceder  el  impulso  que  realmente  necesitaban  no  era  el  disfraz  evidente de Supermán, sino la camiseta de Clark Kent.» Era un proyecto difícil, pero su  equipo  sabía  cuál  era  el  rendimiento  del  producto  y  todas  sus características  operativas.  Kevin  les  dijo  que  le  contasen  una  historia motivadora,  y  la  motivación  sería  cualquier  meta  que  sugiriesen  sus clientes. «No nos limitamos a decir “¿Cómo puedo ayudarle?” —explicó—.
+
+Le preguntamos: “¿Qué quiere ser? ¿Jugar en la universidad? ¿Ser el mejor?
+
+¿Perder diez kilos? Sea lo que sea, lo conseguirá con Under Armour”.»
+
+El  tema  de  la  historia  de  Plank  era  que  cada  producto  Under  Armour ayudaba  al  cliente  a  rendir  como  un  profesional.  Under  Armour  le proporcionaría la ayuda física y la propulsión emocional, pero era el cliente quien  iría  rompiendo  sus  récords  personales  cada  vez  más  ambiciosos.  Y
+
+contar esta historia teniendo al cliente como héroe resultó ser la l ave del éxito para la compañía de Plank.
+
+Hoy, Under Armour tiene un valor de casi 1.000 mil ones de dólares, y Plank se ha asegurado de que cada uno de sus 2.400 empleados cuente una versión  de  la  historia  «el  cliente  es  el  héroe»  a  consumidores,  minoristas, medios de comunicación y atletas. Dado que los objetivos de los clientes no dejan de cambiar, lo mismo tiene que hacer la historia que cuenta Under Armour  para  mantenerles  en  el  papel  de  héroes.  A  Kevin  eso  le  parece bien.  «Mi  trabajo  como  narrador  no  consiste  en  empujar,  imprimir, encuadernar  y  asunto  concluido  —dijo—.  Nuestra  historia  es  un  ser  que vive,  respira  y  cambia.  Cada  seis  meses  somos  una  empresa  diferente.»  Y
+
+esa  historia  sigue  motivando  a  cientos  de  miles  de  clientes  para  que compren y hablen bien de sus productos.
+
+El producto como héroe
+
+A veces no hay manera de evitarlo: el producto  es el héroe. Al menos así es como  Lynda  Resnick  cuenta  la  historia  de  POM  Wonderful.  Además  de comercializar marcas como Teleflora y FIJI Water, la empresa de Lynda y de su esposo Stewart, Rol  International, es el mayor productor de almendras, pistachos,  clementinas  y  granadas  del  mundo.  Y  la  historia  que  me  contó Lynda  sobre  POM  no  dejaba  lugar  a  dudas  de  que  su  producto  era  el héroe.
+
+En 1986, Lynda y su marido compraron 120 acres [casi 50 hectáreas] en el val e San Joaquín, California. En aquel os acres encontraron árboles que creyeron  que  eran  pistachos.  Luego  resultaron  ser  granados.  En  aquel a
+
+época, me contó Lynda, pocos estadounidenses tenían idea de qué era un granado,  y  mucho  menos  para  qué  servía.  Así  que  los  Resnick  hicieron ciertas  investigaciones  y  descubrieron  la  historia  de  este  árbol,  su versatilidad  y  sus  presuntos  beneficios  para  la  salud.  ¿Podría  significar aquel a historia que estaban frente a un superhéroe de los antioxidantes?
+
+Al  rastrear  el  viaje  del  cultivo  del  granado  por  todo  el  mundo  y retrocediendo  cuatro  mil  años,  descubrieron  que  aquel  héroe  redondo  y colorado  era  un  símbolo  de  fuerza  tan  grande  en  la  cultura  persa  que cuando el ejército de Jerjes invadió Grecia en 480 a.C., sus lanzas en vez de l evar una moharra en el extremo l evaban granadas. En el antiguo Egipto, el zumo de granada se usaba para tratar enfermedades, desde la disentería a los dolores de estómago, así como las lombrices intestinales. En India, la granada  se  convirtió  en  un  símbolo  de  prosperidad  y  de  fertilidad;  en China,  de  fertilidad.  En  Israel  se  decía  que  prevenía  las  cardiopatías.  Y
+
+después  de  que  ese  fruto  heroico  manifestase  su  valor  anticancerígeno  en Europa,  la  Asociación  Médica  Británica  añadió  su  imagen  a  su  escudo,  a modo de tributo.
+
+Estas  anécdotas  históricas  indujeron  a  los  Resnick  a  aumentar  la superficie  destinada  a  los  granados  (hasta  7.300  hectáreas),  y  a  financiar investigaciones  científicas  para  corroborar  los  beneficios  descritos  en  las historias. En 2009 ya se habían gastado 32 mil ones de dólares en estudios médicos,  y  habían  descubierto  que  los  beneficios  de  los  que  hablaban  las historias  eran  ciertos.  El  zumo  de  granada  tenía  un  efecto  especialmente beneficioso en el cáncer de próstata y en la diabetes del tipo 2, así como en las  enfermedades  cardiovasculares.  Ahora  podían  tomar  la  historia  de  la granada  y  respaldarla  con  una  verdad  científica  demostrada  ante  sus clientes,  los  minoristas  y  los  medios  de  comunicación,  presentando  una historia que convirtiese en héroe a su producto.
+
+Lynda  reunió  al  mejor  equipo  de  ventas  del  mundo  para  que  hiciera l amadas  personales  a  los  máximos  directivos  de  todas  las  cadenas  de supermercados  minoristas.  Tomó  una  página  de  su  exitosa  estrategia  para Jackie O Franklin Mint e instruyó a todos los representantes de ventas para
+
+que  contasen  a  los  directores  de  las  tiendas,  cara  a  cara,  la  verdadera historia  de  aquel a  fruta  heroica  que  podía  salvar  vidas.  «Luego  dejamos que  probasen  aquel  zumo  tan  delicioso  —dijo  Lynda—.  “Deberían probarlo”,  les  dijimos,  y  vamos  a  ponerlos  en  la  lista  para  que  lo  reciban cada mes. Lo probaron, lo compraron y lo hicieron circular, contando una y otra vez su increíble historia.»
+
+Como dijo Lynda, a veces uno tiene que «pensar dentro de la caja» [sin pretender  innovar]  para  encontrar  no  sólo  su  historia,  sino  también  a  su héroe.  Pero  ¿qué  pasa  si  su  «caja»  no  es  un  producto  manufacturado  o empaquetado, sino un lugar?
+
+El lugar como héroe
+
+Hoy  Frank  Lowy  es  presidente  del  enorme  Westfield  Group,  la  compañía inmobiliaria de comercio público más grande del mundo. Westfield dirige en  todo  el  mundo  un  total  de  119  centros  comerciales  regionales  de  alta calidad, con un valor de más de 62.000 mil ones de dólares. Pero al á por los  años  ochenta,  junto  con  sus  numerosas  empresas  multinacionales, Frank  era  presidente  de  nuestra  compañía  pública  Barris-GPEC
+
+Entertainment, antes de que la vendiéramos a Sony. Frank siempre fue un hombre  astuto  y  honrado,  que  pensaba  que  las  relaciones  debían  forjarse cliente a cliente, ética que ha transmitido a su hijo Peter, el director gerente del Westfield Group. Hace poco fui a ver a Peter Lowy en sus oficinas del val e de San Fernando para proponerle un proyecto conjunto: construir en el val e un estadio de béisbol para las ligas menores; aquel lugar, a pesar de ser  el  duodécimo  mercado  de  Estados  Unidos,  carece  de  un  equipo deportivo  profesional.  Le  dije  que,  para  Mandalay,  las  instalaciones deportivas  y  los  equipos  profesionales  de  béisbol  de  las  ligas  menores  no consistían sólo en perder o ganar. Lo que es más importante, esos lugares ofrecían una valiosa oportunidad a los seguidores para reunirse, relajarse y pasarlo bien en un entorno cómodo al que podían acudir con sus familias.
+
+Peter  Lowy  me  respondió  que  Westfield  ha  fundamentado  su  éxito
+
+monumental  sobre  la  espina  dorsal  de  una  estrategia  parecida,  que presentaba  la  localización  de  cada  Westfield  como  el  héroe  de  la  historia.
+
+Aunque  nuestro  proyecto  conjunto  deportivo  se  vería  frustrado  por  las franquicias  de  béisbol  de  las  ligas  mayores  que  controlaban  los  derechos territoriales  del  val e,  los  puntos  de  vista  que  Lowy  me  dio  aquel  día arrojaron una nueva luz sobre el arte de la narración.
+
+Él me señaló que en Century City, cerca de mi casa, Westfield cuenta la historia del lugar como un héroe que se pone en acción en cuanto el cliente entra con su vehículo en el aparcamiento del centro comercial. «Instalamos bombil as rojas y verdes sobre cada plaza de aparcamiento, de modo que la gente vea enseguida cuál de el as está libre. Eso reduce en un 8 por ciento el tiempo que pasan en el estacionamiento. Eso quiere decir que los clientes están más relajados, y tienen todo ese tiempo extra para comprar.» En mi calidad de cliente, yo sabía que cualquiera que hubiera tenido el placer de aparcar  en  aquel  aparcamiento  presentaría  luego  el  lugar  como  su  héroe, contando a sus amigos la historia de esa experiencia.
+
+Lowy  dijo  que  ser  un  héroe  no  sólo  significa  ofrecer  al  público  una experiencia  que  suponga  una  diferencia  positiva  para  sus  vidas,  sino también  superar  sus  expectativas.  Entonces  contarán  esa  experiencia  en forma  de  historia.  «Como  en  un  restaurante,  no  podemos  permitirnos  el lujo de cultivar un nuevo cliente cada día. Hemos de conseguir que sigan viniendo,  y  ganárnoslos  como  abogados  por  medio  de  la  historia  de  su experiencia con nosotros. Aparte de esto, no hay nada especial en tener el Gap o Bloomingdale u otras tiendas. Lo que nos diferencia es el modo en que convertimos el lugar en nuestro héroe.»
+
+Por  ejemplo,  la  investigación  de  Westfield  reveló  que  sus  clientes  son sobre  todo  mujeres,  y  que  casi  la  mitad  traen  a  sus  hijos.  Por  lo  tanto, Westfield creó habitaciones para padres. «Si tiene niños pequeños y necesita darles el pecho o cambiarlos —dijo Lowy—, tenemos el entorno perfecto. O
+
+simplemente si quiere descansar un poco porque sus hijos son pequeños, en esa sala encontrará un televisor, juguetes blandos y alfombril as en el suelo.
+
+Tendrá  una  mesa  para  cambiar  al  bebé,  pañales,  toal itas  e  incluso  un
+
+microondas.  Está  increíblemente  limpio.  Y  no  pensamos  ni  siquiera remotamente  en  cobrar  este  servicio.»  En  resumen,  cualquier  recinto  de Westfield  ofrece  a  las  personas  (y  además  gratis)  una  experiencia  que  no podrán obtener en ningún otro centro comercial.
+
+Lowy  cuenta  esta  historia  de  «Westfield  como  héroe»  para  formar  a  su personal, desde arquitectos, minoristas e ingenieros hasta los empleados de atención  al  cliente  en  cada  centro.  ¿Por  qué?  Porque  cuando  el  héroe cumpla,  el  cliente  contará  su  experiencia,  enviando  a  otros  a  los  centros comerciales Westfield. Y para que el héroe cumpla, todas las personas que representan o trabajan en aquel espacio deben contar y defender la misma historia. «El primer contacto que tiene el cliente suele ser con el trabajador peor pagado, el que está más abajo en el escalafón dentro de aquel centro.
+
+Podría  ser  un  guardia  de  seguridad.  Por  lo  tanto,  es  mejor  que  éste  haya recibido  una  buena  formación.  A  los  guardias  hay  que  decirles:  “Los clientes  les  dirán  lo  que  piensan,  y  ustedes  deben  escucharlos.  Deben mostrar  primero  empatía,  y  luego  comprensión.  Hagan  esas  tres  cosas  y descubrirán qué quieren. Sólo cuando sepan lo que desean, podrán ustedes superar sus expectativas”.» En otras palabras, usted no podrá ser el héroe de su público a menos que éste le interese.
+
+Pero ni siquera Westfield es un «Master del Universo». En ocasiones en los  lugares  estupendos  pasan  cosas  malas.  Esto,  dijo  Peter,  ofrece  a  los centros comerciales Westfield una oportunidad para realizar un acto incluso más heroico. «Una clienta pierde el bolso, y Westfield se lo envía a casa con todos  los  gastos  pagados.  ¿Cree  que  volverá?  ¡Pues  claro!  Lo  que  es  más importante, ¿cree que se lo contará a otros? ¡A uno detrás de otro! Ésta es la  historia  sobre  la  localización  que  me  encanta  contar  a  mis  muchachos.
+
+Recibí una carta de una señora que me decía que nuestro centro comercial de  Northridge  estaba  sucio.  Así  que  le  respondí:  “Gracias  por  su  queja.
+
+Debo  decirle  que  ese  centro  comercial  de  Northridge  no  es  de  nuestra propiedad, y que me encantaría que hiciera sus compras en nuestra tienda del  centro  comercial  de  Topanga.  Aquí  tiene  250  dólares  de  crédito,  de modo que le ruego que visite nuestro centro en lugar de aquel otro”. Desde
+
+entonces ha vuelto varias veces, me ha dado las gracias y me ha dicho que compartió esta anécdota con otras personas».
+
+Si  usted  no  se  dedica  a  un  negocio  que  dependa  de  su  localización geográfica, puede que este concepto de la localización como el héroe de la historia  le  parezca  exagerado.  Pero  Peter  Lowy  conocía  el  poder  de  la narrativa oral. Consideraba que sus clientes eran su público. Sus minoristas eran  personajes  secundarios,  como  los  actores  de  un  escenario.  Sus instalaciones de ladril o y cemento eran el proscenio. Su objetivo era ofrecer a su público una experiencia que hiciera eco en el os, que fuese memorable y  que  fomentara  su  confianza.  Al  contar  una  historia  en  la  que  las instalaciones  de  Westfield  siempre  acudirían  al  rescate  del  cliente,  tuvo éxito  para  motivar  a  más  clientes  a  regresar  a  los  centros  comerciales Westfield.
+
+La tribu como héroe
+
+Durante mi expedición a Papúa Nueva Guinea a principios de la década de 2000,  el  propietario  de  una  posada  en  la  selva  donde  nos  alojamos  me contó una historia con muchísimo sentido (además de divertida) en la que el héroe era toda una tribu. Como aquel reducido campamento situado por encima  del  río  Sepik  era  el  único  punto  comercial  en  muchos  kilómetros, era vital para la economía local. A los extranjeros se los tenía especialmente bien  considerados,  dado  que  formaban  la  mayor  parte  de  la  clientela  y aportaban  divisas  al  área.  Así  que  cuando  se  filtró  entre  el  personal  la historia  del  11-S,  se  inquietaron  al  pensar  que  la  tribu  de  sus  invitados había sufrido un ataque. Pocos (o ninguno) de los empleados había pasado por  la  escuela,  de  modo  que  el  director,  al  percibir  su  preocupación,  les enseñó  Estados  Unidos  en  un  globo  terráqueo  y  les  dijo:  «Aquí  es  donde tuvo lugar el ataque, en Nueva York, y aquí es donde estamos nosotros, en el  otro  extremo».  Pensó  que  eso  los  haría  tranquilizarse.  No  los  entendió bien.
+
+El  objetivo  del  personal  era  proteger  a  los  estadounidenses  de  los terroristas  cuyo  ataque  había  puesto  en  peligro  su  propia  supervivencia.
+
+Querían  tomar  parte  activa  en  nuestro  rescate,  pero  no  comprendían  que aquel os ataques habían tenido lugar a 16.000 kilómetros de distancia. Lo único que sabían de geografía era lo que el director les había enseñado en el globo.
+
+Seguramente volvieron a su aldea y contaron la historia del 11-S una y otra  vez  hasta  que  lograron  transmitir  una  l amada  a  la  acción  que  todos entendieran, porque a la mañana siguiente la tribu en pleno se presentó en la  posada  armados  con  lanzas,  arcos  y  flechas,  y  tomaron  posiciones  en torno  a  las  instalaciones,  todos  alerta.  Habían  l egado  a  la  conclusión  de que los terroristas huirían de Nueva York y recorrerían la esfera del globo que el director les había enseñado, y que atacarían el  lodge  desde atrás. «Os defenderemos  —dijeron  a  sus  invitados  estadounidenses—.  Nuestra  tribu apoya  a  quienes  nos  apoyan.»  En  otras  palabras,  el os  serían  nuestros héroes.
+
+EL  HEROÍSMO  COLECTIVO  PUEDE  dar  pie  a  una  historia  poderosa, l ena  de  propósito,  sobre  todo  cuando  la  l amada  a  la  acción  beneficia  a toda  la  tribu.  En  el  año  2000,  el  ex  secretario  de  Defensa  Wil iam  Cohen me  invitó  a  que  participase  en  un  programa  de  concienciación  l amado Joint  Civilian  Orientation  Conference  (Conferencia  de  orientación ciudadana  conjunta),  que  permitía  a  los  miembros  del  ejército estadounidense  contar  su  historia  colectiva  de  heroísmo  para  generar  el respaldo para su tribu.
+
+La JCOC reunió a líderes de opinión que podían influir en los medios de comunicación,  el  público  y  el  Gobierno,  e  intentó  convencerlos  de  que  el activo más valioso en el ejército no es la tecnología armamentística, sino la calidad  de  sus  soldados.  Para  conseguirlo,  el  Departamento  de  Defensa envió  a  un  grupo  de  24  de  nosotros  al  corazón  del  estamento  militar estadounidense,  para  escuchar,  sin  censuras,  historias  individuales  del
+
+compromiso  y  el  heroísmo  de  aquel a  tribu.  Durante  una  semana  nos trasladamos de una base militar a un submarino, de un transporte de tropas aéreo a una base de las fuerzas aéreas. Al principio yo concebía la defensa del país principalmente mediante tanques, armas, balas, aviones. Pero este punto de vista cambio radicalmente cuando l egué a conocer a las personas que  sostienen  esas  armas,  gobiernan  los  barcos,  pilotan  los  aviones, interrogan a los prisioneros, cocinan los alimentos, conducen los camiones y administran los vehículos y al personal. Aquel as personas me contaron una historia tras otra, cada una de las cuales se hacía eco del mensaje crucial de las otras de una forma única. Aquel mensaje se condensó en una historia especialmente  dramática  que  me  contaron  en  el   USS  Enterprise,  en  un momento en que éste navegaba por el Atlántico.
+
+En  el  comedor  del  capitán,  el  piloto  hispano,  alto  y  atractivo,  que  me había l evado en avión hasta al í estaba sentado a mi lado. Me dijo que a sus 29  años  se  había  alistado  en  la  Marina  justo  después  de  salir  de  la universidad,  y  l evaba  cuatro  años  volando.  El  orgul o  que  sentía  por  su trabajo  y  sus  éxitos  relucían  más  que  sus  medal as.  Percibí  un  tono melancólico en su voz cuando me dijo:
+
+—Mi  compromiso  con  el  ejército  finaliza  el  año  que  viene,  y seguramente volveré a la vida civil.
+
+Después de presionarle un poco, me contó que tenía esposa y una hija, y otro  bebé  en  camino.  Vivían  en  una  casa  en  las  instalaciones  militares  de Norfolk.  Se  había  casado  joven,  y  su  esposa  abandonó  su  carrera universitaria cuando a él lo trasladaron. El a trabajaba a jornada reducida, por  un  sueldo  mínimo,  en  Wendy’s,  pero  tendría  que  dejarlo  cuando naciera el bebé.
+
+—Mire —me dijo, dejando el tenedor sobre la mesa—, me encanta ser piloto.  Me  gusta  mi  avión  y  mi  escuadrón.  Me  encanta  formar  parte  del ejército.  Estoy  muy  orgul oso  del  trabajo  que  he  realizado  aquí.  Lo considero  mi  deber.  Pero  también  quiero  a  mi  familia,  y  tengo  una responsabilidad para con mi esposa y mis hijos. Tal y como están las cosas, no puedo cumplir ambas obligaciones. Tengo que elegir entre una y la otra.
+
+Señor,  no  puedo  permitir  que  mi  familia  siga  dependiendo  de  los  vales militares para comida.
+
+—¿Vales para comida? —le dije. Seguramente le habría entendido mal. .
+
+—Uno hace lo que sea necesario para l egar a fin de mes, señor.
+
+Durante toda esa semana, muchos otros soldados (hombres y mujeres) nos  dieron  las  gracias  por  venir,  y  nos  dijeron  que  les  gustaría  que  otros ciudadanos conociesen de verdad su trabajo. Dijeron que a menudo no se sentían apreciados o respetados. La historia de aquel piloto puso su dilema en  el  centro  del  escenario,  porque  reflejaba  la  realidad  de  muchos  otros miembros  del  ejército  estadounidense.  Lo  que  estaba  en  juego  no  eran balas y acero, sino carne y sangre.
+
+Las  historias  heroicas  de  aquel a  tribu  exigía  actuar.  Las  habíamos escuchado,  y  sabíamos  que  era  necesario  respaldar  a  aquel os  hombres  y mujeres  valientes  y  entregados,  por  el os  y  por  nosotros  mismos.  Y
+
+precisamente  por  eso  la  JCOC  nos  había  pedido  que  fuéramos  a  las trincheras. Si escuchábamos las historias de boca de los propios héroes, nos sentiríamos  motivados  para  salir  y  contarlas,  añadiendo  a  el as  nuestra propia  urgencia  cada  vez  que  lo  hiciéramos,  en  charlas  y  conversaciones, l amadas  telefónicas,  películas,  artículos  e  Internet,  un  medio  que  por entonces iba entrando en escena. Yo escuché aquel a l amada alto y claro, y empecé  a  responder  a  el a  en  cuanto  volví  a  mi  casa.  Telefoneé  a  mis senadores  y  congresistas,  contándoles  las  historias  que  había  escuchado  y experimentado.  Durante  reuniones  y  en  la  sala  de  juntas  se  lo  conté  a colegas influyentes. «Lo más importante en el ejército son las personas —
+
+decía  siempre  a  modo  de  conclusión—.  Cuidan  de  nosotros,  y  nosotros debemos cuidar mejor de el os.»
+
+EL HECHO DE QUE EL HÉROE MÁS ADECUADO para su historia sea su tribu, su producto, su localización, su cliente, su público o usted, como narrador, dependerá sobre todo de su objetivo. Si necesita que su audiencia confíe  en  su  liderazgo  personal,  puede  que  tenga  que  asumir  la  capa  de
+
+héroe usted mismo. Si quiere que se adelanten y corran lo que para usted es un riesgo, tendrá que meterlos a el os en ese papel. Si quiere que escojan su marca  o  la  de  cualquier  otra  persona,  es  lógico  centrar  el  foco  en  las virtudes heroicas de su producto o su localización. Y si lo que desea es que respalden, promuevan o elijan las actividades de su grupo, ya sea el ejército de  Estados  Unidos  o  su  equipo  organizador,  quizá  lo  mejor  sea  pergeñar una historia sobre las virtudes heroicas de la tribu. Pero incluso después de que haya decidido a quién necesita colocar en el papel de héroe, debe dar forma y textura a la historia. Y para hacerlo, necesitará materias primas.
+
+LOCALIZANDO LAS MATERIAS PRIMAS
+
+En  los  cursos  que  he  impartido  en  la  UCLA  con  el  paso  de  los  años,  mis licenciados  a  menudo  me  preguntan  dónde  pueden  encontrar  materiales para  crear  historias  con  propósito,  dado  que  apenas  han  iniciado  sus carreras  profesionales.  Basándome  en  mi  experiencia,  les  digo  que  la narrativa  siempre  está  al  acecho,  lista  para  aportar  emoción  a  la información, forma a la experiencia, y combustible al propósito. Pero como dijo el gurú empresarial Steve Denning en una de nuestras reuniones sobre narrativa,  la  clave  no  es  esperar  que  la  historia  esté  plenamente  formada, totalmente enmarcada y lista para su uso, sino ir apilando constantemente fragmentos  que  tengan  el  potencial  de  convertirse  en  historias.  «Una  vez que  disponemos  de  material  suficiente  para  formar  una  historia,  tenemos que perfeccionarla.»
+
+Al reflexionar sobre las historias que he contado a lo largo de mi carrera, he descubierto que el material más idóneo para una historia suele proceder de la experiencia de primera mano. Cuando usted cuenta un episodio que le  ha  sucedido  en  persona,  es  natural  imprimir  a  su  narración  altibajos emocionales y las inflexiones que sintió en aquel os momentos, tanto si era usted  el  héroe  de  la  historia  como  un  participante  secundario.  Sus
+
+sentimientos  personales  despertarán  la  empatía  de  sus  oyentes,  y  los impulsarán  a  embarcarse  en  su  viaje  emocional.  Además,  las  experiencias personales  son  fáciles  de  recordar  y  de  contar  con  autenticidad,  porque usted mismo las ha vivido.
+
+La experiencia de primera mano
+
+A  Frank  Sinatra  no  le  l amaban  «el  jefe  del  negocio»  por  nada.  Hasta  su muerte,  en  1998,  fue  un  fenómeno  de  la  naturaleza.  Cantante,  bailarín, actor,  durante  los  años  sesenta  fue  el  líder  de  la  «pandil a  de  ratas»  de Hol ywood, junto a Dean Martin y Sammmy Davis Jr., ganó más de once Grammy  y  obtuvo  treinta  nominaciones,  además  de  un  Oscar  de  la Academia  por  su  participación  en   De  aquí  a  la  eternidad  en  1953.  Pero como  yo  sé  por  experiencia  personal,  también  era  un  ser  humano complicado.
+
+En 2006 uno de mis hijos me contó la vergüenza que había sentido en un episodio que sucedió en su escuela, cuando le amonestó un maestro que yo sabía que era una persona decente y honrada. Intenté explicarle que a veces las personas son seres difíciles de entender, y que ninguna experiencia por  sí  sola  los  define  del  todo.  Apenas  acababa  de  decir  esas  palabras cuando me di cuenta de que estaba hablando de Frank Sinatra, con quien yo  había  tenido  una  experiencia  parecida  a  la  de  mi  hijo  con  su  profesor.
+
+Después  de  compartir  esa  historia  con  mi  hijo,  me  puse  a  pensar  que  la historia  humana  de  Sinatra  sería  una  película  estupenda.  Investigué  un poco y descubrí que jamás se había rodado una película que hiciera justicia a la persona única que era Sinatra. Así que decidí que Mandalay alcanzara ese objetivo.
+
+Gary Lemel, que l evaba décadas como director de la división de bandas sonoras  de  la  Warner  Bros.,  había  conocido  a  Frank,  y  me  ayudó  a concertar una reunión con Tina Sinatra, encargada de administrar el legado de su padre. Pero Tina no era un blanco fácil. Como protectora de la marca Sinatra,  supervisaba  un  auténtico  imperio  de  derechos  sobre  música  y
+
+comercialización, y defendía como una leona que cualquier licencia que el a concediese  honrase  el  nombre  y  la  reputación  de  su  padre.  Lemel  y  yo sabíamos que tendríamos que contarle una historia poderosa si queríamos obtener  los  derechos  para  plasmar  en  una  película  la  vida  y  la  música  de Sinatra,  sin  lo  cual  no  tendríamos  proyecto.  Afortunadamente,  mi experiencia de primera mano con Frank me dio el material necesario para presentar mi historia.
+
+Conté a Tina que, al á por la época en que yo era muy joven y dirigía el estudio  de  la  costa  oeste  para  Columbia  Pictures,  el  presidente  de  esta compañía,  Leo  Jaffe,  me  l amó  para  decirme  que  Dean  Martin  andaba tremendamente  retrasado  con  un  proyecto  especial  que  estaba  haciendo para  la  serie  de  películas  de  Matt  Helm,  y  que  tendría  que  acercarme  al estudio «y hacer que se pusiera las pilas». Por supuesto, en aquel entonces Dean era una gran estrel a, de modo que pregunté a John Veitch, director de producción física y veterano en esas lides, cuál era el mejor enfoque que debía  adoptar.  Veitch  me  sugirió  que  mi  única  opción  era  acercarme personalmente  a  Dean,  cara  a  cara,  en  la  caravana  en  la  que  se  había atrincherado.
+
+Entonces conté a Tina cómo me había acercado al aparcamiento trasero, dispuesto  a  formular  a  Dean  una  pregunta  educada  pero  clara:  «¿Qué puedo  hacer  para  ayudarle  a  acabar  este  proyecto?»  Pasé  entre  una turbamulta de personal y actores que estaban aguardando con impaciencia, pero  no  me  di  cuenta  de  que  lo  que  esperaban  era  que  el  drama  se resolviese cuando uno de los jefes (yo) se acercara a Dean para incitarle a actuar.
+
+Llamé una vez a la puerta, y luego una segunda. De repente ésta se abrió y me encontré con Frank Sinatra en persona, que me preguntó: «¿Y usted quién demonios es?»
+
+«Dean me vio —le dije a Tina—, y dijo: “Es buen tipo, Frank, el jefe del estudio”. Crucé el umbral y Frank se me paró delante. “¿Qué quiere?”, me espetó. Empecé a contarle que queríamos que Dean concluyera su trabajo, pero antes de que pudiera acabar la frase, Frank abrió la puerta de par en
+
+par y me sacó de un empel ón ante las risas de los espectadores. Entonces empezó  a  abroncarme,  diciendo  que  yo  no  tenía  experiencia,  que  no pintaba nada al í, y que a nadie le importaba un bledo lo que tuviera que decir. En cuanto a Dean, ¡saldría cuando estuviera listo, y punto! Me batí en retirada, humil ado, furioso y totalmente desanimado mientras todo el personal observaba mi derrota.»
+
+«Durante  los  meses  siguientes  —le  conté  a  Tina—,  cada  vez  que escuchaba el nombre de Frank o sus canciones, me venía a la cabeza una repetición completa del episodio, y me embargaba el mismo aborrecimiento intenso.»
+
+Tina me miró con recelo, sin tener muy claro adónde quería ir a parar con  aquel a  historia  tan  desagradable  sobre  su  padre.  Pero  entonces  la trasladé a la ceremonia de entrega de un premio en Hol ywood, cosa de un año más tarde, cuando yo estaba sentado junto a mis principales ejecutivos y  algunos  actores  muy  importantes,  en  la  mesa  contigua  a  la  de  Sinatra.
+
+«Durante toda la velada, [Sinatra] me echó varias miradas, y me vino a la mente una vez más la vergonzosa experiencia. Pensé:  ¡Ay, Señor! ¡Otra vez no!  Pero, cuando l egó el momento de irme, no pude evitar pasar junto a su mesa. De repente, extendió el brazo para acorralarme. Pensé:  ¡Ya estamos!
+
+Pero entonces Frank me señaló con el dedo y dijo en voz alta a todos los que estaban cerca: “Este tipo es el director de Columbia, y es muy, pero que muy listo. Acuérdense, porque va a marcar una diferencia en este negocio.
+
+Columbia  tiene  suerte  de  contar  con  él.”  Me  dio  unas  palmaditas  en  la mano mientras me miraba a los ojos, dirigiéndome aquel a sonrisa tan suya que  derretía  a  la  gente.  Con  una  sola  frase  me  había  catapultado  de  las profundidades del miedo al Parnaso del orgul o.»
+
+Mientras  le  contaba  a  Tina  esta  historia,  mantuve  la  vista  fija  en  mi objetivo:  convencerla  para  que  me  vendiese  los  derechos  para  rodar  una película sobre su padre. Mi historia demostró que yo tenía lo necesario para honrar la verdad completa sobre Sinatra. Demostró que yo comprendía la complejidad de su persona, incluyendo sus lacras, y que valoraba tanto sus luces como sus sombras, en el trabajo y en el juego.
+
+Como Tina había experimentado la complejidad de su padre tantas veces y  en  escenas  tan  parecidas,  inmediatamente  se  dio  cuenta  de  que  yo  lo entendía.  De  hecho,  me  dijo,  basándose  en  su  propia  experiencia  de primera  mano,  su  padre  jamás  visitaba  a  Dean  Martin  cuando  éste trabajaba en un estudio a menos que Dean le enviara un SOS a su amigo Frank.  «Quizá  sentía  deseos  de  l orar,  o  de  contarle  los  entresijos  de  algo que era de vida o muerte para él, y fue entonces cuando usted l egó. Y para salvar a Dean, papá le echó a patadas. Si hubiera pensado que usted era un estúpido, dudo que lo hubiera hecho. Si hubiera pensado que era un jefazo, quizá lo hubiera hecho por fastidiar, pero creo que fue desconsiderado para defender un instante que era muy importante para Dean, porque papá era muy educado, y las buenas maneras no desentonaban con su carácter.»
+
+Siguió diciendo: «Mire, cuando alguien viene a verme para hablar sobre hacer alguna cosa con el legado de mi padre, soy una mujer de negocios, pero  antes  que  nada  soy  su  hija.  Tengo  una  responsabilidad  para  con  los otros herederos, con las personas con quienes ya tenemos contratos y con la herencia. Siempre he vivido por instinto. Mi padre me enseñó a ver y a oler a  un  embustero  a  diez  kilómetros.  Por  eso  puso  en  mis  manos  su  legado veinticinco  años  antes  de  morir.  Por  lo  tanto,  lo  primero  que  hago  es evaluar el carácter y la autenticidad de cualquiera que me diga o me venda lo que sea. Escucho con mi corazón y con mis oídos. No puedo evitarlo. No son  cosas  aisladas.  Lo  que  hizo  y  no  hizo  durante  su  vida  es  lo  que perpetuamos  hoy.  Soy  una  extensión  de  su  historia.  Creo  que  ya  me entiende. ¡En marcha!» Y, con la bendición de Tina, metimos a Universal Studios  en  la  ol a,  para  financiar  la  adquisición  de  los  derechos  y  el desarrol o del proyecto.
+
+Todo  el  mundo  se  enfrenta  a  retos  y  lucha  por  superarlos.  En  otras palabras,  cada  uno  de  los  días  de  nuestra  vida  vivimos  historias.  Si  presta atención a esas experiencias y se le da bien recordar no sólo lo que sucedió sino también lo que significó para usted, entonces no podrá por menos que acumular  sin  cesar  materiales  de  primera  clase  para  historias.  Pero  la experiencia  de  primera  mano  no  es  la  única  fuente  a  su  disposición.  Las
+
+historias  con  propósito  también  pueden  extraerse  de  personas  a  las  que usted  haya  observado  o  de  acontecimientos  de  los  que  haya  sido  testigo, incluso aunque no desempeñara un papel directo en el os.
+
+La experiencia vivida
+
+Al  principio  de  la  carrera  de  George  López  como  comediante,  tuvo  una experiencia dura que le abrió los ojos. Después de un espectáculo en el que había  ofrecido  un  monólogo  que  estaba  en  deuda  con  cómicos  como Richard Pryor y George Carlin, un crítico le dijo: «Usted intenta remover la ol a,  pero  la  ol a  no  es  suya.  Nada  de  lo  que  dice  es  suyo:  es  todo  muy trivial».  López  tuvo  que  buscar  esa  palabra  en  el  diccionario,  y  cuando  lo hizo, la definición le sentó como un martil azo en la cabeza: «decir algo que no significa nada».
+
+Aquel golpe hizo saltar una chispa que, para López, se convirtió en una fogata. «La mayoría de los habitantes de mi barrio hubiera dicho “¡Anda y que le den a ese tío!”. Pero yo le tuve en cuenta; aprendí a escuchar.» Y, tal como  me  dijo  recientemente,  escuchar  se  convirtió  en  la  base  de  las historias que contó para escalar hasta las cumbres más altas de la comedia en Estados Unidos, y para establecer sus proyectos filantrópicos.
+
+Mis  hijos  fueron  al  mismo  colegio  que  los  de  George,  de  modo  que cuando  empecé  mi  investigación  sobre  el  arte  de  la  narrativa,  como  es lógico acudí a él. En 2005, la revista  Time había nombrado a George López uno de los veinticinco hispanos más influyentes de Estados Unidos. No sólo hacía  monólogos  ante  aforos  donde  no  cabía  un  alfiler,  sino  que  había iniciado  su  propia  red  de  programas  de  humor,  era  el  presentador  de  su propio  programa  televisivo  de  entrevistas,  y  se  había  convertido  en  un personaje  famoso  en  los  círculos  filantrópicos.  Yo  quería  saber  cómo encontró su materia prima, y por qué pensaba que calaba entre el público.
+
+López  me  dijo  que  después  de  haber  asimilado  aquel a  crítica  hacía tantos años, se dio cuenta de que, si realmente quería menear la ol a de las reacciones  del  público,  tendría  que  ser  una  ol a  que  él  conociera  desde
+
+dentro:  su  propia  comunidad  mexicano-estadounidense.  Y  ahora, independientemente de que su l amada a la acción fuera destinado a que el público  riera,  discutiera,  le  contratase,  comprara  sus  productos  o  donara para sus causas, estaba decidido a que sus historias contasen toda la verdad de su mundo, tal y como él lo veía.
+
+«Al  principio  tuve  que  esforzarme  para  encontrar  una  identidad  —me dijo  López—,  porque  cuando  era  niño  no  tuve  ninguna.»  Lo  que  quería decir  es  que  siempre  quiso  huir  de  quién  era  y  de  dónde  vivía.  Nunca conoció a su padre, su madre le abandonó cuando era muy pequeño, y ni siquiera dispuso de dinero para comprar un abrigo, y siempre aspiró a dejar de ver lo que veía cada día. «Así que, cuando empecé a contar historias, no tenían fondo. Me lo inventaba todo.»
+
+Pero cuando la chispa del crítico encendió el fuego, se dio cuenta de que necesitaba encontrar su centro. «Y mi centro fue mi abuela, la persona que me  crió.  Mi  abuela  nunca  me  abandonó,  ni  siquiera  en  los  momentos difíciles. Dejó a esposos y a hijos, pero a mí nunca.» Sin embargo, también sabía que su abuela no era un ángel. «Cuando tuvo lugar el terremoto de San Fernando cerca de donde vivíamos, en 1971, nuestra casa sufrió pocos daños, pero sin embargo mi abuela iba cada día a la iglesia a buscar comida gratis.  Vengo  de  una  familia  que  siempre  tomaba,  nunca  daba.  No  me parecía justo.»
+
+Lo  peor  es  que,  cuando  George  le  cuestionó  a  su  abuela  que  tomara aquel os  alimentos  que  otras  personas  necesitaban  más,  el a  le  reprendió:
+
+«¿Qué importa eso? Nadie nos ve».
+
+Incluso  en  aquel a  época,  George  pensó:  «Yo  lo  veo.  ¿Es  que  no  soy alguien?»  Pero  nunca  actuó  basándose  en  esa  idea  hasta  que  empezó  a pensar qué significaba realmente tener un centro. De repente se dio cuenta de que tener un centro significaba disponer de la gravedad suficiente como para decir la verdad sobre lo que había visto, y al mismo tiempo respetarse lo  bastante  a  sí  mismo  como  para  intentar  hacer  lo  correcto.  Quizá  su reputación se basara en lo que otros vieran de él, pero su carácter se basaba en  sus  actos  cuando  hacía  cosas  que  no  veía  nadie  excepto  él.  Este
+
+descubrimiento le hizo participar en al menos «una acción altruista» diaria, tanto  si  había  alguien  que  lo  viera  como  si  no.  Aquel  se  convirtió  en  el punto  central  de  su  filantropía  y  de  su  determinación  para  trabajar  con objeto de cambiar las mismas condiciones que iluminaba con su comedia.
+
+Al  ser  consciente  de  que  el  humor  se  alimenta  de  las  paradojas  de  la vida,  López  decidió  contar  la  historia  de  su  abuela,  primero  en  sus monólogos,  luego  en  sus  programas  de  televisión,  y  al  final  por  medio  de sus organizaciones benéficas. También contó otras historias de las que fue testigo  en  su  comunidad,  mientras  crecía.  «Pegamos  a  nuestras  mujeres  y luego les compramos gafas de sol», decía. «Bebemos y luego mangoneamos a los niños, y al día siguiente no nos acordamos qué les hicimos o dijimos la noche antes.» No inventaba nada. Las materias primas de sus historias las extraía  de  su  comunidad,  y  contaba  aquel as  historias  buenas,  malas  y desagradables  para  cambiar  la  comunidad.  Era  como  poner  un  espejo narrativo ante su cultura.
+
+Entonces descubrió que las historias que contaba despertaban un eco en personas  que  no  pertenecían  en  absoluto  a  su  comunidad.  Resultó  que también  el as  habían  sido  testigos  del  mismo  comportamiento contradictorio  en  sus  propias  culturas.  «Es  un  tema  económico  y  también mundial —me dijo George—. La gente de India hace lo mismo que la de Alemania,  la  de  Polonia  y  la  de  Rusia.»  Así  que,  al  remover  su  caldero, también  removía  el  de  el os.  «Cuando  l ené  el  Radio  City  Music  Hal   por primera  vez,  mi  público  era  de  lo  más  variopinto,  pero  todos  me entendieron.»
+
+No  hace  falta  ser  actor  o  cómico  para  explotar  las  experiencias  que hemos visto convirtiéndolas en historias. Arne Glimcher ha levantado una de las galerías de arte más importantes del mundo, la Pace Gal ery, y lo ha hecho sobre el cimiento de historias que cuenta sobre los artistas a los que representa.  Éstos  incluyen  a  gigantes  del  mundo  del  arte  como  Chuck Close,  John  Chamberlain,  Jim  Dine,  Elizabeth  Murray,  Kiki  Smith,  Lucas Samaras,  Joel  Shapiro  y  Robert  Rauschenberg,  así  como  los  herederos  de Alexander  Calder,  Agnes  Martin,  Louise  Nevelson,  Pablo  Picasso,  Ad
+
+Reinhardt y Mark Rothko. Glimcher no sólo conoce personalmente a esos artistas, sino que ha hecho que su negocio sea observarlos cuando trabajan, porque así es como recoge las historias que luego cuenta a sus clientes. En muchas  ocasiones  ha  usado  esas  historias  para  convencerme  de  que  le compre arte.
+
+«No soy vendedor de cuadros —me dijo Arne durante una de mis visitas recientes a su galería neoyorquina—. Soy un narrador.» Esto es importante, me  explicó,  porque  los  coleccionistas  consumen  historias  sobre  artistas  de un modo en que no pueden consumir el arte físico. Pueden mirar las obras y  ser  sus  administradores,  pero  por  muy  grande  que  sea  la  cantidad  de dinero  que  cambia  de  manos,  el  alma  del  arte  siempre  pertenece  más  al artista que lo creó que al coleccionista. Las historias pueden salvar ese vacío.
+
+«Al estar en el estudio, y ver cómo el artista desarrol a su obra, uno es la única  persona  que  verá  ese  proceso.  La  gente  considera  que  las  obras  son historias  concluidas.  Soy  el  único  que  estuvo  al í  para  ver  la  narrativa creciente  del  artista.»  Por  tanto,  cuando  Glimcher  cuenta  a  los coleccionistas la historia de lo que ve durante el proceso de creación, eso los hace sentirse privilegiados y los motiva a adquirir la obra.
+
+Arne comprende la narrativa tanto como el arte. Ha producido más de siete películas de cine, incluido nuestro filme de 1988  Gorilas en la niebla.
+
+En aquel entonces pensé que era extraño que el propietario de una galería de  arte  tuviera  tanta  mano  para  el  tipo  de   storytelling  que  hacemos  en Hol ywood, pero cuanto más conocía a Arne, más comprendía que el arte de la narrativa es fundamental para todos los aspectos de su carrera. Y la materia  prima  más  valiosa  de  sus  historias  procede  de  su  observación estrecha y fascinada del mundo que le rodea.
+
+Me  señaló  que  para  ser  testigos  de  materiales  para  historias,  hace  falta algo más que ver y recordar. Para contar una historia sobre algo que uno ha visto, uno tiene que observar de cerca y reflexivamente. Cuando Glimcher está en el estudio de un artista, no sólo observa: formula preguntas y busca información. «Me ayuda a comprender la obra de otra manera. ¿Cuáles son los  sistemas  que  crean  esas  obras?  ¿Cuál  es  la  motivación  del  artista?  Si
+
+logro asimilar esto, podré exponérselo a los clientes. No me limito a vender arte.  Vendo  la  historia  detrás  del  arte  y  del  artista.»  Los  coleccionistas consumen  esa  historia  cuando  compran  la  obra,  y  cuando  comparten  ese arte con sus amigos, también les hacen l egar la historia subyacente.
+
+Luego me contó la historia de un artista chino que hacía  performances, l amado Zhang Huan. «Recogió las cenizas del incienso que se presentaba como ofrenda en los templos de Shanghai. Hizo un molde de aluminio que representaba a un Buda de casi seis metros; luego le dio la vuelta al molde y lo l enó con toneladas de ceniza de incienso, y en determinado momento seis  ayudantes  apartaron  el  molde,  dejando  en  pie  la  parte  de  éste correspondiente a la cabeza, sujetándolo con una vara. El Buda se mantuvo en  perfecto  estado  unos  tres  segundos,  y  luego  comenzó  a  desmoronarse.
+
+Quitaron  la  máscara  facial,  y  la  cabeza  de  mantuvo  íntegra  unos  tres segundos. Entonces el rostro se deshizo, la ceniza cayó, luego la cabeza, y al cabo de diez minutos toda la escultura se había convertido en un montón de polvo. Su actuación hablaba de la resurrección, del budismo, de la idea de  que  el  final  es  el  principio  de  algo  más:  de  la  magia.»  Y  esta  magia perdura  gracias  a  la  historia  de  esa   performance,  que  Glimcher  cuenta  y recuenta a los coleccionistas con palabras y por medio de la documentación en vídeo que hace el artista del acontecimiento, que está en venta.
+
+Cuando l egué aquel día a la galería, jamás había oído hablar de Zhang Huan.  Pero  Arne  hizo  que  la  pasión  y  la  fuerza  de  la  creatividad  de  ese artista fueran irresistibles. Motivado por la historia de Arne, me interesé en comprar obras de Zhang, y en 2010 hice una visita a su galería, a las afueras de Pekín, para ver cómo elaboraba su magia.
+
+Metáfora/analogía
+
+Una de las historias más memorables e instructivas que me han contado en mi vida estaba envuelta en una metáfora. Era a principios de la década de 1970,  cuando  la  industria  del  cine  al  completo  pasaba  por  una  tremenda crisis  financiera,  y  yo  era  un  jefe  de  estudio  muy  joven  en  Columbia.
+
+Habíamos  l egado  a  un  acuerdo  con  Jack  Warner,  legendario  fundador  y recién  jubilado  presidente  de  Warner  Bros.,  para  que  hiciera  su  primera película con nosotros, una versión cinematográfica de la obra teatral  1776, y a  última  hora  de  un  día  estábamos  reunidos  en  el  hogar  de  Warner  para debatir sus planes de traer a Peter Hunt para que dirigiese la película.
+
+Durante  una  pausa  en  la  conversación,  Warner  me  preguntó,  con  tono informal:
+
+—¿Cómo te van las cosas por el estudio?
+
+Normalmente,  yo  me  sentía  tan  intimidado  por  los  gigantes  de Hol ywood  como  Warner  que  casi  me  quedaba  mudo,  pero  aquel a pregunta  me  cogió  desprevenido.  Él  sabía  que  hacía  pocos  años  que  yo había  acabado  la  universidad,  y  que  muchos  de  los  ejecutivos  más veteranos de Columbia tenían su sede en la costa Este. Parecía realmente interesado, de modo que le respondí con sinceridad:
+
+—Al  final  de  cada  día  me  siento  superado.  —Entonces  me  descubrí confesando—:  Es  como  un  tsunami.  La  gente  no  para  de  venir  a  mi despacho con un problema tras otro. No se acaba nunca.
+
+Warner me dijo:
+
+—Deja  que  te  cuente  una  historia.  No  te  confundas:  tú  sólo  tienes alquilado ese despacho. No es tuyo. Es un zoo. Tú eres el guarda del zoo, y cada una de las personas que entran en ese despacho viene con un mono.
+
+Ese  mono  es  problema  suyo.  Intentan  dejarlo  contigo.  Tu  trabajo  consiste en descubrir dónde está el mono. El os lo esconderán o lo disfrazarán, pero recuerda que eres el guarda del zoo. Tienes que mantener limpio el lugar.
+
+Así  que  asegúrate  de  que,  cuando  los  acompañes  a  la  puerta,  l evan  a  su mono cogido de la mano. No permitas que se vayan sin él. No permitas que vuelvan  hasta  que  lo  hayan  amaestrado  y  tengan  soluciones  para  sus problemas. Si no, al final del día tendrás un despacho a rebosar de animales chil ones que saltan, y caca de mono por todas partes.
+
+Entonces añadió:
+
+—Imagínatelo visualmente. Haz que se l even todos sus mono-problemas y vuelvan con una solución.
+
+Después  de  eso,  me  di  cuenta  de  que  los  visitantes  de  mi  despacho esperaban  invariablemente  hasta  el  último  segundo  para  revelar  al  mono que l evaban en la cartera, el bolsil o, o la persona con la que estaban. Pero si yo observaba y esperaba, al final saldría a la luz el verdadero problema.
+
+Entonces  podría  devolvérselo  a  la  persona  que  intentaba  cargármelo  a  la espalda. La metáfora de Warner se convirtió en un instrumento de gestión valioso, y durante mi carrera la relaté a menudo.
+
+Muchos  años  después,  cuando  Ron  Meyer  fue  presidente  de  Universal Pictures,  un  día,  mientras  almorzábamos  juntos,  me  preguntó  cuál  era  la mejor  lección  que  podía  transmitirle.  Le  dije:  «Manténte  alejado  de  los monos.  Te  diré  cómo».  En  aquel a  ocasión,  Meyer  se  echó  a  reír.  Más adelante me dio las gracias. Le dije que se las diera al gran Jack Warner, ya fal ecido. Yo me limitaba a hacer circular la historia.
+
+LA BELLEZA DE LAS METÁFORAS  y  de  las  analogías  cuando  se  usan como material para una historia estriba en su economía de medios. Cuando funcionan,  toda  la  emoción  y  el  significado  que  usted  necesita  pueden transmitirse en una sola imagen, a veces con una sola palabra. No creo que los diseñadores de juegos tengan el secreto sobre la narración de historias por medio de metáforas, pero da la casualidad que dos diseñadores con los que me reuní hace poco contaron exactamente este tipo de historias.
+
+El primero fue Dan Rosensweig, ex director y presidente de  Guitar Hero, la  franquicia  de  2.000  mil ones  de  Activision  Blizzard.  Rosensweig  era  un ejecutivo  muy  buscado  que  había  sido  director  jefe  de  operaciones  de Yahoo!  y  un  jugador  de  peso  en  el  entorno  de  los  capitales  privados.  Yo sentía  curiosidad  por  saber  qué  historia  había  contado  el  director  de Activision  Blizzard,  Bobby  Kotick,  para  atraer  a  Rosensweig  al  mundo  de los videojuegos. Resultó que la historia de Kotick era, en realidad, una sola metáfora: la de una canoa que desciende veloz por unos rápidos.
+
+¿Por  qué  esa  metáfora  había  sido  un  instrumento  tan  eficaz?  Porque Kotick, que había formado parte de la junta de Yahoo! cuando Rosensweig
+
+era  director  jefe  de  operaciones,  sabía  que  a  su  viejo  amigo  le  encantaba tener  aventuras  nuevas  y  emocionantes.  Rosensweig  siempre  quiso  ser  un participante activo en sus proyectos, nunca un pasajero.
+
+«Si te vas a meter en una canoa —le dijo Kotick—, es mejor que la canoa siga el flujo del agua, en lugar de ir en dirección contraria. En unos rápidos, chocarás con obstáculos; es posible que vuelques o que alguien vaya a parar al  agua,  pero  si  vas  con  la  gente  adecuada  y  la  corriente  avanza  en  la dirección  correcta,  es  probable  que  tengas  éxito.  Y  yo  soy  de  la  gente adecuada.»
+
+¿Por qué influyó esa historia en Rosensweig? Dijo a Kotick que a lo largo de  su  carrera  había  buscado  oportunidades  de  aprovechar  la  tecnología para el futuro, lo cual suponía unirse a empresas que navegaran a favor de la corriente tecnológica, en vez de ir en contra. «Las dos cosas que hoy día usan los jóvenes son Internet y los videojuegos. Por primera vez, Internet y los  juegos  se  están  combinando.  Y  si  éste  es  el  río  del  cambio,  entonces tienes razón: tengo que decidir con quién me meto en la canoa.»
+
+Rosensweig me dijo que captó el mensaje de aquel a metáfora, y vio que los  rápidos  no  eran  un  problema,  sino  una  oportunidad.  «Las  compañías tradicionales suelen verse derrotadas por quien las reta, pero vi que Bobby reposicionaba  a  Activision  para  convertirla  en  líder.  Percibió  y  me  contó cómo  el  negocio  del  videojuego  iba  a  hacerse  más  grande,  que  la conectividad  a  Internet  iba  a  alterar  el  modelo  de  negocio  en  torno  a  los juegos, porque pensaba (incorrectamente, como luego se demostró) que el mercado cinematográfico iba a entrar en decadencia. Por tanto, la metáfora de  la  canoa  que  atraviesa  los  rápidos  me  hizo  darme  cuenta  de  cómo podíamos sacar partido a Internet y a los juegos, uniéndolos.»
+
+En el momento en que los dos hombres hablaron de trabajar juntos, el juego  Guitar Hero de Kotick era el sexto más vendido en toda la historia de los  videojuegos,  y  había  vendido  40  mil ones  de  unidades  por  todo  el mundo en sólo cinco años. Antes de comprar  Guitar Hero y fusionarlo con Blizzard, Activision tenía la mitad de tamaño que su competidor directo, y al cabo de cuatro años, Bobby había conseguido que la compañía fuera dos
+
+veces y media mayor. En un año, el número de personas que jugó a  Guitar Hero online  se  duplicó.  Kotick  podría  haberse  limitado  a  presentar  a Rosensweig esas cifras, pero una exposición de datos hubiera carecido de la sensación de aventura, emoción y camaradería que quería despertar en su oyente. Así que contó su historia por medio de la metáfora de una canoa que se desliza cada vez con más velocidad por los rápidos tecnológicos, pero teniendo  a  bordo  las  personas  adecuadas,  para  asegurarse  de  que  se  lo pasaban como nunca y surgían como líderes.
+
+Rosensweig lo entendió. Se metió en la canoa en marzo de 2008, y hacia 2009 unos dos mil ones de jugadores por semana jugaban a  Guitar Hero en Internet.
+
+POCAS SEMANAS DESPUÉS me reuní con Wil  Wright, quien diseñó  Los Sims,  el  juego  de  PC  más  vendido  de  la  historia,  y  fue  cofundador  de  la compañía  de  desarrol o  de  juegos  Maxis,  que  ahora  forma  parte  de Electronic  Arts.  También  produjo  el  juego   Spore,  basado  libremente  en  la ciencia de la evolución, que vendió 406.000 ejemplares en las tres semanas posteriores a su l egada al mercado en 2008. Sin embargo, en el momento en que nos reunimos, Wil  estaba en mitad de una transición: de trabajar en EA pasaba a ser directivo de un grupo de expertos en entretenimiento l amado  Stupid  Fan  Club.  Ese  nuevo  grupo  pretendía  desarrol ar  nuevas propiedades  intelectuales  que  pudieran  desplegarse  en  diversos  frentes, incluyendo videojuegos, películas, televisión, Internet y juguetes. Dijo que era una propuesta emocionante, pero que a veces le costaba explicársela a los  talentos  que  necesitaba,  de  modo  que  había  optado  por  contar  la historia  por  medio  de  una  metáfora,  que,  en  este  caso,  fue   Switzerland
+
+[ Suiza].
+
+Wright explicó el problema que tuvo para convencer a un programador con  mucho  talento  para  que  trabajase  con  él.  «Llevaba  muchos  años trabajando con nosotros en  Los Sims, pero se estaba planteando seriamente dejar  la  programación  y  los  juegos  porque  le  interesaba  mucho  la
+
+cinematografía  independiente,  los  juguetes  y  las  tecnologías  de  Internet.»
+
+Tras  haber  trabajado  en  grandes  compañías,  el  programador  pensó  en  la creatividad  como  una  propuesta  excluyente,  como  en:  «No  puedo  ser programador si me voy a dedicar a los juguetes o al cine o a los juegos».
+
+«Tenía  razón  —dijo  Wil —.  Estas  grandes  empresas  están  diseñadas como generadoras de propiedad intelectual de propósito único, y si aparece alguna innovación, emigrará a otras disciplinas sin que el os participen más en  el a.  Esto  hace  que  la  mayoría  de  creativos  sientan  que  deben  ocupar uno de esos nichos, y que no hay manera de que participen en todos el os.»
+
+El  desafío  de  Wright  consistía  en  invertir  esa  forma  de  pensar  y demostrar  que  estaba  creando  un  territorio  donde  las  fronteras  entre  los campos  como  la  televisión,  las  películas,  los  juegos  y  los  juguetes  eran inexistentes;  un  territorio  neutral  donde  la  imaginación  pudiera  ser  libre.
+
+«Me di cuenta de que debía fundar la capital intelectual y el producto en el espacio  en  blanco  entre  esos  campos,  en  una  zona  donde  tuviéramos libertad  para  trabajar  con  todas  esas  personas  de  la  manera  más productiva.»
+
+Por tanto, le dijo al programador que lo que realmente quería hacer era crear propiedad intelectual en un país neutral, Suiza. «Entonces sacaríamos el proyecto de Suiza para l evarlo a todas las áreas distintas, de modo que un medio no quedara sometido a ninguno de los otros.»
+
+La  metáfora  de  Suiza  contaba  la  historia  de  un  país  pequeño,  cerrado, rodeado  de  grandes  potencias,  reconocido  y  con  capacidad  para  hacer negocios  con  todos,  pero  sometido  a  ninguno.  Inmediatamente  el programador  lo  entendió,  y  le  encantó  subir  a  bordo.  «Sabe  que  se  verá inmerso en un montón de experiencias de narrativa lineal, de leer guiones, pero también de programación. Así que para él es como si maximizara su conjunto de habilidades, en lugar de verse forzado a abandonar una para desarrol ar otra.»
+
+Suiza, añadió Wil , era una metáfora perfecta porque la carga del ego era inexistente, y no necesitaba manual de instrucciones ni traducción.
+
+Los escenarios de la información
+
+La  mayoría  de  nosotros  encontrará  contenido  para  historias,  de  forma natural,  en  el  lugar  donde  trabaja,  en  el  material  que  más  le  fascina.  En ocasiones,  ese  material  serán  personas  y  relaciones  que  se  prestan  a  la creación  de  historias  humanas  evidentes,  pero  en  otras  el  material  es información: no estadísticas y datos, sino información sobre el mundo que vive, respira, lucha y se esfuerza a nuestro alrededor.
+
+Hace  poco  tuve  el  placer  de  conocer  a  la  doctora  Shirley  Pomponi, directora ejecutiva del Harbor Branch Oceanographic Institute de la Florida Atlantic University, quien me dijo que durante varias décadas las científicas como  el a  han  estado  analizando  y  sometiendo  a  prueba  a  organismos marinos  para  descubrir  qué  tesoros  pueden  ofrecer  a  los  humanos.  Esos organismos, principalmente animales que viven en el fondo del océano, han desarrol ado  un  arsenal  de  armas  químicas  para  defenderse  contra  los depredadores,  contra  seres  que  quieren  crecer  encima  de  el os,  matarlos, comérselos.  Algunos  de  esos  agentes  químicos  marinos,  en  las  pruebas clínicas  preliminares,  han  demostrado  su  valía  potencial  contra determinadas  enfermedades  terminales.  Contando  con  esta  prueba  de éxito,  Pomponi  acude  a  compañías  farmacéuticas  y  de  biotecnología  para convencerlas de que inviertan en estudios posteriores. Pero para el o tiene que superar la forma de pensar tradicional de esas empresas, que dice que las curas se encuentran en un laboratorio, y no en el fondo marino. ¿Cómo consigue  hacerlo?  Convirtiendo  la  investigación  en  historias. .,  o  en escenarios de información.
+
+Pomponi explicó que a menudo los inversores potenciales no entienden cómo de la investigación oceanográfica de Harbor Branch puede salir nada provechoso  económicamente.  «Por  ejemplo,  ¿por  qué  una  esponja  iba  a producir  una  sustancia  química  útil  contra  el  cáncer  cuando  las  esponjas nunca  lo  contraen?»  Dijo  que  ése  era  exactamente  el  obstáculo  que encontró cuando intentó obtener fondos para estudiar concretamente una esponja de aguas profundas. «No lo entendían.»
+
+Para  ayudarles  a  asimilarlo,  contó  la  historia  de  otra  criatura  de  aguas profundas que ha demostrado este proceso. «Se trata de un caracol que se encuentra  en  lo  más  hondo  del  Pacífico,  l amado  caracol  cónico,  y  que puede  resultar  muy  peligroso  porque  dispone  de  un  pequeño  arpón conectado con una especie de cordón que va hasta su conducto venenoso.
+
+Cuando  golpea  a  su  presa,  ese  arpón  inyecta  el  veneno  al  pez.  Ese  pez puede  ser  mucho  más  grande  que  el  caracol,  pero  cuando  éste  inyecta  su toxina,  lo  paraliza.  Un  componente  del  veneno  hace  que  el  pez  padezca convulsiones. Otro componente lo anestesia; otro empieza a introducir en la víctima otras sustancias que hacen que empiece a desintegrarse, de modo que al final el caracol puede devorar por completo a su presa.»
+
+Cuando  l egó  a  ese  punto  de  la  historia,  yo  prácticamente  estaba vitoreando  a  aquel  caracol,  que  el a  describió  como  un  pequeño  David acuático que triunfaba sobre el pez Goliat. Aunque quizás el caracol tenía algo  de  siniestro  por  aquel o  del  veneno  y  el  arpón,  su  inventiva  me deslumbró. En mi mente no cabía ninguna duda de que aquel caracol era mi héroe.
+
+«Aquí tenemos a un simple animal cuyo objetivo último era matar al pez para  poder  comérselo  —continuó  diciendo  Shirley—.  Pero,  para conseguirlo,  creó  toda  esa  serie  de  sustancias  químicas,  cada  una  de  las cuales  hacía  algo  diferente.  Los  científicos  cogieron  a  aquel  caracol  y  le quitaron la toxina a la glándula del veneno. Empezaron a aislar los distintos componentes  químicos,  y  a  hacer  experimentos  con  el os.  Una  sustancia causaba espasmos; otra, letargo; ¡pero una de el as era analgésica! Así, los investigadores  convencieron  a  una  compañía  farmacéutica  para  que empezase  a  probarla  en  otros  animales,  y  al  final  se  convirtió  en  un medicamento para uso humano.»
+
+Cada  paso  de  la  historia  de  Pomponi  es  información  que  los  biólogos marinos  han  descubierto  científicamente,  pero  el a  transporta emocionalmente a sus oyentes al adaptar esos datos a las aventuras de un pequeño  caracol  increíblemente  combativo.  Pomponi  contó  esa  historia  a todos  los  socios  potenciales  de  su  investigación  sobre  las  esponjas,  desde
+
+compañías  farmacéuticas  hasta  agencias  federales  de  financiación.  ¿Por qué? Porque el mensaje oculto en el interior de la historia es que el océano está a rebosar de curas y tratamientos que pueden beneficiar a los humanos y  generar  grandes  beneficios  para  los  inversores.  «Así  que  en  lugar  de limitarme a decir “Busquemos cosas que maten a las células cancerígenas”, les digo: “Vamos a ver las historias de unos animales marinos y a imaginar cómo podemos aplicar sus beneficios al cuidado de la salud humana”.»
+
+¿Ha  funcionado?  «Recogimos  una  esponja  en  las  Bahamas  que  nunca habíamos visto, y pudimos identificar una molécula que tenía propiedades anticancerígenas.  Vendimos  la  idea,  concedimos  la  licencia  del descubrimiento a una compañía farmacéutica que comenzó a hacer pruebas clínicas,  y  logramos  curar  a  una  mujer  con  cáncer  de  páncreas.  Aún  no conocemos  los  resultados  de  las  otras  pruebas  clínicas,  pero  somos  muy optimistas.»  Y  ahora  la  doctora  puede  contar  la  historia  de  la  heroica esponja para vender su próxima aventura sobre las profundidades marinas.
+
+Los libros y las películas
+
+Como demostró Bil  Clinton cuando me indujo a recordar el argumento de Solo  ante  el  peligro,  las  películas  y  los  programas  televisivos  ofrecen  un contenido  excelente  para  crear  historias  con  propósito.  Lo  mismo  sucede con las historias escritas originariamente como novelas o cuentos cortos.
+
+La escritora de superventas Nora Roberts sabe sin duda cómo convertir la ficción en oro puro. Durante los últimos 27 años, en cada minuto se ha vendido  una  media  de  29  libros  de  Nora  Roberts.  Ha  figurado  como número  uno  de  la  lista  de  superventas  del   New  York  Times  más  de  155
+
+veces,  y  se  han  impreso  más  de  300  mil ones  de  ejemplares  de  sus  libros.
+
+Hace unos años convencí a Nora para que me vendiera los derechos sobre varias  de  sus  novelas  superventas,  incluida   Angels  Fal ,  Carolina  Moon, Montana  Sky  y   Blue  Smoke,  que  convertimos  en  películas  para  Lifetime.
+
+Pero  escribir  una  obra  literaria  es  una  cosa,  y  contarla  oralmente  para construir  un  negocio  es  otra  muy  diferente,  de  modo  que  cuando  me
+
+enteré de que Nora había abierto un hotel cerca de su casa en Boonsboro, Maryland, quise escuchar y ver en acción a aquel a mujer de negocios.
+
+Cuando  l egué  a  la  pequeña  y  pintoresca  ciudad  de  Nora,  su  hotel,  el Inn BoonsBoro, estaba situado justo en la esquina de la cal e principal, en un hermoso edificio antiguo construido en la primera década del siglo XVIII.
+
+Pero mientras Nora me hacía de guía enseñándome su nuevo proyecto, me di  cuenta  enseguida  de  que  la  arquitectura  y  la  historia  de  aquel  edificio sólo  eran  una  parte  de  la  experiencia  que  el a  vendía.  Sus  atractivos  más importantes eran las historias que contaba a cada invitado o miembro de los medios de comunicación que visitaba su hotel. ¿Por qué? No era solamente porque cada una de las habitaciones estaba diseñada para recordar una de aquel as historias. Tampoco era que aquel as historias de ficción abrieran el camino  para  la  historia  que  al  final  los  invitados,  cuando  se  fueran, contarían una y otra vez sobre su experiencia. No era casualidad que todas las historias tuvieran un final feliz.
+
+Las  historias  cuidadosamente  elegidas  que  ofrece  el  Inn  BoonsBoro proceden  de  libros  sobre  parejas  románticas  escritos  por  algunos  de  los mejores novelistas de la historia, y los miembros del personal las relatan a todos los invitados. Hay una suite para Marguerite y Percy, de  La pimpinela escarlata;  para  Nick  y  Nora,  de   La  cena  de  los  acusados,  de  Dashiel Hammett;  para  Titania  y  Oberon,  de   El  sueño  de  una  noche  de  verano; y para  Westley  y  Buttercup,  de  la  obra  de  Wil iam  Goldman   La  princesa prometida.  También  hay  una  suite  para  Eve  y  Roarke,  personajes  de  las novelas  In Death que escribe Nora bajo el seudónimo de J. D. Robb. Todas las historias tienen sus altibajos, pero acaban con el «y fueron felices para siempre»,  y  cada  una  de  las  habitaciones  tiene  los  detal es  propios  de  un escenario para reproducir la atmósfera del romance literario que pretende evocar.  Los  clientes  experimentan  las  historias  gracias  a  los  muebles  y  la decoración  de  la  época,  incluso  a  través  de  jabones  y  de  aromas.  En  mi habitación,  la  de  Elizabeth  y  Darcy,  el  aroma  de  la  lavanda  inglesa  me transportó a la era de  Orgul o y prejuicio, de Jane Austen.
+
+Nora tiene un propósito claro cuando selecciona las historias que cuenta en  y  a  través  de  su  hotel.  La  historia  no  sólo  confiere  a  la  empresa  una marca distintiva que es congruente con la marca de Nora como escritora de novelas  románticas,  sino  que  esas  historias  concretas  también  pretenden inspirar a las parejas que se alojan en el hotel. La misión de Nora no es sólo dirigir  un  hotel,  sino  dar  a  sus  clientes  la  sensación  de  que  también  el os pueden ser felices para siempre. . sobre todo mientras estén bajo su techo.
+
+HAY  UN  LIBRO  DE  UNA  CLASE  MUY  DIFERENTE,  la  Biblia,  que ofreció  la  materia  prima  para  la  historia  que,  en  última  instancia,  me convenció para que invirtiera en Bethany Hamilton. La primera vez que oí hablar  de  Hamilton  fue  el  día  de  Hal oween  del  año  2003,  cuando  yo estaba  en  mi  hogar  de  Kauai  y  el a  estaba  haciendo   surf;  entonces  un tiburón le arrancó un brazo. El a, que en aquel entonces contaba 13 años, no sólo sobrevivió, sino que pocos meses después volvía a estar en el agua.
+
+Poco  tiempo  después  de  eso,  quedó  quinta  en  los  National  Surfing Championships  ¡y  se  coló  en  el  equipo  nacional  de   surf  estadounidense!
+
+Cuando  leí  la  noticia,  pensé  que  debía  tener  mucha  fuerza  de  voluntad, pero no volví a pensar en el asunto hasta 2009, cuando el productor David Tice  l amó  a  mi  puerta  para  venderme  un  pequeño  filme  independiente que se basaría en la autobiografía de Bethany,  Soul Surfer.
+
+Pero en lugar de transportarme al  corazón de su objetivo para la película, Tice  no  paraba  de  soltar  cifras  y  presupuestos.  Yo  sé  que  nadie  dice:
+
+«Venga, vamos al cine AMC, que me he enterado que hay una película que se ajustó al presupuesto». De modo que no acepté su oferta.
+
+Algún tiempo después, en un último intento para que participásemos en el  proyecto,  Tice  pidió  a  Bethany  que  me  visitara  cuando  yo  estuviera  en Kauai.  Se  presentó  con  un  top  sin  mangas,  sin  la  prótesis  del  brazo,  y parecía  sentirse  muy  a  gusto.  Me  quedé  impresionado  y  le  pregunté  de dónde sacaba tanta confianza en sí misma. El a la atribuyó a su fe religiosa,
+
+muy sólida. Me dijo que su creencia en Jesucristo la había guiado a el a y a su familia después del ataque del escualo.
+
+—Y ahora veo el propósito más amplio de mi vida —me dijo.
+
+—Supongo que como campeona del  surf —le dije, pensando que aquel era el meol o de su historia.
+
+—No, el propósito de Dios —me explicó—. Ayudar a otros a conocer su amor.  —Entonces  me  citó  un  pasaje  de  la  Biblia,  sobre  el  niño  profeta Jeremías—.  «Pues  conozco  los  planes  que  tengo  para  ti,  dice  el  Señor, planes para que prosperes y no para perjudicarte, planes para darte futuro y esperanza.»
+
+Cuando más tarde leí algo sobre Jeremías, me enteré de que procedía de un largo linaje de profetas, pero que cuando Dios le dijo que iba a ser un profeta  especial,  sólo  era  un  niño  pequeño.  Al  ser  tan  joven,  Jeremías  se amilanó, pero Dios le dijo que no se asustase, y prometió protegerle. No fue fácil. Aquel muchacho fue enviado a predicarle al rey, y contar a la gente cosas  que  no  les  apetecía  escuchar,  pero  Jeremías  siguió  adelante  porque estaba convencido de que Dios le respaldaba.
+
+Aquel a tarde en Kauai, Bethany me dijo que el versículo de Jeremías le dio  esperanza;  que  incluso  en  medio  de  las  crisis,  la  fe  hace  posible convertir el sufrimiento en una bendición. (¡El a es una prueba viviente de el o!) «Quiero inspirar a otras personas para que nunca tiren la toal a, pase lo que pase —me dijo—. Por eso espero que se ruede esa película.»
+
+Bethany  contó  su  historia  mediante  un  sencil o  pasaje  bíblico,  pero escuché  el  mensaje  alto  y  claro.  La  historia  de  Jeremías  no  sólo  era  más atractiva que los datos presupuestarios del productor, sino que también me enseñó por qué nuestra película atraería a un amplio sector del público. Me di cuenta de que la historia de Bethany atraería a adolescentes, surfistas y fans de  Tiburón,  y  hablaría  a  un  enorme  grupo  de  cristianos  amantes  del cine.
+
+«Me  apunto  —le  dije.  Y  cuando  le  conté  su  historia  al  presidente  de Sony Pictures, Peter Schlessel, me dijo—: Nosotros también.»
+
+En  la  primavera  de  2010,  yo  estaba  de  vuelta  en  Hawai  para  asistir  al inicio  del  rodaje  de   Soul Surfer,  con  Dennis  Quaid,  Helen  Hunt  y  Carrie Underwood,  y  con  la  joven  estrel a  AnnaSophia  Robb  en  el  papel  de Bethany. Mientras estaba al í, pregunté a Dennis si podría entrevistarle para mi  programa  televisivo  nacional   In  the  House.  Cuando  me  dijo  que  sí,  le pregunté  qué  le  había  inducido  a  aceptar  un  papel  en  aquel a  humilde película  independiente.  Su  respuesta  fue  sencil a.  Era  la  historia  que Bethany  le  había  contado  sobre  la  vida  de  el a  y  de  su  familia  durante aquel a  terrible  experiencia.  «La  única  manera  de  hacerlo  es  la  que  dice Dios —me dijo—. Él es el pegamento que lo mantiene todo unido. No cabe duda de que eso ha sido un consuelo en mi vida.»
+
+El  relato  de  Bethany  conectó  con  una  crisis  por  la  que  pasó  Dennis  en 2007,  cuando  sus  gemelos  recién  nacidos  estuvieron  a  punto  de  morir debido a una sobredosis de medicación que les habían dado por error en el hospital. Su historia de fe, como la de Bethany, le había ayudado a seguir.
+
+¿Cómo podría no aparecer en su historia?
+
+La historia
+
+Por  último,  una  de  las  fuentes  más  generosas  de  materia  prima  para  un relato es la historia, con su inmensa riqueza de leyendas, mitos y aventuras reales. Sin que yo lo supiera, aquel era el arsenal al que recurrió el mega-magnate Kirk Kerkorian cuando fui el blanco de su capacidad narrativa en 1988.
+
+Kerkorian  se  había  hecho  rico  desarrol ando  algunos  de  los  complejos turísticos más grandes en Las Vegas Strip, pero se metió en el negocio del cine  con  la  compra  de  MGM  en  1969,  y  más  tarde  de  United  Artists.
+
+Conocí a Kerkorian cuando mi compañía trabajaba en  Rain Man, que iba a distribuir  UA  y,  basándose  en  esa  asociación,  Kerkorian  decidió  que  mi compañía era candidata para otro tipo de proyecto empresarial.
+
+En  1988  él  pretendía  vender  una  porción  de  sus  intereses  en  MGM  a alguien que pudiera dirigir el negocio mientras él ofrecía el balance de su
+
+interés  al  público.  Cuando  Kerkorian  me  pidió  que  nos  reuniésemos  para contarme  lo  que  le  rondaba  por  la  cabeza,  me  sentí  tremendamente halagado y muy nervioso. Kirk, después de todo, era un bil onario, de ésos en los que la B significa algo de verdad. Llevaba veinte años dirigiendo un enorme sector de la industria del entretenimiento, y era conocido como el capo de los negociadores empresariales. Sin embargo, lo curioso fue que no quiso  que  nos  viéramos  en  su  despacho,  sino  en  la  cafetería  del  Hotel Hilton; encima, no fue en la lujosa cafetería del hotel, sino en la que tiene mesas de formica sin manteles.
+
+En cuanto nos sentamos, sacó un pequeño bloc con el famoso logo del león de la MGM impreso en la tapa.
+
+—¿Está familiarizado con el rugido de este león? —me preguntó.
+
+—Por supuesto —le dije—. Este león debe haber rugido al comienzo de mil de las mejores películas de todos los tiempos. —Inmediatamente se me l enó  la  mente  de  escenas  de  aquel as  películas  históricas  de  la  MGM:   El mago de Oz,  Ben-Hur,  Lo que el viento se l evó,  Un americano en París,  La cena de los acusados  y  Cantando bajo la l uvia.
+
+Entonces  Kirk  empezó  a  contarme,  como  si  tal  cosa,  la  historia  de  la MGM.  Me  recordó  que  dos  de  los  mayores  productores  de  Hol ywood, Louis B. Mayer e Irving alberg, habían puesto en marcha la historia de MGM. Me contó una anécdota tras otra para ilustrar el legado de glamour y de majestad que estaba entrelazado con aquel a compañía veterana. . que ahora mis socios y yo tendríamos la oportunidad de dirigir.
+
+—Sería  un  paso  magnífico  para  su  carrera  —dijo  Kirk—.  A  todos  nos entusiasma   Rain  Man,  pero  podría  recoger  la  historia  de  la  MGM
+
+convirtiéndola en algo más grande de lo que haya hecho en toda su vida.
+
+Entonces,  mientras  me  mantenía  embobado  con  escenas  del  glorioso pasado de la MGM, Kirk empezó a garrapatear los términos del acuerdo en su  bloc,  justo  debajo  del  león.  Yo  apenas  me  fijé  en  las  cifras.  El  tirón emocional del logo y de la historia de aquel a compañía, todo un icono, me habían  cegado  casi  del  todo.  Recuerdo  haberle  comentado:  «Bueno, tendremos que examinar las propiedades y los activos presentes», pero en
+
+realidad  apenas  contenía  mis  ganas  de  salir  corriendo  hacia  las  fauces  de aquel  proyecto  histórico,  plasmado  en  el  famoso  logo,  al  que  Kirk  quería atraerme.
+
+Cuando  salí  del  Hilton  estaba  eufórico.  Al  regresar  a  las  oficinas  de nuestra compañía cinematográfica, conté a mis socios las historias que Kirk acababa de relatarme y de las que estábamos a un paso de ser los dueños.
+
+Afortunadamente,  no  conté  las  historias  tan  bien  como  lo  hizo  Kirk.
+
+Nuestro  presidente  me  escuchó  con  atención  y  luego  dijo:  «Creo  que  es mejor que analicemos el último capítulo de esta historia».
+
+Organizamos  dos  días  extremos  de  reuniones  con  todos  los  ejecutivos que  trabajaban  entonces  en  la  MGM,  para  ver  qué  era  lo  que  tenía  que vendernos  de  verdad  Kerkorian.  Pronto  nos  dimos  cuenta  de  que  la historia reciente no había sido amable con la gran leyenda antigua. Los días de gloria de la compañía, obviamente, ya eran polvo, y su futuro parecía de todo menos atractivo. Lamentablemente, a estas alturas el acuerdo se había filtrado  misteriosamente  al   New  York  Times  y  a   Variety,  como  si  quisiera atraparnos en la narrativa de la MGM.
+
+Resultó mortificante tener que desmentir aquel anuncio público, pero la experiencia me enseñó una lección que no tiene precio: nunca subestimes el tirón de una historia bien contada.
+
+¿DÓNDE ESTÁ EL TRANSPORTE
+
+EMOCIONAL?
+
+¿Qué  hay  en  su  historia  que  motive  emocionalmente  a  su  público  para actuar?  Ésta  es  una  pregunta  crucial  cuando  elija  el  contenido  de  su historia.  Si  quiere  que  sus  oyentes  le  ayuden  a  alcanzar  su  objetivo,  es necesario que sientan que su l amamiento resuena de verdad en su interior.
+
+De  hecho,  cuando  visité  al  periodista  de  noticias  televisivas  Anderson Cooper,  todo  un  veterano,  para  pedirle  que  analizase  su  estilo  de  contar
+
+historias,  comentó  que  incluso  si  nuestro  único  objetivo  es  que  nos escuchen, tenemos que actuar sobre las emociones del público.
+
+Cooper  aprendió  esta  lección  de  la  forma  más  dura  posible  cuando estaba en Nueva Orleans cubriendo la noticia del huracán Katrina para la CNN.  Su  experiencia  del  desastre  fue  tan  intensa  que  le  fue  imposible mantener  la  actitud  del  reportero  objetivo  y  desapasionado.  No  tuvo  más opción que revelar su propia angustia personal y su frustración por medio de las historias que eligió, y del modo emocionalmente vulnerable con que las relató. Las historias de Cooper hal aron un eco poderoso en mil ones de espectadores, y por todo el país las personas las contaron una y otra vez, no como las había visto Cooper, sino como las había  sentido, y como a su vez había  conseguido  que  las  sintieran  los  espectadores.  Su  cobertura  del Katrina  le  propulsó  al  estrel ato  como  un  imán  para  las  audiencias  de  la CNN,  introduciendo  un  estilo  nuevo  de  periodismo  televisivo,  l amado
+
+«emo-periodismo»,  que  desde  entonces  se  ha  extendido  por  toda  la  red informativa, e incluso se ha introducido en las noticias de los periódicos y de la radio.
+
+Pero  yo  pensé  que  era  difícil   no  insuflar  emociones  a  los  episodios  de mujeres y niños aferrados a los tejados de las casas. Suponía que otra cosa sería hablar de objetos inanimados, como los automóviles. Sin embargo, mi viejo amigo Al Giddings me demostró que, al hablar de coches, la emoción radica en la narración.
+
+Cuando  conocí  a  Giddings,  él  era  el  mejor  cineasta  submarino  del mundo  del  cine.  Hicimos  juntos   e  Deep,  y  más  tarde  un  documental sobre  el  descubrimiento  del  verdadero   Titanic,  que  luego  inspiró  a  James Cameron  a  abordar  a  Al  para  que  le  ayudase  a  rodar  su  película.  Juntos insuflaron  emoción  a  un  pedazo  de  metal  oxidado  a  3.700  metros  de profundidad  en  el  océano,  contando  su  historia  de  una  manera  que conmocionó al público al ritmo de más de 2.000 mil ones de dólares. Pero hace pocos años, Al padeció una lesión ótica que puso fin a su carrera como submarinista, y trasladó su pasión a los coches de época.
+
+Concretamente, se vio seducido por los clásicos biplazas descapotables y los turismos de carreras fabricados por la Wil ys-Overland Motor Company entre 1914 y 1933. «La combinación de su estética y su rendimiento técnico me resulta muy atractiva —me contó Al—. Y estos coches en concreto casi no han recibido publicidad. Descubrí esto, vi algo que me pareció que podía ser  muy  provocador,  y  me  puse  a  perseguirlo  como  un  loco,  emocionado por la historia, el arte y la ingeniería.» Aquel os coches eran tan poco vistos que, en ocasiones, sólo existía un coche de un modelo determinado. Uno a uno,  Al  comenzó  a  seguir  la  pista  de  los  Wil ys  Knight  66B  Plaidsides  de 1930. Los compró, incluso cuando sólo eran una carcasa de lo que fueron, y luego  dedicó  hasta  6.000  horas  a  cada  uno  para  devolverlos  a  su  estado original.
+
+Al  final,  comenzó  a  exponerlos  en  las  ferias  automovilísticas  locales.  Se dio cuenta de que los jueces transmitían toda su reacción basándose en las especificaciones técnicas. No parecían comprender lo que a él lo motivaba cuando  investigaba  y  estudiaba  el  diseño  y  la  historia  de  cada  automóvil.
+
+Para Al, aquel o no eran montones de metal y cuero, sino obras de arte.
+
+Comprendió entonces que para que sus candidatos tuvieran éxito en la competición, tendría que insuflar emoción a aquel os vehículos, del mismo modo  que  lo  había  hecho  James  Cameron  con  el   Titanic  sumergido,  al honrar a las personas que estaban a bordo durante su viaje inaugural. Lo que  necesitaba  era  una  historia  de  retos,  lucha  y  resolución,  que  pusiera rostro humano a aquel as máquinas. Dado que todos los restauradores de coches  antiguos  compartían  una  pasión  parecida,  su  propia  historia  le proporcionaría  una  escasa  ventaja,  pero  la  historia  de  los  hombres  que originariamente  diseñaron  y  construyeron  los  coches  le  daba  un  relato distintivo  que  podía  desmarcarle  del  resto  de  los  competidores.  Quienes invirtieron  su  sangre,  su  sudor  y  sus  lágrimas  tenían  la  auténtica  y  única fuerza para poner a los jueces de su parte.
+
+Así que Giddings empezó a contar a los jueces, en cada feria, la historia de  esos  dos  hombres,  Amos  Northup  y  John  Wil ys,  como  parte  de  la presentación de sus coches. «Tras haber fabricado su automóvil número dos
+
+mil ones en los años veinte, John Wil ys ocupaba el segundo lugar después de  Henry  Ford.  Wil ys  era  un  estratega  bril ante  y  un  tipo  muy  animoso, que antes había sido vendedor de artículos deportivos en Nueva York. Vio pasar por delante de su tienda un Overland de 1909, y salió corriendo por la  cal e  para  anotar  la  marca  del  coche.  Dejó  el  negocio  de  los  artículos deportivos,  envió  un  cheque  por  el  importe  de  5.000  dólares  a  la  fábrica, adquirió seis Overlands y los vendió de inmediato. Al año siguiente, envió una  ingente  cantidad  de  dinero  a  la  pequeña  compañía  Overland.  Se suponía que tendrían que fabricarle 50 o 60, pero la compañía quebró. Fue hasta al í en tren, como una bala, contrató de nuevo a los empleados, pidió que  le  transfiriesen  dinero  de  Nueva  York  y  volvió  a  poner  en  pie  la compañía.»
+
+Entonces Al se saltó quince años, l egando a 1929. «Wil ys tenía 66.000
+
+empleados. Pero en aquel entonces no existía mucha competencia. Así que fue a ver a Amos Northup, un tipo muy famoso pero también muy cal ado, reservado, el mejor diseñador del mundo. Northup padecía una depresión y estaba muy estresado, pero era bril ante. John Wil ys acudió a él sabiendo que  era  un  diseñador  de  líneas  aerodinámicas  con  mucha  sensibilidad,  y que se alejaba del aspecto cuadrado de los años veinte, avanzando hacia los treinta. Le dijo: “Quiero hacerlo saltar todo por los aires con un diseño que sea  totalmente  espectacular,  y  quiero  que  usted  diseñe  el  66B  Wil ys Knights para 1930”. Northup diseñó los coches 66B, los más hermosos de todos,  los  Roadsters  y  Phaetons,  descapotables  de  cuatro  puertas.  Pero entonces  el  mercado  de  valores  se  vino  abajo.  Para  las  ferias  de  1930  en Nueva York, Chicago y Los Ángeles sólo se construyeron tres Phaetons con el  volante  a  la  izquierda,  debido  a  la  catástrofe  económica  que  había afectado a Estados Unidos.»
+
+Y  al í  mismo,  delante  de  los  jueces,  Al  hizo  un  gesto  con  su  mano, porque aquel os tres Phaetons, los únicos que quedaban en todo el mundo, eran  los  coches  que  él  había  restaurado  con  cariño  para  aquel as competiciones.  «Durante  la  Gran  Depresión  —concluyó  Al—,  Wil ys Overland se fue a la bancarrota.»
+
+La atención de los jueces y su asombro quedaron prendados del modo en que Giddings insuflaba emoción al metal y al cuero mientras contaba su historia.  Les  inspiraba  un  temor  casi  reverente,  admiración,  angustia, tristeza  y  sorpresa.  Entonces  le  concedieron  premios.  En  2009  Giddings obtuvo  el  máximo  premio  que  confiere  el  Antique  Automobile  Club  of America. Esos premios atrajeron a compradores potenciales que ofrecieron mil ones de dólares por sus amados vehículos. Aunque por el momento no piensa ni mucho menos vender, no cabe duda de que ha aprovechado sus
+
+«historias  de  coches»  para  obtener  un  valor  económico  real.  Del  coraje  al metal y a los mil ones: esto es el transporte emocional en plena actuación.
+
+PERO  ¿CÓMO  PUEDE  USTED  asegurarse  de  que   su  historia  tiene  la capacidad  de  mover  a  las  personas  en  la  dirección  en  la  que  de  verdad quiere que avancen? Ésta es la pregunta a la que se enfrentó Mark Shapiro en 2006, cuando se convirtió en el director de Six Flags, una de las cadenas más grandes del mundo de parques de atracciones y temáticos. En aquel a época  la  compañía  se  tambaleaba  bajo  una  deuda  de  2.000  mil ones  de dólares, y su reputación se resentía como resultado del mal mantenimiento de  sus  instalaciones,  atracciones  anticuadas  y  una  base  de  clientes adolescentes  cada  vez  más  alocados  e  incluso  peligrosos,  que  usaban  los parques como puntos de reunión. Al cruzar aquel a puerta, Mark sabía que su  única  manera  de  salir  de  aquel  problema  monumental  era  por  el  otro lado. Aunque era previsible que la bancarrota fuera una fase necesaria del proceso  de  reorganización,  no  podía  permitir  que  los  problemas  de  la empresa  ensombrecieran  sus  perspectivas.  Tenía  que  concentrarse  en  la oportunidad de hacer crecer el negocio, con deuda o sin el a. Y en la mente de  Shapiro  aquel a  oportunidad  dependía  de  su  capacidad  de  formar  a todos  los  empleados  del  equipo  de  Six  Flags  para  que  contasen  historias (en, sobre y por medio de la experiencia de las atracciones en los parques), que despertasen ecos emocionales de una forma positiva no sólo entre los
+
+adolescentes,  sino  también  en  los  padres,  abuelos,  preadolescentes,  niños, los medios, las juntas directivas y los accionistas.
+
+Shapiro  había  aprendido  el  valor  de  negocio  que  tiene  contar  historias cuando  era  director  de  programación  en  la  ESPN,  una  empresa  de televisión por cable. Fue entonces cuando nos conocimos, dado que yo no dejaba  de  bombardearle  con  ideas  de  programación  relacionadas  con  los equipos  de  hockey  y  de  béisbol  de  Mandalay  Sports  Entertainment.  Me invitó  a  que  diera  una  conferencia  para  los  empleados  de  ESPN  durante una  convención  en  Orlando,  donde  hablé  del  arte  de  la  narración  como transporte emocional. Mark ya entendía que la narrativa es el componente esencial  del  entretenimiento  deportivo  (las  historias  acechan  en  cada partido, y cautivan a los fans), de modo que él y yo conectamos gracias a nuestra apreciación del arte narrativo, y nos hicimos buenos amigos.
+
+La  historia-visión  de  Mark  para  Six  Flags  provino  de  su  propia experiencia. «Cuando era niño, veía Six Flags como una Disneylandia en mi patio trasero. Era un lugar donde uno podía sentirse atrapado por el teatro, la  majestad  y  la  imaginación  de  Bugs  Bunny  y  de  todo  el  mundo,  y  sin embargo experimentar el drama y la tensión de los parques de atracciones.
+
+En  aquel  entonces,  el   storytelling  poderoso  estaba  entrelazado  con  las atracciones. Los grandes parques temáticos nos devuelven a un tiempo y un lugar en los que teníamos la capacidad de maravil arnos.»
+
+El problema que veía Mark en Six Flags en 2006 era que los clientes iban de  una  atracción  a  otra  sin  que  hubiera  nada  entre  el as.  «No  había storytelling. No había innovación ni sorpresa. Todo eso había desaparecido.
+
+Uno no puede sentirse parte de un cuento de hadas o de cualquier tipo de gran  historia  cuando  el  entorno  es  tan  decrépito.»  Pero  también  vio  la oportunidad de resucitar la historia que recordaba de su infancia, la de un parque temático como escenario de sueños, y enriquecerlo aún más.
+
+El  objetivo  de  Mark  era  convertir  a  sus  empleados  y  a  sus  clientes  por igual  en  participantes  activos  del  renacimiento  de  Six  Flags.  Para  alcanzar esta meta, todos los miembros del personal de todos los parques tendrían que  contribuir  a  la  creación  de  una  sensación  de  maravil a,  tan  intensa  y
+
+coherente  que  los  visitantes  se  quedasen  encantados  durante  todo  el tiempo que estuvieran en las instalaciones de Six Flags. «Aunque uno tenga que  esperar  tres  horas,  se  ve  inmerso  en  las  aventuras  que  se  desarrol an entre  las  atracciones.»  Uno  no  puede  limitarse  a  montar  una  atracción, explicaba  Mark,  y  bautizarla   Batman.  Tiene  que  contar  la  historia  al público.  ¿Quién  es  Batman?  ¿Qué  puede  hacer?  ¿Con  quién  lucha?  ¿A quién quiere salvar? Mark sabía que tendría que recordar constantemente a los clientes los puntos más conocidos de la historia, pero al mismo tiempo ofrecerles algo inesperado. «Si puedes envolverlos en la historia que rodea a la atracción, se sentirán mucho más inmersos en la experiencia.»
+
+El  público  primero  y  más  difícil  de  Shapiro  debían  ser  los  30.000
+
+empleados de Six Flags dentro de la gigantesca organización, que no tenían ni  idea  de  qué  les  estaba  hablando  cuando  les  dijo:  «Nos  dedicamos  al negocio  del  transporte  emocional».  «Aquel os  empleados  eran, básicamente, especialistas en montajes carnavelescos —explicó Mark—. Lo único  que  supieron  hacer  durante  años  fue  dirigir  un  carnaval.
+
+Desconocían por completo el concepto de contar una historia. Ni siquiera es que no se lo creyeran, sino que no tenían ni idea de lo que era contarla.
+
+Pensaban  que  Six  Flags  consistía  simplemente  en  “Construye  una  gran atracción,  comercialízala,  y  el os  vendrán”.  Tenían  que  comprender  que nuestro trabajo consistía en evocar una cierta respuesta emocional, visceral, en cada cliente.» ¿Por qué? Porque sólo esa reacción induciría a la gente a invertir en Six Flags el dinero y el tiempo que la empresa necesitaba para crecer. Y sólo esa reacción los motivaría a transmitir la historia, contándola a más personas.
+
+Mark  sabía  que  no  podía  limitarse  a  hablar  a  sus  empleados   sobre  esa respuesta  visceral;  necesitaba  que  el os  la   sintieran  directamente  de  la manera  más  intensa  posible:  como  una  catarsis  emocional.  Por  tanto,  les contaba su propia historia central de cuando fue a Six Flags siendo un niño, de  cuando  sintió  la  sensación  maravil osa  de  haber  entrado  en Disneylandia en el patio de atrás de su casa.
+
+¿Cómo  consiguió  Mark  insuflar  vida  a  esa  historia?  «Por  medio  de  la vista, el tacto y los sentidos, todo el mundo sensorial que tiene un papel en las  emociones  —me  dijo—.  Por  tanto,  si  entre  las  atracciones  hay entretenimiento, si uno se siente atrapado en la historia mientras hace cola, el trayecto será mucho mejor, porque estará inmerso en la historia incluso antes de subir a la atracción. Les digo a mis publicistas lo que demuestra la investigación: que cuando se activan los sentidos mediante la narración de una  historia,  el  consumidor  asimila  y  recuerda  un  mensaje  mucho  más profundamente.»
+
+Para ayudar a sus empleados a sentir de verdad el poder del transporte emocional, Mark les enseñó una selección de escenas de las películas más conmovedoras  de  todos  los  tiempos.  Incluyó  escenas  impactantes  de dramas clásicos como  La decisión de Sophie y  Un tranvía l amado Deseo; de filmes lacrimógenos como  Raíces profundas y  Mi fiel cobardica; de comedias ( Tootsie,  Con faldas y a lo loco  y  Virgen a los 40); y de películas l enas de testosterona, como  El padrino,  Marea roja y  Rocky. A pesar de lo breves que eran,  cada  una  de  esas  escenas  suscitaba  una  reacción  humana  visceral: lágrimas, gritos ahogados, risas, escalofríos. Cuando acabó el montaje, todos los  asistentes  comprendieron  que  habían  hecho  un  viaje  en  una  montaña rusa de temores y deseos, y que ese trayecto era lo que Shapiro quería que experimentasen  todos  los  clientes  del  parque  temático  Six  Flags.  Cada atracción  debería  ofrecerles  no  sólo  sensaciones  físicas,  sino  también emocionales.
+
+Mark y sus empleados no sólo revistieron cada atracción con una historia emotiva,  que  narraban  a  través  de  el as,  sino  que  también  comenzaron  a elegir a vendedores que añadieran nuevas formas de transporte emocional dentro de los parques. «Cuando l egaba el momento de servir helado —dijo Mark—, lo mejor era la Cold Stone Creamery. ¿Por qué? Porque Cold Stone Creamery  ofrece  una  experiencia.  Desde  el  mismo  momento  en  que  uno entra,  todo  el  mundo  está  cantando,  involucrándote  en  esta  historia  tan divertida.  Uno  elige  sus  dulces  favoritos,  hace  una  pócima  como  si  fuera Wil y  Wonka,  y  esa  historia  encaja  en  nuestra  historia  más  amplia,  y
+
+también  contribuye  a  el a.  Con  Johnny  Rockets  pasa  lo  mismo.  Entro  en Johnny  Rockets,  donde  los  empleados  cantan,  y  de  repente  usted  se encuentra  en  un  restaurante  de  los  años  cincuenta  y  sesenta.  Así  que incluso la comida de Six Flags le proporciona experiencia y diversión.»
+
+La  idea  central  es  que  la  gente  pagará  más,  estará  más  tiempo  y  se gastará más dinero en alimentos y en compras cuando se sientan motivados emocionalmente  por  la  historia  que  experimentan.  Y  contarán  a  otros  la historia  de  su  experiencia,  vendiéndoles  así  la  marca.  Dos  temporadas  y media después de que Shapiro comenzara a gestionar Six Flags, su historia del  transporte  emocional  funcionaba  a  la  perfección.  Los  visitantes  a  los parques pasaban una media de 45 minutos más en el os, y gastaban un 21
+
+por ciento más por visita que antes. En 2008, Six Flags disfrutó de la mejor temporada  estival  de  su  historia,  reduciendo  las  pérdidas  empresariales  y aumentando  tanto  las  ventas  como  la  asistencia.  Lamentablemente,  una serie  de  condiciones  externas,  que  nadie  podía  controlar,  desde  la  crisis económica al aumento en el precio de la gasolina, pasando por el estal ido de la gripe porcina, dejaron huel a en el negocio de los parques temáticos durante 2009. Tales condiciones obligaron a Shapiro y a la junta directiva a buscar la socorrida bancarrota para aliviar la carga de la deuda que habían heredado. Sin embargo, incluso al anunciar esta decisión, el presidente de Six Flags, Daniel Snyder, alabó a su equipo directivo presente, por «haber alcanzado todos los objetivos operativos que fijamos hace tres años». Poco tiempo  después,  tras  la  reestructuración  financiera  completa  de  la compañía, Shapiro decidió seguir adelante. Todo indica que su maestría del transporte emocional mantendrá a Six Flags en el camino correcto.
+
+Es  posible  que  contar  historias  orales  no  sea  tan  complicado  como hacerlo  mediante  un  parque  temático,  pero  al  escuchar  a  Mark  Shapiro recordé  que  dotar  de  un  marco  a  su  historia  le  acerca  un  paso  más  a  su objetivo. Una vez que usted haya identificado a su héroe, haya dado forma a su materia prima y se haya asegurado de que apele a las emociones, aún tendrá que desarrol ar y transmitir esa historia para que alcance su meta. Si
+
+«Preparados» y «Listos» son las fases 1 y 2 del arte de la narrativa, ¿en qué consiste la fase 3?
+
+¡AJÁ!
+
+•  Los héroes vienen en todas las formas y tamaños: narrador, oyente, cliente,  producto,  localización  y  tribu;  elija  el  héroe  que  mejor  se adapte a su objetivo.
+
+•  Su experiencia de primera mano, o como testigo, es la mejor materia prima de su historia.
+
+•  Use metáforas y analogías para despertar la imaginación y provocar la iluminación.
+
+•  Utilice las poderosas narrativas de los libros, las películas y la historia para insuflar emoción a su l amada a la acción.
+
+7
+
+¡Cuente!
+
+Mientras me acercaba al despacho de Terry Semel en la Warner Bros., me concentré  en  calmarme  y  en  ordenar  mis  pensamientos.  Era  1986,  y  el destino de nuestro próximo proyecto,  Gorilas en la niebla, dependería de la historia que le iba a contar a Semel, que en aquel entonces era el director ejecutivo de la Warner. Nuestra productora ya había invertido tres años en el  desarrol o  de  este  drama  verídico,  que  transcurría  en  lo  alto  de  los montes  Virunga,  en  África  central.  Sigourney  Weaver  había  aceptado  su papel como la famosa primatóloga Dian Fossey, quien estudió a los últimos supervivientes de los gorilas de montaña, entre quienes vivió y por proteger a los cuales hal ó la muerte. Nuestro director era Michael Apted, que unos años  antes  había  dirigido  una  película  que  recibió  un  Oscar,  Coal Miner’s Daughter, y todo estaba a punto para comenzar con la producción. Pero el presupuesto  que  acabábamos  de  presentar  a  Warner  Bros.  era  superior  a veinte mil ones de dólares, lo cual en 1986 suponía una suma tremenda, y aunque  hasta  ese  momento  Semel  había  apoyado  el  proyecto,  ahora  se estaba echando atrás. Como Hol ywood funciona según la regla de oro de que quien paga manda, aquel o podía significar un golpe mortal.
+
+Aunque en aquel a época yo no pensaba en el marco de narrativas con propósito,  entendía  instintivamente  que  tenía  que  conmover emocionalmente  a  Semel  si  quería  hacerle  cambiar  de  opinión.  Me  había enterado gracias a sus colegas que algunos años antes Terry había dado luz verde  a  una  película  titulada   Greystoke,  un  film  sobre  Tarzán  que  se  pasó
+
+muchísimo del presupuesto y que no tuvo éxito comercial, en el que unos hombres  disfrazados  hacían  el  papel  de  gorilas.  Exceptuando  el  término
+
+«gorilas» que figuraba en nuestro guión, nuestra película no tenía nada que ver  con  aquel a  otra,  pero  mis  investigaciones  demostraron  que  Terry  se había convencido de que nuestros  Gorilas podrían convertirse en otro fiasco a  lo   Greystoke.  Tuve  que  contarle  una  historia  que  le  convenciera,  al transformar su miedo en pasión.
+
+Pero antes de poder hacer eso, yo sabía, gracias a mi experiencia atlética, que  necesitaba  un  «precalentamiento»,  algo  que  había  practicado  siempre previamente a cualquier competición deportiva. Esto suponía potenciar mis energías, reduciendo cualquier ansiedad o confusión que me embargase, y sumiéndome  en  un  estado  repentino  de  dislexia  actitudinal  que  leyera  el
+
+«no»  de  Terry  como  un  « on»  [sí].  Respiré  hondo,  lentamente,  y  me concentré  en  mi  intención  para  que  Semel  escuchara  mi  historia  con empatía.  Anidado  en  la  historia  que  le  iba  a  contar  estaba  el  mensaje  de que  no  íbamos  a  hacer  una  película  con  hombres  disfrazados  de  gorilas.
+
+Aquel o,  esperaba  yo,  reduciría  su  angustia  de  índole  económica.  Mi historia también le contaría cómo nuestra película iba a beneficiar tanto su economía  como  su  imagen  personal,  convirtiéndole  en  el  catalizador  para salvar a una de las especies animales más amenazadas del planeta.
+
+Se  abrió  la  puerta.  Sin  secretos.  Terry  sabía  que  yo  sabía  que  nos  iba  a decir  que  no.  Me  recordé  que  no  debía  darle  la  impresión  de  haberme rendido. Me erguí todo lo que pude y, mientras entraba, intenté transmitir la  certidumbre  y  la  energía  que  exigía  mi  misión.  También  evalué rápidamente el estado mental de Terry. Yo había asistido a reuniones en las que mi público estaba tan aturul ado y preocupado que era mejor posponer la  cita.  Pero  aquél a  no  era  una  de  esas  ocasiones.  Terry  estaba  listo  para recibirme, aunque sólo fuera para transmitirme sus condolencias. Era ahora o nunca.
+
+En un intento de captar su atención y redirigir su intención, apunté con mi historia directo a su corazón, diciendo:
+
+—Hay alguien que está matando a sus parientes.
+
+—¿Qué?  —exclamó,  mirándome  con  alarma.  Ya  había  captado  su atención y había despertado su curiosidad.
+
+Así que empecé.
+
+—Sus parientes se ocupan de sus cosas, criando a su familia en el único entorno que han conocido, donde sus antepasados l evan viviendo miles de años. Son inocentes y están indefensos; se cuentan entre las criaturas más hermosas  que  haya  visto  jamás.  Esos  gorilas  de  espaldas  plateadas,  los personajes  principales  de  nuestra  película,  están  a  dos  centímetros  de nosotros  en  la  escala  genética.  Pero  están  rodeados  de  enemigos  que quieren  robarles  la  tierra  y  la  fuente  de  sus  alimentos.  Padecen  las agresiones  de  asesinos  que  les  disparan  un  tiro  en  el  corazón  para  luego cortales las manos y los pies como trofeos.
+
+Metí la mano en el bolsil o y le di a Semel unas cuantas fotografías que mostraban  a  los  gorilas  y  las  atrocidades  que  acababa  de  describir.  Entre el as figuraban algunas donde se veían esos miembros de gorila convertidos en  souvenirs.
+
+—Esto lo venden en las cal es de Ruanda —le dije—. Ver estas cosas la última  vez  que  estuve  al í  me  hizo  l orar,  y  el  único  consuelo  fue  que nuestra  película,  aunque  se  centra  en  la  tragedia  heroica  de  Dian  Fossey, extendería el mensaje de lo que está pasando, aportando más defensores a la causa de los espaldas plateadas.
+
+Terry miró horrorizado una foto donde se veía un cenicero hecho con la mano de un gorila. Aquel a imagen hizo que prestase toda su atención a la historia que le contaba. Era evidente que estaba indignado cuando dejó la foto en la mesa, pero no pudo apartar la vista de el a.
+
+En  ese  momento  la  clave  para  mí  era  demostrarle  que  yo  también entendía  y  respetaba   su  problema,  los  riesgos  económicos  que  supondría aquel a producción, y su temor personal, que  Gorilas fuera otro  Greystoke.
+
+Tenía que contarle qué podía ofrecerle mi historia.
+
+Le dije a Semel que su experiencia con  Greystoke nos había enseñado, en realidad,  cómo   no  hacer  nuestra  película.  En  esta  ocasión  no  habría hombres  sudorosos  con  sus  disfraces  de  gorila  en  un  área  de  sonido.
+
+Nuestro  filme  contaría  la  historia  de  una  especie  en  peligro  real,  no  de personajes ficticios. Nuestro elenco de actores secundarios estaba formado por los propios espaldas plateadas, en su hábitat.
+
+—Y una vez que el público experimente la autenticidad de los gorilas, su historia se convertirá en una propuesta de marketing viral muy poderosa.
+
+Semel meneó la cabeza.
+
+—¿Tiene intención de rodar con gorilas auténticos?
+
+Entonces desvelé mi as en la manga. Ya habíamos rodado muchas horas en África.
+
+—En realidad, los gorilas son quienes escriben este guión. Lo único que hacemos es adaptar el diálogo y el material a las historias que ya nos han contado los espaldas plateadas.
+
+Terry puso los ojos en blanco.
+
+—¿Que los gorilas han escrito el guión? ¡Están ustedes chalados!
+
+Yo le contesté, sin perder la calma:
+
+—Nada de hombres vestidos de gorilas.
+
+—Ah —repuso Terry. Luego sonrió al entenderlo—. ¡Ja! —Yo sentí cómo cambiaba la atmósfera en la habitación. Entonces, para demostrarle que iba muy en serio, le ofrecí proteger su inversión con nuestro salario. No era un seguro, sino una especie de garantía, dado que el riesgo financiero superaba con creces nuestro sueldo, pero le demostraba que me iba a jugar algo en aquel a empresa.
+
+Me acompañó a la puerta.
+
+—Déjeme que lo piense. Volveremos a reunirnos.
+
+Pero el reloj corría en contra nuestra. Ahora que había l egado tan lejos, no me atrevía a irme sin una respuesta. Era hora de olvidarme del guión e improvisar.
+
+Semel l amó a su secretaria para que pasase el siguiente visitante.
+
+Me tumbé en el suelo con los brazos abiertos.
+
+Me miró, frunciendo el ceño.
+
+—¿Qué pasa?
+
+—Soy un gorila herido —repuse—. Si va a decir que no, se lo dirá a el os, ahora.
+
+Era un movimiento arriesgado. Yo tenía un aspecto ridículo y vulnerable.
+
+Pero,  por  exagerado  que  pareciera  ese  acto,  también  demostraba  cuánto estaba dispuesto a arriesgar para alcanzar mi objetivo. El riesgo de tirarme al suelo no era comparable con el que padecerían los gorilas y nuestra película si no me iba con un sí.
+
+Además,  era  un  riesgo  calculado.  Estaba  presionando  a  Terry  para  que fuera  un  participante  activo.  No  podía  permitirme  sólo  hablar  con  él; necesitaba  involucrarlo  en  la  historia  para  que  fuera  suya.  Sólo  entonces podía estar seguro de que habría escuchado mi l amada a la acción.
+
+El  siguiente  invitado  de  Semel  entró  en  el  cuarto  y  se  sentó, observándome. Terry comenzó a hablar como si yo no estuviera al í, pero al final el visitante le interrumpió y me señaló.
+
+—¿Qué le pasa? —preguntó.
+
+—Es  un  gorila.  —Semel  intentó  mantener  la  seriedad,  pero  al  final  se echó a reír—. Quiere que lo salve. —Entonces fue el visitante el que soltó la carcajada,  y  Semel  dijo—:  Vale,  haremos  nuestra  película,  pero  recuerde que se lo juega todo conmigo.
+
+En  Hol ywood,  uno  tiene  que  saber  cuándo  dejar  de  hacer  teatro.  Me puse en pie de un salto y, haciendo un saludo a Terry, salí pitando antes de que pudiera cambiar de opinión. Dos años después,  Gorilas en la niebla fue nominada  a  cinco  Oscars  de  la  Academia,  entre  el os  al  de  Mejor  Actriz (Sigourney  Weaver)  y  Mejor  Guión  Adaptado.  Se  convirtió  en  un  éxito creativo y económico a largo plazo. Lo que es más importante, logró l amar la atención del mundo sobre la situación crítica de los gorilas de montaña, que hoy sigue siendo difícil. Veinte años después, aunque los gorilas siguen en peligro, su hábitat está protegido y su número va en aumento.
+
+¡EMPIEZA EL ESPECTÁCULO!
+
+Mi estudio sobre el arte narrativo me ha enseñado que todo negocio exige una cierta dosis de espectáculo. Las personas, tanto dentro como fuera del mundo  empresarial,  prestan  más  atención,  absorben  más  información,  se sienten más integradas y es mucho más probable que capten su mensaje si se sienten participantes activas, y no tanto pasajeros, en su historia. ¿Cómo pueden  participar?  Riendo,  l orando,  emocionándose,  cuestionando antiguas  opiniones,  aceptando  posibilidades,  respondiendo  preguntas,  en pie  o  moviendo  el  cuerpo,  o  manipulando  los  productos  que  usted  les ofrece.  El  modo  en  que  se  construya  y  se  enmarque  la  historia  es fundamental, pero también es muy importante la manera en que usted la exponga (o la cuente), para que su público pueda apropiarse de el a, actuar basándose en el a y contarla luego.
+
+Todo el mundo del espectáculo es interactivo. También el arte narrativo lo es. Cuando pregunté a Jerry Weissman por qué subraya la interactividad cuando  forma  a  ejecutivos  veteranos  para  que  se  preparen  para  sus presentaciones  en  una  gira  por  varias  ciudades,  me  dijo:  «Ningún presentador puede mover los labios tan rápido como se mueven los ojos de los  espectadores».  Weissman  es  el  fundador  de  Power  Presentations,  cuya lista  de  clientes  incluye  a  los  máximos  directivos  de  Microso,  Yahoo!, Intel,  Netflix,  Cisco  Systems,  Sequoia  Capital,  y  los  clientes  de  Goldman Sachs, J. P. Morgan, Morgan Stanley, Citigroup y Credit Suisse. «En cuanto el presentador se convierte en un emisor unilateral —me explicó—, no hay interrelación.  No  hay  circuito  cerrado,  no  hay  sincronía.  Si  alguien  tiene que  organizar  una  videoconferencia  destinada  a  recaudar  fondos  cuando una  compañía  se  hace  pública,  debe  ser  interactivo.»  Si  no,  me  dijo,  no existe  comunicación,  y  el  presentador  o  presentadora  podría  ahorrarse  el aliento.
+
+Muchos  de  los  clientes  de  Weissman  proceden  del  sector  bancario  de inversiones, donde mil ones, incluso miles de mil ones de dólares, pueden depender  de  la  capacidad  de  transmitir  datos  económicos  a  un  público compuesto  de  inversores  potenciales.  «PowerPoint  se  ha  convertido  en  la moneda  oficial  en  este  negocio  —me  dijo—.  Proyectan  las  diapositivas  y
+
+luego,  básicamente,  leen  lo  que  hay  en  el as.  Pregunto  a  mis  clientes:
+
+“¿Cómo  se  sienten  cuando  los  expositores  leen  lo  que  pone  en  la diapositiva?”.  Y  me  dicen:  “Me  la  podría  haber  enviado  por   e-mail.”»
+
+Entonces Weissman les da la noticia de que lo que figura en el PowerPoint no es la historia.
+
+«Ustedes  son  la  historia  —les  dice—.  El  presentador  es  la  historia.»  En otras palabras, sea cual sea su negocio, ¡el espectáculo empieza cuando l ega el momento de contar su historia!
+
+Póngase en situación
+
+Los atletas no son los únicos que hacen ejercicios para prepararse antes de entrar en el campo. También lo hacen los actores y los artistas, aunque su campo  sea  el  escenario.  Y  también  los  maestros  del  arte  de  la  narración, cuyo campo es el lugar donde relaten la historia. Ponerse en situación no es sólo un proceso mental, emocional o físico: es las tres cosas. Implica centrar todo su ser en su intención de alcanzar su propósito. Ese estado es vital para el arte de la narración, porque en realidad su  intención es lo que indica a los oyentes que deben prestarle  atención.
+
+El  neurocientífico  de  la  UCLA  Dan  Siegel  ha  estudiado  a  fondo  este proceso  como  parte  de  su  exploración  de  lo  que  él  l ama   mindsight,  la capacidad de los seres humanos para conocer lo que encierra la mente de otros.  Me  explicó  que  nuestras  neuronas  espejo  sólo  se  activan  cuando perciben  que  otra  persona  actúa  de  forma  intencionada,  movida  por  un propósito  consciente  y  activo.  Mientras  Siegel  hablaba,  movió  uno  de  los brazos.  Capté  el  movimiento  pero  no  le  presté  atención  hasta  que  lo levantó, señaló al techo y sonrió. Entonces Siegel me explicó que cuando yo había  detectado  su  acto  intencionado  de  señalar  al  techo,  mis  neuronas espejo  habían  respondido,  enviando  una  señal  a  mi  cerebro  para  que prestase  atención;  y  que  cuando  él  sonrió,  éstas  aceleraron  la  señal convirtiéndola  en  empatía,  de  modo  que  imaginé  que  yo  también  había señalado  y  sonreído.  Pero  cuando  el  movimiento  de  su  brazo  había
+
+parecido  fruto  del  azar,  carente  de  propósito,  mis  neuronas  espejo  lo ignoraron.  «Percibimos  cuáles  son  las  intenciones  de  los  otros,  e imaginamos  qué  importancia  tiene  un  suceso  para  su  mente»,  me  dijo Siegel. Lo que esto significa para el arte de la narrativa es que el estado de intención del narrador es clave para que el público le escuche.
+
+La demostración de Siegel también puso de manifiesto que la intención puede hablar más alto que las palabras. Los seres humanos empiezan a leer las intenciones de los demás en cuanto están lo bastante cerca físicamente para  verse,  escucharse  y  olerse.  Esto  quiere  decir  que  en  el  arte  de  la narración no hay secretos, sólo palabras sin pronunciar.
+
+Un amigo mío de la infancia, George E. Marcus, es profesor de ciencias políticas  en  el  Wil iams  Col ege,  y  ha  escrito  mucho  sobre  el  papel  que desempeña la comunicación tácita en el éxito y el fracaso de los políticos.
+
+Después  de  repasar  las  carreras  de  candidatos  políticos  modernos  a  la  luz de las investigaciones recientes de la neurociencia, Marcus ha l egado a la conclusión  de  que,  de  hecho,  la  mayor  parte  de  la  comunicación  entre orador y público carece de palabras, es incluso subconsciente, y los líderes que ignoran esta verdad básica suelen fracasar.
+
+Según dice Marcus: «El cerebro sabe en 80 milisegundos el sexo de una persona,  mientras  que  tardamos  en  “verla”  500  milisegundos».  Recibimos esta información por medio de un sistema cerebral que funciona como un sistema de vigilancia constante, escaneando el entorno en busca de indicios de posibles peligros o dificultades. Además de detectar el sexo, este antiguo sistema de vigilancia nos dice, en cuanto tenemos a la vista a otra persona, si ese individuo es amigo o enemigo, auténtico o falso, digno de confianza o peligroso. Si nos da la sensación de que la otra persona es hipócrita o está ausente,  nuestras  defensas  se  activan  automáticamente,  ya  sea desconectando  del  todo  o  escuchando  con  recelo.  Si  nuestro  interlocutor frunce  el  ceño  o  no  nos  mira  a  los  ojos,  nos  ponemos  en  guardia  y  nos sentimos nerviosos, anticipando un ataque o un rechazo emocional. Pero si la  otra  persona  sonríe  y  nos  mira  directamente  a  los  ojos,  empezamos  a sentirnos  más  tranquilos  y  confiados.  La  mayoría  de  estas  señales  tienen
+
+lugar  sin  que  seamos  conscientes.  «La  intuición  —dice  Marcus—  es  el conocimiento que tiene el cerebro de lo que luego ve la conciencia.»
+
+Todo  esto  significa  que  hay  que  practicar  las  técnicas  para  ponerse  en situación  antes de situarse delante del público. Relaje su cuerpo y controle su  respiración,  dado  que  éste  es  el  vehículo  en  el  que  viajará  su  historia.
+
+Repase  su  historia  y  sus  objetivos.  Céntrese  en  las  emociones  que  quiere suscitar  en  su  público.  Añada  también  una  revisión  rápida  para  evitar  las distracciones  o  las  interrupciones  no  intencionadas.  ¡No  quiere  soltar  un gal o  debido  a  los  nervios,  ni  que  le  huela  el  aliento  a  ajo,  o  tener  una mancha de tinta en la camisa que despiste a su público y le impida escuchar su l amada a la acción! Pero, por encima de todo, fije su cuerpo y su mente en  su  intención  clara  de  tener  éxito.  Como  explicó  el  gurú  del  liderazgo Warren  Bennis  en  uno  de  nuestros  seminarios  sobre  narrativa,  el  motivo principal por el que usted se pone en situación es para concentrar la energía en el resultado deseado de su historia.
+
+Bennis, distinguido profesor de administración de empresas y presidente fundador del Leadership Institute en la University of Southern California, y a  quien   BusinessWeek  nombró  en  2007  uno  de  los  diez  máximos  líderes intelectuales  en  el  mundo  de  los  negocios,  nos  dijo:  «La  primera competencia del líder es la gestión de la atención por medio de un conjunto de intenciones o una visión, no en el sentido místico o religioso, sino en el sentido  de  resultado,  objetivo  o  dirección».  Otra  competencia  del  líder, añadió, «es la gestión de uno mismo: conocer sus puntos fuertes y aplicarlos con  efectividad».  Y  ponerse  en  situación  contribuye  a  fortalecer  ambas competencias.
+
+Para  ilustrar  lo  poderoso  que  puede  ser  el  estado  de  intención  de  una persona,  mientras  almorzábamos  Bennis  me  contó  una  historia  sobre  el gran funámbulo Karl Wal enda, patriarca de los Wal endas Voladores, que durante más de cincuenta años realizó hazañas que desafiaron a la muerte en la cuerda floja, hasta que a los 71 fal eció a consecuencia de una caída.
+
+La capacidad de concentración que tenía Wal enda en su intención era tan legendaria  que,  al  principio,  nadie  se  explicaba  cómo  pudo  tener  aquel
+
+accidente. Sin embargo, más tarde la viuda de Wal enda reflexionó que el día antes de subirse a la cuerda sin red de seguridad en San Juan, Puerto Rico,  su  esposo  había  estado  inquieto.  Por  primera  vez  en  todos  los  años que lo conocía, antes del espectáculo su marido se concentró no en el éxito, sino  en  el  riesgo  de  caerse.  Supervisó  personalmente  las  fijaciones  de  la cuerda, cosa que nunca antes había hecho. Lo más probable es que lo que provocó  su  caída  fuera  su  miedo  a  caer.  Y,  tal  como  dijo  Bennis,  su concentración  en  el  éxito  hubiera  funcionado  como  una  profecía  que  se hubiese cumplido, como lo hizo todas aquel as veces que había triunfado en la cuerda floja. La moraleja clara de esta historia es que aquel o en lo que usted se concentra, crece.
+
+Exprese una energía auténtica, contagiosa
+
+Como la intención, la autenticidad y la energía no se pueden fingir. Si usted cuenta  una  historia  en  la  que  no  cree,  su  público  se  dará  cuenta  de inmediato. Lo sentirán y actuarán basándose en esa sensación, aunque no puedan justificarla con palabras. La buena noticia es que si usted demuestra un entusiasmo y una convicción genuinos, sus oyentes los captarán con la misma rapidez. Usted no tendrá que hacer el pino, ni gritar ni cantar, para demostrar que su pasión es real. Sólo tiene que permitirse sentir, en vez de reprimir sus sentimientos. La energía auténtica es contagiosa. Si su historia le  motiva  de  verdad,  y  permite  que  esa  emoción  se  evidencie,  tendrá  un impacto sobre su público.
+
+¿Cómo  transmite  energía  o  entusiasmo  por  un  producto  si  éste  no  es nada del otro mundo, o si usted ocupa la tercera o la cuarta posición dentro del  mercado?  Lamentablemente,  para  muchos  empresarios  ésa  es  la realidad.  Pero  no  es  un  problema  insuperable.  El  truco  consiste  en encontrar  algo  en  el  producto  o  el  servicio  que  le  emocione,  aunque  sea algo tan pequeño como el color del producto o el aspecto de la página web del  servicio.  Entonces,  concéntrese  en  el  aspecto  de  su  historia  que  más entusiasmo le haga sentir.
+
+Uno de los abogados más empecinados del  storytelling para el éxito que yo conozco en el mundo de la empresa es Mark Burnett, el pionero de los reality  shows  televisivos.  Desde  2001,  Burnett  ha  sido  nominado  a  48
+
+premios  Emmy,  por  series  como   Survivor,  e Apprentice,  e  Contender, Martha Stewart,  Are You Smarter an a 5th Grader?  y  e MTV Awards.
+
+Como Mark ha convertido el entusiasmo personal en combustible para su carrera,  quise  que  compartiera  con  mis  estudiantes  de  posgrado  de  la UCLA este componente de la narración.
+
+Burnett se mostró incluso más enfático de lo que yo esperaba a la hora de subrayar el papel que desempeña la pasión en la narración de historias empresariales.  «Nuestro  éxito  o  nuestro  fracaso  viene  determinado  por nuestro  grado  de  energía  —dijo,  lisa  y  l anamente—.  A  mi  gente  le  digo:
+
+“Mucho más que nuestra creatividad, nuestro grado de energía inspira a las personas que nos rodean”.»
+
+Para  explicarles  cómo  funcionaba  esto,  contó  a  los  alumnos  la  misma historia que cuenta a sus empleados. «El problema de los empresarios con éxito  tiene  que  ver,  en  realidad,  con  la  conservación  de  la  energía.  Yo dedico  al  trabajo  catorce,  quince,  dieciséis  horas  al  día,  y  necesito determinada  cantidad  de  energía.  Imaginaos  que  es  una  bañera  l ena  de agua, que cada mañana l enáis hasta el borde. Quitáis el tapón para que el agua  se  vaya  por  el  desagüe,  de  modo  que  justo  cuando  l egáis  a  casa desaparece por él la última gota.» Dijo claramente que lo ideal es que en la bañera quede suficiente energía como para permitirnos l egar a casa, pero si uno se las ve con «succionadores de energía», al l egar el mediodía se habrá quedado sin reservas.
+
+Al hablar de los «succionadores de energía», Mark se refería a personas que sólo piensan en sí mismas, a quienes en realidad no les importa lo que ofrecen,  que  no  tienen  pasión  ni  entusiasmo,  y  cuyas  emociones,  tono  de voz y forma de exponer las cosas succionan la energía de aquel os que las rodean. Usted transmite energía por la actitud de su cuerpo, no sólo de su mente. Si uno se apoltrona en su butaca o se inclina sobre el atril, esto le dice a su audiencia que está cansado; quizá demasiado como para contarles
+
+una historia que tenga valor. Estar de pie o sentarse erguido y mirar a los oyentes  a  los  ojos,  por  otro  lado,  les  dice  que  está  usted  alerta,  que  es consciente de la historia que está a punto de exponerles y que además ésta le emociona. Esa energía transmite la promesa tácita de que también puede emocionarles a el os.
+
+La  idea  central  de  contar  una  historia  con  propósito  es  energizar  al público  acerca  de  su  misión  o  su  causa,  y  si  su  exposición  les  arrebata  la energía, habrá tirado usted por tierra su propósito. Pero ¿quiere esto decir que sólo puede contar una historia eficaz cuando se sienta en forma y feliz?
+
+¡Qué  va!  La  energía  adopta  muchas  formas  emocionales  diferentes,  y  a menudo resulta más eficaz cuando se combina con la vulnerabilidad.
+
+Muéstrese vulnerable
+
+En uno de nuestros simposios sobre narrativa, Keith Ferrazzi, experto en el desarrol o de relaciones profesionales y autor de los superventas  Never Eat Alone y  Who’s Got Your Back, dijo: «Hoy día, la vulnerabilidad es uno de los activos  menos  valorados  dentro  de  la  empresa.  Todo  el  mundo  tiene  algo en  común  con  los  demás.  Y  no  encontrará  ese  denominador  común  a menos que se abra y manifieste sus intereses y sus inquietudes, permitiendo que los demás hagan lo mismo».
+
+El comentario de Keith me l evó enseguida de vuelta a febrero de 2008, cuando  Steve  Tisch  se  convirtió  en  el  único  ganador  de  un  premio  de  la Academia  que  obtuvo  el  Trofeo  Vince  Lombardi.  Siendo  copropietario  de los  New  York  Giants,  Tisch  salió  al  campo  después  de  que  este  equipo derrotase a los Patriots en la Super Bowl XLII, y recibió el trofeo de manos de  Roger  Goodel .  Contaba  con  un  público  de  75.000  espectadores  en  el estadio, y de cientos de mil ones más por todo el mundo, que le veían por televisión, y mientras Tisch narraba la historia del amor que sentía su padre por  los  Giants,  y  con  qué  fuerza  percibía  su  espíritu  aquel a  noche  en Glendale,  Arizona,  se  le  l enaron  los  ojos  de  lágrimas  y  le  tembló  la  voz
+
+frente al micrófono, embargado por una mezcla de tristeza y de orgul o. El público le aclamó, identificándose con él.
+
+Al ver a Steve aquel a noche, me sentí conmovido y un poco sorprendido por la vulnerabilidad que demostró. Yo conocía a Steve desde que trabajó conmigo  en  Columbia  Pictures,  cuando  empezó  su  carrera,  y  siempre  me había  parecido  que  había  intentado  separar  el  curso  de  su  carrera  de  la sombra  de  su  famoso  padre,  que  no  sólo  fue  copropietario  de  los  Giants sino que ocupó el cargo de Director General de Correos de Estados Unidos, y  fue  presidente  y  copropietario,  junto  con  los  tíos  de  Steve,  de  las corporaciones Loews y Loril ard. Steve se había hecho un espacio propio en Hol ywood  al  producir  docenas  de  películas  importantes,  como   Risky Business,  Memoria letal y  Snatch: Cerdos y diamantes, y obtuvo el Oscar de Mejor Película por  Forrest Gump. Yo sabía que su padre le había pedido en muchas  ocasiones  que  volviese  a  Nueva  York  para  ayudarle  a  dirigir  a  los Giants, y que Steve siempre se había negado a aprovechar el tirón del éxito paterno.  Sin  embargo,  las  lágrimas  que  derramó  al í,  en  aquel  campo, hablaban a las claras sobre la historia emocional subyacente en la decisión de  Steve,  quien  al  final  optó  por  recoger  el  testigo  de  su  padre.  Sabiendo que entonces dirigía el proyecto de construcción de un nuevo estadio para los  Giants,  con  un  presupuesto  de  más  de  1.000  mil ones  de  dólares,  me pregunté  cuántas  veces  habría  contado  la  historia  de  su  padre  para  hacer avanzar  su  proyecto,  y  si  su  vulnerabilidad  contribuía  u  obstaculizaba  su historia.
+
+Cuando nos reunimos en Nueva York y Steve respondió a mis preguntas, sus ojos volvieron a l enarse de lágrimas. Enjugándoselas, admitió que esto siempre le pasaba cuando contaba la historia de cómo, en 2004, cuando a su  padre  le  diagnosticaron  un  cáncer  cerebral  terminal,  él  se  trasladó  a Nueva  York  en  menos  de  48  horas.  «Al  principio,  mi  misión  consistió  en que recibiera la mejor atención médica posible, pero durante el proceso mi padre volvió a preguntarme: “Ahora, ¿volverás a trabajar conmigo? Necesito un socio, un amigo, un hijo”. Ya era hora. El reloj seguía corriendo, y tuve que  pasar  del  círculo  de  espera  al  montículo  del  bateador  en  cuestión  de
+
+meses,  literalmente.  Nos  asociamos.  Me  convertí  en  su  mejor  amigo;  me convertí en su hijo.» Al final, a medida que Bob Tisch se iba debilitando, los papeles se invirtieron. «Me convertí en su padre.»
+
+Para Steve, los Giants representaban su nueva relación familiar. No sólo asumió  las  funciones  de  su  padre  como  presidente  y  copropietario  de  la franquicia New York Giants NFL, sino que empezó a considerar el equipo como el legado familiar, y a sí mismo como quien mantenía viva esa l ama.
+
+Uno de los mayores sueños de su padre había sido construir un nuevo estadio para los Giants, pero fal eció antes de que el estado diera luz verde a Steve. Así que Steve se convirtió en el protector del sueño, y urgió a su socio  John  Mara,  a  sus  arquitectos,  contratistas  y  oficiales  civiles  para  que adelantasen el proyecto. «Les conté la historia de mi viaje con mi padre y su propósito —dijo Steve—. Les dije que quería acabar el viaje en memoria de él, para encarnar su pasión, para diseñar un estadio que fuera un símbolo de  él  como  neoyorquino,  fan  del  fútbol  americano,  como  un  hombre generoso, amable y poderoso. Y aunque puede que todo esto suene como algo  intangible,  se  encuentra  en  cada  trozo  de  cemento,  en  cada  viga  de acero, en cada butaca.»
+
+Pregunté  a  Steve  cómo  dominaba  sus  emociones  cuando  contaba  esa historia a distintos públicos. ¿Mostraba los mismos sentimientos profundos a todos sus oyentes?
+
+—No se puede evitar —contestó.
+
+Los  planes  para  el  nuevo  estadio  avanzaron  rápidamente  hacia  la inauguración, proyectada para 2010, y en su mayor parte la disposición de Steve  para  demostrar  su  vulnerabilidad  le  dio  buen  resultado.  Su transparencia permitía a los públicos conectar con su historia. Sin embargo, hay un corolario a modo de advertencia.
+
+A finales de 2008, cuando Tisch y Mara ya habían introducido cuotas de butaca personal para los abonados a la temporada, con objeto de financiar el  estadio,  Tisch  intentó  contar  la  historia  de  su  padre  una  vez  más,  pero con  un  propósito  diferente,  ante  un  público  reunido  en  el  estadio  de  los Giants al principio de la nueva temporada; a mitad del partido, los 80.000
+
+fans  enfurecidos  le  hicieron  abandonar  el  estrado  entre  abucheos.  Aquel día su objetivo era recaudar fondos en honor a su padre para la fundación Stand Up to Cancer, destinada a la lucha contra el cáncer. Incluso tenía al lado a Christie Brinkley, para apoyarle, pero a su público no le interesó su historia.  Como  las  emociones  del  público  eran  ira  y  frustración  por  la subida  de  los  precios,  la  vulnerabilidad  de  Tisch  no  les  impresionó.  La moraleja  de  este  corolario  es  que,  por  muy  auténtico  y  vulnerable  que parezca, si ignora los intereses de su audiencia, no espere motivarla.
+
+Convierta «no» en « on»
+
+Como  me  gusta  decir,  cuando  los  grandes  líderes  escuchan  el  adverbio
+
+«no»,  a  menudo  actúan  como  si  fueran  disléxicos  y  hubieran  escuchado
+
+« on»  (adelante).  La  perseverancia  es  esencial  para  el  arte  de  la  narrativa, como lo es para el liderazgo. Sin embargo, lo que he descubierto es que es mucho  más  fácil  perseverar  cuando  alguien  nos  dice  que  no  que  cuando empezamos a decirnos  a nosotros mismos que no podemos o no deberíamos seguir adelante.
+
+El  truco  de  la  perseverancia  no  es  eliminar  el  miedo,  sino   usarlo.  Los neurólogos evolutivos nos dicen que nuestros instintos más primitivos nos ofrecen  tres  opciones  cuando  tenemos  miedo.  Podemos  luchar,  huir  o quedarnos  petrificados.  Si  usted  huye  o  se  paraliza,  es  evidente  que  no estará en condiciones de contar su historia. Pero la misma adrenalina que le incita a luchar puede beneficiar su proceso narrativo al fomentar su energía, potenciar  su  pasión  e  intensificar  su  sentido  de  urgencia.  El  truco  está  en canalizar la adrenalina en lugar de rehuirla.
+
+He  descubierto  que  cuando  estoy  nervioso  antes  de  una  reunión,  me resulta  útil  recordar  que  FEAR  («miedo»)  es  sencil amente   False Evidence Appearing  Real  (evidencia  falsa  que  parece  real).  Las  evidencias  falsas  se pueden  derrotar,  y  sé  que  la  mayoría  de  las  evidencias  que  generan inquietud son falsas. Por lo tanto, como hice con Terry Semel y  Gorilas en la niebla,  repaso  mentalmente  mis  objetivos,  mi  historia,  los  intereses  del
+
+público y la reacción que quiero suscitar, y al convencerme de que creo en la verdad de la historia que voy a contar y en el mérito de mi l amada a la acción,  casi  siempre  puedo  convertir  mi  miedo  en  impulso.  Esto  no garantiza que todos los oyentes capten mi l amada a la acción, como hizo Terry  al  final,  pero  sí  significa  que  no  voy  a  permitir  que  el  temor  a  un posible «no» interfiera en mi narrativa.
+
+Por supuesto, esto es más fácil de decir que de hacer cuando uno cuenta una historia que ya se ha enfrentado al rechazo de otros públicos. Es posible que  me  hubiera  equivocado  de  audiencia  para  mi  historia,  pero  ¿cómo puede uno mantenerse firme y decidido en tales circunstancias? Le planteé esta  pregunta  a  mi  amigo  Mark  Victor  Hansen,  cocreador  de  la popularísima  serie   Sopa  de  pol o  para  el  alma,  porque  sabía  que  se  había enfrentado  a  una  resistencia  colosal  cuando  intentó  encontrar  un  editor para el primer libro de la serie, al á en 1992. De hecho, él y su socio Jack Canfield  fueron  rechazados   144 veces,  que  es  una  cifra  impresionante cuando  pensamos  que  la  serie   Sopa  de  pol o  hoy  ha  vendido  más  de  112
+
+mil ones de ejemplares, tiene casi 200 títulos impresos y se ha traducido a más  de  40  idiomas.  Me  imaginé  que  Mark  conocería  algunos  trucos impresionantes para haber perseverado a pesar de tantos rechazos.
+
+Mark  me  dijo  que  el  primer  secreto  es  tener  la  historia  y  el  objetivo absolutamente claros. Él y Canfield basaban el éxito de sus carreras como oradores en el acto de contar historias que inspirasen, motivaran y tuvieran un propósito. Tenían pruebas de que las historias pueden cambiar vidas, y querían  contarlo  con  un  libro  que  incluyese  101  historias  de  personas ordinarias que hicieron cosas extraordinarias. Entonces, mientras buscaban un título ganador, Canfield recordó cómo su abuela decía que su sopa de pol o era capaz de curarlo todo. Él y Mark estaban decididos a que su libro tuviera  la  misma  capacidad  curativa,  pero  para  el  alma.  Supieron  de inmediato que  Sopa de pol o para el alma debía ser su título, y que tenían entre manos un  bestseller en potencia.
+
+Mark  sugirió  que  el  segundo  secreto  consiste  en  hacer  caso  de  los ejemplos  en  sus  libros,  y  usar  una  historia  inspiradora  para  que  nos
+
+recuerde  convertir  el  «no»  en  « on».  En  su  caso,  la  historia  se  la  contó  el multimil onario y ex candidato a la presidencia Ross Perot cuando Mark le pidió que escribiera el prefacio a su manuscrito. Perot aceptó, y les preguntó si ya tenían editor. Hansen contestó que aún estaban pensando a cuántos editores proponérselo. Perot se echó a reír y dijo que lo importante no era abordar a muchos, sino conseguir uno. Entonces les contó su propia historia sobre  la  fundación  de  su  compañía  de  procesamiento  de  datos  EDS,  que l evó  a  cabo  con  un  préstamo  de  1.000  dólares  que  le  hizo  su  esposa.
+
+Informó a Hansen, orgul oso, que le rechazaron 77 veces antes de obtener su primer contrato, pero que éste le supuso un beneficio de cuatro mil ones de dólares. «Amortizó los rechazos gracias al beneficio —me dijo Hansen—, y  salió  a  unos  80.000  dólares  la  negativa.»  Al  final  Perot  vendió  su participación en EDS por 2.400 mil ones de dólares.
+
+El  mensaje  de  la  anécdota  de  Perot  era  que  sólo  hace  falta  uno  para ganar, y Hansen lo entendió alto y claro. «La palabra de cuatro letras más poderosa del idioma inglés es  next («luego»)», dijo Hansen.
+
+Pero  el  tercer  secreto  que  compartió  con  nosotros  fue  que  la perseverancia no significa únicamente hacer lo mismo una y otra vez. Cada rechazo ofrece la oportunidad de aprender, refinar y mejorar la historia y el modo  en  que  la  contamos.  Él  y  Canfield  no  alteraron  su  historia  central, pero  siempre  prestaron  atención  a  la  crítica,  usándola  para  refinar  su narración  y  mejorar  su  oferta.  «Repensar  algo  es  el  desayuno  de  los campeones», me dijo Hansen.
+
+Aun así, siguieron topándose con el objeto aparentemente inamovible de la insistencia por parte de los editores principales: que las «compilaciones de historias  cortas»  nunca  se  convierten  en  el  tipo  de  superventas  que imaginaban  Hansen  y  Canfield.  Hansen  no  dejaba  de  decirles:  «No contamos historias cortas. Cambiamos el mundo una historia por vez». Pero no pudo superar las etiquetas y los conjuntos de datos que pululaban por sus cabezas. Por último, él y Canfield decidieron que el único editor al que necesitaban convencer era, de hecho, el os mismos.
+
+En junio de 1993 publicaron por su cuenta  Sopa de pol o para el alma. Al cabo de seis meses, figuraba en todas las listas principales de superventas de Estados  Unidos.  Lo  que  impulsó  la  fama  del  libro  fue,  sencil amente,  el viejo  boca  a  boca.  La  gente  corriente  lo  compró,  les  gustó  y  contaron  las historias  a  sus  amigos  y  vecinos.  Entonces  se  apuntaron  los  medios  de comunicación, y Hansen apareció en casi todos los programas importantes del  país,  incluso  en   e  Oprah  Winfrey  Show,  en  el  programa   Today  y  en Larry  King  Live.  Durante  los  diez  años  siguientes,  las  ventas  relacionadas con  Sopa de pol o para el alma arrojaron unos beneficios de 1.300 mil ones de  dólares.  Hoy  hay  planes  para  expandir  la  marca  mediante  la colaboración  con  cadenas  televisivas,  a  través  de  diversos  programas  y  de una mayor presencia en Internet.
+
+No hace falta decir que todos aquel os editores que rechazaron a Hansen y  Canfield  cambiaron  de  opinión  cuando  sus  libros  empezaron  a desaparecer de las estanterías. Los nuevos títulos de  Sopa de pol o para el alma  los  distribuye  Simon  &  Schuster.  Entre  tanto,  la  revista   Time  ha calificado a Hansen de «fenómeno editorial de la década».
+
+—Así que todas aquel as negativas, ¿eran sólo desvíos en el camino hacia el éxito? —pregunté a Hansen.
+
+Éste contestó citando unas palabras de su agente, Jeff Herman: «Ningún rechazo es fatal hasta que el escritor abandona el campo de batal a, dejando tras de sí sus sueños y sus objetivos».
+
+Cuéntela o guárdela
+
+El  mero  hecho  de  que  esté  usted  preparado  y  en  la  tesitura  idónea  para contar su historia no significa necesariamente que su público se encuentre en disposición de escucharle. He aprendido que es prudente, antes de decir la primera palabra, evaluar «las condiciones sobre el terreno», y asegurarse de que uno tiene una probabilidad razonable de transmitir la l amada a la acción.  ¿Escuchará  su  público?  ¿Podrán  escucharle?  ¿O  hay  demasiado ruido  físico  o  psicológico  para  que  su  historia  les  l egue?  Si  su  oyente  se
+
+encuentra en un estado de ánimo tan negativo que no le l egará ninguna historia que pueda contarle, por muy bien que usted la exponga será como pegar tiros al aire.
+
+Esto no quiere decir que las condiciones tengan que ser perfectas antes de que usted pueda contar su historia. La mayoría de las veces, si usted se ha preparado, ha elaborado una buena historia y se ha puesto en situación, podrá  motivar  a  su  público  sin  tener  en  cuenta  cómo  estén   ellos.  Pero  en ocasiones,  nada  más  entrar  por  la  puerta  se  dará  cuenta  de  que  no  tiene ninguna posibilidad.
+
+Esto fue lo que me pasó en 1981, cuando entré en el despacho de Ned Tanen en Universal Pictures, con el deseo de convencerlo con un nuevo y osado  guión  para  nuestra  versión  cinematográfica  de   A  Chorus  Line.  En aquel a  época  yo  era  el  presidente  de  PolyGram,  una  gran  compañía propiedad  de  los  gigantes  multinacionales  Siemens  y  Philips,  y  Tanen  era presidente  de  Universal,  que  cinco  años  antes  había  pagado  una  fortuna escandalosa por los derechos de  Chorus Line, que en aquel momento ya era un gran éxito en Broadway. Dado que el desarrol o inicial que había hecho Universal  de  la  película  se  había  quedado  en  punto  muerto,  queríamos convencer a Tanen de que nos cediera los derechos para poder recuperar su inversión de capital. A cambio de el o, Universal distribuiría y cofinanciaría la  película  que  desarrol aríamos.  Nuestro  problema  era  que  la  versión teatral de  Chorus Line tenía  demasiado éxito. La compañía teatral itinerante o  las  producciones  más  humildes  del  espectáculo  habían  actuado  en  casi todos los institutos de secundaria, teatros locales y pequeñas aldeas rurales.
+
+Nuestra versión cinematográfica tendría que ofrece algún elemento nuevo para  suscitar  el  interés  del  público.  Así  que  mi  equipo  decidió  alterar  el marco  de  la  historia.  Reunimos  a  John  Travolta,  que  había  actuado  en Fiebre  del  sábado  noche  y  en   Grease,  y  a  Mijail  Baryshnikov,  el  famoso bailarín de bal et que había huido de Rusia y que había participado en  Paso decisivo.  Ambos  estaban  en  la  cúspide  de  sus  carreras,  y  los  dos manifestaron  un  gran  interés  por  actuar  juntos  en   A  Chorus  Line.  Mi
+
+misión, en mi calidad de productor y presidente de PolyGram, era subir a bordo a Ned Tanen.
+
+Yo sabía que Tanen cambiaba mucho de estado de ánimo. A menudo su lenguaje era cáustico e invariablemente provocador. Pero era el director de Universal,  y  todo  tenía  que  pasar  por  sus  manos.  Y  si  no  dábamos  una respuesta  pronto  a  Travolta  y  a  Baryshnikov,  perderíamos  aquel a oportunidad  única.  Decidí  que  esto  no  podía  hacerse  por  teléfono.  Tenía que contar la historia a Tanen en persona.
+
+Por  lo  tanto,  cogí  el  coche  y  me  fui  al  otro  lado  de  la  colina,  desde  el oeste de Los Ángeles a Black Rock, el edificio donde Ned Tanen compartía el  último  piso  con  Lou  Wasserman  y  Sid  Sheinberg,  los  legendarios directivos  de  Universal.  Su  proximidad  hubiera  resultado  intimidatoria incluso sin el peso económico que lastraba la historia que les iba a contar.
+
+Pero cuando entré en el despacho de Tanen, centré mi atención en él. Es evidente  que  estaba  agitado,  porque  en  ese  mismo  momento  le  gritaba  a alguien por el teléfono. Vociferó a su secretaria que trajera algo de beber, y luego prácticamente me gruñó: «¿Qué quiere?»
+
+Yo tenía que presentarle mi proyecto, pero él no estaba en condiciones de escucharme. Le dije: «Ah, sólo venía a ver cómo estaba».
+
+De repente, se puso en pie de un salto. «Vamos, quiero dar una vuelta.
+
+¿Tiene  una  hora  libre?»  Pensé  que  quizá  fuera  buena  idea  sacarle  del despacho y l evarlo a un contexto más favorecedor, donde pudiera contarle mi historia con éxito. Y a Ned le gustaban tanto los coches de carreras que los coleccionaba.
+
+Subimos al coche y salimos pitando; su lengua se movía más rápido que las propias ruedas. Arrepentido ya de mi decisión, me agarré con todas mis fuerzas mientras salíamos al desierto como una exhalación.
+
+Al final l egamos a un lugar árido muy lejos de la ciudad, y me dijo que saliera del coche. Pensé:  Ahora que ya se está calmando, podré hablar con él.    Entonces abrió el maletero del vehículo y sacó una escopeta.
+
+Experimenté una sensación singular, que no encajaba precisamente con la historia de  Chorus Line.
+
+Tanen empezó a pegar tiros a latas, vigilando por si veía alguna liebre. A pesar  del  cambio  de  contexto,  no  estaba  en  un  lugar  que  le  hiciera  sentir bien. En conjunto, decidí que aquel a escopeta que sostenía podría darme un «no» más rápido que cualquier reacción que yo pudiese percibir en su despacho.  Así  que  le  seguí  la  corriente,  disparé  con  la  escopeta,  le  reí  las gracias y cerré la boca.
+
+Cuando  al  final  volví  a  mi  despacho,  estaba  agobiado  por  el  hecho  de que  tendría  que  volver  a  quedar  con  él.  Dos  días  más  tarde  hablé  con Tanen  por  teléfono  y  percibí  que  estaba  de  buen  humor.  Le  dije:  «Déme diez minutos». Me subí al coche, conduje a toda la velocidad que pude y entré en su despacho sonriendo.
+
+—¿Qué  hay?  —preguntó.  Era  un  hombre  totalmente  distinto  al  de  dos días antes.
+
+Le pregunté:
+
+—¿Conoce la historia de amor que estamos montando en  Chorus Line?
+
+Él asintió.
+
+—Bueno,  pues  sabrá  que  las  bodas  que  acaban  con  el  «felices  para siempre», incluyen algo antiguo, algo nuevo, algo prestado y algo de color azul. Me preocupa que a menos que añadamos algo nuevo a la historia de Chorus  Line,   la  película  no  tenga  éxito,  y  en  este  caso  la  boda  es  entre Travolta  y  Baryshnikov;  aún  no  se  han  comprometido,  pero  están interesados,  y  creo  que  si  participan,  obtendremos  suficientes  recursos  a nivel internacional para cofinanciar la película. —Respiré hondo.
+
+—Fantástico. Sería estupendo —dijo.
+
+Hice una pausa y añadí:
+
+—Literalmente,  se  trata  de  una  boda  entre  Travolta  y  Baryshnikov.
+
+Travolta hará el papel que hizo Ann Reinking en Broadway.
+
+—¡Muy original!
+
+Le dije:
+
+—Se  lo  digo  en  serio,  creo  que  podría  ser  un  gran  éxito.  La  historia central  de   Chorus  Line  habla  de  las  pasiones  y  las  tribulaciones  de  los bailarines en el escenario. Eso no lo podemos cambiar. Pero al hacer que la
+
+historia  secundaria sea un romance entre dos hombres, en lugar de entre un hombre y una mujer como pasaba en el musical de Broadway original, podríamos darle a la película un matiz más contemporáneo.
+
+Me echó una mirada larga y amedrentadora.
+
+—Bueno, eso supone añadir lo nuevo y quizás incluso lo azul. Está usted loco. Podría matarle por hacer esto.
+
+Gracias a Dios que no le conté el proyecto en el desierto, pensé.
+
+Entonces Tanen dijo:
+
+—¿De verdad cree que puede sacar esto adelante?
+
+Le dije:
+
+—Mire,  yo  financio  la  mitad  de  la  película.  Mis  pies,  mi  lengua,  mi corazón  y  mi  cartera  viajan  en  la  misma  dirección.  Así  que  estoy  en  el mismo sitio que usted. O l oramos juntos o nos alegramos juntos. Así que riamos juntos. Nos irá bien.
+
+Él se encogió de hombros.
+
+—¿Cree que puede hacerlo? Pues adelante.
+
+Al saber cuándo jugar mis cartas, obtuve un sí.
+
+Pero,  ¡ay!,  luego  resultó  que  a  nuestros  socios  alemanes  que cofinanciaban el filme no les interesó la nueva versión. Lo que querían era escuchar  una  historia  sobre  el  abaratamiento  de  la  película.  Y  en  aquel sentido no había ninguna buena historia para contar o vender. La película nunca se rodó en la Universal, y al final los derechos se vendieron a otra parte interesada, que siguió el guión original del musical.
+
+Por  buena  que  sea  su  historia,  por  buen  narrador  que  sea  usted,  y  da igual  cuáles  sean  sus  propuestas  de  negocios,  la  actitud  del  público  es importante.  Si  no  pueden  oír  su  historia,  no  escucharán  su  l amada  a  la acción. Por tanto, tiene que decidir inmediatamente, en cuanto entre por la puerta, si contarla o guardársela.
+
+SEA INTERACTIVO
+
+Cuando mis dos hijos cumplieron los 14 años, me pidieron que los l evara a ver  el  espectáculo  que  el  gran  mago  David  Copperfield  daba  en  el  MGM
+
+Hotel  de  Las  Vegas.  Habían  visto  sus  increíbles  trucos  en  televisión,  y leyeron  en  el   Libro  Guiness  de  los  Récords  que  es  quien  más  entradas  ha vendido para un espectáculo de magia en toda la historia. Me habían oído hablar de los 21 Emmy que tiene David, y su ránking como la celebridad mejor pagada de los últimos diez años, que aparecía en  Forbes. Y como yo le  conocía,  querían  verle  en  persona.  Conocí  a  Copperfield  cuando  yo dirigía Sony Pictures, y se me ocurrió que uno de sus rasgos distintivos era el  modo  en  que  contaba  historias  humanas  absorbentes  para  resaltar  su magia,  de  modo  que  decidí  no  sólo  l evar  a  mis  hijos  al  espectáculo,  sino reunirnos  después  con  este  maestro  de  la  prestidigitación,  para  hablar  de sus secretos sobre cómo contar historias que inducían a la gente a creer en lo imposible.
+
+Mientras observaba su espectáculo a través de la lente de mi interés por el arte de la narración, me di cuenta casi en cuanto se abrió el telón que la habilidad  que  tiene  Copperfield  para  controlar  las  reacciones  de  la audiencia  depende  casi  exclusivamente  de  su  interacción  bilateral  con  el público. A medida que avanzaba el espectáculo, lo que me sorprendió más incluso  que  su  destreza  manual  fue  la  simplicidad  de  sus  técnicas  de interacción. Aunque nunca podré adivinar cómo realiza su ilusionismo, me di cuenta de que cualquier persona dedicada a los negocios puede cautivar a un público como lo hace Copperfield si domina estas técnicas.
+
+David  invitó  al  público  no  sólo  a  ver  el  espectáculo,  sino  a  participar tanto  física  como  emocionalmente.  Preguntó:  «¿Qué  pasaría  si  pudieran hacer  lo  imposible?»  Tras  desafiarlos  a  soñar,  eligió  a  varios  espectadores para que subieran al escenario, junto a él, y participasen físicamente en la magia que realizaba, al alcance de el os y ante su mirada.
+
+Más  tarde  le  pregunté  si  no  le  preocupaba  que  alguna  vez  subiera  al escenario  un  majadero  o  alguien  que  no  hablase  inglés.  Me  dijo  que  reza para  que  haya  esas  sorpresas,  porque  captan  la  atención  del  público  y
+
+demuestran  que  su  actuación  es  espontánea  y  auténtica.  «Ahí  es  cuando uno tiene que demostrar lo que vale.»
+
+Pero la técnica más poderosa de Copperfield para captar la atención de su  público  es  la  historia  emocional  que  cuenta  incluso  cuando  se  mueve, hace  trucos  y  pide  la  participación  de  los  espectadores.  En  aquel espectáculo, la verdadera historia de Copperfield se centraba en su abuelo, un  anciano  gruñón  que  controló  las  vidas  de  él  y  de  su  padre,  pero  que nunca les otorgó la aprobación que tanto necesitaban.
+
+Me  di  cuenta  de  que,  aunque  el  público  había  mostrado  interés  y entusiasmo  durante  los  trucos  preparatorios  de  Copperfield,  en  cuanto empezó a contar la historia de su familia, su angustia y su deseo, la calidad de  la  atención  en  la  sala  cambió  palpablemente.  De  repente  los espectadores estaban  dentro de la historia, totalmente absortos mientras él hablaba de su padre, que soñaba con ser actor, sueños a los que tuvo que renunciar por la presión del abuelo, quien quiso que abriera una tienda de lencería  femenina.  Entonces  David,  que  por  aquel a  época  era  un muchacho  desgarbado,  contó  su  propio  descubrimiento  de  cómo  la prestidigitación  podía  ayudarle  a  superar  su  timidez,  hacer  amigos  y conectar con las chicas. Pero su abuelo rechazó también ese sueño, a pesar de  la  buena  mano  que  tenía  él  para  los  trucos.  El  abuelo  pronosticó  que David sería un completo fracasado si se dedicaba a la prestidigitación como carrera, y le dijo que no quería verle hundir así su vida.
+
+Mientras David contaba aquel a historia sobre el escenario, se percibía su tristeza  que  despertaba  ecos  en  todos  los  asistentes,  que  recordaban experiencias  y  sentimientos  parecidos  en  sus  vidas.  Todos  sentíamos empatía por aquel a frustración juvenil, aquel anhelo de demostrar su valía ante su abuelo.
+
+Más tarde, Copperfield me contó: «En realidad, mi objetivo es producir un efecto emocional. La historia del abuelo supone pasarse cinco minutos hablando, sentado en un taburete. Uno se pregunta si el público se estará planteando  ¿Dónde  estará  el  truco?  Pero  creo  que  si  uno  es  sincero,  el os piensan:  Este tío lo dice de verdad, y entonces se ponen de tu parte».
+
+Tras  aquel os  cinco  minutos  David  concluía  su  historia  contando  una anécdota.  Un  día,  cuando  estaba  realizando  uno  de  sus  primeros espectáculos fuera de Broadway, levantó la vista, y en la última fila vio a un hombre que se parecía a su abuelo. Cuando fue a ver quién era, el hombre ya se había marchado, de modo que pensó que se lo había imaginado, dado que  le  hubiera  gustado  que  estuviera  al í.  Entonces  su  abuelo  fal eció,  y David perdió la oportunidad de despedirse de él.
+
+Un  suspiro  contenido  recorrió  toda  la  sala.  Todo  el  mundo  conocía  el deseo de tener una segunda oportunidad con alguien que ya no está.
+
+Entonces  Copperfield  utilizó  otra  técnica  propia  del   showman  para reforzar  la  participación  emocional  del  público.  Cambió  el  ritmo.  Había hablado lentamente, pero ahora comenzó a moverse muy rápido, invitando a  subir  al  escenario  a  miembros  del  público,  formulándoles  preguntas.
+
+Mientras el os recitaban cifras al azar, como sus fechas de nacimiento o sus números  de  teléfono,  que  les  pedía  que  escribieran  en  una  gran  pizarra, contó el sueño que tuvo su abuelo durante toda su vida: ser propietario de un descapotable Lincoln del año 1949. Tras él, en una pantal a apareció la imagen del automóvil.
+
+---
+
+También  empezó  a  usar  artículos  más  tangibles,  como  una  caja  con nueve candados que estaba en el escenario desde el principio. Copperfield contó cómo su familia había despejado la casa del abuelo tras la muerte del anciano, y al á, en el fondo de un cajón, había un trocito de la entrada del teatro  de  Broadway,  con  la  fecha  en  que  David  había  actuado  en  él.  Los espectadores ahogaron un grito. ¡Así que su abuelo  había ido a verle! David les dijo que esperaba que su abuelo le estuviese mirando en esos instantes.
+
+Y tras decir esas palabras, abrió la caja y reveló un trozo de papel en el que estaba  escrita  toda  la  secuencia  de  números  al  azar  que  los  diversos miembros del público habían escrito en la pizarra. Abrió la caja usando la combinación  de  estas  cifras  en  los  candados,  ¡y  de  la  caja  sacó  una matrícula de coche con los mismos números!
+
+Aquel era el punto en que la historia de David se mezclaba con su magia.
+
+Una  cortina  de  seda  descendió  sobre  el  escenario,  y  al  cabo  de  dos
+
+segundos  él  la  retiró  para  revelar  las  dos  toneladas  de  un  descapotable Lincoln  de  1949,  el  coche  de  los  sueños  de  su  abuelo,  con  la  misma matrícula, ¡y levitando a tres metros sobre el escenario!
+
+El público se volvió loco, aplaudiendo, gritando, alborozado. El coche nos descolocó  a  todos  (yo  estaba  en  la  primera  fila  y  no  me  lo  vi  venir),  pero aquel  no  fue  el  motivo  por  el  que  nos  sentimos  tan  involucrados emocionalmente  en  la  magia,  o  lo  que  nos  hizo  sentir  un  nudo  en  la garganta.  Incluso  antes  de  salir  del  teatro,  yo  sabía  que,  a  pesar  de  lo espectacular que fue la ilusión, la historia que recordaríamos y contaríamos sobre  ese  espectáculo  sería  la  más  humana  y  sencil a:  la  de  David  y  su abuelo.
+
+Esa misma noche, más tarde, David me invitó a visitar su propio museo privado, la colección más grande del mundo de artículos relacionados con el ilusionismo. Pero la dirección que me dio me l evó, en plena medianoche, ante  un  escaparate  l eno  de  corsés  y  sujetadores.  David  tocó  uno  de  los sujetadores y se abrió una puerta secreta. Me contó que era una réplica de la tienda de su padre, el mismo padre que, tras renunciar a ser actor, abrió un negocio de lencería. ¡Yo seguía interactuando con su historia!
+
+Mientras paseábamos por el museo, l eno de pósters de Houdini, Kel ar, Mandolini, de instrumentos de ilusionismo, estatuas y trucos antiguos, me describió con detal e a cada mago legendario: quién era, cómo vivía y qué soñaba.  «Houdini  tuvo  éxito  porque  era  un  tipo  de  aspecto  zafio;  era  un
+
+“hombre corriente”, y lograba escaparse de cualquier sitio. Todo el mundo quería  liberarse  o  ser  puesto  en  libertad.  Así  que,  de  forma  innata,  su historia los vinculaba con su magia.»
+
+En  otras  palabras,  que  el  énfasis  que  ponía  Copperfield  sobre  la interacción con el público por medio de la historia no era nada casual. No era  un  mero  artificio  ni  una  fachada  atractiva.  Lo  consideraba  un instrumento  esencial  de  su  negocio,  que  usaba  no  sólo  para   atraer  la atención  de  su  público  sino  también  para  suspender  su  incredulidad,  y distraerlos de la mecánica de sus ilusiones. Le pregunté cómo alcanzaba el equilibrio perfecto en el control de la atención.
+
+«La  magia  por  sí  misma  implica  distanciamiento  —me  contestó—.
+
+Sabemos que un coche no vuela, y sabemos que lo que estamos viendo es una ilusión óptica. El truco consiste en hacer que la gente se olvide de su confusión  y  de  la  desconexión,  y  diga   Muy  bien,  engáñame.  Aquí  usé  la fuerza que tiene el relato no para l amar la atención sobre la ilusión, sino para distraer la vista del público al hacer participar su corazón. Nómbreme cualquier espectáculo que le haya conmovido y descubrirá exactamente el mismo proceso. Las imáganes serán las correctas, y la iluminación también, pero a menos que haya arrebatado a su público usando una historia con la que  puedan  vincularse,  que  les  importe  y  que  los  induzca  a  vivir  en  ese mundo maravil oso de los deseos cumplidos que se pueden relatar, nunca los alcanzará.»
+
+Y, ¿es posible conseguir esa conexión sin el grado de interacción que él incorpora en sus espectáculos? Copperfield negó con la cabeza. «Tengo que romper visualmente el cuarto muro, y mantener la situación siempre fresca observando  a  la  gente.  Muchas  veces  hago  que  el  público  participe  en  el espectáculo porque así improviso, en lugar de hacer siempre lo mismo. Uno se siente como el comediante jefe, como un auténtico  showman.»
+
+Me contó también que una noche, hace algunos años, supuestamente lo cortaron  por  la  mitad,  y  un  hombre  sentado  al  fondo  del  teatro  gritó:
+
+«¡Mueva los pies!» Todo el público guardó un silencio de muerte, pensando que  habían  pil ado  a  Copperfield  en  falso.  Pero  en  realidad  aquel a interacción encantó al ilusionista. «Es lo mejor que puede pasar, porque los pies eran realmente humanos. Miré los pies, éstos se agitaron, y el público ovacionó.  Fue  increíble.  De  modo  que  cada  noche,  después  de  aquel episodio,  hice  que  alguien  sentado  al  fondo  me  gritase  “¡Mueva  los  pies!”
+
+Siempre provocaba una reacción estupenda.»
+
+¿Por qué es tan eficaz este tipo de interacción inmediata y espontánea?
+
+David explicó que hace que la historia se sienta como algo real, y vende la ilusión. «La magia es mucho más poderosa —dijo—, si la gente siente que participan en persona, como si estuvieran viviendo sus sueños.»
+
+LA  MAYORÍA  DE  NOSOTROS  no  haremos  trucos  de  magia  cuando contemos  historias  empresariales,  pero  las  técnicas  interactivas  de Copperfield harían que cualquiera de esas historias fuera más memorable, resonante  y  práctica.  La  investigación  ha  demostrado  que  la  mayoría tomamos  decisiones  de  manera  emocional,  y  luego  encontramos  una coartada intelectual para justificarlas. Si no sentimos ese «y yo qué saco de esto»  emocional,  es  poco  probable  que  demos  el  paso  siguiente.  Nuestro cerebro  empieza  a  emitir  esta  l amada  basándose  en  el  lenguaje  corporal aun antes de que pronunciemos la primera palabra. Por eso, si usted quiere que  su  público  tome  la  decisión  de  escuchar  su  historia,  su  cuerpo  debe prometerle,  desde  el  mismo  momento  en  que  entre  en  la  habitación,  qué podrá sacar de su relato cada oyente. Cambiar el ritmo de su voz, subir y bajar el volumen, elegir a una persona para dialogar con el a o tocar a un oyente en el hombro no exige dominar la prestidigitación, pero puede tener un  efecto  mágico  sobre  su  audiencia,  porque  les  hace  sentir  partícipes  de una  conversación;  esto  les  hará  sentirse  parte  de  su  historia,  y  saber  que pueden sacar algo provechoso de el a. Prométales, por medio de su postura, su  sonrisa  y  sus  gestos,  que  la  historia  que  les  va  a  contar  no  sólo  no  les perjudicará ni aburrirá, sino que de hecho les ofrecerá un viaje emocional que  disfrutarán  y  recordarán  con  placer.  Entonces  asegúrese  de  que  su narración cumple esa promesa de principio a fin, de modo que cuando les transmita  su  historia,  estén  preparados  y  anhelantes  de  responder  a  su l amamiento a la acción.
+
+Capte su atención
+
+En  los  años  setenta,  cuando  me  convertí  en  director  de  estudio  en Columbia Pictures, el equipo directivo existente tenía como mínimo treinta años más que yo. Miraban con recelo mi juventud y mi inexperiencia, y no querían aceptarme como líder. Yo sabía que tendría que hacer algo radical para captar su atención y suscitar su respecto desde el principio. Así que el
+
+día de nuestra primera reunión después de mi ascenso, entré en la enorme sala de reuniones y, como siempre, me senté en una butaca lateral, dejando vacía la que ocupaba la cabecera de la mesa. Todo el mundo se apercibió de inmediato de mi elección de butaca. Entonces paseé la mirada por la sala, estableciendo contacto visual con todos los presentes.
+
+Sin decir palabra, mis actos contaban la historia de que había venido con respeto  y  humildad.  Les  decía  que  quería  liderar,  pero  entendía  que  era joven  y  que  tenía  que  ganarme  la  autoridad.  Hasta  que  no  sintiera  que había conseguido mis galones de líder, no ocuparía la posición a la cabecera de su mesa.
+
+Esto  l amó  su  atención,  y  el  estado  de  ánimo  general  se  relajó  de inmediato.
+
+Al mirar atrás, intento imaginar cómo hubiera funcionado mi historia si me  hubiera  expresado  oralmente  en  vez  de  recurrir  a  aquel  gesto,  o  si  la hubiese  contado  pero  estando  sentado  a  la  cabecera  de  la  mesa.  Podría haber hablado sintiendo lo que decía, pero no hubiera sonado congruente ni  auténtico.  Al  violar  sus  expectativas,  mi  elección  poco  convencional  de sitio l amó la atención de mis oyentes, y grabaron el mensaje en sus mentes de  un  modo  que  mis  palabras  nunca  habrían  conseguido.  Interrumpió  el patrón  mental  de  las  hipótesis  que  circulaban  por  la  sala  y  contribuyó  a suavizar el resentimiento, la ira y la incertidumbre tácitas entre mi público.
+
+La  intención  de  aquel  gesto  tan  sencil o  fue  contarles  la  historia  de  que estábamos juntos en aquel barco.
+
+La  clave  para  captar  la  atención  de  sus  oyentes  es,  primero,  prestarles atención   a  ellos.  Si  antes  de  entrar  en  la  sala  yo  no  hubiera  conocido  el estado  anímico  de  mis  oyentes  y  sus  expectativas,  seguramente  habría cometido un error garrafal. Pero anticipé su estado emocional y planifiqué una  estrategia  que  inmediatamente  dio  un  vuelco  a  sus  expectativas negativas y nos introdujo en un territorio común.
+
+Por  supuesto,  si  usted  cuenta  una  historia  a  un  público  neutro  o amistoso, estos movimientos estratégicos no serán necesarios para captar su atención.  Pero  aun  así  es  importante  interrumpir  el  tumulto  del  ruido  de
+
+fondo en sus mentes, para que puedan participar plenamente con usted de la  experiencia,  y  la  mejor  manera  de  hacerlo  es  recurriendo  a  señales  no verbales, como la que usé yo al entrar en aquel a sala de juntas. Establezca contacto  visual.  Sonría  para  que  sus  oyentes  se  sientan  a  gusto.  Si  lo  cree correcto, estreche manos. Module su voz, subiendo y bajando el tono como lo  haría  un  actor.  En  ocasiones,  puede  l amar  la  atención  al  bajar  la  voz hasta el punto en que el público tenga que inclinarse hacia usted y escuchar con  mayor  atención.  A  veces  un  silencio,  sobre  todo  después  de  haber expuesto  una  idea  importante,  dice  más  que  las  palabras.  Pero  esté pendiente  de  las  señales  de  sus  oyentes.  Con  escasas  excepciones,  si  les presta atención, el os se la prestarán a usted.
+
+Despierte la curiosidad de sus oyentes
+
+En 1983, la productora Lynda Obst, que entonces era vicepresidenta de mi productora,  me  insistió  para  que  me  reuniera  con  su  amigo,  el  astrofísico Carl Sagan, para debatir el concepto de su próximo libro. En aquel a época, Carl ya era un fenómeno interdisciplinar muy conocido. Su documental de trece episodios,  Cosmos,  que  ya  había  sido  premiado,  se  había  convertido en la serie televisiva más vista de la historia. En su calidad de asesor para la NASA, dirigía el Laboratory for Planetary Studies en la Cornel  University.
+
+Además, había ganado el premio Pulitzer por su libro  e Dragons of Eden: Speculations on the Evolution of Human Intelligence, publicado en 1977. Era una  persona  capaz  de  tomar  una  premisa  científica  y  dotarla  de  atractivo emocional, haciendo que fuera irresistible, emocionante. Me sentí como si Merlín viniera a almorzar a mi modesto hogar al oeste de Los Ángeles.
+
+Aquel a  tarde  de  primavera  nos  sentamos  durante  horas  en  el  patio trasero, mientras Carl nos contaba su pasión por su programa SETI ( Search for  Extra  Terrestrial  Intelligence,  búsqueda  de  inteligencia  extraterrestre).
+
+Creía  que,  si  estableciésemos  contacto  con  otra  civilización,  sería escuchando su conversación. Pero no se limitó a contarme su historia. Me
+
+formuló  una  pregunta  tras  otra,  para  despertar  mi  curiosidad  y  hacerme partícipe de el a.
+
+—Si  recibieras  una  postal  interplanetaria  procedente  de  una  fuerza extraterrestre  o  una  forma  de  vida  inteligente  donde  dijera  «Hola»,  ¿le contestarías? —me preguntó.
+
+—¡Por supuesto! —repuse.
+
+—¿Por qué? —inquirió.
+
+—Porque  me  gustaría  descubrir  qué  sabrían  aquel os  entes.  Podría concederme  una  ventaja  táctica.  Además,  ¿cómo  se  podría  no  contestar  a eso?
+
+Carl  se  inclinó  un  poco  hacia  mí,  clavándome  su  mirada  afable  pero amedrentadora debido a la inteligencia que destilaba.
+
+—¿Y si ese «Hola» fueran instrucciones? ¿Y si dijeran «Constrúyelo»? No podrías entablar un diálogo. ¿Harías lo que te ordenasen?
+
+Eso  me  enganchó:  la  pregunta  contenía  peligro,  emoción,  promesa, asombro. Sus preguntas incitaron las mías, y la historia fue pasando de uno a otro en forma de conversación.
+
+Le dije:
+
+—¿Qué habría que construir?
+
+—A  lo  mejor  ni  tú  mismo  lo  sabrías.  Quizá  fueras  el  presidente  de Estados Unidos. ¿Seguirías las instrucciones?
+
+Le dije:
+
+—Querría saber para qué serviría ese aparato. ¿Para destruir mi mundo?
+
+¿Sería como un cabal o de Troya que permitiera a los extraterrestres colarse en mi planeta?
+
+Me dijo:
+
+—¿Por qué te resultaría inquietante que vinieran?
+
+—Bueno, porque cada vez que en la historia una civilización superior se ha encontrado con una inferior, ésta ha sido destruida. Así que tendría que pensármelo.
+
+Siendo como era un maestro de la narración, siguió lanzándome  y si. .
+
+—¿Y si fueran los planos para un arca de Noé moderna? ¿Y si esa arca fuera la única esperanza de supervivencia de la humanidad? Si empezaras a construirla,  ¿qué  pensaría  la  gente?  ¿Y  si  descubrieras  que  la  estructura albergaba un par de asientos? ¿Y si las instrucciones te dijeran que uno de el os estaba reservado para ti? ¿Lo ocuparías?
+
+Le contesté:
+
+—Nunca me han gustado mucho las montañas rusas. Pero sí que miraba a la gente gritando, pasándoselo en grande, y cuando acababa el trayecto, todo el mundo salía sano y salvo. En el caso que planteas no dispondría de evidencias de que sería un viaje seguro, o de que volvería alguna vez. De modo  que,  probablemente,  el  miedo  se  impondría  a  mi  curiosidad.  Lo ignoro. Habría una lucha entre esas dos emociones.
+
+Carl se echó hacia atrás y cruzó las manos en la nuca.
+
+—¿Te gustaría leer el libro sobre qué sucede y quién ocupa el asiento?
+
+—¡Claro que sí!
+
+Me dijo:
+
+—Voy a escribir ese libro. ¿Te gustaría convertirlo en una película?
+
+Le dije:
+
+—Cuenta conmigo. Estoy embarcado.
+
+Carl no me había l evado más al á de aquel incidente tan emocionante de  su  historia,  pero  sin  embargo  me  había  enganchado.  Incluso  me  había inducido a revelar por qué aquel proyecto me resultaba irresistible desde el punto  de  vista  personal:  porque  era  seguro.  No  tendría  que  hacer  aquel viaje  interplanetario.  Podía  viajar  con  mi  imaginación,  satisfaciendo  mi curiosidad intelectual y emocional sin tener que arriesgar mi civilización ni mi  vida.  Me  había  dejado  en  el  punto  más  emocionante  posible,  y  me costaría mucha paciencia esperar para enterarme del desenlace. Aunque eso conl evaba  arriesgar  una  cantidad  de  dinero,  cuando  Carl  acabó  de trabajarme me pareció que era mera calderil a. Compré los derechos sobre el  libro  y,  junto  con  Lynda,  empecé  a  elaborar  el  guión  para   Contact.
+
+Aunque,  lamentablemente,  Carl  no  vivió  para  ver  el  resultado,  la  historia
+
+que  me  contó  aquel  día  acabó  convirtiéndose  en  la  película  de  Bob Zemeckis, con Jodie Foster, que la Warner Bros. estrenó en 1997.
+
+Como Carl sabía bien, las preguntas son el amigo del narrador. Cuando su  público  formule  una  pregunta,  no  es  indicio  de  que  usted  les  está contando  mal  la  historia.  Significa  que  la  está  contando  tan  bien  que  ha despertado  su  curiosidad.  ¡Excelente!  Escuche  la  pregunta  y  úsela  para reforzar sus ideas principales, o para abrir nuevas maneras de fortalecer su l amada a la acción. Y a lo largo de su relato añada preguntas propias para hacer que sus oyentes participen.
+
+Algunos narradores tienen miedo a las preguntas, porque creen que les pueden  hacer  perder  el  norte.  En  realidad,  las  digresiones  pueden  ser peligrosas  para  el  arte  de  la  narrativa,  pero  en  calidad  de  narrador,  usted siempre tiene la capacidad de encauzar de nuevo su historia en la dirección correcta.  Si  surge  una  pregunta  ajena  a  la  cuestión,  prométase  retomarla luego  (y  asegúrese  de  hacerlo).  Si  una  pregunta  amenaza  con  socavar  o poner en tela de juicio su historia, recíbala con respeto, reflexione sobre el a e  intente  comprender  de  dónde  viene.  Entonces  busque  algún  punto  en común  con  el  interrogador  antes  de  seguir  contando  su  historia.  No siempre  está  claro  en  el  mismo  momento,  pero  he  descubierto  que  a menudo  las  preguntas  inesperadas  arrojan  una  luz  nueva  y  valiosa  sobre mis exposiciones.
+
+Involucre los sentidos
+
+Los científicos nos dicen que las palabras suponen solamente la parte más reducida de la comunicación humana. La mayor parte es no verbal: más de la mitad se basa en lo que ve la gente, y más de la tercera parte se transmite con  el  tono  de  voz.  En  otras  palabras,  hablamos  mucho  usando  nuestros sentidos. Los mejores narradores procuran contar sus historias mediante la participación  tanto  verbal  como  no  verbal,  porque  saben  que  cuanto  más sienta  el público la historia en sus cuerpos, mejor la recordarán. Y yo me lo
+
+creo,  porque  en  cierta  ocasión  me  contaron  una  historia  así  de  física,  que recuerdo perfectamente treinta años después.
+
+El  narrador  no  fue  otro  que  el  campeón  mundial  de  los  pesos  pesados Muhammad  Alí.  A  mediados  de  los  años  setenta,  cuando  yo  era  el presidente de producción internacional para Columbia Pictures, Alí estaba concentrado  en  la  producción  de  una  versión  cinematográfica  de  su autobiografía,  e  Greatest,  que  nosotros  distribuiríamos.  Aunque  la película  ni  siquiera  estaba  aún  en  fase  de  producción,  a  él  le  preocupaba que el proyecto recibiera el respaldo que según pensaba merecía. Howard Bingham, su compatriota de toda la vida, me l amó un día y me preguntó si Alí podría acercarse a hablar con algunos de los expertos de Columbia. Así que un puñado de nosotros, incluido a John Veitch, director de producción física, y Norman Levy, jefe de distribución, nos reunimos en el despacho de nuestro  director  ejecutivo,  David  Begelman.  Después  del  intercambio  de cumplidos,  pronto  fue  evidente  que  las  exhortaciones  de  Alí  estaban perdiendo a su público. Era demasiado pronto en el proceso de desarrol o, y mis  colegas  no  entendían  por  qué  estaba  tan  inquieto.  Miraban  por  la ventana,  jugueteaban  con  los  bolígrafos,  o  simplemente  miraban  al campeón con cara de incomprensión.
+
+De repente, Alí guardó silencio. Cambiando de táctica, se puso en pie.
+
+—¿Quieren  saber  cómo  derroté  a  Ken  Norton  después  de  que  él  me venciera en 1973?
+
+¡Eso  nos  l amó  la  atención!  Un  segundo  después,  Alí  tenía  a  todos  los ejecutivos  en  pie,  en  postura  de  boxeo.  Nos  ordenó  que  moviéramos  los brazos  y  el  cuerpo  durante  media  hora,  representando  los   rounds  de  tres minutos.  Durante  esos  treinta  minutos  de  actividad  incesante,  Alí enganchó a los ejecutivos con la historia de los dos combates con Norton, el primero de los cuales perdió.
+
+Luego  nos  contó  que  cuando  el  dúo  se  enfrentó  por  primera  vez  en  el Forum de Inglewood, Norton era un recién l egado.
+
+—Yo tenía la peor forma física de toda mi carrera. —Nos demostró cómo Norton había propinado aquel golpe que le rompió la mandíbula. Mientras
+
+mis  colegas  ensayaban  el  golpe,  él  añadió—:  Hay  que  tener  un  plan  para cada posibilidad.
+
+Entonces  comenzó  a  demostrarnos  cómo  se  había  preparado  para  el segundo  combate,  que  se  celebró  seis  meses  después  de  haber  perdido  el primero. Nos hizo correr sin movernos del sitio, como si tuviéramos alas en los pies.
+
+—No  hay  que  dejar  de  moverse.  —Fingió  que  estaba  saltando  a  la cuerda.  Lanzó  golpes  que  nosotros  eludíamos  o  parábamos—.  Control, control,  control  —nos  decía—.  Para  ganar  hay  que  ponerse  en  forma.  La mañana del segundo combate con Norton, yo pesaba 212 libras [96,24 kg], mi peso más bajo durante todos los combates de mi vuelta al ring.
+
+Cuando sonó la campana del primer round, salió como un relámpago y no  dejó  de  mover  los  pies,  moviéndose  en  círculo  hacia  la  izquierda  sin cesar. Nos mostró cómo había agotado a Norton acercándose mucho a él o dirigiendo golpes al cuel o, cómo le había incitado para que le golpease con más fuerza, desgastándolo cada vez más.
+
+—Yo estaba dispuesto a bailar toda la noche. Durante los cinco primeros rounds, controlé el combate. Norton no pudo ni tocarme. Entonces dejé de correr y Norton comenzó a aprovecharlo, golpeándome el cuerpo. Pero yo lo repelía.
+
+Nos demostró cómo lo bloqueó.
+
+Al l egar el  round doce, decidí que ya me había hartado. —Imitó la l uvia de  golpes  que  había  confundido  a  Norton;  entonces  hizo  una  pausa  y descargó el segundo grupo de golpes, que acabó con él—. Gané a Alí por 7-5.
+
+Cuando levantó los puños en señal de victoria, quedó claro el mensaje de  su  historia.  El  segundo  combate  contra  Norton  había  sido  el  mismo triunfo de la preparación que sería su película  si todos los que estábamos en la sala nos esforzábamos tanto como él para conseguirlo.
+
+Al final de aquel a media hora estábamos todos dando puñetazos en el aire,  riendo,  cansados  y  abrazándonos.  La  historia  de  Alí  nos  había sumergido  en  la  experiencia  del  boxeo,  haciéndonos  sentir  que  la  victoria
+
+consiste en algo más que en dar golpes. Ahora los ejecutivos comprendimos cuánta resistencia, entrenamiento y trabajo previos son necesarios para salir airoso  en  un  cuadrilátero.  Y  esto  transformó  nuestra  actitud  sobre  la película y sobre la importancia de elaborar estrategias para los diez  rounds, desde el rodaje hasta la promoción arrol adora.
+
+Alí, literalmente, nos puso en forma mental para el reto que suponía la comercialización  del  filme.  Entonces  posó  con  cada  uno  de  nosotros  para unas fotos que luego nos dedicó, sabiendo que las colgaríamos en nuestros despachos.  Aquel os  recuerdos  físicos  anclarían  nuestra  experiencia, recordándonos  nuestro  vínculo  y  nuestro  compromiso  con  él.  Para  mí, aquel a  historia  sobre  la  preparación  se  convirtió  en  la  piedra  angular  del éxito. Hasta el día de hoy, mi foto con Alí figura en un lugar destacado de mi despacho, y a menudo cuento la historia de su propósito perfectamente definido.
+
+Aquel enfoque interactivo arrojó grandes dividendos para Alí. Al contar con el compromiso incondicional del equipo de marketing, como abogados de su campaña,  e Greatest contribuiría a garantizar el aplauso del mundo para él. Aquel día  e Greatest demostró que también era el campeón del arte de la narrativa.
+
+Emplee correctamente su util aje
+
+El  asesor  de  historias  empresariales  Steve  Denning  utiliza  la  expresión
+
+«historia  trampolín»  para  describir  un  relato  que  puede  impulsar  a  los oyentes  a  una  nueva  cota  de  comprensión,  y  hacerlos  actuar.  Dice  que, habitualmente, las historias trampolín son muy cortas, verdaderas, y tienen un final positivo. Se cuentan de una forma minimalista, para que el oyente disponga de espacio para crear una versión de la historia de la que pueda apropiarse  y  contar.  Cuando  hice  una  visita  a  la  consulta  del  cirujano  de LASIK [cirugía ocular con láser], el doctor Robert Maloney, me di cuenta de que uno de los modos más eficaces y poderosos de contar una historia trampolín es mediante el uso de diversos objetos.
+
+Maloney  había  intervenido  con  éxito  a  mi  esposa,  usando  la  técnica LASIK; el a estaba tan contenta con los resultados que me insistió para que me visitara. Luego descubrimos que la cirugía LASIK no podría corregir mi problema de visión concreto, pero durante el examen sentí curiosidad por saber cómo convencía Maloney a sus pacientes (sobre todo a aquel os que no conocían a nadie que hubiera pasado por la misma operación) de que el beneficio radical que prometía la intervención era real.
+
+Maloney  señaló  al  otro  lado  de  la  sala  y  me  dijo  una  sola  palabra:
+
+«Mire». Al í, entre dos sil as, había un cesto que contenía cientos de gafas abandonadas.
+
+Me  quedé  totalmente  asombrado  por  la  maestría  con  que  usaba  su util aje,  y  la  economía  de  esta  historia  trampolín.  Una  sola  palabra.  ¡Qué elegante!. .  Mire. Como si dijera: «Mire el cesto y lo verá». Aquel as gafas eran la encarnación física perfecta de los beneficios que disfrutaban ya otros pacientes,  y  que  aguardaban  al  paciente  nervioso.  ¡Se  acabó  lo  de  l evar gafas! El cesto contaba toda la historia milagrosa. ¡Era como Lourdes!
+
+TAMBIÉN  HE  COMPROBADO  que  determinados  artículos  son  útiles para al anar el camino para el  storytelling. En concreto, los objetos pueden ayudar  a  romper  el  hielo  y  salvar  el  abismo  que  nos  separa  de  líderes  de otros  campos  o  con  un  estatus  diferente.  En  1992,  por  ejemplo,  me invitaron a almorzar con el ex presidente Ronald Reagan y el ex presidente de la Unión Soviética, Mijaíl Gorbachov. En mi calidad de director de Sony Entertainment,  vi  que  aquel a  era  la  oportunidad  de  introducir  en  Rusia (un auténtico mercado emergente) nuestros cines Loews. Pero ¿cómo poner a Gorbachov de mi parte en aquel proyecto? No tenía nada en común con él. Tendría que forjar un contexto compartido en el que pudiera escuchar mi historia.
+
+Decidí hacerles un obsequio distinguido que nos diera a los tres algo en común  sobre  lo  que  charlar.  En  Tiffany’s  compré  tres  navajas  de  plata  del ejército suizo con un grabado especialmente diseñado: una para Gorbachov,
+
+otra para Reagan y otra para mí. Me había enterado de que cuando Reagan era un niño solía jugar a  mumblety-peg, un juego que se hace lanzando al suelo  una  navaja  de  modo  que  se  clave.  Sospechaba  que  de  pequeño Gorbachov habría jugado a lo mismo. Por tanto, aquel objeto nos l evaría a compartir  historias  de  nuestra  juventud,  forjando  un  vínculo  emocional.
+
+(Aquel o  fue  mucho  antes  de  la  época  de  los  controles  de  seguridad,  y puedo  decir  sinceramente  que  me  pareció  un  regalo  inocente. .  ¡aunque hoy nadie podría hacerlo!)
+
+Cuando los dos expresidentes abrieron sus cajas de Tiffany’s y accionaron las  navajas,  los  del  Servicio  Secreto  acudieron  corriendo,  pero  Reagan  los despidió con un gesto cuando yo dije: «¿Se acuerdan de cuando eran niños y jugaban a  mumblety-peg?» Reagan no sólo se acordaba del juego, sino que se puso de pie en aquel mismo instante y nos demostró, con mímica, cómo lo  hacía.  Gorbachov  había  jugado  exactamente  a  lo  mismo  cuando  era pequeño, en Rusia, como nos dijo por medio de su intérprete. Y luego yo me añadí, y el personal de Reagan nos sacó una foto.
+
+Aquel os  objetos  crearon  un  punto  de  referencia  común  que  al anó  el campo  de  juego  emocional  para  todos.  El  juego  redujo  la  formalidad  de Gorbachov, y le dejó más abierto a la historia que le conté después sobre mi visión para Loews en Rusia. No sólo me dirigió a las personas que podrían ayudarme mejor en el proyecto, sino que me respaldó cuando contacté con el as.
+
+PERO  HAY  QUE  ESCOGER  CON  CUIDADO  los  objetos,  para  estar seguros  de  que  reflejan  con  precisión  la  autenticidad  del  narrador.  Como dijo la veterana en gestión de campañas Susan Estrich a mis alumnos de la UCLA, los políticos pueden padecer consecuencias especialmente negativas cuando se equivocan en los objetos que eligen.
+
+Estrich, que también es abogada, profesora, escritora y defensora de los derechos  de  las  mujeres,  además  de  comentarista  para  Fox  News,  se convirtió  en  la  primera  mujer  de  la  historia  que  dirigió  una  campaña
+
+presidencial, cuando se hizo cargo de la candidatura para la Casa Blanca de Michael Dukakis en 1998. Hoy, Dukakis es profesor visitante en la UCLA School of Public Affairs, y, por pura coincidencia, el mismo día que Estrich iba  a  visitar  mi  clase  en  2008,  me  encontré  con  él  cuando  cruzaba  el campus. En cuanto le vi, recordé de inmediato un episodio de su campaña: el de un hombre bajito que l evaba un casco que le sentaba mal, y que se paseaba en un tanque para una sesión fotográfica. Lamentablemente, aquel casco no había contado una historia positiva para Dukakis. Había quedado como un niño pequeño jugando a soldaditos; no era una historia adecuada para alguien que quería ser presidente.
+
+Más  tarde,  cuando  hablé  con  Susan  Estrich  en  clase,  le  pedí  que  nos contara  el  trasfondo  del  casco  y  el  tanque.  El a  suspiró  al  recordar  el episodio.  «Se  trataba  de  un  hombre  cuyo  punto  fuerte  no  era  la  defensa.
+
+Michael  Dukakis  ofrecía  un  excelente  programa  educativo.  También  su programa sanitario era estupendo. Si hubiera ido a una fábrica sanitaria y se hubiese  puesto  una  mascaril a  que  dejara  fuera  la  nariz,  la  gente  hubiera dicho:  “Está  un  poco  ridículo,  pero  es  un  fanático  de  la  salud,  y  tiene sentido del humor”. El debate en nuestros propios términos, ¿entiende? Si se centraba en la defensa, nunca podríamos ganar.»
+
+Lamentablemente,  los  otros  asesores  de  Dukakis  le  insistieron  que demostrara su dominio de la defensa, aunque fuera falso. «Así que Dukakis se presenta en una fábrica de tanques —recordaba Estrich—. Se sube a uno.
+
+Se pone el casco y ajusta la correa. Piensa  Esto es como ir en bici. ¡Pero no es como ir en bici! ¡Es un tanque! ¡Se supone que uno no se sube a un tanque para pasarlo bien!»
+
+En cuanto se hizo la primera fotografía, ésta contradijo su historia de que sería  un  buen  comandante  en  jefe.  El  resultado  fue  como  un  bumerán propulsado por cohetes. La desconexión entre la foto y la historia que contó hundió la campaña de Dukakis. Después de eso, dijo Estrich, ya daba igual lo  que  afirmase.  Todo  el  mundo  vio  la  foto  y  pensó:   ¿Que  este  tío  será comandante en jefe? Ni por casualidad. No encaja en ese tanque.
+
+Ahora  bien,  la  idea  no  es  que  el  recurso  del  tanque  y  de  aquel  casco absurdo  contara  una  historia  negativa  para  todos  los  candidatos.
+
+Simplemente, es que aquel artefacto no era coherente con la historia oral de Dukakis,  de  modo  que  hundió  su  campaña.  Estrich  señaló  que  John McCain  tuvo  éxito  cuando  contó  su  historia  por  medio  de  los  tanques, porque la historia de John McCain era precisamente la defensa. Era suya.
+
+Las  historias  que  dominaba  Dukakis  ocurrían  en  escuelas,  hospitales  y centros  de  formación  laboral.  Estrich  dijo  que  si  hubiera  usado  aquel os entornos para demostrar que la elección se centraba en el os, podría haber ganado.
+
+Escuche activamente
+
+Los  narradores  con  propósito  entienden  que  el  arte  de  la  narrativa  es  un diálogo, no un monólogo. El modo en que usted escucha como narrador es tan importante para su éxito como las palabras que pronuncie, pero no es sólo cuestión de escuchar la respuesta de la otra persona. Como practicante del  arte  narrativo,  debe  escuchar  con  todos  sus  sentidos,  evaluando  las emociones  de  sus  oyentes,  su  atención  y  su  interés,  y  eso  momento  tras momento. Cuanto más activamente escuche y más empatía demuestre, más hará  partícipe  al  público  de  su  historia.  Y  cuanto  más  involucrados  se sientan  en  su  historia,  más  probable  será  que  escuchen  su  l amada  a  la acción.  La  escucha  activa  es  un  instrumento  poderoso  para  usted  como narrador,  porque  emocionalmente  le  vincula  con  su  audiencia,  haciendo que se sientan valiosos. Los narradores deben prestar mucha atención a lo que experimenta el público (da igual si son uno o muchos), no sólo a lo que oye.  Deben  leer  la  mirada  de  sus  oyentes  y  cada  faceta  de  su  lenguaje corporal,  para  sentir  un  vínculo  empático  que  sea  constante,  fuerte  e ininterrumpido. Los narradores deben poseer una sensibilidad aguda hacia todas  las  respuestas  de  su  audiencia,  y  adaptar  su  historia  y  su  técnica narrativa  como  sea  necesario  para  evitar  la  confusión,  la  impaciencia  o  el aburrimiento.  El  objetivo  de  la  escucha  atenta  para  usted,  el  narrador,  es
+
+hacer que sus oyentes sientan que forman parte vital de la experiencia de su historia.
+
+Tony  Robbins,  conocido  estratega  vital,  escritor  y  un  experto  en  los cambios  radicales,  también  es  un  viejo  amigo  mío,  y  aún  recuerdo  la primera vez que asistí a uno de sus seminarios, con un público compuesto por  casi  8.000  personas  de  diversas  procedencias.  El  objetivo  de  Tony  es ofrecer a los individuos de su público la oportunidad de elaborar una nueva historia que puedan contarse a sí mismos y a otros, cuyo significado pueda cambiar  su  vida.  Tras  pedir  a  un  voluntario  que  comparta  su  problema, ofreciendo  así  el  «contenido»,  en  la  práctica  Tony  se  convierte  en  el narrador vicario, usando mensajes y preguntas para ayudar a la persona a crear una historia nueva. En este papel, Tony escucha «como un halcón», leyendo  cada  aspecto  de  la  conducta  y  la  psique  de  la  persona.  Además, mientras  está  en  este  modo  de  escuchar  y  «contar»,  observa  al  resto  del público para asegurarse de que el os también lo captan.
+
+El día que asistí al seminario de Tony me quedé asombrado cuando una niña de 13 años levantó la mano y dijo que había intentado suicidarse dos veces, una de el as ahorcándose. Durante la hora y media siguiente la chica hilvanó  su  historia,  y  luego  la   recontó  como  respuesta  a  la  incitación  de Tony. Más tarde, mientras me explicaba su método, Tony dijo: «Mi misión con cada persona, por medio de mis preguntas y mensajes, y por el hecho de escucharla con una sensibilidad aguda, consiste en echar las miguitas de la  narración,  formando  así  un  rastro  que  puedan  seguir  para  cambiar  su propia historia».
+
+Aquel  día  todos  nos  unimos  a  él  para  escuchar,  usando  el  método  de Tony,  la  historia  de  aquel a  chica.  A  medida  que  cruzaban  palabras,  se podía haber oído caer un alfiler. La atención de Tony era tan clara, activa y abierta que todos nos sentimos atraídos por la remodelación de la historia que tenía lugar. Cada vez que Tony devolvía la historia a la chica, parecía abrirse  e  invitarla  (y,  por  tanto,  al  resto  de  los  presentes)  a  interpretar  la última respuesta y a anticipar la siguiente pregunta.
+
+De hecho, la atención intensa de Tony y sus preguntas, precisas como un láser, diseñadas y expresadas como las de un detective, guiaban a la chica para que se contase a sí misma una historia nueva y totalmente auténtica, dotándola  de  un  nuevo  significado.  Primero,  Tony  le  preguntó  por  qué había querido suicidarse. El a contestó que sus padres no la comprendían.
+
+Eso  reveló  su  deseo  de  obtener  la  comprensión  de  sus  padres.  Entonces Tony la tomó de la mano para establecer una confianza, y le preguntó qué les pasaba a sus padres cuando el a empezó a sentirse así. No le ofreció una respuesta ni una hipótesis sobre su historia, sino que le dio tiempo, no sólo para  pensar  en  lo  que  le  preguntaba,  sino  para  que  el a  captara  qué  le estaba  diciendo  la  pregunta.  El a  lo  entendió,  y  le  dijo  que  sus  padres habían empezado a tener problemas matrimoniales.
+
+Entonces Tony se inclinó hacia el a y estrechó su foco, como si el a fuera la única persona en la sala. «Parece que te asusta que puedan divorciarse —
+
+le  dijo.  Y  cuando  el a  asintió,  le  preguntó—:  ¿Y  qué  pasa  si  no  están contentos con su matrimonio?
+
+La  niña  respondió:  «Mi  mamá  sabe  que  tienen  problemas,  y  ha intentado decírselo a mi papá. Y mi papá no quiere oír hablar del tema. Eso hace que a veces me sienta partida por la mitad, porque mi madre quiere ponerme en contra de mi padre, y mi padre en contra de el a».
+
+Sin  apartar  la  vista  de  la  niña,  Tony  le  preguntó,  incitándola:  «¿Tus padres han sido felices alguna vez?». El a respondió que sí, al principio de los diecisiete años que l evaban casados, antes de que el a naciera. Tony le preguntó qué era lo que más deseaba para su familia.
+
+«Que siga unida.»
+
+En aquel momento quedó claro para todo el mundo que seguramente la chica  intentaba  suicidarse  como  una  forma  inconsciente  de  unir  a  sus padres, dándoles un problema más grande al que enfrentarse y que debían resolver. Pero  ella aún no comprendía el significado de su historia, y ésa era la  meta  de  Tony.  Le  preguntó  cómo  creía  que  se  sintieron  sus  padres cuando  intentó  acabar  con  su  vida.  Le  preguntó  cómo  pensaba  que  esos
+
+intentos  influían  en  la  decisión  de  sus  padres  de  seguir  adelante  con  un matrimonio infeliz.
+
+Ahora la chica se vinculaba con su propia historia del mismo modo que todos  nosotros,  intentando  imaginar  objetivamente  dónde  radicaban  su verdad  y  su  significado.  Y  entonces  lo  entendió.  Se  hizo  cargo  de  la narración  de  su  historia  auténtica.  «Mi  madre  me  dijo  algo.  Antes  de casarse, se quedó embarazada. Y mi padre quería tener hijos, tenía muchas ganas, pero mi madre no, de modo que abortó. Y creo que él la culpa por eso; creo que el a misma también se culpa.»
+
+Se  había  abierto  una  grieta  en  el  dolor  que  sentía  al  escuchar  «de verdad»  su  antigua  historia,  y  en  ese  espacio  percibimos  su  deseo  de cambiarla.  El  hecho  de  que  Tony  le  diera  pie  a  contestar  y  le  hiciera preguntas,  así  como  el  de  que  fuera  un  oyente  activo,  hicieron  que  el a tomase el control de su historia. Ahora era auténtica y congruente, y ya no contaba  la  historia  como  si  el a  misma  fuera  el  origen  de  los  problemas familiares. En su rostro se pintó el asombro cuando admitió la historia que acababa de contar a Tony, y se apropió de el a. Y, lo que es más importante, cuando  admitió  y  se  hizo  cargo  de  su  significado.  «La  infelicidad  de  mis padres empezó antes de que yo naciese», dijo. Entonces Tony nos expuso la conclusión  a  la  que  nos  había  l evado  su  «narración»:  «El  significado  que damos  a  nuestras  historias  controla  toda  nuestra  vida.  Los  grandes problemas  nacen  de  pequeños  pensamientos.  Y  los  grandes  éxitos, también».
+
+La  niña  tenía  pinta  de  haberse  despertado  de  un  estado  de concentración profunda. Tony la sondeó, intentando evaluar el impacto de su  nueva  historia.  Le  preguntó  si  volvería  a  intentar  suicidarse.  El a  negó con la cabeza. «No —dijo, sorprendida—. No. Porque no soy responsable de los problemas de mis padres. No puedo echarme toda la culpa.»
+
+Al  final  del  seminario,  todos  los  asistentes  quisieron  probar  en  casa  el método  de  Tony,  y  miles  fueron  directos  al  puesto  donde  se  vendían  sus libros  y  sus  productos  multimedia.  Mientras  observaba  aquel a  marea humana  emocionada,  me  asombró  que  en  realidad  aquel as  personas
+
+compraban  la  historia   de Tony,  no  de  la  niña.  En  realidad  compraban  su l amada  a  la  acción,  su  mensaje  de  que,  al  cambiar  sus  propias  historias, podían  alterar  directamente  la  experiencia  y  la  calidad  de  sus  vidas.  El cambio que había facilitado la «narración» de Tony y su escucha activa es tan  atractivo  que  más  de  cincuenta  mil ones  de  personas  de  más  de  cien países  han  comprado  sus   bestsellers  y  sus  productos  multimedia,  o  han asistido a sus seminarios.
+
+Pensé  que  el  proceso  de  escucha  activa  de  Tony  era  plenamente transferible  a  los  profesionales  de  los  negocios.  Al  mismo  tiempo  me  di cuenta de lo poco que usamos la escucha activa no sólo como instrumento eficaz  para  los  negocios,  sino  también  como  imperativo  empresarial.
+
+Francamente, la mayoría de empresarios no escucha activamente ni sondea con inteligencia porque no se cal an el tiempo suficiente como para hacerlo.
+
+Dado que yo mismo soy una persona gregaria y extrovertida, me di cuenta de  que,  debido  a  mi  verborrea,  a  veces  no  lograba  escuchar  a  los  demás, perdiéndome así oportunidades para reformar mi historia para mejorarla.
+
+Ésta es la idea que extraje de la interacción con Tony y que ha marcado una  diferencia  profunda  en  mi  proceso:  cuando  intento  convencer  a alguien de algo o venderle alguna cosa, cuanto más tiempo le induzco a que sea él o el a quien hable, que me cuente su historia o, quizá, su  problema, más  puedo  reformar  mi  historia  para  abordar  su  problema  específico.  La diferencia  estriba  en  mostrarse  interesado  en  lugar  de  procurar  ser interesante.  Esto  no  quiere  decir  que  no  me  prepare  una  historia  de antemano. Significa que vivo el momento, escuchando «como un halcón», y que lo que escucho conforma el modo en que cuento mi historia. Esto ha supuesto la diferencia entre simplemente alcanzar la diana, y acertar en el centro una vez tras otra.
+
+Esté listo para olvidarse de su guión
+
+¿Alguna  vez  ha  formado  parte  de  un  público  frente  al  que  un  orador, habiendo  perdido  ya  la  atención  de  sus  oyentes,  sigue  adelante  con  los
+
+comentarios que se había preparado? ¿Recuerda cómo le hizo sentir como oyente? ¿Aburrido? ¿Molesto? ¿Con ganas de salir corriendo? Sea cual fuera su reacción, seguro que no le ayudó a asimilar el mensaje del orador.
+
+Es  posible  que  los  narradores  que  mantienen  «el  rumbo»
+
+empecinadamente,  sin  desviarse,  tengan  miedo  a  salirse  del  guión  y navegar  por  mares  sin  cartografiar.  O  quizá  piensen  que  han  invertido demasiado  tiempo  y  dinero  en  prepararse  como  para  dejar  a  un  lado  su plan. Pero ninguna de estas excusas recuperará la atención de sus oyentes, y a  menos  que  capte  su  atención,  ¿para  qué  molestarse  en  contar  una historia?
+
+Afortunadamente,  la  mayoría  de  los  públicos  quiere  que  vuelvan  a conquistarlos. Si está usted dispuesto a improvisar, y aprovecha las energías, indicios, pistas u objetos que estén en la sala, casi siempre podrá salvar su historia.  Puede  que  le  ayude  recordar  que  nunca  es  preciso  memorizar  la verdad. Si se mantiene fiel a usted mismo, sus oyentes recibirán cualquier cosa que «surja» en ese momento de espontaneidad como algo auténtico, y es probable que refuerce su vínculo con el os de un modo que no lo hace
+
+«seguir  el  guión».  El  otro  aspecto  de  una  gran  historia,  como  me  enseñó hace más de treinta años el público más improbable que se pueda imaginar, es confiar en las casualidades.
+
+Cuando era director de PolyGram, lanzamos una serie televisiva titulada Oceanquest. Aquel  reality show, uno de los primeros, seguía a un equipo de ex  SEALS  de  la  Marina,  junto  con  buceadores  expertos  y  científicos dirigidos  por  Al  Giddings,  mientras  iban  por  todo  el  mundo  rodando aventuras  submarinas  en  lugares  que  iban  desde  la  Truk  Lagoon  en Micronesia a las aguas bajo el hielo antártico. Nuestra presentadora era la Miss  Universo  Sean  Wetherly,  una  novata  que  proporcionaba  el  vínculo emocional con el público telespectador.
+
+Un  segmento  crítico  iba  destinado  a  contar  la  historia  de  las  aguas prohibidas del puerto de La Habana, en cuyo fondo oceánico reposaban los restos de galeones y barcos piratas que habían transportado tesoros, en una
+
+época  tan  remota  como  el  siglo  XVI.  Sólo  había  un  problema:  era  a principios  de  los  años  ochenta,  y  ni  el  Gobierno  de  Estados  Unidos  ni  el régimen  comunista  de  Fidel  Castro  querían  a  un  equipo  de estadounidenses filmando en la zona. Al insistir en que nuestra misión era puramente científica y pacífica, al final conseguí el permiso por medio de la influencia del ex presidente Nixon. No obstante, conseguir que los oficiales cubanos  permitieran  nuestro  rodaje  en  el  puerto  de  La  Habana  fue  otra historia.  Estaban  en  juego  mil ones  de  dólares  y  el  éxito  del  proyecto,  de modo que después de varias semanas de ver cómo se nos cerraban todas las puertas, aventuramos que quizás obtuviéramos el permiso más fácilmente si nos  personábamos  físicamente  en  Cuba.  Navegamos  hasta  Hemingway Marina y al í esperamos el permiso de Castro.
+
+Al final se presentó un oficial de la zona para decirnos que Castro, que también era submarinista, se había interesado por nuestro proyecto y quería visitar  el  puerto  para  revisar  nuestro  equipo.  Presuntamente,  aquel  era  su único  interés.  Le  pregunté  si  podíamos  aprovechar  aquel a  visita  para solicitar  el  permiso  del  presidente  para  rodar  bajo  el  agua.  El  oficial  se encogió de hombros. «El Jefe estará aquí sólo diez minutos. Tienen libertad para  pedirle  el  permiso,  pero  recuerden  las  normas:  ni  autógrafos  ni regalos.»
+
+Castro había durado más que muchos presidentes estadounidenses, y lo que  él  decía  en  su  país  era  ley,  pero  yo  estaba  decidido  a  aprovechar  la oportunidad.  Si  le  interesaba  el  submarinismo,  pediría  a  Giddings  que  le contase una historia de diez minutos sobre la naturaleza de nuestro equipo, lo cual le induciría a concedernos el permiso.
+
+Nos pusimos manos a la obra para elaborar y dotar de marco a nuestra historia,  usando  los  objetos  más  sofisticados  que  teníamos  a  bordo: vehículos  subacuáticos,  trajes  de  inmersión,  cámaras  de  alta  tecnología  y otros «juguetes» fabulosos. Cuando Castro l egó, con su séquito a remolque, todo el equipo estaba sobre la cubierta.
+
+Al  ver  el  cartel  que  decía  «Zapatos  No»,  colocado  en  la  pasarela,  «El Jefe» ordenó que sus acompañantes se quitaran las botas antes de abordar nuestro  barco.  Entonces  se  paseó  por  cubierta  ojeando  nuestros  juguetes.
+
+Pero no parecía que nada le l amase la atención. Al darme cuenta de que se nos  estaba  escapando  la  oportunidad,  me  puse  a  hablar  sin  parar:  datos sobre lo que queríamos encontrar en las aguas de La Habana y los motivos por  los  que  queríamos  hacerlo.  Castro  miró  su  reloj.  El  resto  del  grupo, captando la indirecta, empezó a desfilar hacia la pasarela.
+
+De  repente,  la  actitud  de  Castro  cambió.  ¡Había  aparecido  Sean Wetherly!  Y,  como  acababa  de  terminar  el  rodaje  de  una  escena,  aún l evaba  el  traje  de  baño.  Aquel a  indumentaria  estimuló  algo  más  que  el orgul o nacional de El Jefe.
+
+Pero  entonces  se  dio  cuenta  de  algo  más.  Sean  sujetaba  un  diente  más grande  que  su  mano,  procedente  de  un  gran  tiburón  prehistórico,  de  75
+
+metros de largo, l amado megalodón. Aquel a criatura era como diez veces más  grande  que  cualquiera  de  sus  parientes  actuales,  y  es  evidente  que aquel diente le interesaba al presidente, de modo que Sean se lo entregó.
+
+Aproveché esta casualidad para reformar mi historia, convirtiéndola en un relato sobre el megalodón.
+
+Mientras El Jefe toqueteaba aquel enorme diente, le conté cómo en otras épocas aquel gigantesco depredador acechaba en las aguas de La Habana.
+
+Combiné  el  presente  y  el  pasado  remoto  de  Cuba,  añadiendo  anécdotas que  habíamos  descubierto  sobre  los  incidentes  controvertidos  y  famosos que  tuvieron  lugar  en  el  puerto  de  La  Habana  durante  los  siglos  en  que ocupó  el  centro  del  comercio,  la  diplomacia,  la  intriga  y  la  guerra internacionales. Concluí mi historia con una l amada a la acción, diciendo que los cineastas queríamos elaborar un registro permanente (un artefacto, por qué no) que contase al mundo la historia del puerto de La Habana, un lugar histórico en Cuba.
+
+Los  diez  minutos  que  nos  habían  prometido  se  convirtieron  en  cuatro horas  cuando  Castro  se  apropió  de  la  historia  que  le  habíamos  contado, exponiéndonos  sugerencias  nuevas  y  diferentes  sobre  los  elementos  que
+
+queríamos filmar. Nos dio un permiso total para rodar en cualquier punto del puerto que quisiéramos. Mi esposa le pidió un autógrafo, y él firmó la mar de sastisfecho prácticamente en todas partes, desde camisetas a partes del  equipo  de  buceo.  Más  tarde  nos  envió  una  remesa  de  langostas  y puros. . una prueba de que las historias que tienen éxito no siempre siguen el guión.
+
+RENUNCIE AL CONTROL
+
+En  uno  de  nuestros  seminarios  sobre  la  narrativa,  el  experto  en  historias empresariales  Steve  Denning  estableció  un  punto  crucial.  Dijo  que  la misión última del narrador es ceder el control. «El objetivo del  storytelling es que el oyente se adueñe de la historia —dijo—. Queremos que nuestra historia  se  convierta  en  la  suya.  Entonces,  serán  el os  quienes  creen  una historia  nueva  a  partir  de  esa  historia,  que  adaptarán,  cambiarán, ajustarán.»  Sólo  hay  un  pequeño  detal e:  una  vez  que  haya  contado  su historia, no tendrá ningún control sobre lo que haga con el a su público.
+
+La  verdad  más  cruda  en  el  arte  de  la  narración  es  un  sencil o  hecho humano: usted no puede controlar a los demás. Más aún, a nadie le gusta que le den órdenes, le presionen o le manipulen. Cada vez que lo intente se enfrentará a una tremenda resistencia. Lo único que puede controlar es su propia preparación, el entorno y su forma de narrar la historia. Lo que haga su  oyente  como  respuesta  dependerá  de  una  multitud  de  factores,  que puede  que  no  tengan  nada  que  ver  con  usted.  Sin  embargo,  cuanto  más sientan  sus  oyentes  que  son  dueños  de  la  historia,  más  probable  es  que actúen  en  consecuencia.  Así  que,  una  vez  que  haya  contado  su  historia, tiene que renunciar intencionadamente al control sobre el a.
+
+Puede  ayudarle  pensar  en  la  historia  como  algo  que  no  es  «suyo»  o
+
+«mío», sino «nuestro». Cuando cuenta una historia como «nuestra», invita a su público a salvar el vacío entre narrador y oyente, y le hace partícipe de
+
+la historia como copropietario. Si lo consigue, puede estar seguro de que la historia  recibirá  una  escucha  empática.  Y  cuando  el  público  muestra empatía, «nuestra» historia cala hondo.
+
+Puede que piense que la persona que es menos probable que renuncie al control  en  cualquier  negocio  es  un  director  de  cine.  En  realidad,  con contadas  excepciones,  sucede  lo  contrario.  Las  películas  son  proyectos  tan complejos que la mayoría no l egaría a ver la luz si el director no cediese el control  a  los  guionistas,  diseñadores,  productores,  actores  y  equipos técnicos  que  insuflan  vida  a  las  ideas  cinematográficas.  Pero  incluso mientras  ceden  el  control,  los  directores  preservan  intacta  su  visión,  al enmarcar la historia de modo que otros puedan compartirla. Por ejemplo, el director Curtis Hanson explicó a mis alumnos del curso de posgrado en la UCLA, «El tránsito por el mundo narrativo», que él contó a los miembros de su equipo la historia de su visión sobre  L. A. Confidential mediante un col age  de  imágenes  y  objetos  de  los  años  treinta,  procedentes  de  Los Ángeles.  Hanson  eligió  personalmente  aquel as  fotografías  para  enmarcar su  concepto  único  sobre  la  estética  y  el  ambiente  de  la  película;  pero,  al cederlos  a  los  actores,  sastres,  diseñadores  de  escenarios,  iluminadores, cámaras y técnicos de sonido, les confiaba la misión de contribuir con sus propios talentos y energías a la historia colectiva. Hanson se comparó con el director de una orquesta sinfónica, que se aseguraba de que «todos tocaran las  notas  de  la  misma  página».  Pero  necesitaba  que  aquel as  personas tocaran las notas usando sus propios talentos y habilidades. Su objetivo era que  la  historia  compartida  fuera  más  rica  que  la  que  les  había  contado originariamente.  Esta  estrategia  funcionó  tan  bien  que   L.  A.  Confidential recibió nueve nominaciones para los Oscar de la Academia. Hanson obtuvo el de Mejor Guión Adaptado.
+
+Todo  proceso  colaborador  conl eva  esta  tensión  entre  la  visión  singular del narrador y la necesidad de ceder el control a los otros participantes. Al dirigir mi propio negocio, intento enmarcar la visión central para cada uno de nuestros proyectos, pero necesito que todas y cada una de las personas que  colaboran  en  el os  lo  considere  como  si  él  o  el a  fueran  el  centro  del
+
+universo. Kevin Plank me dijo que él adopta el mismo enfoque en Under Armour,  al  inducir  a  sus  empleados  a  pensar:   Si  yo  no  estuviera,  esto  se vendría  abajo.  Esa  sensación  de  propiedad  es  lo  que  los  l eva  a  estar presentes, trabajando con emoción y entusiasmo. Pero Kevin me dijo que, aunque  cede  el  control  para  la  ejecución  cotidiana  de  la  historia  de  su empresa,  «mi  trabajo  consiste  en  asegurarme  de  que  vean  la  visión compartida, el objetivo».
+
+Este  tipo  de  colaboración  está  presente  también  en  las  campañas publicitarias más importantes, que empiezan normalmente con una historia que una persona le cuenta a otra dentro de un equipo de marketing, y que luego  se  va  expandiendo.  Un  aspecto  clave  para  estas  campañas  es  una cierta apertura dentro de la historia, que invita a los oyentes a apropiársela cuando  la  cuentan  a  otros.  Tal  como  me  dijo  el  experto  en  comunicación Bob  Dickman:  «En  el  mundo  de  los  negocios  a  menudo  se  aprecia  la compulsión  a  tener  controlado  hasta  el  último  detal e,  porque  esto  nos recompensa con una respuesta rápida. Pero en realidad hemos de insertar espacios en blanco y más ambigüedad. No es cuestión de saberlo todo, sólo la  esencia».  Una  campaña  importante  que  empleó  este  principio  nació  de una  historia  que  contó  un  grupo  reducido  de  ejecutivos  de  marketing  en JWT (J. Walter ompson), y que condujo al lanzamiento más exitoso de un  producto  en  toda  la  historia  centenaria  de  De  Beers,  la  compañía minera de diamantes más grande del mundo.
+
+CUANDO  VISITÉ  LA  SEDE  NEOYORQUINA  de  Rob  Quish,  director jefe  de  operaciones  de  JWT  North  America  y  director  ejecutivo  de  JWT
+
+Inside, me contó cómo se desarrol ó su campaña. Primero, me explicó que JWT, la agencia publicitaria más grande de Estados Unidos, y la cuarta red de marketing de servicio completo más grande del mundo, tiene un grupo de marketing dentro de la agencia dedicado sólo a De Beers. El problema al que se enfrentaban De Beers y la industria diamantífera era encontrar una manera de comercializar los diamantes muy pequeños. «La verdad es que
+
+los pequeños no tienen valor dentro del negocio —me dijo Rob—. El reto empresarial era cómo dotarlos de valor.»
+
+Aquí entró en juego el equipo de JWT: Anne, Colby, Sarah, Ted y David.
+
+Atravesaron  Estados  Unidos  para  escuchar  las  historias  de  hombres  y mujeres  enamorados,  quienes  les  hablaron  del  camino  que  habían recorrido juntos y de sus esperanzas para el futuro. En Cleveland analizaron el  punto  de  vista  de  diversas  parejas  sobre  su  futuro,  y  descubrieron  una sensación refrescante de esperanza y de optimismo. Las parejas creían que su relación se fortalecería con el paso del tiempo, y esa creencia les ayudaba a sobrel evar los altibajos de su vida juntos. A la mañana siguiente, dotado de  un  concepto  con  el  que  actuar,  el  equipo  de  JWT  se  subió  a  un  avión con  destino  a  Austin,  Texas,  sede  de  una  comunidad  dinámica  de pensadores creativos que, según pensaba el equipo, podría generar una idea para diseñar el producto.
+
+A la noche siguiente, el equipo y algunas parejas de Austin hicieron una reunión para proponer ideas divididos en grupos pequeños. Al final de la reunión surgió una idea: «Pensamos en cuál es el símbolo de la vida y del futuro. Empieza con algo pequeño que luego se va haciendo más grande —
+
+dijo un hombre. Sostuvo un dibujo de una pulsera donde había engastados siete diamantes redondos, cuyo tamaño iba reduciéndose progresivamente
+
+—. Los diamantes cada vez más grandes representan el amor creciente que siente  un  miembro  de  la  pareja  por  el  otro  a  medida  que  transcurren  sus vidas. La piedra del final es la de mayor tamaño, porque representa que el amor  que  uno  siente  hoy  es  más  fuerte  que  antes.  Aquí  tenemos  un colgante  del  que  penden  cinco  diamantes;  los  diamantes  aumentan  de tamaño a medida que el diseño se abre, hacia un futuro de esperanza. —El hombre  hizo  una  pausa—.  Pero  creemos  que  no  sólo  se  trata  de  la esperanza, sino también de una promesa: que el amor se irá fortaleciendo con el paso del tiempo.»
+
+Y  en  aquel  momento  todo  encajó.  Un  diseño  en  el  que  los  diamantes fueran cambiando de tamaño se podía usar para simbolizar cómo crece el amor  de  una  pareja  con  el  paso  del  tiempo.  No  expresaba  sólo  una
+
+esperanza. Era un modo de que las parejas mirasen atrás y celebrasen cómo había  crecido  su  amor,  pero  también  mirasen  al  futuro,  confiando  que  el futuro  las  haría  estar  más  cerca  el  uno  del  otro,  a  medida  que  sus experiencias compartidas siguieran fortaleciendo su amor.
+
+Entonces  lo  resumieron  con  la  esencia  de  la  historia:  «El  amor  crece  a cada paso».
+
+Y  al  l egar  a  este  punto,  todos  los  presentes  en  la  sala  lo  captaron  y  lo sintieron.  ¡La  campaña  crearía  un  modelo  con  el  que  cada  cliente  podría transmitir y significar su historia de amor única!
+
+Pero entonces JWT tenía que imaginar el modo de transmitir de la mejor manera  aquel a  historia  a  sus  clientes,  porque  la  compañía  no  podía limitarse  a  decirles  que  las  piedras  representaban  su  viaje.  Sólo  cuando  la historia  fuera  personal  se  volvería  realmente  memorable,  resonante  y práctica.
+
+JWT debía ayudar a la gente a contar su historia. Esto suponía repartirse por todo el país y conversar con hombres y mujeres. «El instrumento para enmarcar la historia fue el  viaje  —dijo  Quish—,  que  conl eva  transición  y cambio.»  Pero  tras  enmarcar  la  historia  para  su  audiencia,  el  equipo  de marketing salió del modo de narrador y sus miembros asumieron el papel de facilitadores personales de historias. Plasmaron historias de alegrías y de esfuerzos, compromisos, deseo y pasión, que en ocasiones les resultaba casi imposible  (sobre  todo  a  los  hombres)  expresar  con  palabras.  «Toda  mujer quiere  que  su  pareja  le  exprese  sus  emociones  —dijo  Quish—.
+
+Afortunadamente, los diamantes pueden ayudarlas a hacerlo. Un diamante es el vehículo para contar una historia de amor.»
+
+Sin  embargo,  las  historias  que  reunió  JWT  no  fueron  uniformes.  Por tanto,  se  dieron  cuenta  de  que  el  diseño  de  la  línea  de  joyería  Journey («viaje»)  debería  adoptar  diversas  formas  para  representar  el  camino concreto de cada pareja: la de una ese, un círculo, un corazón, una línea en zigzag. ¡Perfecto! Aquel os diseños de múltiples diamantes ayudaron a De Beers  a  resolver  el  problema  de  la  industria:  cómo  usar  los  diamantes  de pocos quilates, no trapezoidales, que son tan difíciles de vender, y también
+
+permitió a los fabricantes y a los minoristas participar en la narración de la historia  Journey,  creando  colecciones  a  medida  para  su  propia  base  de clientes.
+
+A  finales  de  2006  se  sacó  al  mercado  la  Journey  Diamond  Jewelry  a través de un alud de eventos de relaciones públicas, televisión e Internet. El objetivo en esta fase era poner las palabras de la historia en boca de todos los  vendedores  de  joyas,  para  que  éstos  pudieran  contarla  a  los  clientes.
+
+«Imaginamos  a  un  hombre  que  entra  en  una  joyería,  inseguro  y  un  poco cohibido —me dijo Quish—. Le dice al vendedor que necesita algo para su esposa, para celebrar su vigésimo aniversario de boda. El vendedor debería ofrecerle  una  historia  que  él  reconociese  como  propia.»  Por  tanto,  JWT
+
+podía enseñar al vendedor a decir algo como: «Journey Diamond Jewelry representa cómo el amor que siente por el a crece con el paso del tiempo.
+
+Los  diamantes  que  varían  de  tamaño  representan  cómo  su  amor  se  hace cada  vez  mayor  mediante  todas  sus  experiencias,  sus  buenos  y  malos momentos, y cómo seguirán amándose a medida que transcurra el tiempo.»
+
+La idea era que el vendedor relatase la historia al cliente de modo que éste pudiera repetirla luego (mediante la joya) a su esposa.
+
+Durante la primera temporada de la campaña, la historia del «viaje» del amor contribuyó a aumentar las ventas de joyería con diamantes en un 9,4
+
+por  ciento.  A  finales  de  2007  había  generado  más  de  2.000  mil ones  de dólares en ventas de minoristas.
+
+Cuando  pregunté  a  Quish  por  qué  pensaba  que  aquel a  campaña particular  había  obtenido  un  éxito  tan  espectacular,  respondió:  «Porque permitió  a  los  vendedores  ayudar  a  los  clientes  a  contar  sus  propias historias. En realidad, la historia no siempre es perfecta. Es real, emocional, desafiante. Este concepto permitió a la gente expresar las imperfecciones de sus  vidas  y  de  sus  relaciones,  celebrando  al  mismo  tiempo  sus  éxitos.
+
+Independientemente del camino por el que hubieran pasado, de los malos momentos,  su  historia  tendría  futuro.  Eso  es  lo  que  realmente  quiere  la gente».
+
+Á
+
+¡AJÁ!
+
+•  Póngase en situación; lo que cuenta no es la aptitud, sino la actitud.
+
+•  Aporte grandes energías, el catalizador de las grandes narrativas.
+
+•  Puede que sus oyentes sean muchos o uno solo, pero siempre son un público, y el público espera experiencias.
+
+•  Demuestre su vulnerabilidad; no es un lujo, sino un activo.
+
+•  Insista, insista e insista para convertir un «no» en un «adelante».
+
+•  Sea consciente de que su cuerpo habla antes que su lengua.
+
+•  Capte la atención de su audiencia en primer lugar, rápidamente y por encima de todo.
+
+•  Sea interactivo: haga que participen los sentidos de su público, pronto y a menudo.
+
+•  Despierte la curiosidad de sus oyentes.
+
+•  Elija con cuidado los objetos, instrumentos y recursos que respalden su narración.
+
+•  Escuche activamente: se trata de un diálogo, no de un monólogo.
+
+•  Esté  dispuesto  a  abandonar  su  guión  cuando  la  situación  lo  exija. .
+
+que es siempre.
+
+•  Ceda el control y la propiedad de su historia; su audiencia tiene que apropiársela para después contarla.
+
+8
+
+La historia interminable
+
+¿Qué hace que una historia perdure más de cuarenta años? Fue Steven Spielberg quien me planteó esta pregunta cuando le entrevisté en 2008 para mi  programa  televisivo   Shootout.  Estábamos  recordando  algunas  de  las películas en las que habíamos colaborado ( Encuentros en la tercera fase, al á en  los  setenta,  El  chip  prodigioso,  Hook  y   El  color  púrpura),  cuando  de repente se volvió hacia mí y dijo: «No sé si lo sabías, pero cuando empezaba mi  carrera,  solía  acudir  a  tu  despacho  en  Columbia».  Sí  lo  recordaba.  Al principio  de  mi  carrera  en  Columbia,  invitaba  a  montones  de  jóvenes creativos  a  mi  despacho,  de  esos  que  luego  hacen  historias,  e  incluso entonces Spielberg destacaba entre el os. «Nos dabas consejos sobre cómo hacer  películas  —recordó—,  y  tenías  un  gráfico  enorme  en  la  pared  que mostraba  en  qué  estaban  trabajando  todos  los  directores  del  mundo,  ¿te acuerdas?  Habías  hecho  una  lista  de  todas  las  películas  que  se  estaban rodando  y  se  habían  planificado  para  su  producción.  Y  nosotros  nos sentábamos  en  tu  despacho  y  te  oíamos  hablar  sobre  cómo  gestionar  la información del negocio.»
+
+¡Durante  cuarenta  años  Spielberg  había  recordado  mi  «panel  de directores»! Después de aquel a entrevista seguí dándole vueltas a esta idea en  la  cabeza.  ¿Por  qué  aquel  despliegue  informativo  había  dejado  una impronta tan profunda en él? Y entonces recordé que montones de otros amigos  y  colegas,  a  lo  largo  de  los  años,  se  habían  referido  a  aquel a inmensa pizarra de corcho. ¡De hecho, aquel a gráfica había formado parte
+
+de una historia interminable que contribuyó a dar forma a mi carrera! Pero
+
+¿qué  fue  lo  que  la  hizo  tan  espectacular  y  memorable  durante  cuarenta años?
+
+La historia se remontaba a 1968, cuando l egué a Hol ywood por primera vez,  después  de  que  me  reclutasen  en  la  New  York  University  Graduate School  of  Business,  donde  cursaba  un  máster.  Vietnam  estaba  en  su momento  álgido.  Los  estudiantes  se  manifestaban  por  las  cal es  de  París, Nueva  York,  Roma  y  Chicago.  Dennis  Hopper  estaba  en  la  fase  de preproducción de  Easy Rider, y Bob Dylan no era el único en darse cuenta de  que  los  tiempos  estaban  cambiando.  Pero,  al  mismo  tiempo,  Barbra Streisand  acababa  la  película   Funny  Girl,  que  no  era  ni  mucho  menos revolucionaria, en un estudio de Columbia, y al otro lado de la ciudad un Clint  Eastwood  anterior  a  Harry  el  Sucio  cantaba  en  un  filme  totalmente retro,  La  leyenda  de  la  ciudad  sin  nombre.  Uno  de  mis  primeros  trabajos para el estudio de «Gower Gulch», cerca de la esquina de Gower Street y Sunset  Boulevard,  fue  el  de  entregar  unos  documentos  para  una  sesión ejecutiva de los jefazos de Columbia; y mientras paseaba la vista por la mesa de conferencias, me di cuenta de que aquel a docena de hombres, que ya pintaban canas, aún controlaban la totalidad del poder en aquel estudio tan enorme.  Desde  que  la  fundase  Hary  Cohn  en  los  años  veinte,  Columbia había creado algunos clásicos tan importantes como  Sucedió una noche, de Frank Capra;  De aquí a la eternidad, de Fred Zinneman;  La ley del silencio, de  Elia  Kazan;  Dr.  Strangelove,  de  Stanley  Kubrick;  y,  por  supuesto, Lawrence de Arabia, de David Lean. Algunos de los hombres al í sentados habían  participado  en  la  primera  de  aquel as  películas,  y  no  parecían haberse dado cuenta de que el resto del mundo estaba acelerando el ritmo a pasos agigantados. No sólo aquel as personas se estaban convirtiendo en un  anacronismo,  también  las  directrices  con  las  que  l evaban  su  negocio.
+
+Como yo era el chico nuevo, imaginé que podría sentarme en una de sus butacas dentro de quince o veinte años, pero no sin esperar a que antes se jubilasen. Yo no quería esperar: ése era mi problema.
+
+Mi «despacho» de aquel a época era un armario reconvertido que podría haber  servido  de  celda  de  aislamiento  en  una  película  de  fugas.  No  pasó mucho  tiempo  antes  de  darme  cuenta  de  que  sería  yo  quien  tendría  que organizar mi propia gran fuga.
+
+No  pude  por  menos  que  prestar  atención  a  los  métodos  que  seguía aquel a  vieja  guardia  para  tomar  sus  decisiones.  En  la  escuela  empresarial me habían enseñado que los ejecutivos desarrol an unos protocolos estrictos para establecer un equilibrio óptimo entre riesgos y beneficios. En derecho me  habían  enseñado  que  la  casuística  ofrece  lecciones  vitales  que  pueden evitar  tomar  decisiones  erróneas  en  el  futuro.  Dado  que  Columbia  me había  reclutado  cuando  estaba  en  esas  instituciones,  había  supuesto  que también  los  líderes  de  aquel a  gran  compañía  aplicarían  cierto  grado  de peso  intelectual  a  las  decisiones  administrativas,  como  la  elección  de directores de cine para sus películas de gran presupuesto.  ¡Craso error!
+
+Me  habían  l amado  para  que  tomase  notas  durante  una  reunión  de producción  en  el  despacho  de  Bob  Weitman,  que  anteriormente  había dirigido la MGM y ahora era jefe de estudio en Columbia. Algunos de sus colegas, mayores que él, proponían nombres como posibles directores para una película titulada  Fool’s Parade, un filme sobre presidiarios en la época de  la  Gran  Depresión,  protagonizada  por  Jimmy  Stewart,  que  era  el  Tom Hanks  de  su  tiempo,  y  un  jovencísimo  Kurt  Russel .  Stewart  había participado  en  tantos  filmes  históricos  ( Cabal ero  sin  espada,  Historias  de Filadelfia,  ¡Qué  bello  es  vivir! ,  El  invisible  Harley,  La  ventana  indiscreta  y Anatomía  de  un  asesinato)  que  supuse  que  aquel os  ejecutivos  querrían  a un gigante equivalente para que dirigiese su película.
+
+—Bueno  —dijo  Weitman—,  el  otro  día  me  comí  un  bocadil o  de  atún con  Andy  McLaglen.  A  lo  mejor  le  interesa  dirigir  la  película.  No  sé  si estará disponible.
+
+Al principio me quedé sorprendido. ¿Qué tenía que ver un bocadil o de atún con las habilidades necesarias para dirigir una gran película con Jimmy Stewart? Siguiendo la lógica, me pregunté qué habría pasado si se hubiera
+
+comido un bocadil o de ternera. O una ensalada. Sonreí para mis adentros.
+
+¿Y si el director era vegetariano? Ni hubiera salido en la lista.
+
+Entonces Jonie Taps, un vestigio de la era de Harry Cohn, dijo:
+
+—Mira, creo que su agente es George Chasin. Es un buen tipo.
+
+Bil y Gordon, otra reliquia de la era Harry Cohn, que ahora era director de casting, añadió:
+
+—Apuesto a que a Andy McLaglen no le sobran las ofertas. Podría irle bien el proyecto.
+
+—¡Buena idea! —dijeron los demás.
+
+Me  quedé  de  una  pieza.  ¿Desde  cuándo  estar  sin  trabajo  cualificaba  a alquien  para  dirigir  una  película  cinematográfica  importante?  Incluso  yo sabía  que  el  director  era  el  centro  de  gravedad  dentro  del  proceso cinematográfico.  Es  la  persona  que  interactúa  con  los  jefes  del  estudio  y dirige al equipo de producción, quien desarrol a y orienta la historia, quien tiene  la  autoridad  final  sobre  los  actores  que  participarán  y  controla  la ejecución artística del proyecto, desde la preproducción hasta el final de la posproducción. El director es quien mantiene la visión. ¿De verdad aquel os directivos iban a elegir al director adecuado gracias a un bocadil o de atún?
+
+Si  yo  podía  ofrecer  una  manera  mejor  de  tomar  aquel a  decisión,  quizás existía  una  oportunidad  para  aumentar  mi  reputación  y  resolver  el problema de mi carrera. Unas semanas más tarde me enteré de que Andy MacLaglen había ganado lo que yo ya l amaba «la lotería del atún», y sería el director de  Fool’s Parade. Yo no tenía nada contra Andy MacLaglen, pero sabía  que  tenía  que  haber  un  modo  mejor  de  tomar  decisiones.  Así  que regresé  a  mi  nido  largo  y  estrecho  y  forré  la  pared  trasera  con  corcho blanco, del suelo al techo. Compré varias cajas de alfileres de colores (rojo, azul,  naranja,  amaril o,  verde)  y  una  maquinita  Brother  que  imprimía etiquetas  adhesivas.  En  aquel a  época  la  World  Wide  Web  ni  siquiera  se vislumbraba  en  el  horizonte.  Estábamos  en  la  era  de  la  pre-información, décadas  antes  de  que  se  crease  la  Internet  Movie  Database.  A  las calculadoras las l amábamos «computadoras». A pesar de eso, yo sentía que la información era moneda de cambio, y quería organizar en mi panel los
+
+datos  sobre  los  directores  de  Hol ywood,  de  modo  que  todos  los participantes en el proceso de toma de decisiones pudieran añadir y quitar cosas.
+
+Agudicé el oído en los pasil os de los ejecutivos para identificar los tipos de  información  que  me  resultarían  más  útiles,  y  elaboré  categorías  en  el panel para cada tipo de dato. Pegué en el plafón los nombres de todos los directores en activo. Entonces los vinculé con las afiliaciones de su agencia, y les puse un código de color para los géneros en los que se especializaban: comedia, cine familiar, drama, acción, musical, aventuras, western y ciencia ficción. Separé a los directores que trabajaban en aquel momento de los que estaban  entre  proyectos;  los  repartí  en  función  de  los  presupuestos  que manejaban, y de si los cumplían o no; y luego los conecté con las estrel as con  quienes  habían  trabajado.  Busqué  hasta  el  último  dato  posible,  para actualizar diariamente mi panel.
+
+Al principio la gente que se pasaba por mi despacho pensó que me había vuelto  majara.  Luego  les  l amó  la  atención.  Pero  a  medida  que  tomaba cuerpo  mi  «panel  de  directores»,  al  mirarlo  podía  ver  con  sólo  echar  un vistazo  qué  directores  estaban  disponibles  en  el  amplio  espectro  de  la industria,  y  cuáles  eran  sus  puntos  fuertes  y  débiles.  Mis  visitantes empezaron a decírselo a los productores y a otros creativos del edificio. Se dejaban caer por al í para mirar el panel, y a menudo se quedaban más rato del que habían previsto. A medida que corregían, añadían y revisaban mi panel  de  directores,  éste  adquirió  una  vida  propia,  como  si  fuera  un organismo vivo, latente.
+
+Sin darme cuenta, había construido un trampolín para mi carrera, al dar forma  concreta  a  la  l amada  a  la  acción  del  «momento  ¡ajá!»  de  mi bocadil o  de  atún,  la  historia  que  contaba  a  todos  los  visitantes  que  me preguntaban  qué  estaba  haciendo  con  aquel  panel  gigante  de  directores.
+
+Todo el mundo captó la historia, porque habían visto cómo se tomaba todo tipo de decisiones por los motivos más extravagantes, debido a la falta de información pertinente y oportuna. El os mismos habían tomado decisiones
+
+así. Y en mi despacho no sólo escuchaban la historia de su problema, sino que también podían ver y tocar una de las numerosas soluciones posibles.
+
+De vez en cuando, si mi visitante estaba aliado con la vieja guardia, mi historia  del  atún  levantaba  ampol as.  «¡Ah!  Así  que  usted  es  un  genio», decía el susodicho.
+
+«No —respondía yo—. No es que sea muy listo. Yo no soy quien toma las decisiones, sino ustedes. Ustedes son los que mandan. Esto es solamente lo que  sucede  en  el  negocio.  Si  están  haciendo  una  película,  querrán  saber quién está disponible, quién es la mejor opción para su proyecto y por qué.
+
+Esta  información  les  permitirá  tomar  la  decisión  con  mayor  eficacia.»
+
+Entonces  les  contaba  la  historia  del  bocadil o  de  atún,  y  se  encendía  una bombil a.
+
+Además,  les  decía,  mi  presentación  no  era  tendenciosa.  «Si  ustedes acuden  a  una  agencia,  les  dirán  los  nombres  a  los  que  representa.
+
+Intentarán  que  los  datos  les  beneficien.  Yo  les  muestro  la  imagen  global, todo  el  panorama.  Ustedes  apliquen  su  propio  filtro.  Ya  saben  lo  que buscan;  yo  sólo  defiendo  que  hay  que  organizar  la  información.  Ustedes úsenla como quieran.»
+
+Al  ceder  el  control  del  panel  de  directores,  permití  a  mis  oyentes aceptarlo y apropiárselo. Una persona se lo decía a otra, quien se lo contaba a otra, y mi estrel a iba ascendiendo. Entonces, un día, ¿adivina quién vino a mi despacho? Sidney Poitier en persona.
+
+En  aquel a  época,  Sidney  Poitier  era  (y  sigue  siendo  hoy)  uno  de  mis héroes de todos los tiempos. Dos años antes había participado en la película de  Stanley  Kramer   Adivina  quién  viene  a  cenar  esta  noche.  Había  roto  la barrera  del  color  de  Hol ywood  con  papeles  principales  en  filmes  de  gran presupuesto, desde  Porgy and Bess y  A Raisin in the Sun hasta  A Patch of Blue y  En el calor de la noche. En 1959, el mismo año en que un hombre negro  l amado  Mack  Charles  Parker  fue  linchado  por  una  multitud  en Misisipí, Sidney Poitier fue nominado a un Oscar por su papel protagonista en  Fugitivos,  y  cinco  años  después  obtuvo  el  Oscar  al  Mejor  Actor  por  su
+
+papel  en   Los  lirios  del  val e.  Y  ahora  aquel a  joven  leyenda  estaba  en  mi despacho. . la central de información.
+
+«Esto es genial —comentó, mientras miraba el panel—. Busco a alguien que sea un buen director para un proyecto en el que estoy pensando.» Pasó más  de  una  hora  observando  el  panel  de  directores.  «¿De  dónde  sacó  la idea  para  esto?»,  me  preguntó  en  un  momento  dado.  Le  conté  la  historia del bocadil o de atún. Soltó una risita y siguió consultando los alfileres de colores.
+
+«Sin duda esto nos facilita la vida», dijo Poitier cuando acabó. Me contó que ya había elegido a alguien. Me dio las gracias y luego se fue y le contó a todo el mundo la historia del chaval que tenía un panel de directores en las entrañas  de  Columbia.  Contó  la  historia  del  bocadil o  y  de  mi  increíble innovación. Al cabo de pocas semanas, incluso la gente que no trabajaba en las instalaciones se sabía el camino hasta el 1438 de North Gower Street. El panel  se  convirtió  en  una  brújula  muy  buscada  para  tomar  muchas decisiones  importantes  en  Hol ywood.  Los  visitantes  se  reunían  en  mi despacho o cerca de él y participaban en mi proyecto. Como los miembros de  una  tribu  que  corrigen  al  narrador  en  torno  a  una  fogata  de campamento,  decían:  «No,  no,  no,  no,  no,  Lumet  no  hará  esa  película;  al final la ha rechazado». Entonces me decían que añadiese un director nuevo y  prometedor  del  que  nunca  había  oído  hablar,  o  que  modificase  la información sobre uno que acababa de pasarse del presupuesto con creces.
+
+El panel evolucionó como una Wikipedia primitiva. A consecuencia de el o, cedí la propiedad sobre los resultados, pero la idea era cada vez más mía.
+
+La  historia  se  fue  extendiendo,  arrojando  luz  sobre  mí  como  un innovador, lo cual me distinguía de la mayoría de los otros que intentaban subir  escalafones.  Antes  de  que  crease  el  panel  y  empezara  a  contar  la historia  subyacente  en  él,  yo  estaba  atascado  en  el  último  peldaño.  Pero cuando  personas  de  otras  compañías  empezaron  a  l amarme  pidiendo información, o cuando hacían un viaje privado a mi armario, los veteranos de mi estudio no podían por menos que darse cuenta. Si la información era dinero,  yo  había  encontrado  una  manera  de  insertar  ese  dinero  en  una
+
+historia,  de  modo  que  todo  el  mundo  que  la  oyera  pudiese  invertir  ese capital  más  sabiamente.  Y  cada  vez  que  lo  hacían,  contaban  mi  historia profesional por mí, lo cual daba alas a mi carrera.
+
+Con  una  mirada  retrospectiva,  me  doy  cuenta  de  que  la  lección  del
+
+«panel  de  directores»  es  la  siguiente:  si  encuentra  usted  una  manera  de activar  su  historia  de  modo  que  beneficie  a  otros,  éstos  la  contarán  por usted.  Y  una  historia  que  otros  cuentan  prácticamente  para  beneficiarle  a usted (sobre todo si la sienten como propia y han contribuido a darle forma y  vida),  es  mucho  más  probable  que  se  convierta  en  una  historia interminable  que  otra  que  usted  sólo  cuenta  sobre  usted  mismo  o  por  su cuenta.
+
+EL EFECTO MULTIPLICADOR
+
+—En ocasiones el rechazo puede ser un regalo —me decía Nancy Traversy.
+
+—¿En serio? —le dije—. ¿Y cómo?
+
+Nancy  es  cofundadora  y  directora  ejecutiva  de  Barefoot  Books,  que publica  los  libros  para  niños  de  mi  esposa  entre  sus  más  de  300  títulos.
+
+Habíamos  ido  a  visitarla  a  su  casa,  al  suroeste  de  Francia,  para  hablar  de planes  de  marketing  y  distribución,  pero  habíamos  convencido  a  Nancy para que nos contara la historia de cómo había transformado en una marca mundial lo que, esencialmente, era una industria familiar.
+
+—Fue un momento crucial —dijo Nancy—. En 2005 l evábamos más de doce  años  diseñando,  produciendo  y  comercializando  literatura  infantil ilustrada de calidad. Nuestro objetivo durante todo ese tiempo había sido el de  establecernos  como  un  tipo  de  marca  de  estilo  de  vida  centrada  en  el vínculo emocionante y emocional que se forja cuando unos padres leen a sus  hijos  unos  libros  maravil osos,  y  entonces  era  nuestro  momento  de expandir  la  marca  y  situarnos  a  lo  grande  dentro  de  la  cadena  de  libros Borders.
+
+»En  2005  me  reuní  con  los  ejecutivos  de  marketing  de  Borders  —
+
+recordó Traversy—. Les dije: “Deben incluir una Barefoot Boutique [tienda pies descalzos] en su sección infantil, donde los padres puedan relajarse y contar  cuentos  a  sus  hijos.  Si  exponen  nuestros  libros  juntos,  venderán mucho más que si los reparten por toda la sección infantil. Pero el motivo más  importante  para  montar  una  Barefoot  Boutique  es  el  de  l evar  a  la práctica  lo  que  realmente  representa  Barefoot:  unos  padres  que  se relacionan  con  sus  hijos  mediante  la  lectura.  Nuestra  marca  encarna  ese vínculo,  y  creemos  que  Borders  también  merece  formar  parte  de  esa conexión”.
+
+Entonces Traversy contó a los ejecutivos la historia central de Barefoot, que  en  realidad  era  la  historia  personal  de  Traversy  y  de  su  socia  Tessa Strickland.  «Habla  de  dos  mamás  que  querían  montar  un  negocio, publicando  libros  para  niños  que  pusieran  el  mismo  énfasis  en  la  calidad del texto que en la de las ilustraciones. Éramos dos mujeres que, entre las dos, tenían siete hijos. No éramos unos señores con traje y corbata. Éramos seres reales, trabajábamos desde casa, y teníamos que hacer malabarismos con  la  familia,  la  escuela  y  los  niños.  Recuerdo  que  mi  hija  venía  al despacho  y  nos  ayudaba  a  meter  cartas  en  sobres,  y  yo  le  enseñaba  los dibujos  y  le  preguntaba:  “¿Cuál  de  éstos  te  gusta  más?  ¿Cuál  elegirías?”
+
+Había  ilustradores  que  l egaban  a  la  hora  del  desayuno,  e  impresores  que venían  a  firmar  pruebas  de  catálogo.  Así  que  los  niños  crecieron  de  una forma  muy  empresarial,  pero  también  muy  creativa.  Nunca  hubo separación  entre  mi  trabajo,  mi  persona  y  quiénes  éramos  como  familia.
+
+Podríamos resumir nuestra misión en la historia de un niño descalzo que, por medio de nuestros libros, explora sus mundos interior y exterior junto a su  madre.  Cuando  la  gente  va  descalza,  están  más  en  contacto  consigo mismos,  la  tierra  y  su  mundo.  Son  libres  y  alocados,  conectados  con  el planeta  y  con  sus  semejantes.  Las  dos  vivimos  y  contamos  esta  historia radical  por  medio  de  nuestra  compañía  y  de  nuestras  familias,  desde  un buen principio. —Suspiró, recordando la respuesta que le habían dado los ejecutivos de Borders—. Se limitaron a mirarme y dijeron: “No pueden dar
+
+una  marca  comercial  a  una  editorial.  Ustedes  no  son  una  marca.  En  el mundo  editorial  no  existe  nada  parecido  a  una  marca  de  estilo  de  vida.
+
+Están locas.”»
+
+—Te equivocaste de público al contar tu historia —le dije.
+
+—Sí, está claro.  El os eran los de traje y corbata. Ni siquiera empezaban a identificarse con nuestra historia. Y entonces es cuando dije: «Vamos a salir de la cadena. Ya no puedo tratar con gente como vosotros».
+
+Traversy dijo que todo el mundo dentro del sector editorial le dijo que su  proyecto  era  un  suicidio  comercial.  Las  grandes  cadenas  han  dirigido tradicionalmente  la  red  de  distribución  de  los  libros,  y  la  sabiduría convencional  decía  que,  sin  su  apoyo,  casi  valía  más  la  pena  echar  la persiana.
+
+—Pero en realidad fue lo mejor que nos podría haber pasado —dijo—.
+
+Respiramos hondo y buscamos los elementos esenciales de nuestra historia que  pudieran  resolver  nuestro  problema.  Lo  que  descubrimos  fue  un enfoque totalmente nuevo para abordar la distribución y el marketing.
+
+Nancy  subrayó  que  la  historia  de  Barefoot  no  era  la  de  un  libro individual dentro de una cadena. Hablaba de los hombres y de las mujeres detrás  de  la  línea  de  productos,  incluyendo  a  todos  los  clientes  que  leían sus  libros  a  sus  hijos  y  hablaban  de  el os  con  otras  madres,  maestros  y bibliotecarios.  Aquel a  historia  de  los  hombres  y  mujeres  que  compartían historias  fue  lo  que  dio  a  la  marca  su  autenticidad  y  su  coherencia.  Y
+
+aquel a historia también aportó la solución a la crisis de distribución de la compañía después de su ruptura con Borders.
+
+Traversy recordó:
+
+—Recibíamos   e-mails,  cartas  y  notas  manuscritas,  y  también  cartas  de agradecimiento de madres que decían: «Gracias a Dios que hay alguien que produce libros de categoría para niños. Está claro que les interesa que me relacione con mis hijos por medio de la lectura y de compartir la bel eza, y no son muchos los editores a los que eso les importe». Se nos ocurrió que aquel as  mujeres  se  hacían  eco  de  nuestra  historia  a  su  propia  manera.  Si podíamos  controlar  ese  eco,  no  necesitaríamos  cadenas  que  exhibieran
+
+nuestra marca. ¡Aquel as mujeres podían ser nuestra red de marketing y de distribución! Entonces es cuando me vino la idea del «vivir descalzos».
+
+—Vivir  descalzo  —me  explicó—,  significaba  trabajar  desde  casa  con  el equilibrio  correcto  entre  una  carrera  gratificante  y  una  familia.  —Era  la esencia de la historia que el a y Strickland contaron y vivieron por medio de Barefoot  Books  desde  el  principio,  pero  ahora  veía  una  manera  de multiplicar  esa  esencia—.  Vivir  descalzo  significa  cosas  distintas  para diversas  personas.  Pero  todo  se  centra  en  esos  valores  de  conexión, comunidad,  lectura,  compartición,  creatividad,  conciencia.  —Al  animar  a su red de mujeres a contar y vender sus propias historias de Barefoot Books a sus amigos y vecinos, Traversy se dio cuenta de que podía desarrol ar la marca de una manera totalmente congruente con la historia esencial de su compañía.  En  realidad,  la  venta  desde  casa  era  la  forma  más  lógica  de distribución  de  una  marca  que  se  había  concebido  y  producido  en  casa desde su mismo origen.
+
+Cuando  Traversy  invitó  a  sus  clientes  a  convertirse  en  Embajadores  de Barefoot, «hice saltar de inmediato la chispa del boca a oreja. Les encantaba la idea de que, cuando hablaban con otros, la historia que contaban era la nuestra pero filtrada a través de su experiencia. Eso hacía que su emoción fuera inmediata y real, e inspiraba a participar a cada vez más personas».
+
+El  elemento  esencial  de  la  historia  de  Barefoot  siempre  había  sido  la vinculación, originariamente entre padres e hijos como socios de Barefoot.
+
+Ahora Traversy extendió el significado del vínculo, para incluir a todos los Embajadores  de  Barefoot.  Tanto  si  se  trataba  de  un  consejo  sobre  cómo hacer un  mailing  de  un  catálogo  como  de  gestionar  una  base  de  datos,  o vender a través de una página web personal, el a y Strickland habían estado al í  y  lo  habían  hecho,  de  modo  que  podían  respaldar  y  guiar  a  aquel as mujeres por los avatares de l evar una pequeña empresa. «Las personas con las que hablo no son vendedores —enfatizó—. Por eso nos centramos tanto en  nuestra  historia  y  en  el  propósito  de  ser  muy  coherentes  y  claras.  Son personas  que  viven  esta  experiencia.  Ninguna  de  el as  vendería  ninguna otra cosa. Nunca venderán cosméticos Mary Kay. Son personas que viven y
+
+respiran ese estilo de vida, pero lo hacen a su manera y por medio de sus propias historias.»
+
+Traversy  venera  la  importancia  del  vínculo  al  l evar  a  los  doce  mejores vendedores  de  Barefoot  Books  durante  el  año  a  su  hermosa  casa  en Gasconia,  al  suroeste  de  Francia,  donde  la  estábamos  visitando.  Pero  la recompensa no consiste sólo en unas vacaciones. Es una oportunidad para desempeñar  un  papel  más  importante  en  la  ampliación  de  la  historia  de Barefoot.  «Durante  tres  o  cuatro  días  debatimos  proyectos  de  nuevos productos,  y  eso  les  encanta.  De  verdad  que  les  importa.  Y  creo  que  ese tipo de relación hogareña, de interacción estrecha, es la esencia de Barefoot Books.»
+
+Living Barefoot también parece su mejor venganza. En 2008, a pesar de la  crisis  económica,  las  ventas  de  Barefoot  Books  en  Estados  Unidos subieron casi un 40 por ciento. Hoy sus libros se venden en la propia sede de la compañía en Boston, y por medio de otros libreros independientes, y las cadenas también han vuelto a vender la marca. Sin embargo, los más de 2.000  Embajadores  de  Barefoot  suponen  más  del  20  por  ciento  de  los ingresos  anuales  de  la  compañía.  Todos  estos  narradores  nuevos,  que constituyen  el  segmento  de  crecimiento  más  rápido  de  la  empresa,  han convertido Barefoot Books en una historia interminable.
+
+LA  CLAVE  PARA  CREAR  y  mantener  una  historia  interminable  es  la proliferación  constante  de  narradores  que  conserven  los  elementos esenciales  de  la  historia  originaria,  aun  cuando  añaden  a  esa  historia  su toque  personal.  Por  lo  tanto,  si  quiere  hacer  que  su  historia  sea interminable,  la  prioridad  básica  es  identificar  sus  elementos  esenciales.
+
+Mantenga  los  oídos  bien  abiertos  para  captar  las  audiencias  que  parecen hacerse  eco  claro  de  la  esencia  de  su  historia,  y  multiplique  ese  efecto  al inducir a esas personas a contar la suya  con su propia voz y en función de su propia  experiencia.  Da  lo  mismo  que  el  vehículo  usado  para  recontar  la historia  sea  la  venta  desde  casa,  las  conversaciones  informales,  las  redes
+
+sociales  o  la  tecnología;  la  idea  central  siempre  es  la  misma:  usted  quiere que su historia viva por medio de su público más entusiasta.
+
+PERSISTA EN LA ADVERSIDAD
+
+Usted no es el dueño del universo. Si no puede adaptar su historia cuando cambien  las  circunstancias,  dará  igual  lo  exponencialmente  que  haya crecido su mercado. Por supuesto, no todos los problemas son iguales. Un político cuya historia haga alarde de sus valores familiares lo pasará mal si quiere  seguir  contando  esa  historia  cuando  se  demuestre  que  es  un adúltero.  Una  compañía  cuya  historia  se  fundamenta  en  sus  afirmaciones de  seguridad  y  pureza  no  podrá  sostenerla  si  sus  productos  empiezan  a matar  clientes.  Pero  la  adversidad  que  no  es  culpa  del  narrador  es  un asunto distinto.
+
+Hace unos años, mi esposa me regaló una camiseta que lucía una imagen bobalicona  y  dibujada  a  mano  de  «Jake»,  un  personaje  con  una  gran sonrisa,  gafas  oscuras  y  una  boina,  bajo  el  que  se  leía  la  frase  LA VIDA ES
+
+BUENA.  En  aquel a  época  yo  me  quejaba  mucho  de  lo  duro  que  era  el mundo de los negocios, de modo que el a me había comprado la camiseta para  recordarme  que  mi  vida,  en  realidad,  es  muy  buena.  Después  de aquel o, empecé a fijarme en las prendas LA VIDA ES BUENA que l evaban otras personas,  como,  por  ejemplo,  una  mujer  del  gimnasio  con  una  pierna ortopédica, que no intentaba esconder mientras caminaba en la cinta. Me detuve y señalé su camiseta, y sonreí. El a asintió y me dijo: «Más vale que nos lo creamos». Consulté las cifras de esta compañía textil tan optimista y me  quedé  pasmado  al  descubrir  que  la  marca  distribuía  las  prendas  en 4.500  «outlets»  independientes  de  Estados  Unidos,  y  en  27  países  más.
+
+Además, desde su creación en 1994, la compañía había vendido más de 20
+
+mil ones de camisetas con el mensaje LA VIDA ES BUENA, añadiendo más de 900  productos  a  su  línea  comercial.  Lo  más  increíble  de  todo  es  que  su
+
+media  de  crecimiento,  de  un  30  por  ciento  anual,  ha  seguido  estable,  e incluso  ha  aumentado  después  del  desastre  del  11-S,  que  podríamos suponer que haría polvo su famosa frase que nos hace sentir bien. Decidí ir a Boston a visitar a Bert y John Jacobs, los dos hermanos iconoclastas que fundaron  esta  compañía  de  100  mil ones  de  dólares,  para  preguntarles cómo mantuvieron viva su historia.
+
+Como Nancy Traversy, los hermanos Jacobs me contaron que una de las claves radicaba en identificar y respetar la esencia de su historia seminal. En Life Is Good, la esencia de los dos hermanos, capaz de superarlo todo, era una actitud de optimismo e inclusividad.
+
+«Siempre hemos diseñado y dibujado nuestras propias camisetas —dijo Bert—. Entre 1989 y 1994, en la época anterior a  Life Is Good, dedicábamos periodos de seis semanas a vender estas camisetas puerta por puerta en las universidades.  Volvíamos  de  aquel os  viajes  por  carretera  a  nuestro apartamento de mala muerte, situado encima de una tienda de bocadil os, y  celebrábamos  una  fiesta  cervecera  para  contar  a  todo  el  mundo  las historias que nos habían sucedido en el camino. Colgábamos todos nuestros diseños  en  las  paredes,  y  cuando  l egaban  nuestros  amigos,  aquel o  se convertía  en  una  especie  de  grupo  muestra.  A  cambio  de  la  cerveza  y  las historias,  les  pedíamos  que  nos  dijesen  qué  diseños  les  gustaban  y  cuáles no.  Les  dejábamos  escribir  en  las  paredes.  Seguro  que  a  nuestro  casero  le encantaba.»
+
+Sin embargo, a pesar de toda esa diversión, los hermanos se enfrentaron a muchos problemas desde un buen principio. «Una noche nos quedaban sólo  70  dólares,  y  estábamos  pensando  en  dejarlo  correr  todo,  cuando Johnny  dibujó  a  Jake  [el  personaje  que  encarnaría  su  historia].  Al  día siguiente  nos  levantamos  al  mediodía  (había  sido  un  fiestón)  y,  cuando salimos de la cama y nos fuimos dando tumbos al salón, al í estaba, en la pared.  Una  chica  había  escrito  junto  a  Jake:  “¿Este  tío  tiene  novia?  Si  no, para  mí”.  Los  chicos  escribieron:  “¿Qué  ha  bebido  este  colega?  Quiero  lo mismo”.  Otra  chica  escribió:  “Este  tío  sí  que  sabe  de  qué  va  la  vida”.  El trasfondo de todas esas conversaciones era lo chungo que se había puesto el
+
+mundo.  Las  noticias  de  las  seis  se  habían  convertido  en  el  listado  de asesinatos  violentos  de  las  seis.  Entonces  nos  planteamos  algo:  ¿y  si  Jake contase la historia que celebrase lo que va  bien en el mundo en vez de lo que  va  mal?  Sabíamos  que  unas  pocas  empresas  habían  probado  algo  así, pero  ninguna  era  tan   guay.  Así  que  John  le  puso  gafas  de  sol  a  Jake.  Le plantó una boina para darle una mentalidad abierta, creativa y artística. Y
+
+lo  tercero  fue  la  sonrisa.  A  diferencia  de  muchos  otros  artistas  que  son oscuros  y  amargados,  nosotros  éramos  artísticos  pero   felices.  Al  final escribimos  unas  cincuenta  frases  en  la  pared,  y  encontramos  una  que  lo resumía  todo:  “La  vida  es  buena”.  Un  amigo  escribió:  “Cuatro  palabras sencil as. . pero lo dicen todo”.»
+
+Imprimieron 48 camisetas y las l evaron a una feria cal ejera en Central Square,  Cambridge.  «¡Vendimos  las  48  en  45  minutos!  —dijo  John—.
+
+Nunca  habíamos  visto  nada  igual.  La  diversidad  de  personas  que compraron  las  camisetas  fue  espectacular:  una  maestra  de  escuela  bajita, Mary  Margaret;  un  motero  corpulento  de  los  que  tiran  de  Harley,  un punkie  con  un  monopatín. .  ¡todos  compraron  la  misma  camiseta!  A algunos de el os les oímos decir “La vida  es buena”».
+
+Bert asintió. «Y nos dijimos: “Podemos ir más al á”.»
+
+¡Y  caramba  si  fueron!  Su  negocio  alcanzó  la  cifra  de  3  mil ones  de dólares  en  2000.  Entonces  l egó  el  11-S.  Aquel  era  un  problema  de  una magnitud  totalmente  nueva.  El  horror  y  la  escala  de  aquel a  tragedia supusieron una crisis existencial para la compañía.
+
+«¿Cómo se puede vender  optimismo  en  un  momento  como  ése?  —dijo John—.  Habíamos  dicho  que  nuestro  mensaje  era  intemporal  e interminable. Pero aquel o parecía el final.»
+
+Pero la historia esencial de  Life Is Good  había  nacido  de  la  adversidad.
+
+Era una historia del poder que tienen los amigos para reunirse y animarse mutuamente,  resolviendo  los  problemas  creativa  y  colectivamente.  Por  lo tanto,  los  hermanos  Jacobs  aprovecharon  el  espíritu  esencial  de  aquel a historia para ayudarles a resolver aquel a nueva crisis. Bert dijo: «Colgamos un  póster  enorme  de  Jake  en  la  pared  y  convocamos  una  reunión  de
+
+empresa. Dijimos: “Os hemos dicho muchas veces que Jake es quien tiene respuestas,  no  nosotros.  Es  su  historia.  Así  que,  ¿qué  haría  Jake  en  esta situación?”».
+
+Una joven que no l evaba mucho tiempo en la empresa levantó la mano y dijo: «Creo que deberíamos ser parte de la solución, y reunir fondos para las familias afectadas».
+
+Bert sonrió. «Y dijimos “¡Aleluya! ¡Eso sí encaja con nosotros!”»
+
+Decidieron  vender  durante  60  días,  por  todo  el  país,  una  camiseta especial de  Life Is Good donde figurase la bandera estadounidense, y donar todos los beneficios a United Way, para las familias de las víctimas del 11-S.
+
+Lo que decía aquel a camiseta a la gente era: «No renunciéis a la historia, la vida  es  buena».  Fusionaba  de  un  modo  activo  el  mensaje  con  el  entorno actual, adaptando la historia para que se enfrentase a las malas noticias en vez de sucumbir a el as. La historia esencial de la empresa se desplazó para enfrentarse  a  las  circunstancias,  convirtiéndose  en  algo  mucho  más espectacular, poderoso y duradero.
+
+«Muchas empresas de prendas de vestir hicieron lo mismo —dijo Bert—, pero  ofrecían  a  la  causa  un  10  o  un  25  por  ciento  de  los  beneficios.
+
+Nosotros hicimos lo que nos pareció bien. Dijimos  el cien por cien.»
+
+«Además  —recordó  John  a  su  hermano—,  en  aquel  momento  hubo personas  que  nos  dijeron:  “No  hagáis  eso,  porque  la  gente  comprará  esa camiseta y ningún otro de vuestros productos”. Bueno, antes que nada, ¡esa camiseta  generó  24.000  dólares  los  primeros  cuatro  días!  Fue  la  máxima venta de un producto que hubiéramos tenido jamás. Y recuerde que en ese momento el comercio se había detenido en seco. Pero los representantes de ventas  estaban  animados,  porque  todo  el  mundo  quería  hacer  algo  para ayudar. Los minoristas duplicaban sus pedidos. Nuestros empleados hacían doble turno y ni siquieran pedían que les pagáramos las horas extras. Sólo querían ayudar. Nos pusimos la meta de recaudar 20.000 dólares, ¡y en 60
+
+días recaudamos cientos de miles de dólares para las familias!»
+
+Bert  dijo:  «La  mayor  lección  que  aprendimos  John  y  yo  fue  que  no dijimos:  “Oh,  somos  los  dueños  de  la  empresa.  Ésta  es  la  historia,  así  es
+
+como  están  las  cosas”.  ¡Las  cosas   no  eran  así!  Tuvimos  una  reunión.
+
+Colgamos  un  póster  de  Jake.  Defendimos  la  idea  de  que  nuestra  historia tenía un lugar. Pero no dijimos a nuestros empleados: “Tenéis que organizar una  colecta”.  Jake  contó  por  nosotros  la  historia  de  nuestro  futuro,  a nuestros empleados, clientes y a los medios de comunicación, ¡y esa historia sobrevivió incluso a la adversidad más terrible!»
+
+PROPAGANDO LA HISTORIA
+
+¿Cuál  es  la  mejor  opción?  Cuando  una  historia  ha  cumplido  su  propósito inicial, se la puede descartar y empezar de nuevo, con silbatos y fanfarrias; o bien  se  puede  conservar  la  esencia  de  la  historia  originaria  pero  hal ando nuevas  maneras  de  contarla  en  el  futuro,  haciendo  que  sea  interminable.
+
+«Mis socios, John Henry y Larry Lucchino, y yo nos encontramos con ese problema —me dijo Tom Werner—, cuando compramos los Boston Red Sox en 2002.»
+
+Werner, que hoy es presidente de los Red Sox, me contaba esta historia en el palco del dueño en Fenway, en 2008, de modo que supe que al final se  había  decidido  a  quedarse  y  jugar,  aunque  me  dijo  que  fue  de  todo menos  una  decisión  fácil.  «Aquel  era  el  club  más  antiguo  de  las  ligas mayores,  y  jugábamos  en  el  estadio  más  antiguo  del  país,  Fenway  Park.
+
+Sentimos  la  presión  inmediata  de  que  Fenway  Park  había  superado  su fecha  de  caducidad,  y  había  que  derruirlo.  Después  de  todo,  lo construyeron en 1912, y se había quedado pequeño. Íbamos a reuniones de empresa  y  la  gente  nos  decía  “Tenéis  que  tirar  abajo  el  Park”.  Y,  como  es lógico, estábamos en el negocio para obtener beneficios, y habíamos pagado 380 mil ones por aquel a franquicia.»
+
+Al  haber  crecido  en  Boston,  yo  había  sido  fan  de  los  Red  Sox  durante toda la vida, y había pasado buena parte de mi infancia en Fenway o en sus inmediaciones, de modo que conocía bien la historia. En aquel os tiempos
+
+sólo me podía permitir sentarme en las gradas descubiertas del extracampo.
+
+Por el contrario, aquel a suite de lujo situada detrás de la base meta, dotada de  bufé  libre,  sofás  grandes  y  suntuosos  y  una  vista  de  pájaro  sobre  el estadio,  aquel a  noche  fresca  de  mayo,  mientras  veía  jugar  a  los  Red  Sox contra  los  Kansas  City  Royals,  era  como  un  mundo  de  fantasía.
+
+Ciertamente, me alegraba de que Werner hubiera mantenido vivo el Park.
+
+Y, sin embargo, yo mismo compré equipos y construí estadios, de modo que desde  el  punto  de  vista  del  negocio  deportivo,  comprendía  plenamente  el mérito de la propuesta  Si lo (re)construyes, ellos vendrán.
+
+«Los  activos  de  la  franquicia  incluían  el  equipo  de  los  Red  Sox,  el Fenway Park, sus equipos de las ligas menores, la NESN (una emisora de televisión  por  cable)  y  la  comercialización  de  la  marca  —dijo  Tom—,  de modo que construir un nuevo estadio con capacidad para decenas de miles de clientes de pago supondría unos ingresos mucho más elevados, no sólo gracias a la venta de más entradas a mayor precio, sino también a la venta de artículos, alimentos, ingresos por publicidad y suites más caras.» Y Tom ni  siquiera  había  mencionado  los  derechos  de  denominación  social,  que pueden ascender hasta los 161 mil ones de dólares del trato que Coca-Cola había firmado con los Houston Astros por el derecho de bautizar el Minute Maid Park.
+
+—Recuerde —me dijo Tom— que la sede anticuada de los Boston Celtics y los Boston Bruins, el Boston Garden, había sido demolida y sustituida por el Fleet Center, situado en el centro de Boston y que obtuvo un gran éxito.
+
+—Tuvo que ser un momento difícil —comenté.
+
+—Ni  se  lo  imagina  —replicó  Tom—.  Sentí  la  presión  combinada  de  la tendencia general entre los propietarios de franquicias deportivas, que era sacar a los clubes importantes de los estadios urbanos decrépitos y meterlos en palacios del ocio de última tecnología.
+
+—Los Boston Patriots, que se trasladaron desde Boston al nuevo Gil ette Stadium en Foxborough y se declararon los New England Patriots, hicieron una fortuna —señalé.
+
+—Exacto —dijo Tom—. Los New England Red Sox. . ¿Cómo suena eso?
+
+—No muy bien. Así que, ¿cómo tomó su decisión?
+
+—¡Con  mucho  cuidado!  —rió  Tom,  y  supe  que  estaba  pensando  en  la debacle que supuso aquel tiempo breve en que fue dueño de los San Diego Padres a mediados de los noventa. Los fans le l amaban «Hol ywood Tom», porque, al ser el cofundador de la Carsey-Werner Company, produjo series tan  exitosas  como   La  hora  de  Bil   Cosby   y   Roseanne.  Cuando  intentó combinar  sus  dos  proyectos  al  invitar  a  Roseanne  a  cantar  el  himno nacional durante un partido de los Padres, el a desafinó, y luego se agarró la entrepierna y escupió en la base meta, intentando ser graciosa. En lugar de  eso,  ofendió  a  todos  los  asistentes.  Durante  los  cuatro  años  en  que Werner fue el propietario, la asistencia a los partidos de los Padres se redujo en un 30 por ciento.
+
+—Mi  error  en  San  Diego  —me  dijo—  fue  no  prestar  la  atención necesaria  a  los  intereses  del  público  antes  de  introducir  cambios.  Así  que cuando l egamos a Boston, mi prioridad absoluta fue hacer una evaluación del estado emocional de la gente.
+
+A pesar de que demoler el Fenway parecía un paso evidente, Tom se lo pensó  cuando  escuchó  las  incontables  voces  individuales  de  generaciones de  fans  que  advertían  que,  si  destruía  Fenway,  también  destruiría  las historias  de ellos.
+
+¿Cuál es esa historia? , se preguntó Werner. Unos hombres de edad muy avanzada  le  contaron  que  el os  habían  visto  a  Babe  Ruth  lanzando  en Fenway  antes  de  que  la  venta  de  este  jugador  a  los  Yankees  en  1919
+
+provocara la legendaria Maldición del Bambino, que según el folklore local impidió  que  los  Red  Sox  ganasen  la  World  Series  durante  los  siguientes ochenta  y  pico  años;  una  «sequía»  que  aún  continuaba  cuando  l egó Werner.  Tom  escuchó  relatos  sobre  cómo  Jimmy  Piersal   se  subió  al  muro del jardín central y superó a Ted Wil iams en el último turno de bateo de su último juego, consiguiendo un  home run. O aquel día tan doloroso en que la pelota pasó rodando entre las piernas de Bil  Buckner, lo cual les costó a los Red Sox la World Series de 1986. Todo el mundo dijo: «Yo estuve al í», y ese «al í» era el Fenway Park. Todos sacaron las historias del Fenway fuera
+
+del  campo,  contándolas  a  amigos,  familiares  y  colegas,  salvando  las generaciones  y  la  geografía,  haciendo  que  esas  historias  fueran interminables.
+
+—Me las contaron personas que se habían mudado lejos, y que seguían considerando que el Fenway era su campo —dijo Tom.
+
+—Es verdad —respondí—. ¡Yo soy uno de el os!
+
+Recordé todas las historias que había contado o me habían explicado que tuvieron lugar en Fenway Park. Recordé cómo había dicho a mucha gente que,  de  pequeño,  me  quedaba  fuera  del  «Monstruo  Verde»,  el  muro  de once  metros  del  jardín  izquierdo,  esperando  hacerme  con  una  pelota  que pasase volando por encima. ¡Llevaba toda mi vida vendiendo la historia de Fenway!
+
+—Quizá la frase no sea  Si lo construyes, ellos vendrán, sino más bien  Si lo demueles, ellos  no  vendrán —le dije.
+
+—Descubrí  que  si  demolía  el  estadio  —siguió  diciendo  Werner—,  la esencia de nuestra historia original, que había perdurado cien años, moriría con él. Tendríamos que empezar de cero, y la historia nueva nunca podría tener  el  valor,  la  amplitud  o  la  profundidad  de  la  antigua.  Ese  estadio  es, con mucho, el elemento más valioso de la historia de los Red Sox, porque él nos sobrevivirá a todos siempre que lo cuidemos bien. Me di cuenta de que mi trabajo era proteger y alimentar la l ama de Fenway, para asegurarme de que nuestra historia esencial fuera interminable.
+
+—La respuesta no era  Constrúyelo y ellos vendrán —le dije.
+
+—¡No, era  Remodélalo y seguirán viniendo! —Tom se puso en pie y me indicó con un gesto que le acompañara fuera del palco del dueño. Salimos durante el quinto turno de bateo, y lo cierto es que yo no había prestado mucha  atención  al  partido.  Sentía  mucha  más  curiosidad  por  saber  cómo había resuelto aquel problema mi amigo.
+
+Mientras caminábamos, Tom me contó que se había dado cuenta de que la  solución  no  radicaba  en  destripar  la  historia,  sino  en  venerarla.  «En Boston,  Fenway  Park  es  la  estrel a  que  perdura.  Los  directivos  y  los  fans vienen y van, a los jugadores los compran y los venden, pero este estadio es
+
+como la l ama que mantiene viva la historia. —Sin embargo, la renovación del  campo  costaría  tiempo  y  dinero—.  No  podía  permitir  que  la  l ama flaquease durante ese proceso —dijo Tom—. Así que, incluso antes de que empezara  la  reconstrucción,  busqué  algunas  maneras  de  proyectar  la  luz sobre el valor perpetuo del Fenway, de incitar la creación de más historias.
+
+Una  de  las  cosas  que  vincula  a  los  bostonianos  con  el  Fenway  son  las historias que les cuentan sus familias. Mi abuelo me l evó a ver mi primer partido al Fenway Park, donde también fui acompañado por mi padre. Por tanto, buscamos modos de volver a lanzar el estadio al estrel ato mediante la  renovación  de  esos  vínculos.»  Por  ejemplo,  durante  la  primera temporada, Werner descubrió que el equipo no estaría en la ciudad el Día del  Padre,  de  modo  que  invitó  a  los  fans  a  acudir  al  Fenway  y  a  que  los padres y los hijos se lanzaran pelotas mutuamente. «¡Tuvimos que poner el tope  en  25.000  personas!  Nunca  habían  estado  en  el  terreno  de  juego  de Fenway Park. Estaban encantados por el mero hecho de estar al í. ¡Tocaban el Monstruo Verde como si fuera el Muro de las Lamentaciones! Recogían pequeños terrones de tierra y se los metían en los bolsil os, ¡como si fueran polvo  lunar!  Y  ahí  es  cuando  me  di  cuenta  de  que  el  Fenway  era  un auténtico icono, no sólo para los Red Sox sino para todo Boston. ¡Hubiera sido un sacrilegio derruirlo!»
+
+Me maravil ó el ingenio de Tom. Todas aquel as personas que acudieron a  Fenway  Park  aquel  Día  del  Padre  se  l evaron  consigo  toda  una  nueva remesa de historias que contarían a todos sus conocidos.  Estuve en Fenway.
+
+Toqué el Green Wal . Hice un lanzamiento desde el montículo.
+
+—Así es como se extiende la historia —le dije.
+
+—Exactamente —contestó Tom—. No era sólo cuestión de nostalgia. Se trataba de crear un destino, de modo que si el equipo perdía —sonrió—, lo cual nos pasa de vez en cuando, aun así el público se l evara consigo una experiencia especial.
+
+La  renovación  física  también  iba  destinada  a  potenciar,  no  solamente conservar,  el  atractivo  de  Fenway  como  destino.  Y  se  organizó específicamente  para  que  los  fans  pudieran  participar  en  la  historia  de  la
+
+transformación  paulatina  de  Fenway.  «Por  primera  vez  en  la  historia, colocamos asientos por encima del Monstruo Verde —me dijo Tom, y me l evó hasta al í para que lo experimentase en persona. Entonces comprendí por  qué  cuando  se  añadió  aquel  aguilero  por  encima  del  famoso  muro izquierdo  del  campo,  había  causado  semejante  sensación.  Eran  asientos parecidos  a  taburetes  de  bar,  y  sólo  había  250,  de  modo  que,  además  de disfrutar de un punto de vista privilegiado que antes no existía, sentarse al í le  hacía  a  uno  sentirse  como  si  formara  parte  de  un  periodo  único  de  la historia de Fenway.
+
+—Lo  que  tienen  los  estadios  de  béisbol  —me  dijo  Tom  mientras volvíamos a la tribuna del propietario—, es que, a diferencia de los campos de fútbol americano, todos son físicamente distintos. De manera que uno puede  aprovechar  los  rasgos  distintivos  de  su  estadio  para  distinguir  su historia  de  las  demás.  Durante  la  segunda  fase  de  la  renovación  pusimos asientos en el jardín derecho, con una plataforma donde se pueden celebrar fiestas antes de los encuentros. Luego cerramos al tráfico la cal e delante del estadio  dos  horas  antes  del  partido,  creando  una  atmósfera  propia  del carnaval,  pero  al  estilo  yanqui.  Ahora  la  gente  viene  a  Fenway  Park  dos horas antes del partido, anticipando la siguiente historia, y esto no sólo es estupendo  para  su  experiencia,  sino  que  vendemos  concesiones  a  los  fans dos horas antes.
+
+Entre  las  concesiones  de  los  Red  Sox  que  introdujo  Werner  se  cuenta una  camiseta  donde  se  lee  TODO  EL  MUNDO  PUEDE  TENER  UN  MAL  SIGLO.
+
+Entonces empezó a fichar una nueva plantil a de jugadores estrel a que no sólo  ganaran,  sino  que  pudieran  recoger  el  testigo  de  Babe  Ruth  en  la historia interminable de Fenway.
+
+—La  gente  se  identifica  con  los  héroes  —dijo  Tom—,  así  que  hay  que encontrar  a  personas  que  sean  carismáticas.  Teníamos  a  un  tipo  l amado Curt  Schil ing.  Podríamos  decir  que  un  día  era  un  crack  y  el  resto  de  la semana era un petardo, pero el único día de la semana que lanzaba él, era fenomenal,  así  que  le  perdonábamos.  Una  vez,  cuando  estábamos
+
+disputando  las  Championship  Series  de  2004,  se  lesionó  en  las  primeras rondas, y le hicieron una intervención que, normalmente, aparta al jugador del  campo  unos  tres  meses.  Pero  él  decidió  que  iba  a  hacer  otro  intento.
+
+Durante  el  partido  los  aficionados  vieron  que  tenía  el  calcetín ensangrentado,  y  que  seguir  en  el  campo  le  estaba  costando  mucho esfuerzo, y eso era algo más que lanzar. Fue una historia genial.
+
+Con  jugadores  como  Schil ing,  Pedro  Martínez  y  David  Ortiz,  los  Red Sox  ganaron  las  World  Series  en  2004  por  primera  vez  desde  1918.
+
+Entonces, en 2007 volvieron a ganarlas. Y en 2008 Fenway había agotado las entradas para 388 partidos consecutivos en casa (la segunda racha más larga  en  la  historia  del  béisbol),  acabando  con  la  Maldición  de  Bambino, que había incordiado al Fenway Park durante casi un siglo.
+
+Mientras volvíamos a la comodidad del palco del dueño, Werner siguió diciendo:
+
+—El reto que supone dirigir nuevas iteraciones de la historia del Fenway no  es  distinto  al  que  se  enfrenta  cualquier  narrador  de  un  producto importante y bien arraigado o una historia empresarial. Hoy vivimos a un ritmo tan frenético que incluso la historia más sólida tiene que cambiar para adaptarse.  —Y  cuanto  mayor  sea  la  empresa,  más  narradores  adicionales tendrá que involucrar este proceso de cambio. Como asevera un dicho de los  nativos  americanos:  «Hacen  falta  mil  voces  para  contar  una  sola historia».  Algunas  de  esas  voces  hablarán  del  sufrimiento,  y  otras  de  la gloria,  pero  cada  una  de  el as  hablará  sobre  el  impacto  que  ha  tenido  la historia general sobre ese individuo, en el aspecto personal y emocional, en Fenway  Park.  Tom  dijo  que  su  papel,  como  el  de  cualquier  máximo directivo,  consistía  en  proteger  la  l ama  de  su  historia  interminable añadiendo combustible nuevo que atrajese a narradores nuevos y viejos por un  igual—.  Hay  que  proteger  los  elementos  esenciales  —dijo—,  mientras uno se adapta sin cesar al cambio. Esto exige un toque firme, pero también ligero.
+
+Yo intervine:
+
+—Cierto,  porque  si  uno  controla  la  historia  con  demasiada  firmeza, perderá el factor valioso de la casualidad.
+
+De repente oímos rugir a la multitud que estaba por debajo de nosotros en  el  estadio.  Tom  señaló  al  pequeño  y  antiguo  marcador  que  l evaba funcionando  cincuenta  años,  sin  cambios.  En  la  pantal a  se  extendía  una larga  línea  de  ceros.  Era  el  séptimo   inning,  y  Jon  Lester,  que  l evaba lanzando  toda  la  noche,  seguía  en  el  montículo  después  de  más  de  cien lanzamientos.
+
+—¿Sabes?  —me  dijo  Werner,  inclinándose  hacia  delante—,  hace  dos años a Jon le diagnosticaron un linfoma. Temíamos que le íbamos a perder.
+
+Entonces ganó para nosotros el partido decisivo de la World Series de 2007.
+
+—¡Y parece que esta noche está que se sale! —dije. Los lanzamientos de aquel jugador zurdo de 24 años cada vez volaban más rápidos, y las pelotas pasaban como balas al lado de un bateador de los Royals tras otro.
+
+—Si consigue éste —dijo Tom—, Lester será el decimoctavo lanzador en la historia de los Red Sox, y sólo el quinto zurdo, que lance una bola con la que los bateadores no pueden conectar.
+
+Fijamos  nuestra  atención  en  el  campo  mientras  Lester  seguía  lanzando pelotas desde el montículo. Cuando Alberto Cal aspo pisó la base, las bolas volaban a una velocidad de 150 km/h, y la atmósfera en el estadio era tan electrizante  que  el  último  bateador  de  los  Royals  no  tuvo  ninguna oportunidad.
+
+Entonces, cuando Lester consiguió su meta con su 130 lanzamiento de esa  noche,  se  desató  el  pandemónium.  Eliminó  a  Cal aspo  con  un lanzamiento uno-dos para completar el  no-hitter, otorgando a los Sox una victoria  de  7-0  sobre  los  Royals.  El  cátcher  de  los  Sox,  Jason  Varitek,  se acercó corriendo a Lester y lo levantó en vilo, y un segundo después ambos jugadores  quedaron  sumergidos  en  una  avalancha  de  camisetas  blancas.
+
+¡Aquel o era tan estupendo como ganar la World Series!
+
+Teniendo a Lester como el héroe del día, la alegría se desbordó. Todos los  asistentes  a  Fenway  Park  celebraban  su  victoria,  y  yo  no  fui  una excepción. Cuando acabé de soltar alaridos y de abrazar a Werner, hice lo
+
+que  estaban  haciendo  todos  los  presentes  en  el  estadio:  l amé  a  mis  hijos para contarles la historia de lo que acababa de ver, escuchar y experimentar.
+
+¡Había  visto  cómo  volvía  a  hacerse  historia  en  Fenway  Park!  Mientras sentía  los  latidos  de  mi  corazón  acelerado,  pensé:   Éste  es  el  poder  de  una historia interminable.
+
+¡AJÁ!
+
+•  Dé a su público la capacidad de propagar su historia.
+
+•    Cree  un  efecto  multiplicador.  Encuentre  al  público  crucial,  los  que puedan  ser  los  abogados  de  su  mensaje,  y  anímelos  a  contar  su historia con el poder de sus propias palabras.
+
+•  Cuando se enfrente a la adversidad, esté dispuesto a reformular su historia  a  través  de  la  lente  de  las  necesidades  nuevas  que  tiene  su público, pero manténgase fiel a los elementos centrales de su historia.
+
+•  Las historias generacionales son poderosas y resistentes. Si no las usa, saldrá perdiendo.
+
+9
+
+El principio...
+
+Déjeme que vuelva a l evarle al futuro del  storytelling.
+
+Cuando estuve en Nueva Guinea, al principio de mi exploración sobre el storytelling para el éxito, me sorprendió que, dado que la mayoría de tribus carecía de lenguaje escrito, ninguna de sus historias figuraba sobre el papel.
+
+¡Sin embargo, algunas de el as habían sobrevivido miles de años! Además, la cultura tribal dependía de su capacidad de transmitir de una generación a la siguiente los detal es precisos y las leyendas. ¿Cómo lo consiguieron sin el beneficio de medios como los libros o las grabaciones?
+
+En  lo  alto  del  monte  Hagen,  en  el  val e  del  curso  superior  del  Wahgi, durante  la  reunión  tradicional  de  las  tribus  celebrada  una  vez  al  año, obtuve  mi  respuesta.  Como  las  compañías  en  una  feria,  cientos  de  tribus habían  enviado  representantes  para  exhibir  su  última  moda  en  máscaras, pelucas y tatuajes, y para cantar, bailar y contar historias. Los clanes que tan sólo  una  generación  antes  se  habían  dedicado  a  aniquilarse  mutuamente, ahora  demostraban  su  habilidad  y  su  fuerza  en  batal as  ficticias.  Aquel o, pensé riéndome por dentro, era el equivalente papú a mi experiencia en la conferencia  para  jefazos  de  los  medios  de  comunicación  que  celebraba Al en & Company una vez al año en Sun Val ey, Idaho.
+
+Entonces, en mitad de todo aquel batir de tambores y sacudir de lanzas, me fijé en un grupo de niños que escuchaban extasiados a un hombre que a modo de vestido sólo l evaba un capuchón para el pene hecho con una calabaza. Mi guía me informó de que aquel hombre era un jefe.
+
+—Está transmitiendo la historia de las normas y los valores que dotan de cohesión a su tribu.
+
+—Ojalá entendiera su idioma —le dije—. Lo grabaría.
+
+El guía me señaló un gran panel de madera que estaba clavado junto al grupo.
+
+—No  hace  falta.  Si  le  propone  un  trueque,  el  jefe  podría  darle  ese storyboard.
+
+¿ Storyboard? En Hol ywood, un  storyboard es el esquema que se hace en preproducción  para  visualizar  y  detal ar  los  ángulos  de  la  cámara  en  las escenas  de  una  película.  Ese  mapa  gráfico  del  guión  facilita  la  traducción del guión a la película. ¡Yo pensaba que los  storyboards los había inventado la  industria  del  cine!  Pero  aquel os  tablones  de  madera,  donde  se  veían pintados unos gráficos rudimentarios que describían la ceremonia iniciática de la tribu, parecían anteceder a las películas en muchos siglos.
+
+Mientras  los  observaba,  el  anciano  de  la  tribu,  de  vez  en  cuando, comprobaba  lo  que  estaba  contando  mirando  las  imágenes  del  cartel.
+
+¡Como un director, se aseguraba de que su versión fuera coherente con el argumento aprobado! Por tanto, parecía que, en nuestras dos culturas, los storyboards  abordaban  el  mismo  problema:  que  las  historias  tienden  a cambiar de un narrador a otro.
+
+Ahora  bien,  hasta  cierto  punto  la  variedad  es  buena.  De  hecho,  es  un anhelo humano básico. La anticipación de una narración nueva y distinta aumenta  la  curiosidad  del  oyente.  Sin  embargo,  si  un  narrador  cambia demasiado una historia, esto puede poner en peligro el mensaje central y el impacto  pretendido.  Por  lo  tanto,  las  tribus  de  Nueva  Guinea  inventaron storyboards  para  salvaguardar  la  l ama.  Esta  ayuda  narrativa  recordaba  al narrador los elementos esenciales del relato y su significado, de modo que no se perdieran las cosas importantes aunque se contaran una y otra vez.
+
+En  Nueva  Guinea,  como  en  Hol ywood,  los   storyboards  eran  sólo  una ayuda.  Aquel os  carteles   nunca  se  usaban  como  sustitutos  de  la  historia oral,  del  mismo  modo  que  los   storyboards  de  un  director  (o  el  guión,  ya puestos) no sustituyen el proceso de rodaje de la película que éste hace. Por
+
+eso el jefe estuvo dispuesto a cederme uno de sus carteles. Desde su punto de  vista,  el  verdadero  valor  radicaba  en  la  propia  historia,  que  él  l evaba dentro.
+
+El  storyboard del jefe papú ocupa hoy un lugar destacado en mi hogar, y cuando  más  a  fondo  he  analizado  el   storytelling  para  el  éxito,  más claramente  he  visto  que  aquel a  madera  pintada  es  un  ejemplo  de tecnología  arcaica  que  venera  el  arte  de  la  narración  oral.  Pero  si  la tecnología puede venerar el  storytelling para el éxito, ¿es posible que algún día l egue a sustituirlo?
+
+Planteé  esta  pregunta  a  Bran  Ferren  cuando  un  día  vino  a  una  de  mis clases de posgrado en la UCLA. Ferren, el mago de la asesoría especializada de Disney’s Imagineering, dirige la empresa de diseño e innovación técnica Applied Minds, en sociedad con el pionero de la informática Danny Hil is.
+
+Bran  no  sólo  vive  y  respira  los  nuevos  medios  de  comunicación,  sino  que comprende  la  tecnología  como  una  fuerza  natural  presente  en  toda  la historia  de  la  humanidad.  Partiendo  de  mi  descripción  de  los   storyboards nativos como medios de comunicación originales, Ferren dijo: «La tradición de la narración oral se inventó antes de que dispusiéramos de la tecnología necesaria  para  registrar  las  ideas.  Entonces  l egaron  los  gráficos,  los pictogramas. Tardamos mucho en l egar a la escritura, porque la lectura y la escritura  son  abstracciones,  pero  eran  necesarias  para  que  las  historias fueran permanentes, y para transmitirlas de una manera íntegra a personas separadas por el tiempo y el espacio. Luego costó mucho tiempo pasar por la  secuencia  de  pasos  tecnológicos  desde  la  escritura  al  libro,  que  fue  el primer medio de comunicación distribuible. Hoy día todo el mundo actúa como  si  esta  revolución  informática  sea  para  echar  las  campanas  al  vuelo,
+
+¡pero piense en lo mucho que nos costó inventar el libro! Nos encontramos sólo  en  el  umbral  de  la  era  digital.  Cuando  pensamos  en  cómo  nos comunicaremos  en  el  futuro,  sólo  somos  maniquíes  que  aprenden  a caminar. Es demasiado pronto para predecir exactamente dónde nos l evará esta  revolución.  Sin  embargo,  como  pasó  con  la  escritura,  va  destinada  a
+
+afectar a todos los aspectos de la vida humana, incluyendo el modo en que contamos y recibimos las historias».
+
+Pedí a Bran que me pusiera un ejemplo de cómo podría suceder esto.
+
+«En el horizonte se perfila ya mucha física y tecnología conceptual que pueden comunicarse directamente con el cerebro de las personas —sugirió
+
+—. Igual que los implantes acústicos que ayudan a los sordos, comienzan a aparecer los implantes visuales. Imagínese que yo dispusiera de un acceso visual directo a su córtex visual.»
+
+La  sugerencia  de  Ferren  era  alucinante.  A  la  mayoría  de  nosotros  nos inspira  el  número  bastante  reducido  de  personas  capaces  de  l egarnos  al corazón, y, por extensión, de ampliar nuestras mentes, porque son grandes narradores.  ¿Qué  pasaría  si  esos  grandes  narradores  pudieran  ofrecer  a cualquiera que entrase en su web la experiencia virtual no sólo de estar en la  misma  habitación,  sino  de  estar  plenamente  dentro  de  la  mente  del narrador?  ¿Acaso  es  ahí  adonde  se  dirige  la  tecnología  virtual?  ¿Cómo cambiaría eso el  storytelling para el éxito? Me sentí motivado a analizar esta idea  junto  con  otros  científicos  y  entendidos  en  los  nuevos  medios  de comunicación.
+
+Ante un público compuesto por empresarios y ejecutivos de los nuevos medios,  durante  la  conferencia  digital  Twi stup  2009  en  Los  Ángeles, pregunté a Brian Solis, uno de los líderes intelectuales que al anó el camino para  los  medios  sociales,  qué  pensaba  de  la  bril ante  tecnología  de
+
+«telepresencia» de Cisco.
+
+—Si alguna vez ha estado en una sala con telepresencia —le dije—, sabrá que  los  presentes  están  juntos  virtualmente  sin  estarlo  físicamente.  Da  la sensación de que estamos en la misma habitación, cara a cara, de modo que usted  está  al í  sin  tener  que  desplazarse.  ¡Muy  eficaz!  Si  usted  cuenta  su historia  por  medio  de  la  telepresencia,  casi  todos  los  elementos  de  la narrativa para el éxito serían esenciales y prácticos.
+
+Solis es analista digital, sociólogo y futurista, y hoy analiza los efectos de los medios emergentes sobre el marketing, las comunicaciones y el mundo
+
+editorial  en  BrianSolis.com.  A  él  no  le  impresionaba  tanto  como  a  mí  esa tecnología puntera.
+
+—A la telepresencia aún le falta el componente fundamental que vincula el  corazón  con  la  mente  —dijo—.  Se  dice  que  la  distancia  física  entre  el corazón y la mente es de un palmo, en el sentido de que ambas cosas están vinculadas  estrechamente.  La  videoconferencia,  el  vídeo  en  Internet,  la participación de los medios sociales en general, no son catalizadores para el tipo  de  energía  creativa  corazón-mente  que  comparten  los  humanos cuando  están  en  la  misma  habitación.  Y  es  esta  energía  inmediata  la  que nos dice si debemos forjar o no una conexión interpersonal.
+
+Chris Kemp, jefe de tecnología de la NASA, me dijo que esta conexión sentida depende de gestos infinitesimales y connotaciones interpersonales, que ninguna tecnología actual puede captar o transmitir. «El vídeo de baja resolución aún no ha despegado —dijo Kemp—, porque no puede recrear las  señales  detal adas  de  los  ojos,  el  rostro,  el  aroma  y  el  sonido.  Cuando tenemos  a  alguien  justo  delante,  reaccionamos  por  instinto:  el  sistema nervioso entérico nos ofrece una lectura visceral de la otra persona. Esto es un  vestigio  de  nuestros  ancestros  primitivos,  que  tenían  que  evaluar inmediatamente a un desconocido para saber si confiar en él, luchar contra él o salir huyendo para salvar la vida. Con la tecnología no obtenemos esta respuesta,  porque  su  cuerpo  sabe  que  está  hablando  con  una  pantal a.  El punto de inflexión será si la tecnología reproduce lo que se siente de verdad al interactuar con las personas.»
+
+Otro científico, Michael Wesch (antropólogo cultural de la Kansas State University  a  quien  la  revista   Wired  apodó  «el  explicador»),  habló  más ampliamente  sobre  este  mecanismo  de  respuesta  humano  durante  una reunión  en  mi  casa.  Wesch  señaló  que  estamos  diseñados  para  leer constantemente  las  «microexpresiones»  de  los  demás,  esas  expresiones faciales involuntarias que pueden producirse incluso durante la cuarta parte de un segundo. Estas expresiones microscópicas indican las siete emociones universales:  disgusto,  ira,  miedo,  tristeza,  felicidad,  sorpresa  y  desdén.
+
+Como  están  codificadas  en  nuestros  músculos  faciales,  estas  señales  son
+
+muy difíciles, por no decir imposibles, de fingir, y dependemos mucho de el as en las situaciones críticas, como las negociaciones empresariales.
+
+«Las microexpresiones son esenciales para crear empatía —dijo Wesch—.
+
+Así  es  como  estamos  hechos.  El  rostro  adopta  más  de  cuatro  mil expresiones diferentes, y aunque sutiles, son cruciales, porque las captamos subconscientemente  y  reaccionamos  ante  el as.  Tanto  la  mente  como  el corazón  reconocen  estas  señales,  pero  la  tecnología  actual  aún  no  ha conseguido transmitirlas o duplicarlas plenamente.»
+
+A  MENUDO  HE  TENIDO  QUE  CONTAR  mis  historias  de  negocios  a través  de  Skype,  mensajes  de  voz,  e-mails,  mensajes  de  texto,  blogs  y entregas nocturnas de UPS; eran ocasiones en las que no pude estar cara a cara con mis oyentes, y siempre he comprobado que los instrumentos del storytelling para el éxito son muy valiosos, sea cual fuere el medio. Pero sé que la distancia, de forma inevitable, es una desventaja. Por eso, cuando es realmente importante, camino, conduzco o vuelo si es necesario para estar en la misma habitación con mis empleados, accionistas, inversores, clientes y socios de empresa.
+
+Las microexpresiones que describió Wesch (las pausas, el contacto visual, el  lenguaje  corporal  y  los  gestos  que  hacemos  cuando  estamos  en  una estancia)  pierden  invariablemente  parte  de  su  impacto,  o  todo,  cuando  se hacen  a  distancia  usando  los  medios  actuales.  Aunque  YouTube,  por ejemplo, ofrece la capacidad de ser expresivo de un modo que el mero texto no  nos  permite,  aún  dista  varios  pasos  de  la  inmediatez  que  supone reunirse con alguien en persona.
+
+Usted quiere que su audiencia  sienta cuando le dice: «Quiero invertir en usted.  Entiendo  su  historia».  ¿Cómo  puede  hacerles  sentir  bien  cuando piensen en usted? Conectando con su empatía y despertando su interés. La mejor manera de hacer esto es en persona.
+
+Puede  que  piense  que  un  maestro  del   blogueo  “online”  no  estaría  de acuerdo.  Por  eso  le  pregunté  a  Arianna  Huffington  su  opinión  sobre  la
+
+narrativa  de  última  tecnología  frente  a  la  narrativa  que  sale  del  corazón.
+
+Arianna es cofundadora y editora jefe de e Huffington Post, una de las páginas más leídas de Internet, de esas que la gente guarda en Favoritos, y de las más citadas. Lo irónico del caso es que el a no cree que la tecnología
+
+“online”  pueda  sustituir  jamás  a  la  interacción  humana  directa.  «Cuanto más  tiempo  pasamos  ante  una  pantal a  —dijo  cuando  visitó  uno  de  mis cursos  en  la  UCLA—,  más  anhelamos  el  contacto  humano.  Creo  que  las interacciones íntimas e interpersonales, en las que contamos historias para hacer  realidad  nuestras  ambiciones,  objetivos  y  sueños,  se  intensificarán necesariamente  a  medida  que  mejore  la  tecnología.»  Y  predijo  que,  en  el mundo  de  los  negocios,  cada  vez  dependeremos  más,  y  no  menos,  de  la interacción  humana  directa,  sobre  todo  a  la  hora  de  evaluar  a  un  socio potencial,  un  cliente  o  su  carácter.  «No  quiere  decir  que  para  tomar decisiones tengamos que estar siempre cara a cara, pero si se trata de algo tremendamente importante, de lo que depende todo lo demás, siempre es preferible estar en la misma habitación.»
+
+Phil McKinney, jefe de tecnología en Hewlett-Packard, está de acuerdo.
+
+«Hoy  la  tecnología  sólo  puede  desempeñar  un  papel  de  apoyo  —me  dijo cuando  hablamos  durante  la  conferencia  San  Francisco  Supernova.  Y
+
+agregó—:  Creo  firmemente  que  la  capacidad  de  ver  y  sentir  la  respuesta emocional,  de  captar  ese  mecanismo  de  respuesta  cuando  uno  cuenta  la historia,  tiene  una  importancia  fundamental.  Aún  no  disponemos  de  la tecnología  necesaria  para  obtener  el  mismo  valor  “online”  que  el  que recibimos en una estancia, cara a cara.»
+
+A  pesar  de  esto,  Bran  Ferren  cree  enfáticamente  que  «Internet representa  la  mejor  tecnología  para  el   storytelling  desde  el  desarrol o  del lenguaje.  Como  herramienta  práctica,  será  mucho  más  importante  que  la lectura  y  la  escritura.  Internet  permitirá  todo  lo  que  permite  hoy  la narración oral».
+
+Hace  tiempo  que  sé  que  la  credibilidad  y  la  autenticidad,  elementos esenciales  del   storytelling  para  el  éxito,  puede  mejorarse  claramente mediante la participación “online” en las redes sociales, la blogosfera y los
+
+foros.  Pero  lo  que  no  comprendí  plenamente  hasta  hace  bien  poco  fue cuántos activos digitales adquirimos a través del volumen de  status updates
+
+[de  Facebook],  posts,  tweets,  links,   perfiles,  blogs  y  páginas  web  asociados con  nosotros.  El  capital  social  que  obtenemos  vía  Internet  migra  hoy  día hacia  el  mundo  “offline”,  afectando  al  modo  en  que  los  narradores  y  los oyentes  interactúan  y  reaccionan  unos  frente  a  otros.  Al  cuantificar  su capital  social  mediante  instrumentos  que  midan  su  influencia  y  sus contactos “online”, sus públicos potenciales serán capaces de determinar su autenticidad  antes  incluso  de  conocerle.  Es  posible  que  sus  oyentes  ni siquiera  le  conozcan,  pero  al  marcarle  como  «Me  gusta»  en  Facebook  o seguirle en Twitter, pueden sentirse muy cercanos a usted. Por otro lado, si sus  oyentes  no  le  consideran  lo  bastante  influyente  o  conectado  “online”, pueden dudar de su credibilidad y sentirse menos inclinados a escuchar su historia en persona.
+
+Sin  duda  se  producirán  muchos  más  ejemplos  de  esa  frontera  difusa entre  lo  real  y  lo  virtual.  A  medida  que  la  tecnología  nos  vaya  acercando más,  nuestras  experiencias  “online”  incidirán  cada  vez  más  en  nuestras vidas “offline”. La mejor estrategia consiste en ser ambidiestro, empleando el storytelling  para  vivir,  jugar,  aprender  y  tener  éxito  en  ambos  mundos.  Si podemos  fiarnos  de  la  historia  como  cicerone,  la  tecnología  de  última generación  nunca  sustituirá  a  la  de  «última  emoción».  Dicho  en  pocas palabras, el  storytelling para el éxito es para siempre.
+
+¡AJÁ!
+
+•  No dependa solamente de las tecnologías de última generación para conectarse  con  otros.  La  baza  decisiva  cuando  usted  cuenta  una historia  en  una  habitación,  cara  a  cara,  es  la  tecnología  de  «última emoción».
+
+•  Sea  ambidiestro:  transporte  emocionalmente  a  sus  oyentes  hacia  su objetivo,  tanto  “online”  como  “offline”,  mediante  el  arte  de  la narrativa.
+
+•  ¡Emplee el  storytelling para ganar! Úselo bien. Úselo con un propósito definido. Úselo para que redunde en su beneficio.
+
+Agradecimientos
+
+Este  libro  es  fruto  de  la  inspiración  y  el  sudor  compartidos  de  los innumerables  talentos  que  contaron,  cosecharon,  conformaron  y escucharon las historias que revelan la alquimia de su mensaje promisorio: que  una  historia  con  un  propósito  definido,  bien  contada,  es  la  mejor herramienta  para  alcanzar  el  éxito.  Mi  profunda  gratitud  a  quienes padecieron mis elucubraciones y esfuerzos, por su talento, tiempo y energía: Rick  Horgan,  Aimee  Liu,  Hilary  Tetenbaum,  Nicole  Young,  Steve Hanselman y, por supuesto, mi esposa Tara y nuestra familia.
+
+Título original:  Tell to Win
+
+Editor original: Crown Business, an imprint of the Crown Publishing Group, a division of Random House. Inc., New York
+
+Traducción: Daniel Menezo García
+
+ISBN EPUB:  978-84-9944-115-3
+
+Reservados todos los derechos. Queda rigurosamente prohibida, sin la autorización escrita de los titulares del  copyright, bajo las sanciones establecidas en las leyes, la reproducción parcial o total de esta obra por cualquier medio o procedimiento, incluidos la reprografía y el tratamiento informático, así como la distribución de ejemplares mediante alquiler o préstamo público.
+
+Copyright © 2010  by Peter Guber
+
+is translation published by agreement with Crown Business, an imprint of the Crown Publishing Group, a division of Random House. Inc.,
+
+All Rights Reserved
+
+© 2011 de la traducción  by Daniel Menezo García
+
+© 2011  by Ediciones Urano, S.A.
+
+Aribau, 142, pral. – 08036 Barcelona
+
+www.empresaactiva.com
+
+www.edicionesurano.com
+
+http://www.edicionesurano.com
+
+http://www.facebook.com/empresaactiva
+
+http://www.twitter.com/ediciones_urano
+
+http://www.edicionesurano.tv
+
+Portadilla
+
+El final...
+
+Voces
+
+PRIMERA PARTE. Si no hay relato, no hay negocio
+
+1. ¡Es la historia, imbécil!
+
+2. ¿Tiene una historia?
+
+3. ¡Ya lo ha pillado!
+
+4. La historia que dirige la historia de cada uno
+
+SEGUNDA PARTE. El arte de la narrativa
+
+5. Preparado...
+
+6. Listos...
+
+7. ¡Cuente!
+
+8. La historia interminable
+
+9. El principio...
+
+Agradecimientos
+
+Créditos
+
+---
+
+# Document Outline
+
+Portadilla
+
+El final... 
+
+Voces
+
+PRIMERA PARTE. Si no hay relato, no hay negocio
+
+1. ¡Es la historia, imbécil! 
+
+2. ¿Tiene una historia? 
+
+3. ¡Ya lo ha pillado! 
+
+4. La historia que dirige la historia de cada uno
+
+SEGUNDA PARTE. El arte de la narrativa
+
+5. Preparado... 
+
+6. Listos... 
+
+7. ¡Cuente! 
+
+8. La historia interminable
+
+9. El principio... 
+
+Agradecimientos
+
+Créditos
+
+Próximas Publicaciones

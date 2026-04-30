@@ -58,31 +58,52 @@ LOGICS     = BASE / "02_DATASET_TRONCAL" / "04_FUENTES_AUTORES"
 OUTPUTS    = BASE / "05_OUTPUTS"
 OUTPUTS.mkdir(exist_ok=True)
 
-MOTOR_FILES = {
-    "Hemingway":  "ernest_hemingway.md",
-    "Dan Brown":  "dan_brown.md",
-    "Patterson":  "JAMES_PATTERSON.md",
-    "Grisham":    "john_grisham.md",
-    "Lee Child":  "LEE_CHILD.md",
-    "Crichton":   "MICHAEL_CRICHTON.md",
-}
-
-MOTOR_TONE = {
-    "Hemingway":  ["silencio", "precisión", "iceberg", "contención", "autoridad"],
-    "Dan Brown":  ["urgencia", "secreto", "revelación", "reloj", "misterio"],
-    "Patterson":  ["velocidad", "impacto", "gancho", "cinético", "inmediatez"],
-    "Grisham":    ["empatía", "injusticia", "underdog", "verdad", "lucha"],
-    "Lee Child":  ["control", "dominio", "economía", "táctica", "inevitabilidad"],
-    "Crichton":   ["autoridad", "ciencia", "amenaza sistémica", "datos", "colapso"],
-}
-
-MOTOR_VISUAL = {
-    "Hemingway":  "Minimalista. Mucho espacio blanco. Tipografía serif clásica. Sin adornos.",
-    "Dan Brown":  "Oscuro, misterioso. Negrita alta. Contraste extremo. Elemento de cuenta atrás.",
-    "Patterson":  "Dinámico. Headers frecuentes. Secciones micro. Fondo blanco limpio.",
-    "Grisham":    "Profesional, legal. Azul marino. Documentos. Autoridad institucional.",
-    "Lee Child":  "Austero. Blanco y negro. Sin decoración. Una imagen única e impactante.",
-    "Crichton":   "Técnico-científico. Infografías. Datos visuales. Paleta fría (azul/verde).",
+COPYWRITER_MOTORS: dict[str, dict] = {
+    "Ben Settle": {
+        "queries":  ["Ben Settle paranoia urgency email polarize reader", "Ben Settle incomodidad lector gancho apertura"],
+        "tone":     ["paranoia", "polarización", "urgencia emocional", "incomodidad", "provocación"],
+        "visual":   "Directo, sin decoración. Texto crudo. Como una carta escrita a mano.",
+    },
+    "Isra Bravo": {
+        "queries":  ["Isra Bravo abundancia cliente elección provocación", "Isra Bravo CTA no ruego paradoja descoloca"],
+        "tone":     ["abundancia", "provocación", "no-ruego", "paradoja", "descolocación"],
+        "visual":   "Limpio y provocador. Contraste alto. Sin adornos. Texto que habla de frente.",
+    },
+    "Mago More": {
+        "queries":  ["Mago More directness verdad mercado sin eufemismos", "Mago More símiles calle realidad cruda"],
+        "tone":     ["directness", "verdad cruda", "símiles", "realidad", "sin filtros"],
+        "visual":   "Austero. Sin florituras. Tipografía limpia. El texto es la imagen.",
+    },
+    "Matt Furey": {
+        "queries":  ["Matt Furey storytelling historia entretenimiento persuasión", "Matt Furey información inspiración narrativa"],
+        "tone":     ["historia", "entretenimiento", "inspiración", "narración suave", "persuasión invisible"],
+        "visual":   "Cálido, narrativo. Colores tierra. Como una carta personal.",
+    },
+    "Gary Halbert": {
+        "queries":  ["Gary Halbert sales letter historia personal protagonista promesa", "Halbert urgencia escasez real apertura conversacional"],
+        "tone":     ["historia personal", "protagonismo lector", "escasez real", "promesa concreta", "conversacional"],
+        "visual":   "Carta clásica. Serif. Márgenes anchos. Como una carta en papel.",
+    },
+    "David Ogilvy": {
+        "queries":  ["David Ogilvy autoridad investigación titular elegancia", "Ogilvy afirmación respaldada sofisticación"],
+        "tone":     ["autoridad", "elegancia", "investigación", "respaldo", "sofisticación"],
+        "visual":   "Clásico premium. Tipografía serif elegante. Espacio blanco. Autoridad visual.",
+    },
+    "Gary Bencivenga": {
+        "queries":  ["Gary Bencivenga prueba especificidad credibilidad datos", "Bencivenga promesa concreta verificable"],
+        "tone":     ["prueba", "especificidad extrema", "credibilidad", "datos", "verificabilidad"],
+        "visual":   "Sobrio y preciso. Datos visuales. Grafismo mínimo. Autoridad científica.",
+    },
+    "John Caples": {
+        "queries":  ["John Caples curiosidad titular beneficio concreto bucle", "Caples apertura irresistible primera línea"],
+        "tone":     ["curiosidad", "beneficio concreto", "bucle abierto", "primera línea", "apertura"],
+        "visual":   "Claro y directo. Titular grande. Subtítulo de beneficio. Clásico americano.",
+    },
+    "Ben Settle + Isra Bravo": {
+        "queries":  ["Ben Settle paranoia urgencia emocional polarizar", "Isra Bravo abundancia provocación CTA no ruego"],
+        "tone":     ["paranoia", "polarización", "abundancia", "provocación", "urgencia emocional", "no-ruego"],
+        "visual":   "Directo y provocador. Sin decoración. Texto que incomoda y atrae a la vez.",
+    },
 }
 
 
@@ -120,26 +141,78 @@ class AlphaLoopOrchestrator:
         return self._read(PROMPTS / "02_prompt_auditor.md")
 
     def _load_motor_context(self, motor: str) -> str:
-        filename = MOTOR_FILES.get(motor)
-        if not filename:
-            return f"Motor '{motor}' no registrado. Aplica estilo de alta conversión neutral."
+        config = COPYWRITER_MOTORS.get(motor)
+        if not config:
+            return f"## MOTOR: {motor}\nAplica estilo de alta conversión. Consulta el RAG para técnicas del autor."
 
-        # Perfil del autor
-        profile = ""
-        p = DATASET / filename
-        if p.exists():
-            profile = p.read_text(encoding="utf-8")
+        parts = [f"## CONTEXTO DEL MOTOR: {motor}"]
+        tone = ", ".join(config.get("tone", []))
+        parts.append(f"Técnicas clave: {tone}")
 
-        # Lógica técnica del motor (si existe)
-        logic_file = LOGICS / filename.replace(".md", "_LOGIC.md").upper()
-        logic_alt  = LOGICS / (filename.upper().replace(".MD", "_LOGIC.md"))
-        logic = ""
-        for lf in [logic_file, logic_alt]:
-            if lf.exists():
-                logic = lf.read_text(encoding="utf-8")
-                break
+        if _RAG_AVAILABLE:
+            # Motores compuestos (MODO FUSIÓN) no tienen un único autor en el campo 'autor'
+            single_author = motor if " + " not in motor else None
+            seen: set[str] = set()
+            for q in config.get("queries", []):
+                try:
+                    results = _query_rag(q, k=2, author_filter=single_author)
+                except Exception:
+                    continue
+                for chunk in results:
+                    cid = chunk.get("content", "")[:80]
+                    if cid in seen:
+                        continue
+                    seen.add(cid)
+                    text = chunk.get("content", "").strip()[:400]
+                    parts.append(f"[{motor}]: {text}")
+                    break  # 1 chunk por query del motor
 
-        return f"## PERFIL DEL MOTOR: {motor}\n\n{profile}\n\n## LÓGICA TÉCNICA\n\n{logic}".strip()
+        return "\n\n".join(parts)
+
+    def _load_librarian_context(self) -> str:
+        """RAG por fases: cada autor del corpus asignado a su fase exacta del texto."""
+        if not _RAG_AVAILABLE:
+            return ""
+
+        phase_queries = [
+            {
+                "phase": "APERTURA",
+                "author": "Ben Settle",
+                "query": "incomodidad apertura gancho discomfort hook paranoia urgency reader",
+            },
+            {
+                "phase": "CUERPO",
+                "author": "Gary Bencivenga",
+                "query": "especificidad prueba credibilidad datos verificables promesa concreta",
+            },
+            {
+                "phase": "CONFLICTO",
+                "author": "David Ogilvy",
+                "query": "autoridad investigación afirmación respaldada problema nombrar conflicto",
+            },
+            {
+                "phase": "CIERRE + TONO GLOBAL",
+                "author": "Isra Bravo",
+                "query": "abundancia CTA oferta única no ruego polarizar cliente elegido",
+            },
+        ]
+
+        print(f"    📚 Librarian por fases: {len(phase_queries)} autores asignados...")
+        parts: list[str] = []
+
+        for pq in phase_queries:
+            try:
+                results = _query_rag(pq["query"], k=2, author_filter=pq["author"])
+            except Exception as e:
+                print(f"    ⚠️  Librarian error ({pq['phase']}): {e}")
+                continue
+            for chunk in results:
+                text = chunk.get("content", "").strip()[:400]
+                if text:
+                    parts.append(f"[{pq['phase']} — {pq['author']}]: {text}")
+                    break  # 1 chunk por fase, sin mezclar
+
+        return "\n\n".join(parts) if parts else ""
 
     def _get_rag_context(self, topic: str, motor: str, limit: int = 3) -> str:
         """Busca fragmentos relevantes en el corpus de 143.942 chunks (ChromaDB local)."""
@@ -172,9 +245,8 @@ class AlphaLoopOrchestrator:
                 if cid in seen:
                     continue
                 seen.add(cid)
-                src  = chunk.get("source_file", "")
-                text = chunk.get("content", "").strip()
-                context_parts.append(f"--- FRAGMENTO [{src}] ---\n{text}")
+                text = chunk.get("content", "").strip()[:400]  # máx 400 chars — evita bleed de corpus
+                context_parts.append(f"--- FRAGMENTO ---\n{text}")
                 if len(context_parts) >= limit:
                     break
             if len(context_parts) >= limit:
@@ -182,10 +254,42 @@ class AlphaLoopOrchestrator:
 
         return "\n\n".join(context_parts) if context_parts else ""
 
+    def _extract_worst_criterion(self, audit_text: str) -> str:
+        """Devuelve feedback de un solo criterio: el de peor puntuación."""
+        criteria_patterns = {
+            "Move 37":        r'move\s*37[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Open Loops":     r'open\s*loops[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Tobogán":        r'tobog[aá]n[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Motor Narrativo": r'motor\s*narrativo[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "CTA":            r'\bCTA\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Voz":            r'\bvoz\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+        }
+
+        scores: dict[str, float] = {}
+        for name, pattern in criteria_patterns.items():
+            m = re.search(pattern, audit_text, re.IGNORECASE)
+            if m:
+                scores[name] = float(m.group(1).replace(",", "."))
+
+        if not scores:
+            return audit_text  # fallback: audit completo si no se puede parsear
+
+        worst = min(scores, key=scores.__getitem__)
+        worst_score = scores[worst]
+
+        # Extrae el párrafo(s) del audit que mencionan el criterio más débil
+        paragraphs = audit_text.split("\n\n")
+        relevant = [p for p in paragraphs if worst.lower() in p.lower()]
+        body = "\n\n".join(relevant[:2]) if relevant else ""
+
+        header = f"CRITERIO MÁS DÉBIL: {worst} ({worst_score}/10). El resto ya está en nivel. Corrige SOLO este eje."
+        return f"{header}\n\n{body}" if body else header
+
     # ── Llamadas a la API ─────────────────────────────────────
 
     def _generate(self, topic: str, audience: str, motor: str,
-                  motor_ctx: str, feedback: str | None, iteration: int) -> str:
+                  motor_ctx: str, feedback: str | None, iteration: int,
+                  librarian_ctx: str = "") -> str:
         system = self._load_system_prompt()
 
         user = f"""## MISIÓN
@@ -199,13 +303,38 @@ class AlphaLoopOrchestrator:
 
 {motor_ctx}
 
+## DIRECTIVA ESTRUCTURAL — ORDEN PSICOLÓGICO (OBLIGATORIO)
+
+El copy se construye en orden psicológico, no lógico. Tres reglas no negociables:
+
+**REGLA 1 — MOVE 37: COMPETIDOR COMO PROTAGONISTA + DATOS PROPIOS, NUNCA GARTNER:**
+El Move 37 golpea ANTES de que el lector entienda qué le ha ocurrido. No se anuncia. Se ejecuta.
+PROHIBIDO: datos genéricos de Gartner, McKinsey, Forrester. Un dato de consultor convierte el copy en presentación de PowerPoint. En su lugar usa datos narrativos propios y específicos (ejemplo: "97 días", "3 deals cerrados mientras el equipo dormía"). Los datos que construyen conspiraciones son los que NADIE más puede revelar.
+TIEMPO VERBAL OBLIGATORIO: Escribe en PRESENTE, no en pasado. No "activó un búnker hace 97 días", sino "Tu competidor activó un búnker. No ayer. Hace 97 días. Y esta noche, mientras lees esto, sigue corriendo." El lector vive la escena en tiempo real, no escucha un relato de lo que pasó. Brown no describe lo que ocurrió — Brown hace que el lector VIVA lo que está ocurriendo mientras lee.
+
+**REGLA 2 — TOBOGÁN: TRES PROHIBICIONES CRÍTICAS:**
+— NUNCA listes los agentes/features consecutivamente. Introduce uno, crea tensión con él, pasa al siguiente. "Uno hace X, Otro hace Y, Otro hace Z" es una ficha técnica, no narrativa.
+— Los datos de tiempo ("11 segundos", "8 minutos", "72 horas") son argumento de cierre. Van cerca del CTA, no en zona de desarrollo.
+— El último párrafo antes del CTA es el más rápido del texto: vértigo, no equilibrio. Brown termina con aceleración. PROHIBIDO el cierre simétrico ("Si cualificas X / Si no cualificas Y" — eso es PowerPoint).
+
+**REGLA 3 — THE CLOCK + THE CRUCIBLE + REVELACIÓN QUE INVALIDA + PUENTE AL CTA:**
+The Clock: la fecha límite se siembra en párrafo 2-3, se menciona de pasada a mitad, llega como golpe inevitable antes del CTA. Si el lector lo ve por primera vez al final, no existe.
+The Crucible: la sección de exclusión cierra salidas, nunca las abre. "Si llevas leyendo hasta aquí, ya sabes que tu problema tiene nombre" cierra. "Esto no es para quien ya tiene leads" abre una puerta de salida y la señaliza con neón.
+REVELACIÓN QUE INVALIDA (Brown Acto 2): En el punto medio del texto, el lector descubre que la categoría del problema es distinta de lo que creía. No "el sistema es poderoso". Sino: "lo que creías que era competencia ya era derrota". Un dato, una frase, que reencuadra retroactivamente todo lo anterior.
+PUENTE CRUCIBLE→CTA: El lector que creyó que el daño es irreversible necesita un reencuadre antes del botón: "No recuperas el territorio perdido. Reclamas el que todavía no tiene dueño."
+
 ## INSTRUCCIÓN
 
 Genera un email de copywriting de alto impacto aplicando estrictamente el motor **{motor}**.
 El copy debe pasar la Rúbrica AlphaGo con puntuación ≥ {self.min_score}/10.
 
-## CONTEXTO DINÁMICO (RAG)
-Aquí tienes fragmentos reales del dataset del motor para guiar tu estilo y precisión:
+## SABIDURÍA ESTRATÉGICA (Librarian — Por Fases)
+Fragmentos del corpus asignados por fase. Cada chunk va a su fase exacta, sin mezclar:
+
+{librarian_ctx}
+
+## CONTEXTO DINÁMICO (RAG — tema específico)
+Fragmentos del corpus relevantes para este brief concreto:
 
 {self._get_rag_context(topic, motor)}
 
@@ -248,7 +377,7 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
 
         response = self.client.messages.create(
             model=self.audit_model,
-            max_tokens=1024,
+            max_tokens=3072,
             system=auditor,
             messages=[{"role": "user", "content": user}],
         )
@@ -282,9 +411,10 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
         print(f"  🔁 Max iter : {self.max_iterations}  |  Umbral: {self.min_score}/10")
         print(f"{'═'*60}\n")
 
-        motor_ctx   = self._load_motor_context(motor)
-        feedback    = None
-        iterations  = []
+        motor_ctx      = self._load_motor_context(motor)
+        librarian_ctx  = self._load_librarian_context()
+        feedback       = None
+        iterations     = []
         best_copy   = ""
         best_score  = 0.0
         best_audit  = ""
@@ -295,7 +425,7 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
 
             # 1. GENERACIÓN
             print(f"  ✍️  Generando copy con motor {motor}...")
-            copy = self._generate(topic, audience, motor, motor_ctx, feedback, iteration)
+            copy = self._generate(topic, audience, motor, motor_ctx, feedback, iteration, librarian_ctx)
             print(f"  ✅ Copy generado  ({len(copy):,} chars)")
 
             # 2. AUDITORÍA
@@ -316,7 +446,8 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
 
             if iteration < self.max_iterations:
                 print(f"  ⚠️  {score}/10 < {self.min_score}/10 — Refinando...\n")
-                feedback = audit
+                feedback = self._extract_worst_criterion(audit)
+                print(f"  🎯 Feedback selectivo: {feedback.splitlines()[0]}")
             else:
                 print(f"\n  ⚠️  Límite de iteraciones alcanzado. Mejor score: {best_score}/10\n")
 
@@ -333,8 +464,8 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
             "final_copy":      best_copy,
             "final_audit":     best_audit,
             # Handoff para Alma
-            "tone_keywords":   MOTOR_TONE.get(motor, []),
-            "visual_direction": MOTOR_VISUAL.get(motor, "Limpio, profesional."),
+            "tone_keywords":   COPYWRITER_MOTORS.get(motor, {}).get("tone", []),
+            "visual_direction": COPYWRITER_MOTORS.get(motor, {}).get("visual", "Limpio, profesional."),
             # Log completo
             "iterations_log":  iterations,
             "generated_at":    datetime.now().isoformat(),
@@ -359,9 +490,8 @@ if __name__ == "__main__":
     )
     parser.add_argument("--topic",     required=False, help="Tema del copy")
     parser.add_argument("--audience",  required=False, help="Audiencia objetivo")
-    parser.add_argument("--motor",     default="Hemingway",
-                        choices=list(MOTOR_FILES.keys()),
-                        help="Motor narrativo (default: Hemingway)")
+    parser.add_argument("--motor",     default="Ben Settle",
+                        help=f"Motor copywriter (default: Ben Settle). Opciones: {', '.join(COPYWRITER_MOTORS.keys())}")
     parser.add_argument("--max-iter",  type=int, default=3, help="Máximo de iteraciones")
     parser.add_argument("--min-score", type=float, default=9.0, help="Umbral mínimo de aprobación")
     parser.add_argument("--test",      action="store_true", help="Verificar estructura sin llamadas API")
@@ -369,7 +499,7 @@ if __name__ == "__main__":
 
     if args.test:
         print("✅ AlphaLoop Orchestrator — estructura verificada.")
-        print(f"   Motores disponibles : {', '.join(MOTOR_FILES.keys())}")
+        print(f"   Motores disponibles : {', '.join(COPYWRITER_MOTORS.keys())}")
         print(f"   Rutas configuradas  :")
         print(f"     BASE    = {BASE}")
         print(f"     PROMPTS = {PROMPTS}")
