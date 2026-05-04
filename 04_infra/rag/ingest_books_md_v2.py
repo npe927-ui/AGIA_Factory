@@ -54,18 +54,42 @@ def chunk_md(text: str) -> list[str]:
     paragraphs = text.split('\n\n')
     chunks, current, current_wc = [], [], 0
 
-    for para in paragraphs:
-        para = para.strip()
-        if not para:
-            continue
-        wc = len(para.split())
-        if current_wc + wc > CHUNK_SIZE_WORDS and current:
+    def flush():
+        nonlocal current, current_wc
+        if current:
             chunks.append('\n\n'.join(current))
             overlap = ' '.join(' '.join(current).split()[-CHUNK_OVERLAP:])
             current    = [overlap] if overlap else []
             current_wc = len(current[0].split()) if current else 0
-        current.append(para)
-        current_wc += wc
+
+    for para in paragraphs:
+        para = para.strip()
+        if not para:
+            continue
+        words = para.split()
+        wc    = len(words)
+
+        if wc > CHUNK_SIZE_WORDS:
+            # Paragraph too long (e.g. Whisper transcription blob) — flush current,
+            # then split by words so audio transcriptions get properly chunked.
+            if current:
+                flush()
+            i = 0
+            while i < len(words):
+                available = CHUNK_SIZE_WORDS - current_wc
+                take = words[i:i + available]
+                if not take:
+                    break
+                current.append(' '.join(take))
+                current_wc += len(take)
+                i += len(take)
+                if current_wc >= CHUNK_SIZE_WORDS:
+                    flush()
+        else:
+            if current_wc + wc > CHUNK_SIZE_WORDS and current:
+                flush()
+            current.append(para)
+            current_wc += wc
 
     if current:
         chunks.append('\n\n'.join(current))
