@@ -13,7 +13,7 @@
 | Seguridad y LOPD (Auditoría) | ✅ COMPLETADO (INDUSTRIAL) | Pau (Antigravity) |
 | Agente Conversor (convert_books_to_md.py) | ✅ Operativo + RAG chunking | Ethan |
 | Dataset AGENTE SETTER_LEGACY (epub/pdf) | ✅ Convertido | Ethan |
-| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ 143.942 chunks indexados | Ethan |
+| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **144.032 chunks** (+37 Whisper P3, 2026-05-04) | Ethan |
 | Logo e Identidad AGIA | ✅ SELECCIONADO (Neon Tech) | Pau / Nacho |
 | RAG ChromaDB Local | ✅ OPERATIVO (7.6GB, /home/npe927/chroma_data2) | Ethan |
 | AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). Run 12: 7.8 (landing page). RAG author_filter activo. Auditor v2.1 con rúbricas copywriters. | Ethan |
@@ -57,6 +57,69 @@
 ## LOG DE DECISIONES
 
 *(Entradas más recientes primero)*
+
+---
+
+**[2026-05-04] — ETHAN: WHISPER P3 — 18 TRANSCRIPCIONES VÍDEO MP4 → RAG ✅**
+
+Script `whisper_drive_ingest.py` ampliado con soporte P3 (MP4 + extracción audio ffmpeg en un solo paso).
+
+**19 MP4 procesados, 18 exitosos** (1 corrupto: Fran Ruiz Ideas de Negocio 04):
+- **Mago More 2022 — Marca Personal** (862MB, 20.606 palabras) → 0 chunks previos, ahora indexado. Motor AlphaLoop.
+- **Masterclass Presupuestos Principal** (1.080MB, 11.889 palabras) — Isra Bravo, ventas.
+- **Luis Monge + Rubén Loan 30k subs** (418MB, 15.494 palabras)
+- **Empleo 2022** (354MB, 8.108 palabras)
+- **Presupuestos Bonus + Extra 1 + Extra 2** (241+238+117MB)
+- **Maria Jesus Danio** (166MB), **Gabriel Melli** (164MB), **Laura Yago** (156MB, 18.080 palabras)
+- **Fran Ruiz Ideas 01-03/05** + Aclarando Dudas + Luis Monge Respuesta + Aumentar Visitas + Maria Jesus Danio Encontrar Problema
+
+**Resultado:** +37 chunks → **144.032 chunks totales** en ChromaDB. Coste: **$3.48**.
+
+**Whisper pipeline COMPLETO: P1+P2+P3 terminados.** Sin pendientes de audio/vídeo salvo Fran Ruiz 04 (MP4 corrupto en Drive).
+
+— Ethan
+
+---
+
+**[2026-05-04] — ETHAN: WHISPER P1+P2 — 23 TRANSCRIPCIONES AUDIO → RAG ✅**
+
+Script `04_Infra/rag/whisper_drive_ingest.py` construido y ejecutado completo.
+
+**P1 (17 archivos, $1.11):** 8 módulos Copywriting para Atrevidos + Masterclass Presupuestos + Cudacu + Lanzamientos ×3 + Membresía + Boletines ×3. Todos Isra Bravo.
+
+**P2 (6 archivos, $3.98):** Desgranan su Negocio P1+P2 (52.625 palabras Isra Bravo + Monge Malo), Captar 10k suscriptores, Twitter Ivan Orange + Monje + Fran Ruiz, Masterclass Storytelling, Marca Personal Silvia Llop.
+
+**Resultado:** +53 chunks → **143.995 chunks totales** en ChromaDB. Coste total: **$5.09**. Saldo restante OpenAI: ~$4.56.
+
+**Pendiente P3:** 19 MP4 sin MP3 equivalente. Prioritario: **Mago More 862MB** (0 chunks en RAG — motor del AlphaLoop). Requiere recargar OpenAI ~$20. Script listo, solo añadir P3 al catálogo.
+
+— Ethan
+
+---
+
+**[2026-04-30 NOCHE] — PAU: CORRECCIÓN ESTRUCTURAL v2.5 + ROADMAP PRÓXIMAS SESIONES 🎯**
+
+**Error detectado y corregido:** Los motores narrativos del system prompt v2.1→v2.4 eran novelistas de thriller (Dan Brown, Hemingway, Lee Child, Patterson, Grisham, Crichton). Error de concepto: el RAG contiene 143.942 chunks de los mejores copywriters de la historia y los estábamos ignorando como motores.
+
+**Fix aplicado — v2.5 (2026-04-30 22:00h):**
+- 6 novelistas eliminados como motores.
+- Reemplazados por 8 copywriters reales del corpus: **Gary Halbert · David Ogilvy · Gary Bencivenga · John Caples · Ben Settle · Isra Bravo · Mago More · Matt Furey**.
+- Modo Fusión redefinido: 4 autores por fases del texto (Settle apertura / Furey cuerpo / Mago More conflicto / Isra cierre).
+- Lee Child marcado explícitamente como motor incompatible (lenguaje sin metáforas ≠ corpus RAG).
+- Archivo: `00_INSTRUCCIONES_MAESTRAS/01_prompt_maestro.md` — 133 líneas.
+- Backup en: `BACKUPS/2026-04-30/01_prompt_maestro_v2.5.md`
+
+**Regla aprendida hoy (no repetir):** Antes de proponer cualquier cambio al prompt, validar que está alineado con lo que hay en el RAG. Un cambio bien pensado vale más que cinco cambios rápidos.
+
+**Roadmap — 4 tareas, una a la vez:**
+1. ✅ Bunker actualizado (esta entrada)
+2. ⏳ **Auditar el Auditor** — ¿El techo 8.6 es del generador o del Martillo? Revisar `02_prompt_auditor.md` y los pesos 20/20/20/20/10/10.
+3. ⏳ **Verificar calidad RAG** — Ethan lanza 3 queries de prueba (Isra Bravo / Ben Settle / Mago More) y devuelve los 2 chunks top de cada una.
+4. ⏳ **Nuevo formato (landing page)** — Solo cuando sistema esté calibrado.
+
+**Instrucción para Run 11 (pendiente):** `--max-iter 2` + feedback selectivo (1 criterio) + Modo Fusión Settle+Bravo + RAG por fases. Objetivo: superar 8.6.
+
+— Pau ♟️⚖️
 
 ---
 
