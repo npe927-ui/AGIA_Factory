@@ -4,13 +4,15 @@ AlphaLoop Orchestrator — Bucle de Generación → Auditoría → Refinamiento
 Implementa el ciclo AlphaGo del Copywriting usando la Claude API real.
 
 Uso:
-    python alpha_loop_orchestrator.py --topic "..." --audience "..." --motor Hemingway
-    python alpha_loop_orchestrator.py --topic "..." --audience "..." --motor "Dan Brown" --max-iter 3
+    python alpha_loop_orchestrator.py --topic "..." --audience "..." --channel cold-email
+    python alpha_loop_orchestrator.py --topic "..." --audience "..." --channel emkd --motor "Matt Furey"
+    python alpha_loop_orchestrator.py --topic "..." --prospecto "Empresa X" --channel cold-email
     python alpha_loop_orchestrator.py --test
 
 Requiere:
     pip install anthropic python-dotenv
     ANTHROPIC_API_KEY en .env o variable de entorno
+    TAVILY_API_KEY en .env (opcional — activa Investigador de Mercado)
 """
 
 import os
@@ -23,9 +25,8 @@ from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
-# RAG — ChromaDB local (143.942 chunks en /home/npe927/chroma_data2)
+# RAG — ChromaDB local
 _RAG_DIR = Path(__file__).parent.parent.parent.parent.parent / "02_Templates" / "agia360-agents-template" / "rag"
-# Carga las credenciales del RAG (OPENAI_API_KEY válida vive en el template)
 _rag_env = _RAG_DIR.parent / ".env"
 if _rag_env.exists():
     from dotenv import load_dotenv as _load_env
@@ -38,26 +39,27 @@ try:
 except ImportError:
     _RAG_AVAILABLE = False
 
-# 🛡️ Integración de Bóveda de Secretos (Persistencia Agéntica)
-# Añadimos el directorio de scripts al path para importar el recolector
+# PMC — Product Marketing Context (AGIA como vendedor en modo prospecting)
+PMC_PATH = Path(__file__).parent.parent.parent.parent.parent / ".agents" / "product-marketing-context.md"
+
+# 🛡️ Bóveda de Secretos
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 try:
     from get_secrets import load_secrets_from_vault
     print("🔋 Intentando recuperar secretos de la Bóveda en Supabase...")
     load_secrets_from_vault()
 except ImportError:
-    print("⚠️ No se encontró el script de Bóveda (get_secrets.py). Continuando con .env local.")
+    print("⚠️ No se encontró get_secrets.py. Continuando con .env local.")
 
 load_dotenv()
 
 # ── Configuración de rutas ────────────────────────────────────
-BASE       = Path(__file__).parent.parent
-PROMPTS    = BASE / "00_INSTRUCCIONES_MAESTRAS"
-DATASET    = BASE / "02_DATASET_TRONCAL" / "03_AUTORES_NARRATIVOS"
-LOGICS     = BASE / "02_DATASET_TRONCAL" / "04_FUENTES_AUTORES"
-OUTPUTS    = BASE / "05_OUTPUTS"
+BASE    = Path(__file__).parent.parent
+PROMPTS = BASE / "00_INSTRUCCIONES_MAESTRAS"
+OUTPUTS = BASE / "05_OUTPUTS"
 OUTPUTS.mkdir(exist_ok=True)
 
+# ── Motores de copywriting ────────────────────────────────────
 COPYWRITER_MOTORS: dict[str, dict] = {
     "Ben Settle": {
         "queries":  ["Ben Settle paranoia urgency email polarize reader", "Ben Settle incomodidad lector gancho apertura"],
@@ -106,6 +108,136 @@ COPYWRITER_MOTORS: dict[str, dict] = {
     },
 }
 
+# ── Canal Router — 6 subagentes ──────────────────────────────
+CHANNEL_CONFIG: dict[str, dict] = {
+    "cold-email": {
+        "name":          "Cold Email",
+        "default_motor": "Ben Settle + Isra Bravo",
+        "librarian_phases": [
+            {"phase": "APERTURA", "author": "Ben Settle",
+             "query": "hook incomodidad paranoia urgency apertura email fría prospección"},
+            {"phase": "CUERPO", "author": "Gary Halbert",
+             "query": "historia personal promesa concreta urgencia escasez real conversacional"},
+            {"phase": "CIERRE", "author": "Isra Bravo",
+             "query": "CTA abundancia no ruego polarizar cliente elegido no necesidad"},
+        ],
+        "format_instruction": (
+            "Email frío de prospección B2B. Asunto + cuerpo + CTA.\n"
+            "OBJETIVO: conseguir respuesta, NO vender directamente.\n\n"
+            "FILOSOFÍA DEL EMAIL — Lo que lo hace funcionar no es este email. Es la SECUENCIA.\n"
+            "Este email es el primer apretón de manos. Vendrán más. Con persistencia, con amor,\n"
+            "con sonrisa. Como los mejores vendedores del mundo — como un niño que pide algo:\n"
+            "no grita, no ruega, vuelve. Con cariño. Con convicción. Sin rendirse.\n"
+            "El cold email + el email diario (EMKD) juntos son la llave que abre la puerta de las ventas.\n"
+            "Este email planta la semilla. Los siguientes la riegan.\n\n"
+            "VOZ MANDATORIA — Escribe como una persona real hablando con otra persona real:\n"
+            "- Conversacional, cálido, empático. Como si lo escribieras desde el móvil a un conocido.\n"
+            "- Storytelling: arranca con una historia concreta y humana (un CEO real, una situación vivida).\n"
+            "- Empatía profunda: el lector tiene que sentir que lo entiendes de verdad, no que lo prospecteas.\n"
+            "- Persuasión suave: convence sin presionar. La convicción es tuya, la decisión es suya.\n"
+            "- Frases cortas. Párrafos de 1-2 líneas. Mucho espacio en blanco. Que se lea solo.\n"
+            "- Sin estructura corporativa. Sin jerga de agencia. Sin sonar a plantilla de ventas.\n\n"
+            "CTA MANDATORIO: ofrecer una auditoría personalizada de sus textos (no pedir llamada directa).\n"
+            "NUNCA mostrar necesidad. AGIA elige con quién trabaja.\n"
+            "PROHIBIDO: 'Radiografía Comercial' como término — usa lenguaje natural y cercano.\n\n"
+            "LONGITUD MÁXIMA — NO NEGOCIABLE:\n"
+            "Cuerpo del email: máximo 150 palabras. Ni una más.\n"
+            "Frases cortas. Párrafos de 1-2 líneas. Espacio en blanco. Que se lea en 30 segundos.\n"
+            "Si el auditor rechaza el ángulo, la siguiente iteración usa un ángulo COMPLETAMENTE DISTINTO.\n"
+            "No pulir el mismo ángulo — cambiarlo de raíz."
+        ),
+    },
+    "emkd": {
+        "name":          "Email Marketing Diario (EMKD)",
+        "default_motor": "Matt Furey",
+        "librarian_phases": [
+            {"phase": "APERTURA", "author": "Matt Furey",
+             "query": "storytelling historia entretenimiento apertura email diario gancho"},
+            {"phase": "CUERPO", "author": "David Ogilvy",
+             "query": "idea concreta insight inesperado brevedad impacto lector"},
+            {"phase": "CIERRE", "author": "Isra Bravo",
+             "query": "CTA venta directa no ruego oferta única email diario"},
+        ],
+        "format_instruction": (
+            "Email diario de nurturing y venta (EMKD).\n"
+            "Estructura: Historia o gancho → Lección o idea → CTA concreto.\n"
+            "Tono conversacional, directo. No más de 300-400 palabras."
+        ),
+    },
+    "carta-ventas": {
+        "name":          "Carta de Ventas",
+        "default_motor": "Gary Bencivenga",
+        "librarian_phases": [
+            {"phase": "APERTURA", "author": "John Caples",
+             "query": "titular curiosidad beneficio concreto apertura irresistible primera línea"},
+            {"phase": "CUERPO", "author": "Gary Bencivenga",
+             "query": "especificidad prueba credibilidad datos verificables promesa concreta"},
+            {"phase": "CONFLICTO", "author": "Gary Halbert",
+             "query": "historia personal protagonista escasez urgencia real agitación problema"},
+            {"phase": "CIERRE", "author": "Isra Bravo",
+             "query": "CTA no ruego abundancia oferta única polarizar elegido"},
+        ],
+        "format_instruction": (
+            "Carta o página de ventas larga.\n"
+            "Estructura: Titular → Problema → Agitación → Solución → Prueba → Precio → CTA.\n"
+            "Máximo impacto en cada sección. Tobogán sin freno hasta el CTA."
+        ),
+    },
+    "antipresupuestos": {
+        "name":          "Antipresupuesto",
+        "default_motor": "Isra Bravo",
+        "librarian_phases": [
+            {"phase": "DIAGNÓSTICO", "author": "Isra Bravo",
+             "query": "abundancia provocación posición poder no ruego diagnóstico situación"},
+            {"phase": "SOLUCIÓN", "author": "Gary Bencivenga",
+             "query": "especificidad prueba promesa concreta verificable entregables sistema"},
+            {"phase": "CIERRE", "author": "Isra Bravo",
+             "query": "CTA elegido cliente selectivo oferta única cierre propuesta comercial"},
+        ],
+        "format_instruction": (
+            "Propuesta comercial persuasiva (Antipresupuesto). NO es un presupuesto estándar.\n"
+            "Estructura: Diagnóstico → Problema detectado → Solución AGIA → Promesa → "
+            "Entregables → Precio → CTA.\n"
+            "Tono: posición de poder. AGIA no ruega. AGIA selecciona."
+        ),
+    },
+    "closer": {
+        "name":          "Closer (Seguimiento y Cierre)",
+        "default_motor": "Ben Settle",
+        "librarian_phases": [
+            {"phase": "APERTURA", "author": "Ben Settle",
+             "query": "seguimiento objeción paranoia urgencia no desesperado posición poder"},
+            {"phase": "MANEJO OBJECIÓN", "author": "Gary Halbert",
+             "query": "objeción manejo escasez urgencia real razón cierre último intento"},
+            {"phase": "CIERRE", "author": "Isra Bravo",
+             "query": "cierre abundancia no ruego último intento dignidad decisión cliente"},
+        ],
+        "format_instruction": (
+            "Email de seguimiento o cierre de venta.\n"
+            "Objetivo: manejar objeciones y cerrar sin perder dignidad.\n"
+            "NUNCA mostrar necesidad. AGIA siempre en posición de poder.\n"
+            "Tono: directo, respetuoso, con ligera escasez real."
+        ),
+    },
+    "anuncios": {
+        "name":          "Anuncios (Meta / Google Ads)",
+        "default_motor": "John Caples",
+        "librarian_phases": [
+            {"phase": "HOOK", "author": "John Caples",
+             "query": "hook titular curiosidad beneficio concreto primera línea irresistible ads"},
+            {"phase": "CUERPO", "author": "Gary Bencivenga",
+             "query": "prueba especificidad credibilidad datos verificables promesa anuncio"},
+            {"phase": "CTA", "author": "Isra Bravo",
+             "query": "CTA urgencia no ruego acción inmediata anuncio directo"},
+        ],
+        "format_instruction": (
+            "Anuncio para Meta o Google Ads.\n"
+            "Estructura: Hook (1-2 líneas) + Cuerpo (3-5 líneas) + CTA (1 línea).\n"
+            "Directo, específico, sin desperdicio. Cada palabra gana su sitio."
+        ),
+    },
+}
+
 
 class AlphaLoopOrchestrator:
 
@@ -114,14 +246,17 @@ class AlphaLoopOrchestrator:
         if not api_key:
             raise EnvironmentError("ANTHROPIC_API_KEY no encontrada. Añádela al .env o exporta la variable.")
 
-        self.client        = anthropic.Anthropic(api_key=api_key)
-        self.gen_model     = "claude-opus-4-6"    # Máxima calidad para generación
-        self.audit_model   = "claude-sonnet-4-6"  # Sonnet para auditoría (velocidad + coste)
+        self.client         = anthropic.Anthropic(api_key=api_key)
+        self.gen_model      = "claude-opus-4-6"
+        self.audit_model    = "claude-sonnet-4-6"
         self.max_iterations = max_iterations
         self.min_score      = min_score
+        self.tavily_key     = os.environ.get("TAVILY_API_KEY", "")
 
         if _RAG_AVAILABLE:
-            print("🔍 RAG activado — ChromaDB local (143.942 chunks)")
+            print("🔍 RAG activado — ChromaDB local")
+        if self.tavily_key:
+            print("🌐 Investigador de Mercado activado — Tavily")
 
     # ── Carga de ficheros ─────────────────────────────────────
 
@@ -140,17 +275,24 @@ class AlphaLoopOrchestrator:
     def _load_auditor_prompt(self) -> str:
         return self._read(PROMPTS / "02_prompt_auditor.md")
 
+    def _load_pmc(self) -> str:
+        if PMC_PATH.exists():
+            content = PMC_PATH.read_text(encoding="utf-8")
+            print(f"  📋 PMC cargado ({len(content):,} chars)")
+            return content
+        print("  ⚠️  PMC no encontrado — generando sin contexto de producto.")
+        return ""
+
     def _load_motor_context(self, motor: str) -> str:
         config = COPYWRITER_MOTORS.get(motor)
         if not config:
-            return f"## MOTOR: {motor}\nAplica estilo de alta conversión. Consulta el RAG para técnicas del autor."
+            return f"## MOTOR: {motor}\nAplica estilo de alta conversión."
 
         parts = [f"## CONTEXTO DEL MOTOR: {motor}"]
         tone = ", ".join(config.get("tone", []))
         parts.append(f"Técnicas clave: {tone}")
 
         if _RAG_AVAILABLE:
-            # Motores compuestos (MODO FUSIÓN) no tienen un único autor en el campo 'autor'
             single_author = motor if " + " not in motor else None
             seen: set[str] = set()
             for q in config.get("queries", []):
@@ -165,39 +307,21 @@ class AlphaLoopOrchestrator:
                     seen.add(cid)
                     text = chunk.get("content", "").strip()[:400]
                     parts.append(f"[{motor}]: {text}")
-                    break  # 1 chunk por query del motor
+                    break
 
         return "\n\n".join(parts)
 
-    def _load_librarian_context(self) -> str:
-        """RAG por fases: cada autor del corpus asignado a su fase exacta del texto."""
+    def _load_channel_librarian(self, channel: str) -> str:
+        """RAG por fases según el canal activo."""
         if not _RAG_AVAILABLE:
             return ""
 
-        phase_queries = [
-            {
-                "phase": "APERTURA",
-                "author": "Ben Settle",
-                "query": "incomodidad apertura gancho discomfort hook paranoia urgency reader",
-            },
-            {
-                "phase": "CUERPO",
-                "author": "Gary Bencivenga",
-                "query": "especificidad prueba credibilidad datos verificables promesa concreta",
-            },
-            {
-                "phase": "CONFLICTO",
-                "author": "David Ogilvy",
-                "query": "autoridad investigación afirmación respaldada problema nombrar conflicto",
-            },
-            {
-                "phase": "CIERRE + TONO GLOBAL",
-                "author": "Isra Bravo",
-                "query": "abundancia CTA oferta única no ruego polarizar cliente elegido",
-            },
-        ]
+        cfg = CHANNEL_CONFIG.get(channel, {})
+        phase_queries = cfg.get("librarian_phases", [])
+        if not phase_queries:
+            return ""
 
-        print(f"    📚 Librarian por fases: {len(phase_queries)} autores asignados...")
+        print(f"    📚 Librarian [{cfg.get('name', channel)}]: {len(phase_queries)} fases...")
         parts: list[str] = []
 
         for pq in phase_queries:
@@ -210,31 +334,19 @@ class AlphaLoopOrchestrator:
                 text = chunk.get("content", "").strip()[:400]
                 if text:
                     parts.append(f"[{pq['phase']} — {pq['author']}]: {text}")
-                    break  # 1 chunk por fase, sin mezclar
+                    break
 
         return "\n\n".join(parts) if parts else ""
 
     def _get_rag_context(self, topic: str, motor: str, limit: int = 3) -> str:
-        """Busca fragmentos relevantes en el corpus de 143.942 chunks (ChromaDB local)."""
         if not _RAG_AVAILABLE:
             return ""
 
-        # Construye dos queries complementarias: tema + estilo del motor
-        motor_style = {
-            "Hemingway": "minimalismo precisión copywriting",
-            "Dan Brown":  "urgencia misterio cuenta atrás copywriting",
-            "Patterson":  "gancho tobogán párrafos cortos copywriting",
-            "Grisham":    "empatía underdog conflicto copywriting",
-            "Lee Child":  "economía táctica control copywriting",
-            "Crichton":   "autoridad datos ciencia copywriting",
-        }.get(motor, "copywriting persuasivo conversión")
-
-        print(f"    📡 RAG: buscando para '{topic}' con motor {motor}...")
-
+        print(f"    📡 RAG: buscando '{topic[:50]}' con motor {motor}...")
         seen: set[str] = set()
         context_parts: list[str] = []
 
-        for query in [topic, f"{motor_style} — {topic}"]:
+        for query in [topic, f"copywriting persuasivo — {topic}"]:
             try:
                 results = _query_rag(query, k=limit)
             except Exception as e:
@@ -245,7 +357,7 @@ class AlphaLoopOrchestrator:
                 if cid in seen:
                     continue
                 seen.add(cid)
-                text = chunk.get("content", "").strip()[:400]  # máx 400 chars — evita bleed de corpus
+                text = chunk.get("content", "").strip()[:400]
                 context_parts.append(f"--- FRAGMENTO ---\n{text}")
                 if len(context_parts) >= limit:
                     break
@@ -254,15 +366,44 @@ class AlphaLoopOrchestrator:
 
         return "\n\n".join(context_parts) if context_parts else ""
 
+    def _investigate_market(self, prospecto: str) -> str:
+        """Investigador de Mercado — Tavily (opcional). Busca info del prospecto en internet."""
+        if not self.tavily_key or not prospecto:
+            return ""
+
+        print(f"    🌐 Investigador: buscando info de '{prospecto}'...")
+        try:
+            import requests
+            resp = requests.post(
+                "https://api.tavily.com/search",
+                json={
+                    "api_key": self.tavily_key,
+                    "query": f"{prospecto} empresa comunicación marketing ventas",
+                    "search_depth": "basic",
+                    "max_results": 3,
+                },
+                timeout=10,
+            )
+            if resp.status_code != 200:
+                return ""
+            data = resp.json()
+            results = data.get("results", [])
+            snippets = [f"- {r.get('title', '')}: {r.get('content', '')[:200]}" for r in results]
+            if snippets:
+                print(f"    ✅ Investigador: {len(snippets)} fuentes encontradas")
+                return "## CONTEXTO DEL PROSPECTO (Investigador de Mercado)\n" + "\n".join(snippets)
+        except Exception as e:
+            print(f"    ⚠️  Investigador error: {e}")
+        return ""
+
     def _extract_worst_criterion(self, audit_text: str) -> str:
-        """Devuelve feedback de un solo criterio: el de peor puntuación."""
         criteria_patterns = {
-            "Move 37":        r'move\s*37[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
-            "Open Loops":     r'open\s*loops[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
-            "Tobogán":        r'tobog[aá]n[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Move 37":         r'move\s*37[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Open Loops":      r'open\s*loops[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Tobogán":         r'tobog[aá]n[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
             "Motor Narrativo": r'motor\s*narrativo[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
-            "CTA":            r'\bCTA\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
-            "Voz":            r'\bvoz\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "CTA":             r'\bCTA\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
+            "Voz":             r'\bvoz\b[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
         }
 
         scores: dict[str, float] = {}
@@ -272,12 +413,11 @@ class AlphaLoopOrchestrator:
                 scores[name] = float(m.group(1).replace(",", "."))
 
         if not scores:
-            return audit_text  # fallback: audit completo si no se puede parsear
+            return audit_text
 
         worst = min(scores, key=scores.__getitem__)
         worst_score = scores[worst]
 
-        # Extrae el párrafo(s) del audit que mencionan el criterio más débil
         paragraphs = audit_text.split("\n\n")
         relevant = [p for p in paragraphs if worst.lower() in p.lower()]
         body = "\n\n".join(relevant[:2]) if relevant else ""
@@ -289,15 +429,28 @@ class AlphaLoopOrchestrator:
 
     def _generate(self, topic: str, audience: str, motor: str,
                   motor_ctx: str, feedback: str | None, iteration: int,
-                  librarian_ctx: str = "") -> str:
+                  librarian_ctx: str = "", pmc_ctx: str = "",
+                  channel: str = "cold-email", market_ctx: str = "") -> str:
         system = self._load_system_prompt()
+        channel_cfg = CHANNEL_CONFIG.get(channel, {})
+        channel_name = channel_cfg.get("name", channel)
+        format_instruction = channel_cfg.get("format_instruction", "")
 
         user = f"""## MISIÓN
 
-**Tema**: {topic}
+**Canal**: {channel_name}
+**Tema / Brief**: {topic}
 **Audiencia objetivo**: {audience}
 **Motor narrativo**: {motor}
 **Iteración**: {iteration}/{self.max_iterations}
+
+## PRODUCT MARKETING CONTEXT (PMC — AGIA Copywriter)
+
+{pmc_ctx if pmc_ctx else "_PMC no disponible. Aplica criterio comercial propio._"}
+
+## INSTRUCCIONES DEL CANAL: {channel_name}
+
+{format_instruction}
 
 ## CONTEXTO DEL MOTOR ({motor})
 
@@ -307,39 +460,36 @@ class AlphaLoopOrchestrator:
 
 El copy se construye en orden psicológico, no lógico. Tres reglas no negociables:
 
-**REGLA 1 — MOVE 37: COMPETIDOR COMO PROTAGONISTA + DATOS PROPIOS, NUNCA GARTNER:**
+**REGLA 1 — MOVE 37: ÁNGULO CONTRAINTUITIVO CON DATOS PROPIOS:**
 El Move 37 golpea ANTES de que el lector entienda qué le ha ocurrido. No se anuncia. Se ejecuta.
-PROHIBIDO: datos genéricos de Gartner, McKinsey, Forrester. Un dato de consultor convierte el copy en presentación de PowerPoint. En su lugar usa datos narrativos propios y específicos (ejemplo: "97 días", "3 deals cerrados mientras el equipo dormía"). Los datos que construyen conspiraciones son los que NADIE más puede revelar.
-TIEMPO VERBAL OBLIGATORIO: Escribe en PRESENTE, no en pasado. No "activó un búnker hace 97 días", sino "Tu competidor activó un búnker. No ayer. Hace 97 días. Y esta noche, mientras lees esto, sigue corriendo." El lector vive la escena en tiempo real, no escucha un relato de lo que pasó. Brown no describe lo que ocurrió — Brown hace que el lector VIVA lo que está ocurriendo mientras lee.
+PROHIBIDO: datos genéricos de Gartner, McKinsey, Forrester. Usa datos narrativos propios y específicos.
+TIEMPO VERBAL: Escribe en PRESENTE. El lector vive la escena en tiempo real, no escucha un relato.
 
-**REGLA 2 — TOBOGÁN: TRES PROHIBICIONES CRÍTICAS:**
-— NUNCA listes los agentes/features consecutivamente. Introduce uno, crea tensión con él, pasa al siguiente. "Uno hace X, Otro hace Y, Otro hace Z" es una ficha técnica, no narrativa.
-— Los datos de tiempo ("11 segundos", "8 minutos", "72 horas") son argumento de cierre. Van cerca del CTA, no en zona de desarrollo.
-— El último párrafo antes del CTA es el más rápido del texto: vértigo, no equilibrio. Brown termina con aceleración. PROHIBIDO el cierre simétrico ("Si cualificas X / Si no cualificas Y" — eso es PowerPoint).
+**REGLA 2 — TOBOGÁN: TRES PROHIBICIONES:**
+— NUNCA listes features/puntos consecutivamente. Introduce uno, crea tensión, pasa al siguiente.
+— Datos de tiempo van cerca del CTA, no en zona de desarrollo.
+— Último párrafo antes del CTA: aceleración, no equilibrio. Sin cierre simétrico.
 
-**REGLA 3 — THE CLOCK + THE CRUCIBLE + REVELACIÓN QUE INVALIDA + PUENTE AL CTA:**
-The Clock: la fecha límite se siembra en párrafo 2-3, se menciona de pasada a mitad, llega como golpe inevitable antes del CTA. Si el lector lo ve por primera vez al final, no existe.
-The Crucible: la sección de exclusión cierra salidas, nunca las abre. "Si llevas leyendo hasta aquí, ya sabes que tu problema tiene nombre" cierra. "Esto no es para quien ya tiene leads" abre una puerta de salida y la señaliza con neón.
-REVELACIÓN QUE INVALIDA (Brown Acto 2): En el punto medio del texto, el lector descubre que la categoría del problema es distinta de lo que creía. No "el sistema es poderoso". Sino: "lo que creías que era competencia ya era derrota". Un dato, una frase, que reencuadra retroactivamente todo lo anterior.
-PUENTE CRUCIBLE→CTA: El lector que creyó que el daño es irreversible necesita un reencuadre antes del botón: "No recuperas el territorio perdido. Reclamas el que todavía no tiene dueño."
+**REGLA 3 — THE CLOCK + THE CRUCIBLE:**
+The Clock: la urgencia se siembra pronto, se menciona a mitad, llega como golpe antes del CTA.
+The Crucible: la sección de exclusión cierra salidas. Nunca abre puertas de escape.
+PUENTE CRUCIBLE→CTA: reencuadra antes del botón. De daño irreversible a oportunidad abierta.
 
-## INSTRUCCIÓN
+## SABIDURÍA ESTRATÉGICA (Librarian — Por Fases del Canal)
 
-Genera un email de copywriting de alto impacto aplicando estrictamente el motor **{motor}**.
-El copy debe pasar la Rúbrica AlphaGo con puntuación ≥ {self.min_score}/10.
-
-## SABIDURÍA ESTRATÉGICA (Librarian — Por Fases)
-Fragmentos del corpus asignados por fase. Cada chunk va a su fase exacta, sin mezclar:
-
-{librarian_ctx}
+{librarian_ctx if librarian_ctx else "_RAG no disponible._"}
 
 ## CONTEXTO DINÁMICO (RAG — tema específico)
-Fragmentos del corpus relevantes para este brief concreto:
 
 {self._get_rag_context(topic, motor)}
 
+{f"## CONTEXTO DEL PROSPECTO{chr(10)}{market_ctx}" if market_ctx else ""}
+
 ## RESTRICCIÓN
-Incluye: asunto del email, cuerpo completo y CTA. No incluyas explicaciones externas."""
+
+Genera el copy según las instrucciones del canal {channel_name}.
+El copy debe pasar la Rúbrica AlphaGo con puntuación ≥ {self.min_score}/10.
+No incluyas explicaciones externas al copy."""
 
         if feedback:
             user += f"""
@@ -349,7 +499,7 @@ Incluye: asunto del email, cuerpo completo y CTA. No incluyas explicaciones exte
 {feedback}
 
 Corrige exactamente los puntos señalados. No repitas los errores anteriores.
-Objetivo: superar el {self.min_score + 0.5}/10 en esta iteración."""
+Objetivo: superar {self.min_score + 0.5}/10 en esta iteración."""
 
         response = self.client.messages.create(
             model=self.gen_model,
@@ -359,12 +509,14 @@ Objetivo: superar el {self.min_score + 0.5}/10 en esta iteración."""
         )
         return response.content[0].text
 
-    def _audit(self, copy_text: str, motor: str) -> str:
+    def _audit(self, copy_text: str, motor: str, channel: str = "cold-email") -> str:
         auditor = self._load_auditor_prompt()
+        channel_name = CHANNEL_CONFIG.get(channel, {}).get("name", channel)
 
         user = f"""## COPY A AUDITAR
 
 **Motor utilizado**: {motor}
+**Canal**: {channel_name}
 
 ---
 
@@ -386,51 +538,67 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
     # ── Parsing del score ─────────────────────────────────────
 
     def _parse_score(self, audit_text: str) -> float:
-        # Busca: 9.3/10  |  8/10  |  PUNTUACIÓN: 9.1/10
         match = re.search(r'(\d+(?:[.,]\d+)?)\s*/\s*10', audit_text)
         if match:
             return float(match.group(1).replace(",", "."))
         return 0.0
 
-    # ── Guardar output (handoff para Alma) ────────────────────
+    # ── Guardar output ────────────────────────────────────────
 
     def _save(self, result: dict) -> Path:
         ts   = datetime.now().strftime("%Y%m%d_%H%M%S")
-        name = f"copy_{result['motor'].replace(' ', '_')}_{ts}.json"
+        ch   = result.get("channel", "copy").replace("-", "_")
+        name = f"{ch}_{result['motor'].replace(' ', '_')}_{ts}.json"
         out  = OUTPUTS / name
         out.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
         return out
 
     # ── Bucle principal ───────────────────────────────────────
 
-    def run(self, topic: str, audience: str, motor: str = "Hemingway") -> dict:
+    def run(self, topic: str, audience: str, motor: str = "",
+            channel: str = "cold-email", prospecto: str = "") -> dict:
+
+        channel_cfg  = CHANNEL_CONFIG.get(channel, CHANNEL_CONFIG["cold-email"])
+        channel_name = channel_cfg["name"]
+        if not motor:
+            motor = channel_cfg["default_motor"]
+
         print(f"\n{'═'*60}")
-        print(f"  🚀 AlphaLoop Orchestrator  |  Motor: {motor}")
-        print(f"  📌 Tema    : {topic}")
+        print(f"  🚀 AlphaLoop Orchestrator  |  Canal: {channel_name}")
+        print(f"  🎨 Motor    : {motor}")
+        print(f"  📌 Brief    : {topic}")
         print(f"  🎯 Audiencia: {audience}")
+        if prospecto:
+            print(f"  🔎 Prospecto: {prospecto}")
         print(f"  🔁 Max iter : {self.max_iterations}  |  Umbral: {self.min_score}/10")
         print(f"{'═'*60}\n")
 
-        motor_ctx      = self._load_motor_context(motor)
-        librarian_ctx  = self._load_librarian_context()
-        feedback       = None
-        iterations     = []
-        best_copy   = ""
-        best_score  = 0.0
-        best_audit  = ""
+        # Carga de contextos (una vez, antes del bucle)
+        pmc_ctx      = self._load_pmc()
+        motor_ctx    = self._load_motor_context(motor)
+        librarian_ctx = self._load_channel_librarian(channel)
+        market_ctx   = self._investigate_market(prospecto)
+
+        feedback   = None
+        iterations = []
+        best_copy  = ""
+        best_score = 0.0
+        best_audit = ""
 
         for i in range(self.max_iterations):
             iteration = i + 1
             print(f"─── ITERACIÓN {iteration}/{self.max_iterations} ───────────────────────")
 
-            # 1. GENERACIÓN
-            print(f"  ✍️  Generando copy con motor {motor}...")
-            copy = self._generate(topic, audience, motor, motor_ctx, feedback, iteration, librarian_ctx)
-            print(f"  ✅ Copy generado  ({len(copy):,} chars)")
+            print(f"  ✍️  Generando copy [{channel_name}] con motor {motor}...")
+            copy = self._generate(
+                topic, audience, motor, motor_ctx, feedback, iteration,
+                librarian_ctx=librarian_ctx, pmc_ctx=pmc_ctx,
+                channel=channel, market_ctx=market_ctx,
+            )
+            print(f"  ✅ Copy generado ({len(copy):,} chars)")
 
-            # 2. AUDITORÍA
             print(f"  🔍 Auditando con Rúbrica AlphaGo...")
-            audit = self._audit(copy, motor)
+            audit = self._audit(copy, motor, channel)
             score = self._parse_score(audit)
             print(f"  📊 Score: {score}/10")
 
@@ -439,7 +607,6 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
             if score > best_score:
                 best_copy, best_score, best_audit = copy, score, audit
 
-            # 3. DECISIÓN
             if score >= self.min_score:
                 print(f"\n  ✅ GREEN LIGHT — {score}/10 ≥ umbral {self.min_score}/10\n")
                 break
@@ -449,26 +616,26 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
                 feedback = self._extract_worst_criterion(audit)
                 print(f"  🎯 Feedback selectivo: {feedback.splitlines()[0]}")
             else:
-                print(f"\n  ⚠️  Límite de iteraciones alcanzado. Mejor score: {best_score}/10\n")
+                print(f"\n  ⚠️  Límite alcanzado. Mejor score: {best_score}/10\n")
 
-        # ── Resultado final (JSON handoff para Alma) ──────────
         ts = datetime.now().strftime("%Y%m%d")
         result = {
-            "tracking_id":     f"COPY-{ts}-{motor[:3].upper()}",
-            "topic":           topic,
-            "target_audience": audience,
-            "motor":           motor,
-            "final_score":     best_score,
-            "approved":        best_score >= self.min_score,
+            "tracking_id":      f"COPY-{ts}-{channel[:3].upper()}-{motor[:3].upper()}",
+            "channel":          channel,
+            "channel_name":     channel_name,
+            "topic":            topic,
+            "target_audience":  audience,
+            "prospecto":        prospecto,
+            "motor":            motor,
+            "final_score":      best_score,
+            "approved":         best_score >= self.min_score,
             "total_iterations": len(iterations),
-            "final_copy":      best_copy,
-            "final_audit":     best_audit,
-            # Handoff para Alma
-            "tone_keywords":   COPYWRITER_MOTORS.get(motor, {}).get("tone", []),
+            "final_copy":       best_copy,
+            "final_audit":      best_audit,
+            "tone_keywords":    COPYWRITER_MOTORS.get(motor, {}).get("tone", []),
             "visual_direction": COPYWRITER_MOTORS.get(motor, {}).get("visual", "Limpio, profesional."),
-            # Log completo
-            "iterations_log":  iterations,
-            "generated_at":    datetime.now().isoformat(),
+            "iterations_log":   iterations,
+            "generated_at":     datetime.now().isoformat(),
         }
 
         out_file = self._save(result)
@@ -486,32 +653,45 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="AlphaLoop Orchestrator — Copywriting AlphaGo"
+        description="AlphaLoop Orchestrator — AGIA Copywriter"
     )
-    parser.add_argument("--topic",     required=False, help="Tema del copy")
-    parser.add_argument("--audience",  required=False, help="Audiencia objetivo")
-    parser.add_argument("--motor",     default="Ben Settle",
-                        help=f"Motor copywriter (default: Ben Settle). Opciones: {', '.join(COPYWRITER_MOTORS.keys())}")
-    parser.add_argument("--max-iter",  type=int, default=3, help="Máximo de iteraciones")
-    parser.add_argument("--min-score", type=float, default=9.0, help="Umbral mínimo de aprobación")
-    parser.add_argument("--test",      action="store_true", help="Verificar estructura sin llamadas API")
+    parser.add_argument("--topic",      required=False, help="Brief o tema del copy")
+    parser.add_argument("--audience",   required=False, default="Decisores B2B España/Latam",
+                        help="Audiencia objetivo")
+    parser.add_argument("--channel",    default="cold-email",
+                        choices=list(CHANNEL_CONFIG.keys()),
+                        help=f"Canal / subagente. Opciones: {', '.join(CHANNEL_CONFIG.keys())}")
+    parser.add_argument("--motor",      default="",
+                        help="Motor copywriter (si vacío usa el default del canal)")
+    parser.add_argument("--prospecto",  default="",
+                        help="Empresa o persona objetivo (activa Investigador de Mercado)")
+    parser.add_argument("--max-iter",   type=int, default=3)
+    parser.add_argument("--min-score",  type=float, default=9.0)
+    parser.add_argument("--test",       action="store_true", help="Verificar estructura sin llamadas API")
     args = parser.parse_args()
 
     if args.test:
         print("✅ AlphaLoop Orchestrator — estructura verificada.")
+        print(f"   Canales disponibles : {', '.join(CHANNEL_CONFIG.keys())}")
         print(f"   Motores disponibles : {', '.join(COPYWRITER_MOTORS.keys())}")
-        print(f"   Rutas configuradas  :")
-        print(f"     BASE    = {BASE}")
-        print(f"     PROMPTS = {PROMPTS}")
-        print(f"     DATASET = {DATASET}")
-        print(f"     OUTPUTS = {OUTPUTS}")
+        print(f"   PMC path            : {PMC_PATH}")
+        print(f"   PMC existe          : {PMC_PATH.exists()}")
+        print(f"   RAG disponible      : {_RAG_AVAILABLE}")
+        print(f"   BASE                : {BASE}")
+        print(f"   OUTPUTS             : {OUTPUTS}")
         exit(0)
 
-    if not args.topic or not args.audience:
-        parser.error("--topic y --audience son obligatorios (a menos que uses --test)")
+    if not args.topic:
+        parser.error("--topic es obligatorio (a menos que uses --test)")
 
     orchestrator = AlphaLoopOrchestrator(
         max_iterations=args.max_iter,
         min_score=args.min_score,
     )
-    orchestrator.run(args.topic, args.audience, args.motor)
+    orchestrator.run(
+        topic=args.topic,
+        audience=args.audience,
+        motor=args.motor,
+        channel=args.channel,
+        prospecto=args.prospecto,
+    )
