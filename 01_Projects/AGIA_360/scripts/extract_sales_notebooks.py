@@ -10,7 +10,7 @@ import os
 import re
 from pathlib import Path
 
-OUTPUT_DIR = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks")
+OUTPUT_DIR = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Keywords to identify sales-relevant notebooks
@@ -107,7 +107,7 @@ async def main():
     print("=" * 50)
     
     # Load notebook list
-    list_file = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks-list.json")
+    list_file = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks-list.json")
     if not list_file.exists():
         print("❌ Run extract_notebooks.py first!")
         return

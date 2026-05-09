@@ -6,12 +6,12 @@ Protocolo para desplegar, gestionar y monitorizar todos los proyectos de la Fact
 ## Stack de infraestructura
 
 ```
-SaaS Factory
+AGIA Factory
 ├── VPS (Coolify como panel de control)
 │   ├── MultiEntregas        → Puerto 3000 (React + API)
 │   ├── AppControldetiempos  → Puerto 3001 (Vite)
 │   ├── 02_Agents/core       → Puerto 3002 (Node API)
-│   └── saas-factory-mvp     → Template (no expuesto)
+│   └── agia-factory-mvp     → Template (no expuesto)
 │
 ├── Supabase Cloud (eu-west-1)
 │   └── npe927-rag (PostgreSQL 17.6)
@@ -29,7 +29,7 @@ curl -fsSL https://cdn.coollabs.io/coolify/install.sh | bash
 # 2. Acceder al panel: http://[IP_VPS]:8000
 
 # 3. Conectar repositorio GitHub
-# Coolify → Sources → GitHub → Autorizar SaaS_Factory repo
+# Coolify → Sources → GitHub → Autorizar AGIA_Factory repo
 
 # 4. Crear aplicación por proyecto
 # Coolify → Projects → New Application
@@ -60,7 +60,7 @@ VITE_SUPABASE_ANON_KEY=[ANON_KEY]
 ## CI/CD con GitHub Actions
 
 ```yaml
-# .github/workflows/deploy.yml (ya existe en saas-factory-mvp)
+# .github/workflows/deploy.yml (ya existe en agia-factory-mvp)
 # Adaptar para cada proyecto:
 
 name: Deploy to Coolify

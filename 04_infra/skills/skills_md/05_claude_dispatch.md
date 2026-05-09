@@ -29,10 +29,10 @@ LIMIT 5;
 ### Métricas del AlphaGo Copywriter
 ```bash
 # Ver outputs del orquestador
-ls -la /home/npe927/SaaS_Factory/01_Projects/AGIA_360/copywriter-agent/05_OUTPUTS/
+ls -la /home/npe927/AGIA_Factory/01_Projects/AGIA_360/copywriter-agent/05_OUTPUTS/
 
 # Ver puntuaciones de auditoría
-grep -r "score\|puntuación\|/10" /home/npe927/SaaS_Factory/01_Projects/AGIA_360/copywriter-agent/04_EMKD_7_DIAS/
+grep -r "score\|puntuación\|/10" /home/npe927/AGIA_Factory/01_Projects/AGIA_360/copywriter-agent/04_EMKD_7_DIAS/
 ```
 
 ## Sistema de Dispatch
@@ -41,13 +41,13 @@ El Dispatch recibe una tarea y la envía al agente correcto:
 
 ```js
 // Uso del router de 02_Agents/core/index.js
-const { run } = require('/home/npe927/SaaS_Factory/02_Agents/core/index.js');
+const { run } = require('/home/npe927/AGIA_Factory/02_Agents/core/index.js');
 
 // Dispatch automático — el router decide el agente
 await run("necesito 3 leads para MultiEntregas", "session-dispatch-001");
 
 // Dispatch forzado — tú eliges el agente
-const agentEmailer = require('/home/npe927/SaaS_Factory/02_Agents/core/agents/agent_emailer.js');
+const agentEmailer = require('/home/npe927/AGIA_Factory/02_Agents/core/agents/agent_emailer.js');
 await agentEmailer.run("genera campaña cold email para logística", "session-emailer-001");
 ```
 
@@ -55,7 +55,7 @@ await agentEmailer.run("genera campaña cold email para logística", "session-em
 
 Ejecutar para ver el estado completo de la Factory:
 ```bash
-cd /home/npe927/SaaS_Factory/02_Agents/core
+cd /home/npe927/AGIA_Factory/02_Agents/core
 node -e "
 const { run } = require('./index.js');
 run('dame un resumen del estado de la factory', 'dispatch-health').then(r => console.log(r.reply));

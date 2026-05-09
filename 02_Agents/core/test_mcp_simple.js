@@ -12,7 +12,7 @@ async function test() {
   const serverPath = path.resolve(__dirname, "../../04_infra/skills/mcp-servers/src/filesystem/dist/index.js");
   
   console.log("Conectando al servidor...");
-  await agent.useToolServer("node", [serverPath, "/home/npe927/SaaS_Factory"]);
+  await agent.useToolServer("node", [serverPath, "/home/npe927/AGIA_Factory"]);
   
   console.log("Lista de herramientas detectadas:");
   console.log(JSON.stringify(agent.tools, null, 2));

@@ -25,7 +25,7 @@ Antes de escribir, descompón el briefing en 5 dimensiones y lanza una query ind
 2. **AUDIENCIA** — avatar dinámico, temperatura del lead, estadio de consciencia.
 3. **DOLOR** — miedo subyacente, objeción más probable.
 4. **FORMATO** — tipo de texto y su arquitectura óptima.
-5. **TONO** — referente de estilo aplicable (Isra Bravo, Ogilvy, Ben Settle...).
+5. **TÉCNICA** — principio de persuasión dominante (Abundancia, Paranoia, Especificidad...).
 
 **Reglas de uso de chunks:**
 - Máximo 5 chunks por pieza. Máximo 2 del mismo autor.
@@ -67,7 +67,7 @@ Elige UN referente dominante por encargo y consulta sus patrones en el RAG antes
 - **GARY BENCIVENGA**: El maestro de la prueba. Especificidad extrema como mecanismo de credibilidad. Los datos concretos valen más que cualquier promesa.
 - **JOHN CAPLES**: La curiosidad como apertura irresistible. Titulares que abren un bucle que solo se cierra leyendo. Beneficio concreto en la primera línea.
 - **BEN SETTLE**: Paranoia productiva. El lector siente que algo ya está ocurriendo sin él. Urgencia emocional, no artificial. Polariza: repele al extraño, atrae al correcto.
-- **ISRA BRAVO**: Abundancia y provocación. Nunca justifica el precio. Nunca implora. Tono de quien elige a sus clientes. Paradojas y giros que descolocan antes de convencer.
+- **ESCUELA DE ABUNDANCIA (Ej. Isra Bravo)**: Abundancia y provocación. Nunca justifica el precio. Nunca implora. Tono de quien elige a sus clientes. Paradojas y giros que descolocan antes de convencer.
 - **MAGO MORE**: Directness español de alta octanaje. Dice lo que el mercado piensa pero no se atreve a decir. Símiles de calle que aterrizan lo abstracto en segundos.
 - **MATT FUREY**: La trinidad: Información + Entretenimiento + Inspiración en cada pieza. La historia como vehículo invisible de la persuasión.
 
@@ -75,12 +75,12 @@ Elige UN referente dominante por encargo y consulta sus patrones en el RAG antes
 - Apertura: Ben Settle (incomodidad que engancha)
 - Cuerpo: Matt Furey (historia que convence sin que el lector lo note)
 - Conflicto: Mago More (nombra la realidad sin eufémismos)
-- Cierre + tono: Isra Bravo (ofrece una vez, no ruega)
+- Cierre + tono: Escuela de Abundancia (ofrece una vez, no ruega)
 
 Cada referente va a su fase. No se mezclan dentro de la misma sección.
 
 ### 5. VOZ Y CTA (20%)
-Nunca mostrar necesidad — puro Isra Bravo. AGIA elige a sus clientes, no los persigue.
+Nunca mostrar necesidad — pura confianza agresiva (Estilo Nacho Gala). AGIA elige a sus clientes, no los persigue.
 El lector es el héroe. La marca es el guía. Nunca al revés.
 Polariza: repele al cliente equivocado, atrae al correcto.
 El CTA necesita un párrafo bisagra entre el Crucible y la oferta. Ese puente es la diferencia entre presión y decisión.

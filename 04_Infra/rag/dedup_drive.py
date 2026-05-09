@@ -26,14 +26,14 @@ def get_drive_service():
 
     El MCP almacena:
     - Token:  ~/.gdrive-server-credentials.json  (access + refresh token)
-    - OAuth:  ~/SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json  (client_id + secret)
+    - OAuth:  ~/AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json  (client_id + secret)
     """
     from google.oauth2.credentials import Credentials
     from google.auth.transport.requests import Request
     from googleapiclient.discovery import build
 
     TOKEN_FILE  = Path.home() / ".gdrive-server-credentials.json"
-    OAUTH_KEYS  = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+    OAUTH_KEYS  = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 
     if not TOKEN_FILE.exists():
         print(f"ERROR: No se encontró {TOKEN_FILE}")

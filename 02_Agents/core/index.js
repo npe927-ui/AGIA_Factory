@@ -1,5 +1,5 @@
 /**
- * SaaS Factory — Agents Core Router v2.0
+ * AGIA Factory — Agents Core Router v2.0
  * Enruta tareas al agente correcto basándose en keywords.
  * Todos los agentes usan Claude API real + memoria en Supabase.
  */

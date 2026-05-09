@@ -3,7 +3,7 @@
 RAG Premium — Reorganización de Google Drive
 ============================================
 Mueve ~50 carpetas dispersas en Mi Portátil/Documents a una estructura
-temática bajo 02_DATASETS-RAG en la unidad SaaS Factory.
+temática bajo 02_DATASETS-RAG en la unidad AGIA Factory.
 
 Estructura resultante:
   02_DATASETS-RAG/
@@ -23,7 +23,7 @@ Uso:
 Requisitos:
     pip install google-api-python-client google-auth google-auth-httplib2
     Token:     ~/.gdrive-server-credentials.json   (generado por reauth_drive.py)
-    OAuthKeys: ~/SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json
+    OAuthKeys: ~/AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json
 """
 
 import argparse
@@ -41,11 +41,11 @@ from googleapiclient.errors import HttpError
 # ─── Rutas de autenticación (mismas que dedup_drive.py) ──────────────────────
 
 TOKEN_FILE = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 
 # ─── IDs raíz ─────────────────────────────────────────────────────────────────
 
-RAG_ID         = "1ZZfqM6Wt639CHO6I1IdxM-D8LJC3Vpu9"  # 02_DATASETS-RAG (SaaS Factory)
+RAG_ID         = "1ZZfqM6Wt639CHO6I1IdxM-D8LJC3Vpu9"  # 02_DATASETS-RAG (AGIA Factory)
 DOCUMENTS_ID   = "115uw4YKk4LddUffRlZvtEkoTh3Ci9I5h"  # Mi Portátil > Documents
 SCREENSHOTS_ID = "1LvETF0zcz2TClgPzlXNWxCuqgTlVxsui"  # Mi Portátil > Pictures > Screenshots
 

@@ -1,6 +1,6 @@
 const AgentBase = require("./agent_base");
 
-const SYSTEM_PROMPT = `Eres el Agente Setter del SaaS Factory. Tu misión es cualificar clientes potenciales mediante preguntas estratégicas de descubrimiento de ventas.
+const SYSTEM_PROMPT = `Eres el Agente Setter del AGIA Factory. Tu misión es cualificar clientes potenciales mediante preguntas estratégicas de descubrimiento de ventas.
 
 ## Tu rol
 Detectas necesidades, identificas el punto de dolor real y preparas el terreno para el cierre.

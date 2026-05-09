@@ -41,7 +41,7 @@ def ingest_file(filepath, title, source='notebooklm_premium'):
         return False
 
 def main():
-    base_path = Path('/home/npe927/SaaS_Factory/agia-360/data/notebooks_premium')
+    base_path = Path('/home/npe927/AGIA_Factory/agia-360/data/notebooks_premium')
     # Solo procesamos las partes de Preguntas Poderosas (lo demás ya está OK)
     files = [
         ('El_Arte_de_las_Preguntas_Poderosas_PART_1.md', 'El Arte de las Preguntas Poderosas - Tomo 1 (DIRECTOR)'),

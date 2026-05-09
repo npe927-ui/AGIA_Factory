@@ -1,7 +1,7 @@
 {
-  "name": "@saas-factory/agents-core",
+  "name": "@agia-factory/agents-core",
   "version": "2.0.0",
-  "description": "Agentes core del SaaS Factory — Setter, Closer, Emailer con Claude API + memoria Supabase",
+  "description": "Agentes core del AGIA Factory — Setter, Closer, Emailer con Claude API + memoria Supabase",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -20,13 +20,13 @@
     "openai": "^6.33.0"
   },
   "keywords": [
-    "saas-factory",
+    "agia-factory",
     "agents",
     "claude",
     "setter",
     "closer",
     "emailer"
   ],
-  "author": "SaaS Factory",
+  "author": "AGIA Factory",
   "license": "ISC"
 }

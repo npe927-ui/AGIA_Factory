@@ -49,7 +49,7 @@ async def main():
                     print(f"  {i:3}. {title[:60]} | ID: {nb_id[:8]}...")
                 
                 # Save full list to file
-                with open("/home/npe927/SaaS_Factory/agia-360/data/notebooks-list.json", "w") as f:
+                with open("/home/npe927/AGIA_Factory/agia-360/data/notebooks-list.json", "w") as f:
                     json.dump(nb_list, f, indent=2, ensure_ascii=False)
                 print(f"\n💾 Lista guardada en data/notebooks-list.json ({len(nb_list)} notebooks)")
             else:

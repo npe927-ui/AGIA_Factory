@@ -1,6 +1,6 @@
 # 📋 BUSINESS_LOGIC.md - Agia 360
 
-> Generado por SaaS Factory | Fecha: 2026-02-24
+> Generado por AGIA Factory | Fecha: 2026-02-24
 
 ## 1. Problema de Negocio
 **Dolor:** Las empresas necesitan automatización avanzada, pero implementar agentes de IA especializados (ventas, email, contenido) es complejo, requiere auditorías personalizadas y, sobre todo, falta una coordinación centralizada que haga que todos los agentes trabajen en armonía.

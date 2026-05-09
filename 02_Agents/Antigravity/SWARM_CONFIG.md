@@ -1,4 +1,4 @@
-# SWARM CONFIGURATION — AGIA 360 / SaaS Factory
+# SWARM CONFIGURATION — AGIA 360 / AGIA Factory
 
 ## 1. Misión del Enjambre (SWARM)
 Maximizar la velocidad de despliegue y la calidad estética/estratégica mediante la especialización de agentes coordinados.

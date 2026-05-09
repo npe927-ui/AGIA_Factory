@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * SaaS Factory — CLI interactivo para los Agents Core
+ * AGIA Factory — CLI interactivo para los Agents Core
  * Uso: node cli.js [--session <id>] [--agent setter|closer|emailer|base]
  */
 
@@ -27,7 +27,7 @@ const rl = readline.createInterface({
 });
 
 console.log("═══════════════════════════════════════════");
-console.log("  SaaS Factory — Agents Core CLI v2.0");
+console.log("  AGIA Factory — Agents Core CLI v2.0");
 console.log(`  Session: ${sessionId}`);
 if (forcedAgent) console.log(`  Agente forzado: ${forcedAgent}`);
 console.log("  Escribe 'salir' para terminar");

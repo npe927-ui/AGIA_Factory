@@ -10,7 +10,7 @@ Cada agente debe saber exactamente quién es antes de ejecutar.
 
 **Plantilla de system prompt:**
 ```
-Eres [NOMBRE], el [ROL] de AGIA 360 / SaaS Factory.
+Eres [NOMBRE], el [ROL] de AGIA 360 / AGIA Factory.
 Tu misión única es: [OBJETIVO_ESPECÍFICO].
 Tu tono es: [TONO].
 Cuando no sepas algo, dices: "Necesito más contexto sobre [X]".
@@ -50,7 +50,7 @@ const agentEstructurado = new AgentBase({
   name: "Agente Estructurado",
   goal: "Ejecutar tareas con plan previo y validación posterior",
   systemPrompt: `
-    Eres un agente de la SaaS Factory de AGIA 360.
+    Eres un agente de la AGIA Factory de AGIA 360.
     ANTES de ejecutar cualquier tarea:
     1. Confirma que entiendes el objetivo
     2. Lista los pasos que vas a dar
@@ -64,7 +64,7 @@ const agentEstructurado = new AgentBase({
 ## Estructura de carpetas estándar (Hegemonía 01-05)
 
 ```
-SaaS_Factory/
+AGIA_Factory/
 ├── 01_Projects/    ← Productos entregables
 ├── 02_Agents/      ← Agentes y su lógica
 ├── 03_Data/        ← Datasets y datos

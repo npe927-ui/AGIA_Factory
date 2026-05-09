@@ -1,7 +1,7 @@
 {
-  "name": "saas-factory-mvp",
+  "name": "agia-factory-mvp",
   "version": "1.0.0",
-  "description": "Template base SaaS Factory — Vite + React + Supabase + Vitest",
+  "description": "Template base AGIA Factory — Vite + React + Supabase + Vitest",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -11,7 +11,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 TOKEN_FILE = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 
 DOCUMENTS_ID   = "115uw4YKk4LddUffRlZvtEkoTh3Ci9I5h"
 SCREENSHOTS_ID = "1LvETF0zcz2TClgPzlXNWxCuqgTlVxsui"

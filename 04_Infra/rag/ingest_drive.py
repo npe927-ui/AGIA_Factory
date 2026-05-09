@@ -44,7 +44,7 @@ load_dotenv(ENV_FILE)
 
 # ── Constantes ────────────────────────────────────────────────────────────────
 TOKEN_FILE  = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS  = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS  = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 SCRIPT_DIR  = Path(__file__).parent
 CACHE_FILE  = SCRIPT_DIR / "inventory_raw.json"
 CLEAN_CACHE = SCRIPT_DIR / "inventory_clean.json"

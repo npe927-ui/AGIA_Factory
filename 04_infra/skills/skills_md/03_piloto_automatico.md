@@ -49,7 +49,7 @@ Los hooks ejecutan comandos automáticamente en respuesta a eventos de Claude Co
         "hooks": [
           {
             "type": "command",
-            "command": "echo '[Factory] Archivo modificado: registrando en log...' >> /home/npe927/SaaS_Factory/05_Backups/activity.log"
+            "command": "echo '[Factory] Archivo modificado: registrando en log...' >> /home/npe927/AGIA_Factory/05_Backups/activity.log"
           }
         ]
       }
@@ -68,6 +68,6 @@ Los hooks ejecutan comandos automáticamente en respuesta a eventos de Claude Co
 ## Workflow de piloto automático para EMKD
 Para generar los Días 3-7 del EMKD sin intervención:
 ```bash
-cd /home/npe927/SaaS_Factory/01_Projects/AGIA_360/copywriter-agent
+cd /home/npe927/AGIA_Factory/01_Projects/AGIA_360/copywriter-agent
 python scripts/alpha_loop_orchestrator.py --topic "asunto" --motor hemingway --min-score 9.0
 ```

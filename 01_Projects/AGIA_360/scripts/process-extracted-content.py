@@ -23,7 +23,7 @@ RAW_FILES = {
     ]
 }
 
-OUTPUT_DIR = Path('/home/npe927/SaaS_Factory/agia-360/data/notebooks_premium')
+OUTPUT_DIR = Path('/home/npe927/AGIA_Factory/agia-360/data/notebooks_premium')
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Formatting Rules Constants

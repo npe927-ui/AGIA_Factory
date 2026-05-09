@@ -40,6 +40,6 @@ def merge_chunks(src_dir, dest_dir):
                     outfile.write('\n\n--- CHUNK SEPARATOR ---\n\n')
 
 if __name__ == "__main__":
-    src = "/home/npe927/SaaS_Factory/agia-360/final_chunks/"
-    dest = "/home/npe927/SaaS_Factory/agia-360/merged_books/"
+    src = "/home/npe927/AGIA_Factory/agia-360/final_chunks/"
+    dest = "/home/npe927/AGIA_Factory/agia-360/merged_books/"
     merge_chunks(src, dest)

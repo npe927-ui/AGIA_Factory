@@ -11,7 +11,7 @@ const DOWNLOADS = [
     { id: '19ycs2e8g9aaVNkja7ek_rnDJ2Ce9Xf75', name: 'Breakthrough_Advertising.pdf' }
 ];
 
-const BASE_DIR = '/home/npe927/SaaS_Factory/agia-360/input_books';
+const BASE_DIR = '/home/npe927/AGIA_Factory/agia-360/input_books';
 
 async function download() {
     if (!fs.existsSync(BASE_DIR)) {

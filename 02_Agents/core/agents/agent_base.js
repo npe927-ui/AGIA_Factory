@@ -7,14 +7,14 @@ const { getRelevantLearnings, saveLearning } = require("../lib/learning");
 const { startHeartbeat } = require("../lib/health");
 
 /**
- * AgentBase - El motor robusto de la SaaS Factory.
+ * AgentBase - El motor robusto de la AGIA Factory.
  * Soporta re-intentos automáticos, gestión de memoria, MCP Tools y A2A.
  */
 class AgentBase {
   constructor(config = {}) {
     this.name = config.name || "Agente Base";
     this.role = config.role || "Asistente General";
-    this.goal = config.goal || "Ayudar en la SaaS Factory";
+    this.goal = config.goal || "Ayudar en la AGIA Factory";
     this.systemPrompt = config.systemPrompt || `Eres el ${this.name}. Tu misión es ${this.goal}. Responde siempre en español.`;
 
     this.client = new Anthropic();

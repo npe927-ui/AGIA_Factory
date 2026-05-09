@@ -12,8 +12,8 @@ import datetime
 from pathlib import Path
 
 # Paths
-INPUT_LIST = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks-list.json")
-OUTPUT_DIR = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks_premium")
+INPUT_LIST = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks-list.json")
+OUTPUT_DIR = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks_premium")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Formatting Rules Constants

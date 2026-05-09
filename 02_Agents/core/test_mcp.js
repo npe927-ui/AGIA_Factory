@@ -13,9 +13,9 @@ async function test() {
   // Ruta al ejecutable dist/index.js del server-filesystem
   const serverPath = path.resolve(__dirname, "../../04_infra/skills/mcp-servers/src/filesystem/dist/index.js");
   
-  await agent.useToolServer("node", [serverPath, "/home/npe927/SaaS_Factory"]);
+  await agent.useToolServer("node", [serverPath, "/home/npe927/AGIA_Factory"]);
 
-  const task = "¿Qué archivos hay en la raíz del proyecto SaaS_Factory? Usa tus herramientas para listarlos.";
+  const task = "¿Qué archivos hay en la raíz del proyecto AGIA_Factory? Usa tus herramientas para listarlos.";
   
   try {
     const reply = await agent.run(task, "test-session");

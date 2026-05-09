@@ -4,7 +4,7 @@ import path from 'path';
 
 const SEARCH_RESULTS = JSON.parse(fs.readFileSync('moneta_search_results.json', 'utf8'));
 
-const BASE_DIR = '/home/npe927/SaaS_Factory/02_Agents/Hermes/input/moneta';
+const BASE_DIR = '/home/npe927/AGIA_Factory/02_Agents/Hermes/input/moneta';
 
 async function download() {
     if (!fs.existsSync(BASE_DIR)) {

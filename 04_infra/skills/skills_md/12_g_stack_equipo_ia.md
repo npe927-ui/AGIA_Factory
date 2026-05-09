@@ -53,7 +53,7 @@ OUTPUT ESPERADO: [Qué necesitas]
 
 ```
 G STACK — HABILIDAD 21: BUNKER sync
-PROYECTO: AGIA 360 / SaaS Factory
+PROYECTO: AGIA 360 / AGIA Factory
 CONTEXTO: Hoy completamos el Bloque 2 de skills y arreglamos la memoria de Supabase
 OUTPUT ESPERADO: Nueva entrada en el LOG del BUNKER con formato estándar
 ```

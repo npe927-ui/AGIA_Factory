@@ -2,7 +2,7 @@ import json
 import os
 
 INPUT_FILE = "/home/npe927/.gemini/antigravity/brain/5b3b3d31-a7c1-412a-b605-6529da5b6461/.system_generated/steps/1053/output.txt"
-OUTPUT_FILE = "/home/npe927/SaaS_Factory/01_Projects/AGIA_360/datasets/emails_corpus.jsonl"
+OUTPUT_FILE = "/home/npe927/AGIA_Factory/01_Projects/AGIA_360/datasets/emails_corpus.jsonl"
 
 def main():
     try:

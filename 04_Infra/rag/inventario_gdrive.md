@@ -247,7 +247,7 @@ Para v2: transcribir con Whisper.
 | `AGENTE COLD EMAIL - DATASET` (carpeta) | Carpeta | ⭐⭐⭐ Dataset específico agente |
 | `02_DATASETS-RAG` (carpeta) | Carpeta | ⭐⭐⭐ Ya pensado para RAG |
 | `NotebookLM` (carpeta) | Carpeta | ⭐⭐ Fuente de conocimiento |
-| `Claude-Agencia-IA.pdf` | PDF | ⭐⭐⭐ Core SaaS Factory |
+| `Claude-Agencia-IA.pdf` | PDF | ⭐⭐⭐ Core AGIA Factory |
 | `Guía HubSpot ChatGPT.pdf` | PDF | ⭐⭐ Marketing IA |
 
 ---

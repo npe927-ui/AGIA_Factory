@@ -60,7 +60,7 @@ Si el agente necesita acceso al filesystem, internet o base de datos:
 // En el archivo del agente o en el script que lo usa:
 const path = require('path');
 const serverPath = path.resolve(__dirname, '../../../04_infra/skills/mcp-servers/src/filesystem/dist/index.js');
-await agentNuevo.useToolServer("node", [serverPath, "/home/npe927/SaaS_Factory"]);
+await agentNuevo.useToolServer("node", [serverPath, "/home/npe927/AGIA_Factory"]);
 ```
 
 ## Agentes pendientes de crear en la Factory
@@ -79,7 +79,7 @@ Antes de añadir un agente a producción:
 
 ```bash
 # 1. Test de routing
-cd /home/npe927/SaaS_Factory/02_Agents/core
+cd /home/npe927/AGIA_Factory/02_Agents/core
 node index.js --test
 
 # 2. Test de respuesta real

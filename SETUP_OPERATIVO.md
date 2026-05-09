@@ -1,6 +1,6 @@
 # Guía de Setup Operativo - 360 IA Pro
 
-Esta guía consolida los pasos necesarios para operar la SaaS Factory en el entorno local de Antigravity.
+Esta guía consolida los pasos necesarios para operar la AGIA Factory en el entorno local de Antigravity.
 
 ## 1. Requisitos del Sistema
 - **Antigravity**: Instalado y operativo.
@@ -14,7 +14,7 @@ Esta guía consolida los pasos necesarios para operar la SaaS Factory en el ento
 - Antigravity Cockpit
 
 ## 3. Flujo de Trabajo (Golden Path)
-1. **Inicialización**: `saas-factory` (usa la ruta local `/home/npe927/SaaS_Factory`).
+1. **Inicialización**: `agia-factory` (usa la ruta local `/home/npe927/AGIA_Factory`).
 2. **Dependencias**: `npm install`.
 3. **Backend**: Conexión Supabase (URL + Anon Key + Managed via MCP).
 4. **Desarrollo**: `npm run dev`.
@@ -25,4 +25,4 @@ Esta guía consolida los pasos necesarios para operar la SaaS Factory en el ento
 - `/add-login`: Implementa autenticación Supabase.
 
 > [!IMPORTANT]
-> Todo el desarrollo actual se realiza en la ruta: `/home/npe927/SaaS_Factory/cold-email-agent`.
+> Todo el desarrollo actual se realiza en la ruta: `/home/npe927/AGIA_Factory/cold-email-agent`.

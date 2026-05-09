@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv(".env.local")
 SUPABASE_URL = os.getenv("NEXT_PUBLIC_SUPABASE_URL")
 SUPABASE_KEY = os.getenv("NEXT_PUBLIC_SUPABASE_ANON_KEY")
-DATA_DIR = "/home/npe927/SaaS_Factory/03_Data/Emails_Copywriters/"
+DATA_DIR = "/home/npe927/AGIA_Factory/03_Data/Emails_Copywriters/"
 BATCH_SIZE = 25
 
 # Inicializar Supabase y Modelo

@@ -26,7 +26,7 @@ from googleapiclient.errors import HttpError
 # ─── Auth ─────────────────────────────────────────────────────────────────────
 
 TOKEN_FILE  = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS  = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS  = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 SCOPES      = ["https://www.googleapis.com/auth/drive"]
 
 # ─── IDs destino ──────────────────────────────────────────────────────────────
@@ -40,7 +40,7 @@ MOVIMIENTOS = [
     # ── Fuera de 02_DATASETS-RAG ──────────────────────────────────────────────
     (
         "1r0COvpvZI1xmtUylAoqWxTxvKAwbGByv",      # EL TAO DEL EMAIL MARKETING (sin .epub)
-        "1to3OMEjQzLyiqRhPhmlMZjbJoygri9L8",       # 00_INBOX raíz SaaS Factory
+        "1to3OMEjQzLyiqRhPhmlMZjbJoygri9L8",       # 00_INBOX raíz AGIA Factory
         "EL TAO DEL EMAIL MARKETING - Miguel Vázquez.epub",  # añadir extensión
         "Tao Email Marketing (Vázquez) → 01_Copywriting + renombrar",
     ),

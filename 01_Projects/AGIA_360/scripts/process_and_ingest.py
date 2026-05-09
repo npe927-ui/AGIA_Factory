@@ -10,13 +10,13 @@ import re
 import time
 from pathlib import Path
 
-NOTEBOOKS_DIR = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks")
-PROCESSED_DIR = Path("/home/npe927/SaaS_Factory/agia-360/data/notebooks_clean")
+NOTEBOOKS_DIR = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks")
+PROCESSED_DIR = Path("/home/npe927/AGIA_Factory/agia-360/data/notebooks_clean")
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
 # Load Supabase credentials from .env.local
 def load_env():
-    env_file = Path("/home/npe927/SaaS_Factory/agia-360/.env.local")
+    env_file = Path("/home/npe927/AGIA_Factory/agia-360/.env.local")
     env = {}
     if env_file.exists():
         for line in env_file.read_text().splitlines():

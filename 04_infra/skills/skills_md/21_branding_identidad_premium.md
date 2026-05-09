@@ -1,7 +1,7 @@
 # Skill: Branding e Identidad Premium — Siglo XXI (AI-Enhanced)
 
 ## Propósito
-Establecer un estándar de diseño para la SaaS Factory que evite los clichés del siglo XX y proyecte autoridad, tecnología y precisión quirúrgica. Esta skill guía la generación de activos visuales mediante IA para que parezcan diseñados por una agencia boutique de 2026.
+Establecer un estándar de diseño para la AGIA Factory que evite los clichés del siglo XX y proyecte autoridad, tecnología y precisión quirúrgica. Esta skill guía la generación de activos visuales mediante IA para que parezcan diseñados por una agencia boutique de 2026.
 
 ## Principios de la "Identidad Esmeralda"
 

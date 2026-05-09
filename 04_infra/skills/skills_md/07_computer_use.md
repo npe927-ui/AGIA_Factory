@@ -26,7 +26,7 @@ const agent = new AgentBase({
 
 // Conectar al servidor MCP de filesystem
 const serverPath = path.resolve(__dirname, '../../04_infra/skills/mcp-servers/src/filesystem/dist/index.js');
-await agent.useToolServer("node", [serverPath, "/home/npe927/SaaS_Factory"]);
+await agent.useToolServer("node", [serverPath, "/home/npe927/AGIA_Factory"]);
 
 // El agente ahora tiene 14 herramientas de filesystem
 const resultado = await agent.run("Lista todos los archivos .md del proyecto AGIA_360");
@@ -49,7 +49,7 @@ El Computer Use se combina con Dispatch para automatizar workflows completos:
 ```js
 // Ejemplo: Agente que lee el BUNKER y genera un reporte
 const agent = new AgentBase({ name: "Reporter", goal: "Generar reportes de la Factory" });
-await agent.useToolServer("node", [serverPath, "/home/npe927/SaaS_Factory"]);
+await agent.useToolServer("node", [serverPath, "/home/npe927/AGIA_Factory"]);
 
 await agent.run(`
   1. Lee el archivo BUNKER_ESTRATEGICO.md
@@ -69,4 +69,4 @@ await agent.run(`
 | Backup de la Factory | ✅ Copia archivos | ✅ Programa via cron |
 
 ## Seguridad
-El servidor MCP de filesystem solo tiene acceso a `/home/npe927/SaaS_Factory`. No puede salir de ese directorio.
+El servidor MCP de filesystem solo tiene acceso a `/home/npe927/AGIA_Factory`. No puede salir de ese directorio.

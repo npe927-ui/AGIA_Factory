@@ -22,7 +22,7 @@ import requests
 # ── Configuración ─────────────────────────────────────────────────────────────
 
 TOKEN_FILE = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 
 # Scope completo: permite leer Y mover/crear archivos en Drive
 SCOPE = "https://www.googleapis.com/auth/drive"

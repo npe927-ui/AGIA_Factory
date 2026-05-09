@@ -33,7 +33,7 @@ ENV_FILE = Path(__file__).parent.parent.parent / ".env.local"
 load_dotenv(ENV_FILE)
 
 TOKEN_FILE = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 OUT_DIR    = Path(__file__).parent / "books_md_v2"
 
 # ── Archivos a procesar ───────────────────────────────────────────────────────

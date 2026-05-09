@@ -229,4 +229,4 @@ certbot --nginx -d multientregaslg.com -d www.multientregaslg.com
 ---
 
 *Demo preparado para presentación cliente — Abril 2026*
-*Desarrollado por AGIA 360 / SaaS Factory*
+*Desarrollado por AGIA 360 / AGIA Factory*

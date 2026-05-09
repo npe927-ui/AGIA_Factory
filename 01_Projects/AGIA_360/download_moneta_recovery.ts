@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const RECOVERY_RESULTS = JSON.parse(fs.readFileSync('moneta_recovery_results.json', 'utf8'));
-const BASE_DIR = '/home/npe927/SaaS_Factory/02_Agents/Hermes/input/moneta';
+const BASE_DIR = '/home/npe927/AGIA_Factory/02_Agents/Hermes/input/moneta';
 
 async function downloadRecovery() {
     if (!fs.existsSync(BASE_DIR)) {

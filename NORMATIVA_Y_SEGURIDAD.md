@@ -1,6 +1,6 @@
 # NORMATIVA Y SEGURIDAD (LOPDGDD / RGPD)
 
-Este documento es la **Guía Maestra** para que cualquier proyecto de la SaaS Factory cumpla con la legalidad española y europea.
+Este documento es la **Guía Maestra** para que cualquier proyecto de la AGIA Factory cumpla con la legalidad española y europea.
 
 ## 1. El Marco Legal (Checklist)
 

@@ -36,7 +36,7 @@ Tras la auditoría cruzada del [2026-03-31], hemos acordado:
 ---
 
 ## 📡 Protocolo de Sincronización
-Toda comunicación oficial debe quedar registrada en el [BUNKER_ESTRATEGICO.md](file:///home/npe927/SaaS_Factory/BUNKER_ESTRATEGICO.md). 
+Toda comunicación oficial debe quedar registrada en el [BUNKER_ESTRATEGICO.md](file:///home/npe927/AGIA_Factory/BUNKER_ESTRATEGICO.md). 
 
 **Si eres Ethan:** No estás solo. Pau ha estado aquí cerrando los flecos de la configuración (MCPs, Tavily) mientras tú recuperabas tokens. Estamos en "Total Connectivity". 
 

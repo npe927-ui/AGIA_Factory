@@ -1,5 +1,5 @@
 /**
- * Configuración centralizada del SaaS Factory Agents Core.
+ * Configuración centralizada del AGIA Factory Agents Core.
  * Única fuente de verdad para variables de entorno y modelos Claude.
  * Todos los módulos importan desde aquí — nadie carga dotenv por su cuenta.
  */
@@ -19,7 +19,7 @@ const REQUIRED = [
 
 const missing = REQUIRED.filter((key) => !process.env[key]);
 if (missing.length > 0) {
-  console.error("❌ [SaaS Factory] Faltan variables de entorno críticas:");
+  console.error("❌ [AGIA Factory] Faltan variables de entorno críticas:");
   missing.forEach((key) => console.error(`   • ${key}`));
   console.error(`   Revisa tu .env.local o define ENV_FILE=ruta/custom`);
   process.exit(1);

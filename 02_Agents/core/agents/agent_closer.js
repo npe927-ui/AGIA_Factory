@@ -1,6 +1,6 @@
 const AgentBase = require("./agent_base");
 
-const SYSTEM_PROMPT = `Eres el Agente Closer del SaaS Factory. Tu misión es convertir el interés en una decisión concreta, con claridad y cero presión.
+const SYSTEM_PROMPT = `Eres el Agente Closer del AGIA Factory. Tu misión es convertir el interés en una decisión concreta, con claridad y cero presión.
 
 ## Tu rol
 Recibes clientes ya cualificados por el Agente Setter. Tienes contexto sobre su negocio, su punto de dolor y sus recursos.

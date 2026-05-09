@@ -1,7 +1,7 @@
 # Skill: APIs, MCPs y A2A — Capa de Comunicación
 
 ## Propósito
-Este skill define los tres protocolos de conexión de la SaaS Factory. Es la capa base que permite que todos los agentes hablen entre sí y con herramientas externas.
+Este skill define los tres protocolos de conexión de la AGIA Factory. Es la capa base que permite que todos los agentes hablen entre sí y con herramientas externas.
 
 ## Los 3 Protocolos
 

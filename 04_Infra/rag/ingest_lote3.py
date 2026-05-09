@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent.parent.parent / ".env.local")
 
 TOKEN_FILE = Path.home() / ".gdrive-server-credentials.json"
-OAUTH_KEYS = Path.home() / "SaaS_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
+OAUTH_KEYS = Path.home() / "AGIA_Factory/01_Projects/AGIA_360/gcp-oauth.keys.json"
 MD_DIR     = Path(__file__).parent / "books_md"
 
 CHUNK_SIZE_WORDS = 380; CHUNK_OVERLAP_WORDS = 40; MIN_CHUNK_CHARS = 80; EMBED_BATCH = 32

@@ -14,13 +14,13 @@ crontab -e
 
 # Ejemplos de scheduling:
 # Cada día a las 8:00 — generar email EMKD del día
-0 8 * * * cd /home/npe927/SaaS_Factory/01_Projects/AGIA_360/copywriter-agent && python scripts/alpha_loop_orchestrator.py --motor hemingway >> /home/npe927/SaaS_Factory/05_Backups/emkd_cron.log 2>&1
+0 8 * * * cd /home/npe927/AGIA_Factory/01_Projects/AGIA_360/copywriter-agent && python scripts/alpha_loop_orchestrator.py --motor hemingway >> /home/npe927/AGIA_Factory/05_Backups/emkd_cron.log 2>&1
 
 # Cada hora — sincronizar memoria de agentes
-0 * * * * cd /home/npe927/SaaS_Factory/02_Agents/core && node -e "require('./lib/memory').loadHistory('Factory','health-check').then(console.log)" >> /home/npe927/SaaS_Factory/05_Backups/memory_sync.log 2>&1
+0 * * * * cd /home/npe927/AGIA_Factory/02_Agents/core && node -e "require('./lib/memory').loadHistory('Factory','health-check').then(console.log)" >> /home/npe927/AGIA_Factory/05_Backups/memory_sync.log 2>&1
 
 # Cada lunes a las 9:00 — reporte semanal de actividad
-0 9 * * 1 cd /home/npe927/SaaS_Factory && node 04_infra/utils.js >> /home/npe927/SaaS_Factory/05_Backups/weekly_report.log 2>&1
+0 9 * * 1 cd /home/npe927/AGIA_Factory && node 04_infra/utils.js >> /home/npe927/AGIA_Factory/05_Backups/weekly_report.log 2>&1
 ```
 
 ### Opción 2 — Claude Code /schedule skill
@@ -50,5 +50,5 @@ Cuando el deploy en Coolify esté activo, los agentes correrán 24/7 en la nube 
 ## Monitoreo de tareas programadas
 Los logs se guardan en `05_Backups/`:
 ```bash
-tail -f /home/npe927/SaaS_Factory/05_Backups/emkd_cron.log
+tail -f /home/npe927/AGIA_Factory/05_Backups/emkd_cron.log
 ```

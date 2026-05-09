@@ -23,7 +23,7 @@ MultiEntregas LG es una empresa de transporte refrigerado internacional (España
 
 | Capa | Tecnología |
 |------|-----------|
-| Base de datos | **Supabase** (ya disponible en la SaaS Factory) |
+| Base de datos | **Supabase** (ya disponible en la AGIA Factory) |
 | Backend functions | **Supabase Edge Functions** (Deno) |
 | Email transaccional | **Resend** o **SendGrid** (recomendado Resend por simplicidad) |
 | WhatsApp API | **WhatsApp Business Cloud API** (Meta) o redirección directa |
