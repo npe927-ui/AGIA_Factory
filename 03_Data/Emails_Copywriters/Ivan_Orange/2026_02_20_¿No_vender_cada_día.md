@@ -1,0 +1,8 @@
+# ¿No vender cada día?
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Fri, 20 Feb 2026 19:00:02 +0000
+**ID:** 19c7c6e024d2c697
+---
+
+«No vendas cada día o se darán de baja.» Ese es el sabio consejo que dan muchos gurús del marketing. Pero en realidad no es más que el miedo hablando. Cuando dejas de vender, atraes a un tipo específico de persona: El Turista ─persona curiosa, cazadora de chollos, que quiere entretenimiento, no una solución. Cuando vendes cada día, los filtras. Atraes compradores. Mandar más emails nunca (ni una sola vez) ha resultado en menos dinero para mis clientes, socios ni para mí. La repetición construye una marca más sólida. La repetición construye mejores relaciones. La repetición genera más dinero. La única razón por la que la gente no vende cada día es porque se quedan sin formas de pedir la venta sin parecer pesados. Se quedan sin munición. Y se callan. En Infinite Ink Club te doy la variedad que necesitas para vender con frecuencia sin repetirte y sin tener que poner tú el esfuerzo en pensar, estructurar y escribir los emails. Obtienes el Arsenal 3x1 para atacar la misma oferta desde tres ángulos distintos. Tu lista se mantiene fresca. Tus ventas crecen. Y empiezas a preguntarte qué puedes hacer con el nuevo tiempo libre que te queda. Pero bueno, eso ya son problemas tuyos. Si quieres empezar a vender de forma consistente por email, haz clic aquí: https://www.ivanorange.com/in-in-club/ Iván Orange. P.D. El domingo es el último día para inscribirse y recibir gratis las dos primeras entregas. ¿No quieres seguir recibiendo mis emails diarios? Haz clic aquí -> unsubscribe

@@ -1,0 +1,8 @@
+# (**Confirma tu plaza**) [CLASE EN VIVO] Lunes 9 de Marzo
+
+**De:** Vilma Nunez <hola@vilmanunez.com>
+**Fecha:** Sun, 8 Mar 2020 09:06:32 -0400 (EDT)
+**ID:** 170ba41274567687
+---
+
+Webinar en DIRECTO 96 Hola Nacho gala, Hayas visto o no los videos del Taller, MAÑANA Lunes 9 tienes la mejor oportunidad para entender cómo puedes subir tus precios y lanzar o re-lanzar tu propio negocio de utilizando las metodologías de la Consultoría Digital. --> Apúntate al WEBINAR EN VIVO de este Lunes 9 ¿Eres un freelance? ¿Ofreces o quieres ofrecer servicios? ¿Tienes una pequeña empresa o una agencia? ¡Mañana te voy a explicar en detalle cómo revolucionar tu negocio con una nueva línea de Consultoría! ¡Apúntame! Tengo muchas ganas de que llegue este Directo y compartir contigo todo lo que he preparado. Te prometo que te va a encantar. ¡Nos vemos mañana! Vilma Núñez, CEO - Academia de Consultores Unsubscribe 2 Villas LLC 247 SW 8st #293 Miami, Florida 33130 United States . Según lo dispuesto en el Reglamento Europeo en materia de Protección de Datos, te informo que los datos de carácter personal que me has proporcionado son gestionados por el responsable 2 VILLAS LLC tras haberme facilitado/cedido sus datos de manera voluntaria mediante un correo electrónico tras su suscripción. La finalidad de este fichero es incorporarte en mi lista de suscripción y remitir boletines con contenidos y promociones puntuales a través de Infusionsoft y ClickFunnels, empresas radicadas en USA y que garantizan la seguridad de los datos. El usuario tiene derecho de acceso, rectificación, limitación o suprimir los datos enviando un correo electrónico a hola@vilmanunez.com desde la dirección que usó para el alta así como realizar una reclamación a la autoridad de control.

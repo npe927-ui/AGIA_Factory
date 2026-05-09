@@ -1,0 +1,8 @@
+# Sale on my most esoteric book
+
+**De:** Ben Settle <ben@bensettle.com>
+**Fecha:** Mon, 15 Sep 2025 11:45:30 +0000
+**ID:** 1994d33396d46429
+---
+
+Today I am having a sale on my book: “NOfluence” It teaches several extremely potent ways I’ve been using over the past 20 years to get insanely high levels of sales & compliance from customers, clients (when I did client work), and other people in my life (family, friends, girlfriends, etc). Especially things I’ve been doing & applying to my ads, emails, and other marketing. It also has various other lessons from Email Players, coaching I’ve done on the subject, books I’ve written that I’ve sold related to the main content. “NOfluence” normally sells for $600.00. But during this week’s sale, you can have it for a fat $120.00.00 discount off that listed price. (So $480 vs the usual $600) The deadline is Friday, 9/19 at midnight EDT. Here’s the link: https://www.EmailPlayers.com/nofluence Use code AZRIEL at the checkout (where it says “add referral code” under the price) for the discount. Ben Settle P.S. Read the sales letter thoroughly, and think carefully, before purchasing. It ain't exactly a cheap book. This email was sent by Ben Settle as owner of Settle, LLC. Copyright © 2025 Settle, LLC. All Rights Reserved. No part of this email may be reproduced or transmitted in any form or by any means without written permission from Settle, LLC. Click here to unsubscribe Settle, LLC PO Box 1056 Gold Beach Oregon 97444 USA

@@ -1,0 +1,8 @@
+# dime qué quieres
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Mon, 11 Aug 2025 13:14:43 +0000
+**ID:** 1989944e1823f9be
+---
+
+Hoy me estoy tomando un día de tranqui después de unos días más intensos con la promo de ENDED. Que por cierto, ha ido bastante bien. Pero hoy me gustaría que me ayudes con algo. O mejor dicho... que te ayudes con algo. Quiero preguntarte: ¿Qué contenido te gustaría que tratara más en mis emails? ¿Cuál es el principal problema con el que necesitas ayuda u orientación? Verás, yo no tengo esta newsletter nada más que para contarte mis movidas y mis historias, ni tampoco simplemente para promocionar productos. Tengo esta newsletter para ayudar a transformar negocios. Transformaciones reales, que quizá no son tan sexys como otras muchas promesas que te encuentras por ahí, pero que te permiten aprender de verdad, volverte un empresario o emprendedor más culto, preparado y capaz para afrontar los desafíos que implica el marketing y el crecimiento de un negocio. Y como consecuencia, que tu vida mejore lo máximo posible. Por eso, tu respuesta me ayuda un montón a entender qué es relevante para ti. Me tomo muy en serio lo que me dice mi lista. Todo lo que hago aquí está pensado para quien lo consume. Así que me gustaría saber en qué punto andas ahora mismo. Si te sientes especialmente bloqueado o frustrado con algo en concreto, dímelo. Cuéntame que te gustaría ver más por aquí. Te prometo que lo tendré en cuenta y si encaja en la línea de todo lo que hago (y en lo que puedo ayudar) lo haré. Dale a responder. Ayúdame a ayudarte. Hablamos mañana, Iván Orange. ¿No quieres seguir recibiendo mis emails diarios? Haz clic aquí -> unsubscribe

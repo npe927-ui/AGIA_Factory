@@ -1,0 +1,177 @@
+# Re: mi visión para el futuro
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Mon, 13 Apr 2026 20:44:48 +0200
+**ID:** 19d88295b43ee2e7
+---
+
+Aquí tienes Nacho:
+
+https://docs.google.com/document/d/1BBYN_SMzOafXqOmbE169vSMDuAsu7Z4t6EJrekkY_1A/edit?usp=sharing
+
+Échale un vistazo y dime si estás dentro o si tienes alguna pregunta,
+porque cierro el grupo de fundadores el domingo.
+
+El lun, 13 abr 2026 a las 19:17, Nacho Gala (<npe927@gmail.com>) escribió:
+
+> Cerebro.
+>
+> El lun, 13 abr 2026, 14:15, Iván Orange <hola@ivanorange.com> escribió:
+>
+>> Tengo una visión y quiero compartirla contigo:
+>>
+>>
+>>
+>> Ayudar a 1.000 personas a construir un negocio Zero-G.
+>>
+>>
+>>
+>> Un negocio que les dé el estilo de vida que realmente quieren y que puedan gestionar en 4 horas al día o menos.
+>>
+>>
+>>
+>> Para ello, he decidido clonarme en una versión virtual de mí:
+>>
+>>
+>>
+>> El Cerebro Zero-G.
+>>
+>>
+>>
+>> Una IA privada que entiende, respira y vive el Modelo Zero-G.
+>>
+>>
+>>
+>> Este cerebro está entrenado con años de trabajo haciendo crecer un negocio de 6 cifras simplemente enviando emails (sin llamadas) y llevando a clientes a superar los 20k al mes.
+>>
+>>
+>>
+>> Tiene mi biblioteca de emails diarios y cientos de páginas de mi curso ENDED.
+>>
+>>
+>>
+>> Conoce mi filosofía, las estrategias y activos de *Ventas y Libertad.*
+>>
+>>
+>>
+>> Los High Ticket Docs que he usado para cerrar tratos de 5k a 20k sin llamadas de ventas, webinars ni VSLs.
+>>
+>>
+>>
+>> Y los guiones y pasos exactos de mi Cierre Inbox que uso para validar ofertas.
+>>
+>>
+>>
+>> Esta IA te abre la posibilidad de...
+>>
+>>
+>>
+>> - Preguntarme qué cambiaría de tu High Ticket Doc (incluso puedes pedirle que escriba uno desde cero por ti)
+>>
+>>
+>>
+>> - Convertir tu experiencia en secuencias de emails tutoriales que te posicionan como un experto y atraen clientes premium, aplicando el framework AFCRE
+>>
+>>
+>>
+>> - Volcar tus contenidos, transcripciones y materiales de productos y obtener páginas de venta que pueden vender 6 cifras (incluso en tráfico frío) en 15 minutos
+>>
+>>
+>>
+>> - Tener un ghostwriter entrenado con mi copy y el posicionamiento Zero-G
+>>
+>>
+>>
+>> - Obtener mi feedback sobre tu Mapa de Claridad para ver qué frena a tus compradores o dónde está la siguiente oportunidad
+>>
+>>
+>>
+>> - Escribir tus emails y landing pages
+>>
+>>
+>>
+>> - Practicar las conversaciones con tus clientes potenciales para ver qué decirles exactamente para llevarlos de “interesado” a “pagado” sin ninguna llamada
+>>
+>>
+>>
+>> - Ordenar todas las piezas y las ideas en tu cabeza para saber por dónde empezar y cuál es tu siguiente movimiento, según donde te encuentres ahora
+>>
+>>
+>>  Podrás copiar y pegar tu contenido y preguntarle:
+>>
+>>
+>>
+>> - “¿Esto está atrayendo a Patriotas o Turistas? Conviértelo en material de Patriota.”
+>>
+>>
+>>
+>> - “Esta oferta no está convirtiendo bien. ¿Qué debería cambiar para mejorarla?”
+>>
+>>
+>>
+>> - “Ayúdame a construir un lead magnet que me ayude a atraer leads cualificados”
+>>
+>>
+>>
+>> - “Necesito mejorar mi posicionamiento”
+>>
+>>
+>>
+>> - “Estoy invirtiendo en ads pero mi funnel no convierte, ayúdame a entender dónde está fallando”
+>>
+>>
+>>
+>> - “No sé qué responderle a esta persona. ¿Qué le digo para ver si realmente le interesa mi oferta?”
+>>
+>>
+>>  Y esto es solo el principio.
+>>
+>>
+>>
+>> Me aseguraré de que el Cerebro Zero-G esté mejorando y evolucionando.
+>>
+>>
+>>
+>> Sigo probando cosas nuevas todo el tiempo, así que lo seguiré alimentando con lo que está funcionando en mi propio motor Zero-G ahora mismo, para que tú también puedas aprovecharlo.
+>>
+>>
+>>
+>> Se está desarrollando mientras lees esto.
+>>
+>>
+>>
+>> Mi intención es venderlo a 100€/mes e ir subiendo en el futuro.
+>>
+>>
+>>
+>> Pero voy a abrir un grupo de miembros fundadores esta semana, que tendrán un precio especial de por vida.
+>>
+>>
+>>
+>> Ahora mismo lo que más me interesa es formar un grupo beta que personas que quieran tener acceso anticipado a lo que estoy construyendo y que quieran probarlo activamente para darme feedback.
+>>
+>>
+>>
+>> Realmente serán los que me ayuden a crear un producto increíblemente bueno.
+>>
+>>
+>>
+>> Responde “Cerebro” y te daré los detalles.
+>>
+>>
+>>
+>> Iván Orange.
+>>
+>> ------------------------------
+>>
+>> ¿No quieres seguir recibiendo mis emails diarios?
+>>
+>> Haz clic aquí -> unsubscribe <https://email.ivanorange.com/c/eJx0kM2O2jAURp_GXiL72vHPwoupRqERKiCqsq38S6wGJzgJrfr0FVXLatifq_ud48eyWL90wQglImjleApEKys9BeY81fgfco51zmP5bOf-FatwMDoJwi2OhkopiBIUJI5Xm4e_hx11wy0fvsTrUewPtZ66_vwd98Zy7zkk5ZWnOkkAFxrNZdCJOsKSw9kAAUE4ZZTRBppNaoRmmoJNTqoAHHGS77aM1ZZL3PjxigfTL8s0I_aGoEXQ2ilvXKxzrD9ifSx6UAjaWMI05rIgaNcyr272NbuIWPtsg9j7qzoIxNMOsfeP_aopU9QgESeX_4_xOsf6LQfz1q1the2wH_qvt0_HLf-9879O93z-uQN8N_AnAAD__x_ogzE> <- para darte de baja de la newsletter y dejaré de seducir en tu bandeja de entrada.
+>>
+>>
+>>
+>> Iván Naranjo Muñoz
+>> Calle Flauta nº13
+>> 41710, Utrera (Sevilla)hola@ivanorange.com
+>>
+>>

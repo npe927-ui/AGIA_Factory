@@ -1,0 +1,8 @@
+# el fallo de las 9am
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Thu, 19 Feb 2026 19:00:28 +0000
+**ID:** 19c774672d4255a7
+---
+
+Ponte en situación: Son las 9:00 de la mañana. Te sientas a escribir un email. Te quedas mirando el cursor. Parece que los pensamientos trasnocharon y siguen durmiendo. La cabeza va lenta, espesa. Escribes una frase. La borras. Abres Instagram y haces un poco de scroll. Escribes otra frase. Suena “vendemotos”. La borras. Revisas tu correo. Ya son las 9:45. No tienes nada. Te dices que mañana lo harás. Esto pasa porque estás intentando fabricar balas en medio del campo de batalla. Los soldados no fabrican su munición mientras les disparan. La traen puesta. Cuando intentas crear la estrategia, el ángulo y el copy todo a la vez (antes de que te haga efecto el café) pierdes. No tienes un problema de disciplina. Tienes un problema de suministro. Si el lunes por la mañana abrieras tu bandeja y encontraras las balas ya hechas, simplemente dispararías. No necesitarías disciplina. Solo necesitarías 10 minutos. Eso es lo que te ofrezco. Deja de fabricar. Empieza a recargar. Únete aquí: https://www.ivanorange.com/in-in-club Iván Orange. P.D. El precio es de 9 €/semana. Sin permanencia. Si cancelas, no puedes volver en un año. P.D2. Recibes las 2 primeras entregas gratis al unirte. ¿No quieres seguir recibiendo mis emails diarios? Haz clic aquí -> unsubscribe

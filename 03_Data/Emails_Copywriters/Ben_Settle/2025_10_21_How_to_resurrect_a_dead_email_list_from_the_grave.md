@@ -1,0 +1,8 @@
+# How to resurrect a dead email list from the grave
+
+**De:** Ben Settle <ben@bensettle.com>
+**Fecha:** Tue, 21 Oct 2025 22:15:30 +0000
+**ID:** 19a08d8f740dadd4
+---
+
+In which the email list building question of the hour is asked: “Do you have tips on how to revive a dead list in 7-14 days? My answer to that is: Unless you're Jesus you probably should not expect miracles. Dead lists are dead after all. And mummies tend to not like being woken up. If anything, they will likely chase you around instead of hug you. But there is one thing just about any business should be able to do if you have a dead list you'd like to try to revive. And about 7 years ago I even did a detailed video on it. A video you can watch free on the BerserkerMail YouTube channel. Here’s the mighty link: https://www.EmailPlayers.com/berserkermailtv/dead Ben Settle P.S. On the Low Stress Trading webinars we did the other week, it became a running joke in the chat that seeing me on video is akin to a Bigfoot sighting. In fact, Stefania bristled at least once when a woman asked to see me on video. And when a few of the guys asked on the calls, I just assumed they were gay. Either way: There are several videos of me teaching email on the BerserkerMail channel. They are free, they are valuable, and they are yours for the watching at the link above. This email was sent by Ben Settle as owner of Settle, LLC. Copyright © 2025 Settle, LLC. All Rights Reserved. No part of this email may be reproduced or transmitted in any form or by any means without written permission from Settle, LLC. Click here to unsubscribe Settle, LLC PO Box 1056 Gold Beach Oregon 97444 USA

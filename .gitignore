@@ -89,3 +89,7 @@ temp/
 .claude/
 01_Projects/AGIA_360/.venv_agia/
 01_Projects/AGIA_360/input_books/
+
+# Credenciales y datos personales (LOPD)
+agia-360/
+03_Data/

@@ -1,0 +1,8 @@
+# Trump's shameless shortcut to creating a world-renown brand
+
+**De:** Ben Settle <ben@bensettle.com>
+**Fecha:** Mon, 21 Apr 2025 02:15:00 +0000
+**ID:** 1965620b1cf5062c
+---
+
+There are two shameless shortcuts to creating a world-renown brand. The first is being born into a famous family & making a secks tape. The second? Running for President. For example, a couple years ago podcaster Jesse Kelly was asked on Twitter: “Why is Nikki Haley even running?!” His answer: === She has a brand. It’s relatively small. The bigger your brand, the more money and opportunity you get. You run for president because it costs nothing but your time and after it’s over, your brand is bigger than before. That’s why. === For those who hate or love Trump it’s nothing he hasn’t been doing since 2000. And each time his brand got bigger. Today his brand lives rent free in the heads of half the world. What? You have no desire to run for President or make a secks tape? Then perhaps you might want to try your hand at my Brand Barbarian book for your business instead. It’s only on sale for another hour or so (from when I am sending this) — as the deadline is tonight, Sunday April 20 at midnight EDT. To get it hit the jump here: https://www.EmailPlayers.com/brand Use this code at the cart: AXE And make sure you see the price change before entering your info. Ben Settle This email was sent by Ben Settle as owner of Settle, LLC. Copyright © 2025 Settle, LLC. All Rights Reserved. No part of this email may be reproduced or transmitted in any form or by any means without written permission from Settle, LLC. Click here to unsubscribe Settle, LLC PO Box 1056 Gold Beach Oregon 97444 USA

@@ -1,0 +1,8 @@
+# lo voy a hacer por primera vez...
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Mon, 10 Nov 2025 17:41:55 +0000
+**ID:** 19a6edc3691d34eb
+---
+
+Hey, Si me conoces de hace poco, seguramente no sabes que hay algo que jamás he hecho en mi lista. Ni una sola vez. Me refiero a las ofertas de Black Friday. De hecho, suelo llamar a este evento Black Fraudey por la mayoría de ofertas y promociones de mierda que se venden por el mero hecho de aprovechar el consumismo impulsivo de la gente, sin importar si están vendiendo algo legítimo, valioso o útil. Por eso siempre me he mantenido alejado de eso. Pero al mismo tiempo este año quería hacer algo rompedor. Y para no hacer lo mismo que los demás, he preparado algo distinto: Por primera vez, voy a lanzar un paquete que es como la «Santísima Trinidad» de los clientes e ingresos recurrentes. Son los 3 talleres principales que he hecho este año, que te darán los fundamentos y herramientas necesarios para construir una base de compradores recurrentes de calidad, hablar de lo que de verdad les importa, y cómo llevarlos naturalmente y sin presión a las ofertas de mayor precio. Si has querido unirte en el pasado a alguno de ellos pero no lo hiciste... Esta es tu oportunidad. Podrás conseguirlos de una manera que nunca he hecho y que no sé si haré otra vez. Probablemente no. Estate atento a mañana, porque enviaré los detalles. Iván Orange. ¿No quieres seguir recibiendo mis emails diarios? Haz clic aquí -> unsubscribe

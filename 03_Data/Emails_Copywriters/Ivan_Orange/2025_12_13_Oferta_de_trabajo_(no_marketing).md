@@ -1,0 +1,8 @@
+# Oferta de trabajo (no marketing)
+
+**De:** "Iván Orange" <hola@ivanorange.com>
+**Fecha:** Sat, 13 Dec 2025 16:00:44 +0000
+**ID:** 19b18717f7405125
+---
+
+Necesito una chica que tenga experiencia en pintar con pasteles, para la creación de un curso online en vídeo. Tengo una oferta de trabajo para hacerle. No tiene nada que ver con el marketing ni nada relacionado a Iván Orange. Es para otro proyecto personal. Busco a alguien con talento para crear una impresionante pintura realista titulada «Metallic Rose» (efecto metálico utilizando pasteles secos) mientras graba todo el proceso para un curso online. La persona ideal debe tener experiencia en pintura con pasteles y sentirse cómoda grabándose mientras pinta y enseña. Será responsable de demostrar técnicas, compartir conocimientos y crear la obra terminada. También tener disponibilidad para hacer el trabajo ahora. Importante: necesita poder tener la soltura suficiente en inglés como para poder grabarse y explicar en inglés. Preferiblemente me gustaría que pueda mandarme alguna muestra. Habilidades relevantes: - Pintura al pastel - Pintura realista - Enseñanza de arte El proyecto está totalmente validado y existe una alta probabilidad de que necesite encargar más trabajos en el futuro. Precio: estoy feliz de escuchar qué precio funciona para la persona que lo haga. Si tienes talento artístico (o conoces a alguien que pudiera estar interesado en este proyecto) por favor responde a este email la palabra "OFERTA" y me comunicaré contigo a partir de ahí. Iván. ¿No quieres seguir recibiendo mis emails diarios? Haz clic aquí -> unsubscribe

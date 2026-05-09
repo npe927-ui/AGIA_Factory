@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MultiEntregas LG — Estrategia AGIA 360°</title>
+    
+    <!-- Fonts from Google (usually safe, but UI won't break if blocked) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --polar: #050E1F;
+            --navy: #0A1B3D;
+            --arctic: #5BC5E8;
+            --white: #FFFFFF;
+            --grey-mid: #94A3B8;
+            --accent: #00D4A4;
+            --glass: rgba(255, 255, 255, 0.03);
+            --glass-border: rgba(91, 197, 232, 0.2);
+            --transition: cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: radial-gradient(circle at center, var(--navy) 0%, var(--polar) 100%);
+            color: var(--white);
+            overflow: hidden; /* NO SCROLL ALLOWED */
+            height: 100vh;
+            width: 100vw;
+            font-size: 20px;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Rajdhani', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--white);
+            line-height: 1.2;
+        }
+
+        /* ─── SLIDES SYSTEM ─── */
+        #slides-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        .slide {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.6s var(--transition), transform 0.6s var(--transition);
+            transform: scale(0.95);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .slide.active {
+            opacity: 1;
+            visibility: visible;
+            transform: scale(1);
+            z-index: 10;
+        }
+
+        /* ─── UI ELEMENTS ─── */
+        .glass-box {
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            padding: 40px;
+            border-radius: 24px;
+            backdrop-filter: blur(15px);
+            margin-top: 30px;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            text-align: left;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        .highlight { color: var(--arctic); font-weight: 800; }
+        .accent { color: var(--accent); }
+
+        ul {
+            text-align: left;
+            display: inline-block;
+            margin-top: 20px;
+            list-style: none;
+        }
+
+        li {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        li::before {
+            content: '❄';
+            color: var(--arctic);
+            position: absolute;
+            left: 0;
+        }
+
+        blockquote {
+            border-left: 4px solid var(--arctic);
+            padding: 30px 40px;
+            font-size: 1.5em;
+            font-style: italic;
+            font-weight: 600;
+            background: rgba(10, 27, 61, 0.5);
+            margin: 40px auto;
+            max-width: 900px;
+            border-radius: 0 16px 16px 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            text-align: left;
+        }
+
+        /* ─── CONTROLS & LOGO ─── */
+        .presentation-logo {
+            position: fixed;
+            top: 40px;
+            left: 40px;
+            width: 180px;
+            z-index: 100;
+        }
+
+        .controls {
+            position: fixed;
+            bottom: 30px;
+            right: 40px;
+            z-index: 100;
+            display: flex;
+            gap: 20px;
+        }
+
+        .btn-nav {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid var(--glass-border);
+            color: white;
+            width: 50px; height: 50px;
+            border-radius: 50%;
+            font-size: 24px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .btn-nav:hover { background: var(--arctic); color: var(--polar); }
+
+        #progress-bar {
+            position: fixed;
+            bottom: 0; left: 0;
+            height: 5px;
+            background: var(--arctic);
+            z-index: 100;
+            transition: width 0.3s;
+        }
+
+        .slide-counter {
+            position: fixed;
+            bottom: 40px;
+            left: 40px;
+            color: var(--grey-mid);
+            font-family: 'Rajdhani';
+            font-size: 1.2em;
+            z-index: 100;
+        }
+
+    </style>
+</head>
+<body>
+
+    <img src="assets/logo_transparent.webp" alt="MultiEntregas LG" class="presentation-logo" onerror="this.style.display='none'">
+
+    <div id="progress-bar" style="width: 0%;"></div>
+    
+    <div class="slide-counter"><span id="current-count">1</span> / 19</div>
+
+    <div class="controls">
+        <button class="btn-nav" onclick="prevSlide()">←</button>
+        <button class="btn-nav" onclick="nextSlide()">→</button>
+    </div>
+
+    <div id="slides-container">
+
+        <!-- 1 -->
+        <div class="slide active">
+            <h3 style="letter-spacing: 5px; color: var(--grey-mid); margin-bottom: 20px;">ESTRATEGIA AGIA 360°</h3>
+            <h1 style="font-size: 5em; text-shadow: 0 0 40px rgba(91, 197, 232, 0.3);">MULTIENTREGAS LG</h1>
+            <h3 style="color: var(--arctic); font-weight: 300; font-size: 2em;">Seguridad, tranquilidad y control hasta el destino</h3>
+            <blockquote style="text-align: center; border: none; background: transparent; box-shadow: none;">
+                "Cuando una mercancía necesita frío, no necesita solo transporte. Necesita seguridad, tranquilidad y control hasta el destino."
+            </blockquote>
+        </div>
+
+        <!-- 2 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">Documento guía para reunión estratégica</h2>
+            <div class="glass-box" style="max-width: 800px;">
+                <h3 class="accent" style="font-size: 1.8em; margin-bottom: 20px;">Web · Textos · Marketing 3 meses · AGIA 360°</h3>
+                <p style="font-size: 1.3em; color: var(--grey-mid);">
+                    <strong>Objetivo:</strong> entender la filosofía de MultiEntregas LG para transformar su experiencia real en una web clara, profesional y útil para captar mejores clientes.
+                </p>
+            </div>
+        </div>
+
+        <!-- 3 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">1. Idea central</h2>
+            <p style="font-size: 1.5em;">MultiEntregas LG no vende solo transporte refrigerado. <br><span class="highlight">Vende algo más valioso:</span></p>
+            <div class="grid-2 glass-box">
+                <div>
+                    <ul>
+                        <li>Seguridad.</li>
+                        <li>Tranquilidad.</li>
+                        <li>Control.</li>
+                        <li>Frío estable.</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>Confianza en ruta.</li>
+                        <li>Protección de mercancía sensible.</li>
+                        <li>Entregas internacionales sin improvisación.</li>
+                    </ul>
+                </div>
+            </div>
+            <div style="margin-top: 40px;">
+                <p style="color: var(--grey-mid); font-family: 'Rajdhani'; letter-spacing: 3px;">CÓDIGO SIMBÓLICO</p>
+                <h3 style="font-size: 2em;">Custodia segura de mercancía sensible por Europa.</h3>
+            </div>
+        </div>
+
+        <!-- 4 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">2. Filosofía que queremos entender</h2>
+            <p style="font-size: 1.5em;">La reunión busca aclarar cómo piensa y trabaja MultiEntregas LG.</p>
+            <div class="glass-box">
+                <h3 class="accent" style="margin-bottom: 20px; text-align: left;">Puntos clave:</h3>
+                <ul style="column-count: 2; column-gap: 60px; font-size: 1.2em;">
+                    <li>Qué promete al cliente.</li>
+                    <li>Qué cuida en cada transporte.</li>
+                    <li>Qué no tolera como empresa.</li>
+                    <li>Qué tipo de cliente quiere atraer.</li>
+                    <li>Qué imagen quiere proyectar.</li>
+                    <li>Qué la diferencia.</li>
+                    <li>Qué significa “hacer bien el trabajo”.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 5 -->
+        <div class="slide" style="background: rgba(0,0,0,0.5);">
+            <h3 style="color: var(--grey-mid); letter-spacing: 4px; margin-bottom: 40px;">3. PREGUNTA MADRE DE LA REUNIÓN</h3>
+            <h1 style="font-size: 3.5em; line-height: 1.2; text-transform: uppercase;">
+                "Si MultiEntregas LG fuera conocida por una sola cosa en el mercado,<br><span class="highlight">¿por qué os gustaría que os recordaran?</span>"
+            </h1>
+            <p style="margin-top: 50px; font-size: 1.5em; color: var(--grey-mid); font-style: italic;">Esta pregunta define marca, tono, web y comunicación.</p>
+        </div>
+
+        <!-- 6 -->
+        <div class="slide">
+            <h2 style="font-size: 2.5em; color: var(--arctic);">4. Preguntas clave para entender LG (1/3)</h2>
+            <div class="grid-2">
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Objetivos</h3>
+                    <ul>
+                        <li>¿Qué queréis conseguir en 3 meses?</li>
+                        <li>Si funciona, ¿qué tendría que haber pasado?</li>
+                        <li>Prioridad: captar clientes, imagen, precios...</li>
+                    </ul>
+                </div>
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Cliente ideal</h3>
+                    <ul>
+                        <li>¿Qué tipo de cliente queréis atraer más?</li>
+                        <li>¿Qué cliente no os interesa?</li>
+                        <li>¿Quién toma la decisión de contrataros?</li>
+                        <li>¿Qué valora más ese cliente?</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- 7 -->
+        <div class="slide">
+            <h2 style="font-size: 2.5em; color: var(--arctic);">4. Preguntas clave (2/3)</h2>
+            <div class="grid-2">
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Diferenciación</h3>
+                    <ul>
+                        <li>¿Por qué elegir a LG frente a otra empresa?</li>
+                        <li>¿Qué hacéis mejor que la competencia?</li>
+                        <li>¿Qué valor no ve el cliente?</li>
+                        <li>¿Qué imagen no queréis dar nunca?</li>
+                    </ul>
+                </div>
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Riesgos y confianza</h3>
+                    <ul>
+                        <li>¿Cuál es el mayor problema que resolvéis?</li>
+                        <li>¿Qué miedo tiene el cliente?</li>
+                        <li>¿Qué pasa si una entrega falla?</li>
+                        <li>¿Cómo evitáis errores de temperatura?</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- 8 -->
+        <div class="slide">
+            <h2 style="font-size: 2.5em; color: var(--arctic);">4. Preguntas clave (3/3)</h2>
+            <div class="grid-2">
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Pruebas reales</h3>
+                    <ul>
+                        <li>¿Qué pruebas mostramos en la web?</li>
+                        <li>¿Fotos de vehículos, rutas, equipo?</li>
+                        <li>¿Certificados o protocolos?</li>
+                        <li>¿Países y mercancías?</li>
+                    </ul>
+                </div>
+                <div class="glass-box">
+                    <h3 class="accent" style="font-size: 1.8em;">Negocio & Acción</h3>
+                    <ul>
+                        <li>¿Qué rutas/países interesa potenciar?</li>
+                        <li>¿Qué servicios son más rentables?</li>
+                        <li>¿Qué acción debe hacer el visitante?</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- 9 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">5. Lo que la web debe conseguir</h2>
+            <p style="font-size: 1.5em;">La web no debe ser solo una presentación bonita.</p>
+            <h3 style="font-size: 2em; margin-bottom: 40px;">Debe funcionar como una <span class="highlight">oficina comercial 24 horas</span>.</h3>
+            
+            <ul style="column-count: 2; column-gap: 80px; font-size: 1.2em;">
+                <li>Quién es LG.</li>
+                <li>Qué transporta.</li>
+                <li>Dónde trabaja.</li>
+                <li>Qué controles aplica.</li>
+                <li>Por qué confiar.</li>
+                <li>Cómo pedir presupuesto.</li>
+            </ul>
+
+            <div class="glass-box" style="margin-top: 50px;">
+                <h2 style="margin: 0;">La web no debe decorar. <br><span class="accent">Debe vender confianza.</span></h2>
+            </div>
+        </div>
+
+        <!-- 10 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">6. Enfoque técnico en lenguaje claro</h2>
+            <div style="display: flex; gap: 30px; margin-top: 40px; max-width: 1200px;">
+                <div class="glass-box" style="flex:1; padding: 30px;">
+                    <h3 class="accent">📱 Pensada para móvil</h3>
+                    <p style="font-size: 0.9em;">Diseño claro y rápido para el gerente que entra desde su teléfono.</p>
+                </div>
+                <div class="glass-box" style="flex:1; padding: 30px;">
+                    <h3 class="accent">🤖 Google e IA</h3>
+                    <p style="font-size: 0.9em;">Etiquetas claras para que la inteligencia artificial os recomiende mejor.</p>
+                </div>
+                <div class="glass-box" style="flex:1; padding: 30px;">
+                    <h3 class="accent">🔗 Al compartir</h3>
+                    <p style="font-size: 0.9em;">Una tarjeta profesional perfecta al compartir el enlace por WhatsApp o LinkedIn.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 11 -->
+        <div class="slide">
+            <h3 style="color: var(--grey-mid); font-size: 1.5em; margin-bottom: 20px;">7. PLAN INICIAL DE MARKETING · 3 MESES</h3>
+            <h1 style="font-size: 6em; color: var(--arctic); margin: 0;">MES 1</h1>
+            <h2 style="font-size: 2.5em; margin-bottom: 30px;">Orden y base</h2>
+            
+            <ul style="column-count: 2; column-gap: 60px; font-size: 1.2em;">
+                <li>Definir mensaje central.</li>
+                <li>Ordenar servicios.</li>
+                <li>Revisar textos.</li>
+                <li>Definir cliente ideal.</li>
+                <li>Reunir fotos.</li>
+                <li>Aclarar tono de marca.</li>
+            </ul>
+            <div class="glass-box">
+                <h3 class="accent">Resultado: una base clara para comunicar sin improvisar.</h3>
+            </div>
+        </div>
+
+        <!-- 12 -->
+        <div class="slide">
+            <h3 style="color: var(--grey-mid); font-size: 1.5em; margin-bottom: 20px;">7. PLAN INICIAL DE MARKETING · 3 MESES</h3>
+            <h1 style="font-size: 6em; color: var(--arctic); margin: 0;">MES 2</h1>
+            <h2 style="font-size: 2.5em; margin-bottom: 30px;">Visibilidad y confianza</h2>
+            
+            <ul style="font-size: 1.2em;">
+                <li>Publicar contenido profesional.</li>
+                <li>Mejorar presencia en Google.</li>
+                <li>Mostrar rutas, flota y servicios.</li>
+                <li>Explicar frío controlado y seguridad.</li>
+                <li>Reforzar imagen internacional.</li>
+            </ul>
+            <div class="glass-box">
+                <h3 class="accent">Resultado: empresa más visible, clara y profesional.</h3>
+            </div>
+        </div>
+
+        <!-- 13 -->
+        <div class="slide">
+            <h3 style="color: var(--grey-mid); font-size: 1.5em; margin-bottom: 20px;">7. PLAN INICIAL DE MARKETING · 3 MESES</h3>
+            <h1 style="font-size: 6em; color: var(--arctic); margin: 0;">MES 3</h1>
+            <h2 style="font-size: 2.5em; margin-bottom: 30px;">Captación comercial</h2>
+            
+            <ul style="font-size: 1.2em;">
+                <li>Preparar mensajes comerciales.</li>
+                <li>Contactar con empresas objetivo.</li>
+                <li>Medir respuestas.</li>
+                <li>Ajustar mensajes.</li>
+                <li>Mejorar el embudo de captación.</li>
+            </ul>
+            <div class="glass-box">
+                <h3 class="accent">Resultado: primeras oportunidades comerciales enfocadas.</h3>
+            </div>
+        </div>
+
+        <!-- 14 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">8. Cómo debe sonar MultiEntregas LG</h2>
+            <div class="grid-2" style="margin-top: 40px;">
+                <div class="glass-box" style="border-top: 4px solid var(--arctic);">
+                    <h3 style="color: var(--arctic); font-size: 1.8em;">✓ La marca debe transmitir:</h3>
+                    <ul>
+                        <li>Frío / Control / Precisión.</li>
+                        <li>Seguridad / Tranquilidad.</li>
+                        <li>Imagen europea / Empresa seria.</li>
+                    </ul>
+                </div>
+                <div class="glass-box" style="border-top: 4px solid #ff4444;">
+                    <h3 style="color: #ff4444; font-size: 1.8em;">✗ No debe parecer:</h3>
+                    <ul>
+                        <li>Improvisada / Barata.</li>
+                        <li>Genérica / Antigua.</li>
+                        <li>Poco técnica / Del montón.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- 15 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">9. Valor añadido de AGIA 360°</h2>
+            <p style="font-size: 1.5em;">AGIA 360° no plantea una web suelta. <br><span class="highlight">Plantea una base comercial:</span></p>
+            
+            <ul style="column-count: 3; font-size: 1.5em; margin: 40px 0;">
+                <li>Mensaje.</li><li>Imagen.</li><li>Web.</li>
+                <li>Textos.</li><li>Marketing.</li><li>Captación.</li>
+            </ul>
+
+            <blockquote style="font-size: 1.2em; max-width: 1000px; text-align: center; border: none; background: rgba(91, 197, 232, 0.1);">
+                "La imagen de MultiEntregas LG debe estar a la altura del servicio que ya presta. Si la empresa trabaja con precisión, la comunicación también debe transmitir precisión."
+            </blockquote>
+        </div>
+
+        <!-- 16 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">10. Uso futuro con clientes</h2>
+            <p style="font-size: 1.5em;">Este informe servirá como modelo comercial. <br>Podréis llevar un documento premium que explique:</p>
+            
+            <ul style="column-count: 2; margin: 40px 0; font-size: 1.3em;">
+                <li>Qué problema resuelve.</li><li>Qué riesgos evita.</li>
+                <li>Qué controles aplica.</li><li>Qué rutas cubre.</li>
+                <li>Qué garantías ofrece.</li><li>Por qué confiar.</li>
+            </ul>
+
+            <div class="glass-box">
+                <h3 class="accent" style="font-size: 2em;">Objetivo: impresionar desde el minuto cero sin exagerar.</h3>
+                <p style="font-size: 1.2em; color: var(--grey-mid);">La empresa debe parecer preparada antes de empezar a hablar.</p>
+            </div>
+        </div>
+
+        <!-- 17 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">11. Frases útiles para la reunión</h2>
+            <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 30px; font-size: 1.2em; max-width: 1000px;">
+                <div class="glass-box" style="padding: 15px 30px; margin: 0; border-left: 4px solid var(--arctic);">El cliente no compra un camión. Compra tranquilidad.</div>
+                <div class="glass-box" style="padding: 15px 30px; margin: 0; border-left: 4px solid var(--arctic);">Lo que no se explica, no se valora.</div>
+                <div class="glass-box" style="padding: 15px 30px; margin: 0; border-left: 4px solid var(--arctic);">La web debe vender confianza, no solo mostrar información.</div>
+                <div class="glass-box" style="padding: 15px 30px; margin: 0; border-left: 4px solid var(--arctic);">Una empresa internacional necesita una imagen internacional.</div>
+                <div class="glass-box" style="padding: 15px 30px; margin: 0; border-left: 4px solid var(--arctic);">Primero ordenamos el mensaje. Luego diseñamos. Después captamos.</div>
+            </div>
+        </div>
+
+        <!-- 18 -->
+        <div class="slide">
+            <h2 style="font-size: 3em; color: var(--arctic);">12. Cierre recomendado</h2>
+            <blockquote style="font-size: 2em; line-height: 1.4; padding: 60px; text-align: center; border: none; background: rgba(255,255,255,0.05); border-radius: 20px;">
+                "Con lo que hablemos hoy prepararemos un resumen claro con prioridades, textos base y una propuesta de acciones para los próximos 3 meses. Así MultiEntregas LG podrá revisar, corregir y decidir con calma."
+            </blockquote>
+        </div>
+
+        <!-- 19 -->
+        <div class="slide" style="background: rgba(0,0,0,0.8);">
+            <h3 style="letter-spacing: 5px; color: var(--grey-mid); margin-bottom: 30px;">IDEA FINAL</h3>
+            <p style="font-size: 1.5em; margin-bottom: 20px;">MultiEntregas LG debe comunicar lo que realmente vende:</p>
+            
+            <h1 style="color: var(--arctic); line-height: 1.1; margin-bottom: 50px; font-size: 4em;">
+                Seguridad, tranquilidad y control en mercancías sensibles que cruzan Europa.
+            </h1>
+            
+            <p style="color: var(--grey-mid); font-style: italic; font-size: 1.2em;">
+                Ese debe ser el centro de la web, los textos, la imagen y el plan de marketing.
+            </p>
+
+            <div style="margin-top: 80px; display: flex; justify-content: center; align-items: center; gap: 30px;">
+                <img src="assets/logo_transparent.webp" style="height: 60px;" onerror="this.style.display='none'">
+                <span style="font-size: 2em; color: rgba(255,255,255,0.2);">✖</span>
+                <h2 style="margin: 0; color: var(--white); font-size: 3em;">AGIA <span class="highlight">360°</span></h2>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ─── JAVASCRIPT ENGINE ─── -->
+    <script>
+        const slides = document.querySelectorAll('.slide');
+        const progressBar = document.getElementById('progress-bar');
+        const counter = document.getElementById('current-count');
+        let currentSlide = 0;
+
+        function updateSlides() {
+            slides.forEach((slide, index) => {
+                if(index === currentSlide) {
+                    slide.classList.add('active');
+                } else {
+                    slide.classList.remove('active');
+                }
+            });
+            
+            // Update UI
+            counter.innerText = currentSlide + 1;
+            const progress = ((currentSlide) / (slides.length - 1)) * 100;
+            progressBar.style.width = progress + '%';
+        }
+
+        function nextSlide() {
+            if (currentSlide < slides.length - 1) {
+                currentSlide++;
+                updateSlides();
+            }
+        }
+
+        function prevSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                updateSlides();
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === 'Space' || e.key === 'Enter') {
+                nextSlide();
+            } else if (e.key === 'ArrowLeft') {
+                prevSlide();
+            }
+        });
+
+        // Initialize
+        updateSlides();
+    </script>
+</body>
+</html>

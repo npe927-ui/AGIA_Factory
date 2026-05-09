@@ -1,0 +1,1409 @@
+# 🏴‍☠️ EL ARSENAL DE ASUNTOS (HOOKS)
+
+Listado maestro de todos los asuntos extraídos para clonar patrones de apertura.
+
+- **Adrian Fersal**: 📚 [Parte 2/4] Este curso de copy ya no se vende, aquí por 0€
+- **Rosa Morel**: 14 ganchos storytelling para tus vídeos y posts
+- **Wise**: Pagos recurrentes con tarjeta bloqueados
+- **Wise**: Tu pago recurrente se ha rechazado
+- **miguel gala**: Fwd: acuerdos gestión y reparto herencia papa y mama
+- **"Luis Alfonso de Borbón"**: Ignacio, añádeme a tu red de LinkedIn
+- **"Luis Alfonso de Borbón (a través de LinkedIn)"**: La invitación de Luis Alfonso de Borbón espera tu respuesta.
+- **Isra Bravo**: Este miércoles pasado
+- **Isra Bravo**: adicto a la cocaína
+- **Isra Bravo**: El efecto Robbins: La vida es un teatro y gana quien mejor interpreta
+- **Isra Bravo**: Sorteo
+- **Isra Bravo**: CONFIRMAR QUE NO TE INTERESA
+- **Isra Bravo**: Hoy (23) firmas en Barcelona.
+- **Isra Bravo**: último día premios MIRA.
+- **Isra Bravo**: Cruyff y su frase de mentalidad maestra.
+- **Isra Bravo**: Consejo de padre que debería hacerte rico
+- **Isra Bravo**: Ahora sí, las BASES de los premios.
+- **Isra Bravo**: Subcampeón del mundo de boxeo
+- **Isra Bravo**: Hasta el 21. BUENAS Noticias.
+- **Isra Bravo**: Aclaración
+- **Isra Bravo**: Maradona y su tremenda frase de mentalidad
+- **Isra Bravo**: FIRMAS SANT JORDI 2026
+- **Isra Bravo**: ¿Qué hay detrás de Tony Robbins?
+- **Isra Bravo**: Oye, pasado mañana.
+- **Me la saco - Isra Bravo**: Problemas con tu pago. ¿Mando alguien a buscarte?
+- **Isra Bravo**: Todo solucionado
+- **Me la saco - Isra Bravo**: ‼️Finalizó tu suscripción a Me la saco.
+- **"Maïder Tomasena"**: Sobre delegar nuestra voz
+- **"Maïder Tomasena"**: La economía del desfase
+- **"Maïder Tomasena"**: «Mano a Mano con la IA» ya está aquí
+- **"Maïder Tomasena"**: Me sobran ideas y me falta VALENTÍA
+- **"Maïder Tomasena"**: La puerta que no sabías que podrías abrir
+- **"Maïder Tomasena"**: No todos los días se abre una puerta así
+- **"Maïder Tomasena"**: Si es un no, que sea un no decidido
+- **Maider Tomasena**: ¿Cómo se crea una marca con personalidad?
+- **"Maïder Tomasena"**: 47 formas en que este curso te cambiará
+- **"Maïder Tomasena"**: Si estás esperando a enero, lee esto
+- **"Maïder Tomasena"**: Me pagan por pensar, no por escribir
+- **"Maïder Tomasena"**: La Lavandería cierra esta noche
+- **"Maïder Tomasena"**: La única Certificación de 2025 (antes de mi mudanza)
+- **"Maïder Tomasena"**: ¿La IA te ignora?
+- **"Maïder Tomasena"**: Exponer verdades incómodas también es autoridad
+- **"Maïder Tomasena"**: Antes de que suba el precio
+- **Maider Tomasena**: ¿En qué se parece una madre primeriza a tus clientes?
+- **"Maïder Tomasena"**: Cierro la Escuela de Copywriting.
+- **"Maïder Tomasena"**: Tu cabeza ya lo tiene claro. Tu comunicación, no.
+- **Maider Tomasena**: ¿Cómo sería la ficha de producto de la Gioconda?
+- **Miguel Florido**: [HOY] El último día para llevarte los 5 bonus
+- **Miguel Florido**: ¿Demasiada IA y poca claridad?
+- **Miguel Florido**: Más contenido… pero peor marketing
+- **Miguel Florido**: RMC Online - Evento de Marketing Digital e IA
+- **Miguel Florido**: Si te lo digo yo, no vale
+- **Miguel Florido**: Entra en la mente de 5 expertos (en directo)
+- **Miguel Florido**: Cómo encontrar temas para tus emails
+- **Miguel Florido**: El problema no es la IA (en tu trabajo)
+- **Miguel Florido**: No es que lo estés haciendo mal...
+- **Miguel Florido**: El lunes que viene, a estas horas
+- **Miguel Florido**: Solo tardas 329 segundos
+- **Miguel Florido**: Leer antes de las 23:59h del 16 de marzo
+- **Miguel Florido**: No necesitas más herramientas, solo las útiles
+- **Miguel Florido**: ¿Estamos locos? (Posiblemente, sí)
+- **Miguel Florido**: La paradoja del mono al teclado ya es real
+- **Miguel Florido**: ¿Qué pasa en 24h?
+- **Miguel Florido**: Era inevitable que llegáramos a esto…
+- **Miguel Florido**: Quedan 119 minutos
+- **Miguel Florido**: El lunes abrimos
+- **Miguel Florido**: Al email marketing no lo mata ni la IA
+- **John Carlton**: Imposter syndrome and other writer bugaboos…
+- **John Carlton**: Bitch & Moan Mailbox
+- **John Carlton**: "Everyone’s" doing it it like this…
+- **John Carlton**: Got a fundamental profit sucking flaw in your biz?
+- **John Carlton**: Well, this is infuriating…
+- **John Carlton**: Smart questions, nefarious questions,
+- **John Carlton**: The one dumb blunder smart marketers never make…
+- **John Carlton**: Bitch & Moan Wednesday
+- **John Carlton**: Brilliant tactic when up against someone smarter than you…
+- **John Carlton**: Your guide to better bullets…
+- **John Carlton**: When 99 out of 100 ain’t good enough…
+- **John Carlton**: Ignore anyone who tells you differently…
+- **John Carlton**: Too "stupid" to figure out copywriting?
+- **John Carlton**: Building a biz: What really works?
+- **John Carlton**: Surviving a mad world of non-stop chaos…
+- **John Carlton**: Tip to get ahead of your marketing game…
+- **John Carlton**: Sad commentary on the state of the world…
+- **"T. Harv Eker"**: If the Training Made Sense…
+- **"T. Harv Eker"**: The $2 million you're walking away from
+- **"T. Harv Eker"**: The war vet who cried (watch this)
+- **"T. Harv Eker"**: Pamela is 77. She made $30K in two weeks.
+- **"T. Harv Eker"**: How Arnold Schwarzenegger stays wealthy between movies (and never talks about it)
+- **"T. Harv Eker"**: Why your income keeps landing on the same number
+- **"T. Harv Eker"**: Every celebrity on this list shares the same secret income method
+- **Jesse Eker**: I'm the one reading your emails. Here's what I keep seeing.
+- **"T. Harv Eker"**: You can't arrive where you can't see
+- **"T. Harv Eker"**: Build the Wealth Engine
+- **"T. Harv Eker"**: Your clarity isn't missing. It's buried.
+- **"T. Harv Eker"**: For 30 years, this required a live room. Not anymore.
+- **"T. Harv Eker"**: Is This Really Worth It?
+- **"T. Harv Eker"**: This took me decades to figure out
+- **"T. Harv Eker"**: Today is the day - 2 PM EST live training with Igor
+- **"T. Harv Eker"**: The most educated broke person I knew
+- **"T. Harv Eker"**: Clarity is power. (And most people have it completely backwards.)
+- **"T. Harv Eker"**: Architect your income for wealth
+- **"T. Harv Eker"**: From $6/hour to $3.6 million - here's what actually changed
+- **"T. Harv Eker"**: What Warren Buffett taught me about clarity
+- **Rosa Morel**: (#13) Domingo de confesiones
+- **Rosa Morel**: ¿Miedo a crear contenidos?
+- **Rosa Morel**: La técnica de la magdalena de Proust
+- **Rosa Morel**: #12 Miércoles de libro, peli y reflexión
+- **Rosa Morel**: #11 Miércoles de libro, peli y reflexión
+- **Rosa Morel**: Escribo 3 meses a diario en Substack y pasa esto
+- **Rosa Morel**: Cuando lancé mi marca necesité terapia
+- **Rosa Morel**: No grabas contenidos porque intentas ser otro
+- **Rosa Morel**: [IA COPYWRITING] Prompts listos para descargar
+- **Rosa Morel**: ¿Cuánto tardas en escribir 1000 palabras?
+- **Rosa Morel**: La palabra storytelling se ha prostituido
+- **Rosa Morel**: Copywriters que quieren ser novelistas
+- **Rosa Morel**: CLAC: crea tu correlato objetivo con una palabra
+- **Rosa Morel**: Entrar en el mundo editorial por la puerta grande
+- **Rosa Morel**: #13 Miércoles de libro, peli y reflexión
+- **Rosa Morel**: Cómo escribir un diario para manifestar el éxito
+- **Rosa Morel**: (#14) Domingo de confesiones
+- **Rosa Morel**: ¿Por qué dejas morir tus ideas?
+- **Rosa Morel**: ¿Tienes el síndrome de Solomon?
+- **Mago More**: Primero rema y luego...
+- **MAGOMORE**: Verifica tu dirección de correo electrónico de mago-more
+- **Mago More**: ¿Cuándo preparas el desayuno?
+- **Mago More**: Te doy la bienvenida
+- **Mago More**: Asómate al espejo
+- **Mago More**: Lo que aprendí de una masajista con chófer
+- **Mago More**: ¡No me toques el pito que me irrito!
+- **Seth Godin**: Seth's Blog : All the letters
+- **Seth Godin**: Seth's Blog : The ecard virus
+- **Seth Godin**: Seth's Blog : The right sort of friction
+- **Seth Godin**: Seth's Blog : Creating the conditions for magic
+- **Seth Godin**: Seth's Blog : Attention and effort
+- **Seth Godin**: Seth's Blog : The definitive study of seed oil and health
+- **Seth Godin**: Seth's Blog : The second circle
+- **Seth Godin**: Seth's Blog : Consumers outnumber producers
+- **Seth Godin**: Seth's Blog : "Even"
+- **Seth Godin**: Seth's Blog : The banal djinni
+- **Seth Godin**: Seth's Blog : What do you own?
+- **Seth Godin**: Seth's Blog : Plumbed
+- **Seth Godin**: Seth's Blog : Kinder than necessary
+- **Seth Godin**: Seth's Blog : The right answer
+- **Seth Godin**: Seth's Blog : Is it sciatica?
+- **Seth Godin**: Seth's Blog : Avoiding the purity loop
+- **Seth Godin**: Seth's Blog : Settling
+- **Seth Godin**: Seth's Blog : On pricing
+- **Seth Godin**: Seth's Blog : The Petrillo complications
+- **Seth Godin**: Seth's Blog : The book of concern
+- **Ben Settle**: Short single-line paragraph emails are a plague upon the earth
+- **Ben Settle**: Why Scrooge was a marketing moron
+- **Ben Settle**: How marketers can stay out of jail
+- **Ben Settle**: How Walt Disney tricked his brain into being super productive
+- **Ben Settle**: The writing nazi
+- **Ben Settle**: This guy's just 1 or 2 rejections away from putting on a dress
+- **Ben Settle**: Krampus wants to drag your business down to hell
+- **Ben Settle**: Everytime a bell rings a rabbit IQ copywriter gets his wings
+- **Ben Settle**: How I knocked out a $100k email campaign in 30-minutes
+- **Ben Settle**: The 2 most important "health" books ever written
+- **Ben Settle**: the Facebook cult where I met Stefania
+- **Ben Settle**: The Christmas persuasion paradox
+- **Ben Settle**: The fights are bull crap
+- **Ben Settle**: How trolling saved Lizzo’s life
+- **Ben Settle**: Why writing daily emails makes you a literal Nazi
+- **Ben Settle**: Everything is copywriting whether you like it or not
+- **Ben Settle**: Troll Profitear book sale
+- **Ben Settle**: creating "flesh & blood" offers
+- **Ben Settle**: Why nobody likes zoomennials
+- **Ben Settle**: let monsters be monsters
+- **Matt Furey**: Wake Up and Write
+- **Matt Furey**: Hemingway's Half-Secret
+- **Matt Furey**: Small Daily Battles Win the Big War On Words
+- **Matt Furey**: Warmups for Writers
+- **Matt Furey**: How "Notes to Yourself" Create Best-Sellers
+- **Matt Furey**: A Letter from Twin Brothers
+- **Matt Furey**: Low Man Writing On a Totem Pole
+- **Matt Furey**: Walking for Dollars
+- **Matt Furey**: Writing With a Slight Indian Scent
+- **Matt Furey**: The Writer Who Needed No Editing
+- **Matt Furey**: Time Almost Up
+- **Matt Furey**: Writer's Regrets
+- **Matt Furey**: Going thru Hell
+- **Matt Furey**: What to Write When You Don't Know Nuthin
+- **Matt Furey**: Writing With Blunders On
+- **Matt Furey**: Do Great Writers Love to Write?
+- **Matt Furey**: Nothing Down Writing
+- **Matt Furey**: Nothing, Just Nothing
+- **Matt Furey**: I Dare You to Write a Sentence Like This
+- **Matt Furey**: Can You Find the Thai-po?
+- **"Vilma Nuñez"**: 5000 personas… y una lección que no esperaba
+- **"Vilma Nuñez"**: Sí, los rumores son ciertos.
+- **"Vilma Nuñez"**: Vamos a dejar de estar a la defensiva
+- **"Vilma Nuñez"**: Mi primera semana como AI CEO
+- **"Vilma Nuñez"**: Mi truco detrás del crecimiento (y nadie te lo está contando)
+- **"Vilma Nuñez"**: Está bien cambiar de idea
+- **"Vilma Nuñez"**: La gente todavía habla de prompts
+- **"Vilma Nuñez"**: Sí, se acabó el email diario
+- **"Vilma Nuñez"**: Lo que hacen los grandes ...
+- **"Vilma Nuñez"**: Algo está cambiando...
+- **"Vilma Nuñez"**: Veamos tu estructura de valor (antes de hablar de precios)
+- **"Vilma Nuñez"**: Vuelvo a ser CEO
+- **"Vilma Nuñez"**: Lo que aprendí de 14 mujeres de negocios exitosas
+- **"Vilma Nuñez"**: El error que muchos cometen cuando algo ya funciona
+- **" Vilma Núñez, Ph. D. "**: Hay algo que construí pensando en ti
+- **"Vilma Nuñez"**: Si no existes… no te pueden comprar
+- **"Vilma Nuñez"**: La habilidad que más vas a necesitar ahora (y no es técnica)
+- **"Vilma Nuñez"**: ¿Sabes qué es Vibe Marketing (y por qué todo el mundo habla de esto)?
+- **"Vilma Nuñez"**: Un día conmigo en Miami para instalar tu sistema de clientes.
+- **"Vilma Nuñez"**: El futuro de las consultorías y los cursos online
+- **"Iván Orange"**: Tu acceso a Cerebro Zero-G
+- **"Iván Orange"**: por qué cada vez es más difícil vender membresías
+- **"Iván Orange"**: Re: mi visión para el futuro
+- **"Iván Orange"**: mi visión para el futuro
+- **"Iván Orange"**: 5 pasos para montar una membresía de producto
+- **Ivanorange**: Tu recibo de Ivanorange, n.º 2027-7698
+- **"Iván Orange"**: Ya estás dentro de HIGHER
+- **"Iván Orange"**: ¿El fin de los cursos online?
+- **"Iván Orange"**: me duele el culo
+- **"Iván Orange"**: 3 horas y cierro
+- **"Iván Orange"**: he recuperado 50 horas
+- **"Iván Orange"**: lo que más odio de la IA
+- **WordPress**: [Higher] Datos de acceso
+- **Ivan Orange**: Iván Orange: Factura 000000463
+- **"Iván Orange"**: [Cerebro Zero-G] Siguientes pasos
+- **"Iván Orange"**: ¿EN SERIO están vendiendo esto?
+- **"Iván Orange"**: Tu acceso a HIGHER
+- **"Iván Orange"**: la membresía que funciona en 2026
+- **"Iván Orange"**: Cntrl. C + Cntrl. V
+- **"Iván Orange"**: solo es cuestión de tiempo
+- **Isra Bravo**: Estás de suerte. Casi nadie leerá todo esto.
+- **Isra Bravo**: Lección épica de ventas de hace unos 200 años.
+- **Isra Bravo**: Hoy directo a las
+- **Isra Bravo**: .
+- **Isra Bravo**: Cómo evitar ser mi imitador y elevarte por ti mismo.
+- **Isra Bravo**: Últimos días
+- **Isra Bravo**: Este foro es una locura
+- **Isra Bravo**: Sorprendentes datos dentro
+- **Isra Bravo**: ¿Buscas los mejores profesionales? Mira aquí:
+- **Isra Bravo**: Acceso al nuevo regalo
+- **Isra Bravo**: Esto ha dicho Elon Musk
+- **Isra Bravo**: Novedades
+- **Isra Bravo**: Quizá este sea el tío más tonto del marketing
+- **Isra Bravo**: Hora y lugar de la firma.
+- **Isra Bravo**: 7 de cada 10 españoles quiere ser funcionario.
+- **Isra Bravo**: La CIA. Esto dice su analista principal.
+- **Isra Bravo**: Pasa el 90% de tu tiempo escuchando
+- **Isra Bravo**: La clave de la persuasión
+- **Isra Bravo**: La palanca que cambiará tu negocio. (Duda que la tengas)
+- **Isra Bravo**: Coca Cola trató de engañar a los andaluces.
+- **Isra Bravo**: NO eyacular y SÍ meditar.
+- **Isra Bravo**: 1 de los 10 ganadores
+- **Isra Bravo**: Tienes que comprar las tres
+- **Isra Bravo**: ¿Sabes cómo funcionará el algoritmo de Instagram este año?
+- **Isra Bravo**: 300 palabras (
+- **Isra Bravo**: Russel Brenson vendió más de 100 M.
+- **Isra Bravo**: Los estafadores mandamos un email diario
+- **Isra Bravo**: La novena maravilla del mundo
+- **Isra Bravo**: Conversación con un ingeniero
+- **Isra Bravo**: Firma de libros
+- **Isra Bravo**: Evento el 4 de marzo.
+- **Isra Bravo**: En uno de los concursos más extraños del mundo.
+- **Isra Bravo**: TU regalo
+- **Isra Bravo**: Ojo con Antonio Escribano
+- **Isra Bravo**: ¿Te guardo una plaza? Hoy cierro.
+- **Isra Bravo**: Ni quiero caerte bien ni te quiero regalar valor.
+- **Isra Bravo**: 240 plazas.
+- **Isra Bravo**: Algo que te tenía que decir.
+- **Isra Bravo**: No deberías ser yo
+- **Isra Bravo**: Mensaje para las feministas
+- **Isra Bravo**: Hoy a la venta
+- **Isra Bravo**: El anuncio definitivo para aprender inglés.
+- **Isra Bravo**: El martes evento a las 19:00h
+- **Isra Bravo**: No te conformes con menos
+- **Isra Bravo**: Y 4 ¿Cómo monetizar una lista de emails? ( Caso y 4)
+- **Isra Bravo**: Cómo multiplicar tu valor con una simple estrategia
+- **Isra Bravo**: 3 en forma
+- **Isra Bravo**: El truco psicológico para empatizar y crear ventas casi a voluntad.
+- **Isra Bravo**: Cifra de ventas de ayer
+- **Isra Bravo**: Mi verdadero modelo de negocio.
+- **Isra Bravo**: Evento (Gratuito) en directo a las 18:00h
+- **Isra Bravo**: 3 ¿Cómo monetizar una lista de emails? (Caso 3)
+- **Isra Bravo**: Buenas noticias
+- **Isra Bravo**: SuperPoderes para tu salud
+- **Isra Bravo**: II parte
+- **Isra Bravo**: Soy un machista, lo confieso dentro.
+- **Isra Bravo**: 3 preguntas que ayer me hicieron en Murcia
+- **Isra Bravo**: La reflexión de Dan Kennedy que cambiará tu negocio parasiempre.
+- **Isra Bravo**: 7 restaurantes de éxito te dan acceso a sus secretos
+- **Isra Bravo**: Lee este mensaje.
+- **Isra Bravo**: Consejo de inversión (dentro)
+- **Isra Bravo**: EMPIEZA el EVENTO de los 15 MINUTOS
+- **Isra Bravo**: Mañana es el evento maldito 19:00h (Spain)
+- **Isra Bravo**: Estimado/a [Nombre del contacto],
+- **Isra Bravo**: Estafando clientes desde 2017.
+- **Isra Bravo**: Estás de suerte
+- **Isra Bravo**: (PODCAST) Hacer ofertas es de pobres. (CASO REAL DENTRO)
+- **Isra Bravo**: Copia esta estructura y ganarás dinero.
+- **Isra Bravo**: Hablaré de una forma sencilla de doblar el precio de tu servicio
+- **Isra Bravo**: ¿Te vas de vacaciones?
+- **Isra Bravo**: 1 ¿Como monetizar una lista de emails? (Caso 1)
+- **Isra Bravo**: Netflix podría estar destruyendo tu vida de forma sigilosa.
+- **Isra Bravo**: Apunta. Alguien superfamoso necesita c
+- **Isra Bravo**: La verdadera diferencia entre ganadores y perdedores
+- **Isra Bravo**: Ejemplo real de cómo vender diciendo la verdad.
+- **Isra Bravo**: Vídeo de regalo.
+- **Isra Bravo**: ¿Quieres que promocione a lo grande tu negocio?
+- **Isra Bravo**: 111 palabras que arruinarán tu negocio
+- **Isra Bravo**: Eres pobre porque quieres
+- **Isra Bravo**: Mi secreto más importante para ganar dinero.
+- **Isra Bravo**: Solo 2 veces al año
+- **Isra Bravo**: La estafa de la mayoría de las plataformas de alojamiento de cursos
+- **Isra Bravo**: Escucha a los maestros.
+- **Isra Bravo**: Hoy a las 19:00h de España. EVENTO en directo de solo 15 minutos.
+- **Isra Bravo**: Estas son las novedades.
+- **Isra Bravo**: Preguntas que quizá se hace Donald Trump y que responde Isra Bravo.
+- **Isra Bravo**: HOY. (Evento de los 15 minutos)
+- **Isra Bravo**: 3 cosas por la que sí deberías entrar en mi programa. Y 3 cosas por las que no.
+- **Isra Bravo**: El precio NO tiene ninguna importancia
+- **Isra Bravo**: Mañana firmas
+- **Isra Bravo**: De penes, de pezones y de ventas. Lección sublime.
+- **Isra Bravo**: Esto no lo sabes
+- **Isra Bravo**: Todos los idiotas hacen esto
+- **Isra Bravo**: ¿Hay DIRECTO este domingo?
+- **Isra Bravo**: El increíble talento de Brad Gilbert (Y como lo puedes aplicar tú a tus historias)
+- **Isra Bravo**: La IA es un perfecto detector de idiotas. Episodio 14
+- **Isra Bravo**: Todos menos uno
+- **Isra Bravo**: Por esto eres un infeliz.
+- **Isra Bravo**: Suben de precio las masterclass
+- **Isra Bravo**: Empieza la venta de un material que cambió la vida de miles de negocios.
+- **Isra Bravo**: Ejercicio para detectar vagos y saber si eres uno
+- **Isra Bravo**: (PODCAST) La cruda realidad de cómo ganar dinero con tu negocio.
+- **Isra Bravo**: Imagina que Ferrari te hace esto
+- **Isra Bravo**: Cómo pasar del 16 al 1
+- **Isra Bravo**: La mejor forma de promocionar un libro
+- **Isra Bravo**: A 300 kilómetros del Carrefour
+- **Isra Bravo**: Cristobal Montoro
+- **Isra Bravo**: Que se jodan los pobres.
+- **Isra Bravo**: El apagón cambia mis palnes.
+- **Isra Bravo**: que sube a 210€ cada una.
+- **Isra Bravo**: Esto no te lo han contado en ningún sitio.
+- **Isra Bravo**: Nunca, JAMÁS, ____ ____ sin que ____.
+- **Isra Bravo**: Escapé de una cárcel comunista gracias a Isra.
+- **Isra Bravo**: ¿Compraste esto?
+- **Isra Bravo**: soso, parado, torpe o corto o pobre.
+- **Isra Bravo**: Evento de 15 minutos. 3 bloques de 5 minutos explosivos.
+- **Isra Bravo**: El restaurante número 1... nunca existió.
+- **Isra Bravo**: ¿Dónde es (exactamente)?
+- **Isra Bravo**: En youtube
+- **Isra Bravo**: ¿Por qué no está funcionando tu historia?
+- **Isra Bravo**: Hacer un avatar es de pardillos que no piensan por si mismos y dan pereza
+- **Isra Bravo**: Estos dos son gilipollas.
+- **Isra Bravo**: Vendemos certeza.
+- **Isra Bravo**: EMPEZAMOS EVENTO DIRECTO DENTRO
+- **Isra Bravo**: Reinvéntate en 30 días y mis cojones 33
+- **Isra Bravo**: Yo me ocupo.
+- **Isra Bravo**: Esta oferta no es para todos: Descubre si calificas.
+- **Isra Bravo**: Nadie quiere gastarse 23.000 euros para ir a 90 km/h.
+- **Isra Bravo**: Anuncio (DENTRO) nivel Everest.
+- **Isra Bravo**: Conversación con Iker Jiménez
+- **Isra Bravo**: YA puedes comprar mi nuevo formación.
+- **Isra Bravo**: 100.000 € al año por 2 horas de trabajo a la semana. Caso real de negocio.
+- **Isra Bravo**: Cómo meterse un pepino
+- **Isra Bravo**: Otro experimento
+- **Isra Bravo**: Lorena Ramírez
+- **Isra Bravo**: Lo que aprender de una gran película.
+- **Isra Bravo**: JUEGO: ¿Puedes rellenar los espacios en blanco?
+- **Isra Bravo**: Eres feo.
+- **Isra Bravo**: (PODCAST) Tus potenciales clientes son unos vagos. ¿Cómo seducir a un vago?
+- **Isra Bravo**: Evento 23 de julio
+- **Isra Bravo**: Cierro la membresia el día (
+- **Isra Bravo**: Mi impopular opinión sobre la gente estafada
+- **Isra Bravo**: Hasta la 23:59h. Ya me entiendes.
+- **Isra Bravo**: Hoy firmas en Madrid.
+- **Isra Bravo**: Evento día 4. (Cómo acceder)
+- **Isra Bravo**: No es broma, esto destruirá tu vida.
+- **Isra Bravo**: Pistachos
+- **Isra Bravo**: Audiolibro de 300 palabras
+- **Isra Bravo**: Da estos 10 pasos este domingo.
+- **Isra Bravo**: La talla 38 me aprieta el chocho.
+- **Isra Bravo**: Aquí tienes las 10 preguntas
+- **Isra Bravo**: (PÓDCAST) Por qué deberías tratar en tu potencial cliente como si fuera un perro.
+- **Isra Bravo**: ¿Confiarías tu nariz a un cirujano plástico de segunda?
+- **Isra Bravo**: ¿Cuánto facturé mi primer año completo?
+- **Isra Bravo**: ¿Pene pequeño?
+- **Isra Bravo**: (PODCAST) Dos detalles que macharán a tu competencia. (Sea como sea tu competencia)
+- **Isra Bravo**: Cómo recibir tu regalo.
+- **Isra Bravo**: Libertad financiera (REAL)
+- **Isra Bravo**: 3 lecciones sobre el éxito después de 8 años escribiendo a diario.
+- **Isra Bravo**: (PODCAST) Cómo desactivar al cliente, tocapelotas y ladrón.
+- **Isra Bravo**: Hoy cierro.
+- **Isra Bravo**: Se te acabó el chollo con la IA.
+- **Isra Bravo**: Cómo evitar las protestas de los comunistas
+- **Isra Bravo**: Una inversión muy rara que te puede cambiar la vida.
+- **Isra Bravo**: Una historia inspiradora
+- **Isra Bravo**: Cómo pedir matrimonio
+- **Isra Bravo**: BASES DEL CONCURSO
+- **Isra Bravo**: NUEVAS BASES DEL CONCURSO
+- **Isra Bravo**: ¿Conoces a alguien así?
+- **Isra Bravo**: El 95% de la gente es demasiado lamentable como para ganar dinero.
+- **Mago More**: ¿Y si te equivocas?
+- **Isra Bravo**: ¿Estás preparado para crear un producto digital?
+- **Isra Bravo**: Ejemplo de vender a precio absurdo y hacerlo absurdamente rentable.
+- **Isra Bravo**: Consejo de inversión.
+- **Isra Bravo**: Último día. (Hoy, sí)
+- **Isra Bravo**: Abierta (de nuevo) ME LA SACO
+- **Isra Bravo**: Los beneficios del silencio
+- **Isra Bravo**: Información relevante
+- **Mago More**: ¿Barato o caro?
+- **Isra Bravo**: ¿Me harías un favor?
+- **Isra Bravo**: La historia de Crocs que te puede animar el día.
+- **Isra Bravo**: Precio del programa de 3 meses
+- **Isra Bravo**: Yo me ocupo. (Parte I)
+- **Isra Bravo**: Debería cobrar miles de euros por esto.
+- **Mago More**: ¿Y si esta tarde cambia tu vida?
+- **Isra Bravo**: En 1 hora y 5 minutos y 58 segundos
+- **Isra Bravo**: Ejemplo real publicidad genial
+- **Isra Bravo**: Son 10 preguntas
+- **Isra Bravo**: Me he metido en un jardín muy jodido.
+- **Isra Bravo**: Si lo estiras, se hace más corto.
+- **Isra Bravo**: Este sábado en ME LA SACO
+- **Isra Bravo**: I parte
+- **Isra Bravo**: Mañana nos vemos
+- **Isra Bravo**: Un email para sacar ideas de pagos recurrentes.
+- **Isra Bravo**: Flipa
+- **Isra Bravo**: Evento el 13 de marzo a las 19:00h (15 minutos en total)
+- **Isra Bravo**: ARRANCAMOS EN UNOS MINUTOS (Directo)
+- **Isra Bravo**: Hoy a las 19:00h es el evento
+- **Isra Bravo**: El punto 4
+- **Isra Bravo**: Eres un mono y por eso pagas impuestos.
+- **Isra Bravo**: ¿25€ al mes por un flujo casi ilimitado de ideas y conocimientos con los que reventar tu negocio?
+- **Isra Bravo**: Y otro experimento más
+- **Isra Bravo**: Hoy firmas en Barcelona.
+- **Isra Bravo**: Hoy en ME LA SACO...
+- **"Miguel Vázquez"**: Por qué la idea del “testimonio no solicitado” de Isra Bravo no es buena para tu negocio.
+- **Isra Bravo**: 2 ¿Cómo monetizar una lista de emails? (Caso 2)
+- **Isra Bravo**: Una de las mejores oportunidades que he visto en años.
+- **Isra Bravo**: Ejemplo de mal email.
+- **Isra Bravo**: Sobre el evento del día 4 de marzo
+- **Isra Bravo**: Empanado de 82 años
+- **Isra Bravo**: Subnormal
+- **Isra Bravo**: Regalo de bienvenida
+- **Isra Bravo**: Solo un socialista putero puede superar esto
+- **Isra Bravo**: Jesús Gallego
+- **nacho gala**: Re: Lorena Ramírez
+- **Isra Bravo**: Cómo hacer que casi todo el mundo haga casi cualquier cosa.
+- **Isra Bravo**: Libro raro
+- **Isra Bravo**: Tienes el gobierno que te mereces. Asúmelo.
+- **"Miguel Vázquez"**: Por qué no tienes que hacerlo bien.
+- **"Miguel Vázquez"**: El de Spiderman dice esto y no es la frase de un gran poder conlleva...
+- **"Miguel Vázquez"**: Derrota al 99% de la gente haciendo esto:
+- **"Miguel Vázquez"**: Hoy 350€ y bonus. Mañana 370€ y a pelo.
+- **"Miguel Vázquez"**: Cómo vender beacon.
+- **"Miguel Vázquez"**: 11 motivos para no ganar dinero.
+- **"Miguel Vázquez"**: Respondooooooooooooooooooo.
+- **"Miguel Vázquez"**: El SEO nº1 en habla hispana y tu "humilde" narrador presentan...
+- **"Miguel Vázquez"**: ¿He perdido la magia?
+- **"Miguel Vázquez"**: Cierre temporal de esto.
+- **"Miguel Vázquez"**: El precio no existe.
+- **"Miguel Vázquez"**: Si eres emprendedor o copywriter, escucha.
+- **"Miguel Vázquez"**: Esto es el copywriting / Para nuevos.
+- **"Miguel Vázquez"**: La olvidada forma de tener nuevos clientes/leads al mes.
+- **"Miguel Vázquez"**: IA imita escritura de famoso copywriter español.
+- **"Miguel Vázquez"**: Una ensalada de pollo, por favor.
+- **"Miguel Vázquez"**: 5 años escribiendo un correo al día. Reflexiones.
+- **"Miguel Vázquez"**: Directo hoy a las 18:00 aquí.
+- **"Miguel Vázquez"**: Chapo Guzmán en 3 horas.
+- **"Miguel Vázquez"**: Mañana cierro Copywriting Skool pero tengo que hablar de esto.
+- **"Miguel Vázquez"**: Descargar Bonus: 1.127 líneas de asunto y Cómo crear un discurso
+- **"Miguel Vázquez"**: Hoy a las 19:00 aquí.
+- **"Miguel Vázquez"**: Lección valiosa de niño prodigio.
+- **"Miguel Vázquez"**: Apunta esta fecha: 5 de febrero.
+- **"Miguel Vázquez"**: Nueva rutina neardental me está levantando mi santo grial.
+- **"Miguel Vázquez"**: Mañana descatalogo un clásico.
+- **"Miguel Vázquez"**: Nuevo programa: Copywriting Skool. Día 9.
+- **"Miguel Vázquez"**: Black Friday hoy sábado solo hoy.
+- **"Miguel Vázquez"**: No te líes: a más contenido hagas, más vendes. Duro pero fácil.
+- **"Miguel Vázquez"**: Sale cabeza y entra Chat OGT. Sigue el partido.
+- **"Miguel Vázquez"**: ¿Cómo estoy?
+- **"Miguel Vázquez"**: Por qué me fascina Perro Sanxe.
+- **"Miguel Vázquez"**: Haz esto en tu Black niggi 3+1.
+- **"Miguel Vázquez"**: Nuevo video.
+- **"Miguel Vázquez"**: Por qué seguir escribiendo cartas de venta en el 2026.
+- **"Miguel Vázquez"**: Quedan 4 unidades.
+- **"Miguel Vázquez"**: La objeción está en ti, no en tu cliente.
+- **"Miguel Vázquez"**: Sobre cambiar vidas y todo eso.
+- **"Miguel Vázquez"**: Vender aire, qué gran habilidad.
+- **"Miguel Vázquez"**: Cómo estoy evolucionando en jiu jitsu de forma lenta y constante.
+- **"Miguel Vázquez"**: Es el qué, no el cómo!!!
+- **"Miguel Vázquez"**: Wasap. Lunes. Link. Aquí.
+- **"Miguel Vázquez"**: Lo que quiero que pase de aquí en adelante en mi vida.
+- **"Miguel Vázquez"**: Listado de estrategias para este black Friday 28 de noviembre.
+- **"Miguel Vázquez"**: Texto genérico hecho por Chat GPT.
+- **"Miguel Vázquez"**: ¡Qué ejercicio, te abrirá los ojos! (¡me encantan las exclamaciones!)
+- **"Miguel Vázquez"**: ¡Feliz Halloween!
+- **"Miguel Vázquez"**: Lo que internet no dice.
+- **"Miguel Vázquez"**: HOY a las 18:00 directo.
+- **"Miguel Vázquez"**: Uco o trato.
+- **"Miguel Vázquez"**: Ayer no hubo email por qué estuve llorando la muerte de Chuck Norris. Ídolo de la infancia.  Lee el asunto.
+- **"Miguel Vázquez"**: Solo el 20% saben cómo hacer esto.
+- **"Miguel Vázquez"**: Jamás compres este libro.
+- **"Miguel Vázquez"**: Mi opinión sobre la educación. Gracias por preguntar.
+- **"Miguel Vázquez"**: -
+- **"Miguel Vázquez"**: Email muy comercial.
+- **"Miguel Vázquez"**: El de Nike no pudo haber hecho esto jamás.
+- **"Miguel Vázquez"**: Quédate con esta idea.
+- **"Miguel Vázquez"**: Cómo dopar a tus emails para que la gente ansíe recibir cada correo que envías.
+- **"Miguel Vázquez"**: Cómo Paypal se hizo mundialmente conocido.
+- **"Miguel Vázquez"**: ¿Consumidor informado? ¡Lo prefiero excitado!
+- **"Miguel Vázquez"**: 1137 asuntos de emails para tu congelada mente.
+- **"Miguel Vázquez"**: Envía un correo al día así.
+- **"Miguel Vázquez"**: Hoy fin del curso acelerado de referidos.
+- **"Miguel Vázquez"**: Un email al día. Eso y seguir hasta el infinito.
+- **"Miguel Vázquez"**: Cómo escribir un gran copy sin necesidad de ser copywriter…
+- **"Miguel Vázquez"**: Faak.
+- **"Miguel Vázquez"**: Quién lo lea es gay.
+- **"Miguel Vázquez"**: La IA como ejemplo de escritura es lamentable.
+- **"Miguel Vázquez"**: Empiezo a descatalogar productos.
+- **"Miguel Vázquez"**: Vender vs enseñar.
+- **"Miguel Vázquez"**: Tengo fecha.
+- **"Miguel Vázquez"**: “Yo le doy un thré”.
+- **"Miguel Vázquez"**: Descatalogo este curso de forma inminente. Hoy. Es hoy. Última oportunidad.
+- **"Miguel Vázquez"**: La próxima crisis del copywriting.
+- **"Miguel Vázquez"**: Fallo hazlo.
+- **"Miguel Vázquez"**: Película que te ayuda a escribir mejor y escribir mejor te ayuda a vender más.
+- **"Miguel Vázquez"**: Pollos Hermanos (de Hacendado)
+- **"Miguel Vázquez"**: Cierro hoy.
+- **"Miguel Vázquez"**: Estrés financiero como único método.
+- **"Miguel Vázquez"**: Oh sí qué difícil es el copywriting desuscríbete, ¡perro!
+- **"Miguel Vázquez"**: Imagina como acaba la frase: cuanto más tardes en encontrar al amor de tu vida…
+- **"Miguel Vázquez"**: Cómo tener más sin ganar ni 1€ más.
+- **"Miguel Vázquez"**: Factouu.
+- **"Miguel Vázquez"**: Cosas extrañas que he hecho para tener “éxito”.
+- **"Miguel Vázquez"**: 3 palabras.
+- **"Miguel Vázquez"**: Regalo dentro.
+- **"Miguel Vázquez"**: Uy, ¿qué email es este?
+- **"Miguel Vázquez"**: Cierre de Desencadenado HOY.
+- **"Miguel Vázquez"**: Nacho Vidal XXX
+- **"Miguel Vázquez"**: Mañana parte 2 de cosas extrañas que he hecho para tener "éxito".
+- **"Miguel Vázquez"**: Nadie quiere ganar dinero.
+- **"Miguel Vázquez"**: Ya no me fijo en las mujeres (no homo)
+- **"Miguel Vázquez"**: Entonces, ¿el tamaño importa?
+- **"Miguel Vázquez"**: Oh gran querido suscriptor.
+- **"Miguel Vázquez"**: Problema nº1 de escritura y venta.
+- **"Miguel Vázquez"**: Servicio premium para copywriters perdidos.
+- **"Miguel Vázquez"**: Cómo correr bien (no va de correr)
+- **"Miguel Vázquez"**: ¿No tienes tiempo? *Llora en mi hombro*
+- **"Miguel Vázquez"**: Por qué pensar dentro de la caja.
+- **"Miguel Vázquez"**: Cómo vender libros por 350€, 600€, 800€ o 1.200€
+- **"Miguel Vázquez"**: ¿Dato mata relato?
+- **"Miguel Vázquez"**: Hoy. Es hoy. Hoy a las 18:00.
+- **"Miguel Vázquez"**: Y se fue de putes.
+- **"Miguel Vázquez"**: Si es un calvario escribir una sola línea de copy...
+- **"Miguel Vázquez"**: Cómo este restaurante nepalí se convirtió en el mejor de Madrid según Tripadvisor.
+- **"Miguel Vázquez"**: "La persistencia es la palanca, no el argumento" - Chat GPT.
+- **"Miguel Vázquez"**: Cambio y corto.
+- **"Miguel Vázquez"**: Black Penis.
+- **"Miguel Vázquez"**: Corazón.
+- **"Miguel Vázquez"**: Productos, ofertas. Dios qué asco.
+- **"Miguel Vázquez"**: Masterclass online gratuita 11 diciembre a las 18:00
+- **"Miguel Vázquez"**: No sé Rick...
+- **"Miguel Vázquez"**: Libre te quiero.
+- **"Miguel Vázquez"**: Golpe en el caribe deja a tu mariscal haciendo cosas extrañas como esta.
+- **"Miguel Vázquez"**: El CEO de Ford afirma que desmontar los modelos de Tesla fue impactante y lo impulsó a reestructurar la empresa.
+- **"Miguel Vázquez"**: Hablar español te da una ventaja que ya quisiera un francés.
+- **"Miguel Vázquez"**: Escribe como si la gente se estuviera meando.
+- **"Miguel Vázquez"**: Mañana vuelve a subir de precio.
+- **"Miguel Vázquez"**: El juego interior del copywriting.
+- **"Miguel Vázquez"**: Sobre los emails que me llegan.
+- **"Miguel Vázquez"**: ¿Quién fuma? El puma.
+- **"Miguel Vázquez"**: Por fin se acaba la navidad.
+- **"Miguel Vázquez"**: Mito.
+- **"Miguel Vázquez"**: No me apetece escribir.
+- **"Miguel Vázquez"**: Dos cientos miiiiiiiiiiiiiiiiiiiiiiiiiiil euros!!!!!!
+- **"Miguel Vázquez"**: 14 ideas en las que pensar una y otra vez.
+- **"Miguel Vázquez"**: Nuevo video aquí.
+- **"Miguel Vázquez"**: Este email ya lo escribí???
+- **"Miguel Vázquez"**: 14 ideas fáciles para vender más hoy.
+- **"Miguel Vázquez"**: Lo que no puede ser, lo que no tiene sentido.
+- **"Miguel Vázquez"**: No sé si he contado esto alguna vez.
+- **"Miguel Vázquez"**: Comprender esto me hizo ganar más dinero vendiendo infoproductos.
+- **"Miguel Vázquez"**: Cómo un NAVY SEAL consiguió su puesto sin haber nadado ni hecho ejercicio nunca.
+- **"Miguel Vázquez"**: ¿Son las marcas de lujo unos espabilados?
+- **"Miguel Vázquez"**: Joder, qué frase.
+- **"Miguel Vázquez"**: Cómo la enseñanza nº1 de Buda puede ayudarte con tu negocio.
+- **"Miguel Vázquez"**: Historia ramdom de mi fisioterapeuta.
+- **"Miguel Vázquez"**: Miguel Anxo Bastos patrocina este email.
+- **"Miguel Vázquez"**: Menos de 1 hora aquí.
+- **"Miguel Vázquez"**: Una idea equivocada como cualquier otra.
+- **"Miguel Vázquez"**: Cómo lograr cualquier cosa en la vida (demasiado real)
+- **"Miguel Vázquez"**: Tarantino me da cringe (como cringe me da la palabra cringe).
+- **"Miguel Vázquez"**: Miércoles 15 a las 18:00.
+- **"Miguel Vázquez"**: Por qué soy tan barato parte II.
+- **"Miguel Vázquez"**: En 34 minutos estoy en directo aquí.
+- **"Miguel Vázquez"**: Tengo que insistir.
+- **"Miguel Vázquez"**: Lo bonito no vende. ¿Seguro? Lee esto y dime tú.
+- **"Miguel Vázquez"**: Dame unos pocos minutos y cerrarás cualquier venta por email.
+- **"Miguel Vázquez"**: Está todo por hacer. Siempre. Joder.
+- **"Miguel Vázquez"**: Cómo tener más claridad que el 99% de la gente cuando escribe.
+- **"Miguel Vázquez"**: Las 3 frases cortas que sacarán tu vida adelante.
+- **"Miguel Vázquez"**: Por teléfono.
+- **"Miguel Vázquez"**: Confidencial.
+- **"Miguel Vázquez"**: 2 tipos de copywriting que nunca escucharás.
+- **"Miguel Vázquez"**: HOY.
+- **"Miguel Vázquez"**: Breve seré hoy.
+- **"Miguel Vázquez"**: (Parte II)  Cosas extrañas que he hecho para tener “éxito”.
+- **"Miguel Vázquez"**: Cómo ahorrar ganando muy poco.
+- **"Miguel Vázquez"**: Replay de…¡Desencadenado!
+- **"Miguel Vázquez"**: Aparentar, no ser. Eso es el marketing.
+- **"Miguel Vázquez"**: Apagones, descarrilamientos, no socorro en Valencia.
+- **"Miguel Vázquez"**: Cierre definitivo de esto.
+- **"Miguel Vázquez"**: Riferal marketing.
+- **"Miguel Vázquez"**: 1 dato sobre los negocios online que todo el mundo debería saber.
+- **"Miguel Vázquez"**: Oh, valor. Dime quién eres, dime qué eres.
+- **"Miguel Vázquez"**: Mañana directo aquí.
+- **"Miguel Vázquez"**: No es lo mismo.
+- **"Miguel Vázquez"**: Hoy fin de este BoNuUs al comprar el Método Vàzlfpkpefgq.
+- **"Miguel Vázquez"**: Muy simple. Sistema simple. Apto +18.
+- **"Miguel Vázquez"**: AÑOS.
+- **"Miguel Vázquez"**: 45,784.76€
+- **"Miguel Vázquez"**: Nuevo curso descatalogado.
+- **"Miguel Vázquez"**: Si no tienes 97€/mes para invertir en tu negocio, no tienes uno.
+- **"Miguel Vázquez"**: Vieja pero real historia de cómo casi abandono todo por no tener clientes.
+- **"Miguel Vázquez"**: Más rápido que Trump encarcelando a Maduro.
+- **"Miguel Vázquez"**: Cómo disfrutar escribiendo.
+- **"Miguel Vázquez"**: Ex Navy Seal mata el relato de la falta de oportunidades.
+- **"Miguel Vázquez"**: Qué escribir en los emails.
+- **"Miguel Vázquez"**: Haz esto y nunca abandones.
+- **"Miguel Vázquez"**: Mejora tu producto sin mejorar tu producto.
+- **"Miguel Vázquez"**: Cómo continuar con tu campaña infinita.
+- **"Miguel Vázquez"**: Lo último que respondo sobre esto.
+- **"Miguel Vázquez"**: Año uno. Caballo de fuego.
+- **"Miguel Vázquez"**: ¿Me cago?
+- **"Miguel Vázquez"**: La vida sigue.
+- **"Miguel Vázquez"**: Zafio, vulgar, tosco.
+- **"Miguel Vázquez"**: En la granja de mi tía IA IA Ohhh
+- **Luis Monge Malo**: Una cosa muy ridícula que hacen muchos vendedores y empresarios
+- **Luis Monge Malo**: Anda, por tu bien lee esto, que es breve.
+- **Luis Monge Malo**: Tutorial para vender a grandes empresas
+- **Luis Monge Malo**: Copia este email HOY
+- **Luis Monge Malo**: A esto se dedica el más inteligente de mi clase
+- **Luis Monge Malo**: Cómo saber si eres un inútil y la solución
+- **Luis Monge Malo**: 18 cosas que no hago y tú sí
+- **Luis Monge Malo**: Dos reglas para no ser gilipollas
+- **Luis Monge Malo**: ACTÚA - Evento presencial en México
+- **Luis Monge Malo**: Acabo con tu síndrome del impostor en 5 minutos
+- **Luis Monge Malo**: Algo que todo adulto debería saber
+- **Luis Monge Malo**: Última vez que explico esto (Bad Bunny parte 2)
+- **Luis Monge Malo**: Jeff Bezos comete tremendo error que perjudicará a la economía mundial
+- **Luis Monge Malo**: Ahora mismo hay haters llorando muy fuerte por esto
+- **Luis Monge Malo**: Fotos Barcelona (Instituto Growth) y Málaga (Talent Land)
+- **Luis Monge Malo**: Técnica para reducir el estrés en 25 segundos
+- **Luis Monge Malo**: Hoy solo necesito 35 palabras para llamarte a la atención
+- **Luis Monge Malo**: La gente se esfuerza en ser gilipollas (Bad Bunny parte 3)
+- **Luis Monge Malo**: El mejor hater que he tenido nunca
+- **Luis Monge Malo**: Cómo ligar siendo feísimo (y vender cayendo mal)
+- **Luis Monge Malo**: Marketera es despedida por seguir mis consejos
+- **Luis Monge Malo**: El mayor aprendizaje de ventas de mi vida
+- **Luis Monge Malo**: Si te consideras perfeccionista este email te interesa
+- **Luis Monge Malo**: 11 pasos para tener un newsletter de éxito
+- **Luis Monge Malo**: 10 verdades que no podrás tolerar
+- **Luis Monge Malo**: Espero que con este email te parezca un soberbio superficial
+- **Luis Monge Malo**: Plan, paso a paso, para ganar en la vida SIN RIESGO
+- **Luis Monge Malo**: Este email se estudiará en las escuelas de negocios
+- **Luis Monge Malo**: Vendedor de Lamborghini cuenta cómo evitar curiosos
+- **Luis Monge Malo**: Pocos entienden esto acerca del dinero, por eso les cuesta tanto ganarlo.
+- **Luis Monge Malo**: Truco para contratar vendedores
+- **Luis Monge Malo**: Deja de decir esto, es ridículo y nadie te cree.
+- **Luis Monge Malo**: La mejor inversión que he hecho en mi vida y cómo puedes hacerla tú también
+- **Luis Monge Malo**: Respuestas jocosas a preguntas cobardes
+- **Luis Monge Malo**: Si este email no te hace rico, nada lo hará.
+- **Luis Monge Malo**: Esta información a muchos esto les joderá, a unos pocos les cambiará.
+- **Luis Monge Malo**: El verdadero motivo por el que la gente no cambia (tú incluido)
+- **Luis Monge Malo**: PREGUNTAS FRECUENTES RESPECTO A LAS DONACIONES
+- **Luis Monge Malo**: Podcast con Wall Street Wolverine
+- **Luis Monge Malo**: Ejercicio del ejército de Estados Unidos para no fallar
+- **Luis Monge Malo**: Corrijo mi opinión de Bad Bunny
+- **Luis Monge Malo**: Llevo semanas pensando en esta idea
+- **Luis Monge Malo**: Plagia este email
+- **Luis Monge Malo**: Dos palabras que la gente confunde
+- **Luis Monge Malo**: Solo necesitas 100 decisiones correctas
+- **Luis Monge Malo**: Mis nueve mejores alumnos cuentan cómo lo han conseguido
+- **Luis Monge Malo**: Dime cómo hablas y te diré cuánto ganas
+- **Luis Monge Malo**: Gracias a los que elegisteis la opción 1
+- **Luis Monge Malo**: Mil formas de ganar dinero
+- **Luis Monge Malo**: Alumnos Mentoría: información exclusiva
+- **Luis Monge Malo**: Lo que me enseñó Cristiano Ronaldo
+- **Luis Monge Malo**: La mayor estafa en la que caí (y tú también has caído y no te has enterado)
+- **Luis Monge Malo**: Hace tiempo le conté esto a un amigo y me dejó de hablar
+- **Luis Monge Malo**: ¿Argentina o España? ¿Qué es mejor para ganar dinero ahora? Mi opinión
+- **Luis Monge Malo**: Pregúntate esto y entenderás por qué no creces
+- **Luis Monge Malo**: El mensaje perfecto para tu público objetivo
+- **Luis Monge Malo**: Mis 3 apps imprescindibles (no compatibles con hombres de silicona)
+- **Luis Monge Malo**: Lo que nadie te contó del apagón
+- **Luis Monge Malo**: Última ocasión para adquirir formación: retirada permanente en 18 horas
+- **Luis Monge Malo**: Oferta solo apta para cavernícolas (acaba en 18 horas)
+- **Luis Monge Malo**: El motivo por el que esta mañana no has recibido mi email
+- **Luis Monge Malo**: Mi fracaso empresarial más doloroso
+- **Luis Monge Malo**: Técnica sencilla para conseguir objetivos difíciles
+- **Luis Monge Malo**: Una gran palabra que pocos conocen
+- **Luis Monge Malo**: Esta es la QUINTA regla del networking según el Pequeño Nicolás
+- **Luis Monge Malo**: Si no te sientes comprendido, lee esto.
+- **Luis Monge Malo**: Fin del grupo de Telegram gratuito
+- **Luis Monge Malo**: La SEXTA Y MÁS IMPORTANTE regla del networking según el Pequeño Nicolás
+- **Luis Monge Malo**: 23 errores que cometen el 99,99 %
+- **Luis Monge Malo**: Si estas estancado esta es la forma de salir de ahí
+- **Luis Monge Malo**: Email excepcional debido a duda recurrente
+- **Luis Monge Malo**: Un ejercicio doloroso pero fácil y exageradamente lucrativo
+- **Luis Monge Malo**: El peor argumento para vender (y que casi seguro estás usando)
+- **Luis Monge Malo**: SEXO (Cómo conseguir altas cantidades, método garantizado)
+- **Luis Monge Malo**: La mejor forma de gestionar el estrés
+- **Luis Monge Malo**: Necesito que me expliques esto
+- **Luis Monge Malo**: La técnica anti-ventas que más vende
+- **Luis Monge Malo**: 5 mitos desmentidos
+- **Luis Monge Malo**: Garantía de resultados en mis formaciones
+- **Luis Monge Malo**: Mi mejor consejo de marketing
+- **Luis Monge Malo**: El test definitivo para saber si triunfarás en la vida
+- **Luis Monge Malo**: Cociente intelectual e Ingresos
+- **Luis Monge Malo**: Confesión: he mentido con respecto a las donaciones y me han pillado
+- **Luis Monge Malo**: Probablemente la decisión con mayor repercusión en tu vida sea esta
+- **Luis Monge Malo**: Rechazo un millón y pico
+- **Luis Monge Malo**: 1 producto + 1 canal + 1 mensaje + 1 año = 1 millón
+- **Luis Monge Malo**: Dato que todo el mundo debería conocer
+- **Luis Monge Malo**: Los 5 rasgos del hombre débil
+- **Luis Monge Malo**: Millonario me pide consejo de marca personal. Mi respuesta.
+- **Luis Monge Malo**: Ni se te ocurra volver a decirme esto
+- **Luis Monge Malo**: Han pasado otras 24 horas
+- **Luis Monge Malo**: Las 3 claves de la felicidad según la ciencia
+- **Luis Monge Malo**: La gran mentira de la inteligencia y el dinero
+- **Luis Monge Malo**: Cómo identificar oportunidades rentables
+- **Luis Monge Malo**: Tipo me critica en persona
+- **Luis Monge Malo**: Cómo hablar para que los demás obedezcan
+- **Luis Monge Malo**: Mujer me dice la mejor frase para ligar
+- **Luis Monge Malo**: Cómo ganar lo máximo en tus 8 horas de trabajo diarias
+- **Luis Monge Malo**: Las 5 habilidades que todo hombre necesita dominar
+- **Luis Monge Malo**: Un fallo que veo todos los días en vendedores
+- **Luis Monge Malo**: La marca personal está muerta
+- **Luis Monge Malo**: Manual para no ser un puto subnormal
+- **Luis Monge Malo**: Un lugar con mucho dinero al que pocos quieren ir
+- **Luis Monge Malo**: ¿Cuál es tu esclavitud? 8 posibilidades
+- **Luis Monge Malo**: TRES negocios que siempre funcionan
+- **Luis Monge Malo**: Esta es la PRIMERA regla del networking según el pequeño Nicolás
+- **Luis Monge Malo**: Si vas a leer un email en todo el año, que sea este.
+- **Luis Monge Malo**: Storytelling: las dos únicas historias que existen
+- **Luis Monge Malo**: 16 motivos por los que ES IMPOSIBLE NO TRIUNFAR EN ESTA VIDA
+- **Luis Monge Malo**: Buenos días, esclavo.
+- **Luis Monge Malo**: El motivo por el que no te respeto
+- **Luis Monge Malo**: Las 9 mejores inversiones a largo plazo
+- **Luis Monge Malo**: Busco cómplices para golpe de estado
+- **Luis Monge Malo**: Empresario me hace sucia jugarreta
+- **Luis Monge Malo**: 7 hábitos que te mantienen pobre
+- **Luis Monge Malo**: Te explico mi vida
+- **Luis Monge Malo**: «Uno de los mejores podcast que hemos visto.»
+- **Luis Monge Malo**: El motivo por el que no me gusta la gente
+- **Luis Monge Malo**: Alumno consigue increíbles resultados aplicando este sencillo truco
+- **Luis Monge Malo**: El título del libro de ayer
+- **Luis Monge Malo**: El mejor consejo de fitness según el preparador de Topuria
+- **Luis Monge Malo**: Haz esto durante solo 24 horas y
+- **Luis Monge Malo**: Me equivoqué con el bitcoin
+- **Luis Monge Malo**: Trucazo para hacerse rico a costa de los cobardes
+- **Luis Monge Malo**: El motivo por el que no tendrás una vida extraordinaria
+- **Luis Monge Malo**: El motivo por muchos tontos ganan más que tú
+- **Luis Monge Malo**: Truco psicológico que te obligará a triunfar
+- **Luis Monge Malo**: Acaba la Mentoría
+- **Luis Monge Malo**: La mentalidad que te hace ganar y ligar más
+- **Luis Monge Malo**: Esta es la tasa de aperturas de mis emails
+- **Luis Monge Malo**: El tipo de bragas que más me gustan
+- **Luis Monge Malo**: Esta es la TERCERA regla del networking según el Pequeño Nicolás
+- **Luis Monge Malo**: Preguntas que hacen los pobres respecto a mi nueva formación, respondidas.
+- **Luis Monge Malo**: 12+1 consejos de marketing
+- **Luis Monge Malo**: Cómo gané a todos mis competidores
+- **Luis Monge Malo**: La realidad de los influencers detrás de las cámaras
+- **Luis Monge Malo**: Los 10 mejores libros de dinero
+- **Luis Monge Malo**: Tres preguntas que todo el mundo debería hacerse
+- **Luis Monge Malo**: Mientras los pobres tienen disciplina, los ricos hacen esto.
+- **Luis Monge Malo**: Listado de técnicas de productividad. Solo hoy.
+- **Luis Monge Malo**: Por qué facturo más yo solo que muchas empresas
+- **Luis Monge Malo**: Cómo rodearte de personas que te hacen más rico
+- **Luis Monge Malo**: Una estadística que te dejará pensativo
+- **Luis Monge Malo**: Estoy seguro de que el 90% hacen esto mal
+- **Luis Monge Malo**: La pregunta más importante en una entrevista de trabajo
+- **Luis Monge Malo**: Novedad importante esta semana
+- **Luis Monge Malo**: Oportunidad demasiado barata para ser verdad
+- **Luis Monge Malo**: Un consejo que le doy a todo el mundo
+- **Luis Monge Malo**: Cómo ser tan productivo que resulta injusto para el resto
+- **Luis Monge Malo**: Algo que despierta más envidias que un Ferrari
+- **Luis Monge Malo**: Las 20 habilidades del vendedor perfecto (ver ahora)
+- **Luis Monge Malo**: Para mí este es el mejor anuncio de la historia
+- **Luis Monge Malo**: Mi opinión sobre las garantía de satisfacción
+- **Luis Monge Malo**: Truco para pasarse la vida en modo fácil
+- **Luis Monge Malo**: Un orfanato muy especial (prepara pañuelos)
+- **Luis Monge Malo**: Por qué este es el momento de vender todo tu bitcoin
+- **Luis Monge Malo**: Alumno Mentoría: el email que vendió muchos miles de euros en 24 horas
+- **Luis Monge Malo**: Multimillonario me revela secreto que nadie me había contado
+- **Luis Monge Malo**: Si tienes estas cuatro cualidades te pasas el juego
+- **Luis Monge Malo**: Pasos para ganar tu primer millón
+- **Luis Monge Malo**: Si alguna vez te sientes inútil, lee este mensaje.
+- **Luis Monge Malo**: Una pregunta para destruirlos a todos
+- **Luis Monge Malo**: Todo el que no sea millonario necesita que le digan esto
+- **Luis Monge Malo**: Controla tu pensamiento con estos dos pasos y te garantizo que todo cambiará en menos de 24 horas
+- **Luis Monge Malo**: Ejemplo gráfico de cómo actúa alguien con ambición vs el resto
+- **Luis Monge Malo**: No te olvides de esto
+- **Luis Monge Malo**: Este email es un anuncio descarado y deberías darme las gracias por ello
+- **Luis Monge Malo**: Si no te gustan las verdades duras, no abras este email.
+- **Luis Monge Malo**: La técnica más aburrida para triunfar donde todos fracasan
+- **Luis Monge Malo**: Cómo ser visto por 10.000 personas en 5 minutos
+- **Luis Monge Malo**: Último día para recibir el mayor regalo que he hecho hasta la fecha
+- **Luis Monge Malo**: Caso de éxito real para inspirarte
+- **Luis Monge Malo**: Mensaje a todos los suscriptores: debes elegir una de estas DOS opciones
+- **Luis Monge Malo**: Resumen de discurso que di ayer
+- **Luis Monge Malo**: La métrica que todo el mundo deberías supervisar (y nadie supervisa)
+- **Luis Monge Malo**: Sencillo principio para ganar dinero, vender más.
+- **Luis Monge Malo**: Estupidez que dice la gente que no gana suficiente dinero
+- **Luis Monge Malo**: El motivo por el que tener éxito con un negocio es tan fácil
+- **Luis Monge Malo**: Cómo afecta la IA a mi negocio
+- **Luis Monge Malo**: Últimamente me obsesiona este tema
+- **Luis Monge Malo**: El país en el que ganar dinero es más fácil
+- **Luis Monge Malo**: ¿Te sientes estancado? Lee esto.
+- **Luis Monge Malo**: Esta oportunidad acaba en 17 horas y media
+- **Luis Monge Malo**: Un gran chiste
+- **Luis Monge Malo**: Si estás estancado me juego un huevo que el motivo es este
+- **Luis Monge Malo**: Duplico patrimonio gracias a un viaje
+- **Luis Monge Malo**: Truco para parecer más listo de lo que eres
+- **Luis Monge Malo**: Los pobres nunca entienden esto
+- **Luis Monge Malo**: La gente es muy flojita
+- **Luis Monge Malo**: Antes estaba equivocado, hoy soy un vendehumos.
+- **Luis Monge Malo**: Listado de cosas que te mantienen pobre
+- **Luis Monge Malo**: Directo productividad y DESATASCO MENTAL, hoy a las 17:00 por 10 €
+- **Luis Monge Malo**: La app que todo vendedor debería instalar
+- **Luis Monge Malo**: Hasta los huevos de mi vida
+- **Luis Monge Malo**: Plantilla gratis dentro de este email
+- **Luis Monge Malo**: Uno de los motivos por los que siempre gano
+- **Luis Monge Malo**: Hombres, mujeres y viceversos (SPOILERS INSIDE)
+- **Luis Monge Malo**: Dime cómo te presentas y te diré cuánto ganas
+- **Luis Monge Malo**: Recuerda estas palabras la próxima vez que estés en una reunión
+- **Luis Monge Malo**: Vendo mi base de datos. Precio inside.
+- **Luis Monge Malo**: ¿Cuánto tiempo dedicas a esta actividad?
+- **Luis Monge Malo**: Vídeo YouTube: 10 consejos a mi yo de hace 20 años
+- **Luis Monge Malo**: 7 conceptos económicos que debes entender si quieres mejorar algún día
+- **Luis Monge Malo**: 5 hábitos que me hicieron rico
+- **Luis Monge Malo**: Lanzamiento Grupo Alfa - Limitado a 100 plazas
+- **Luis Monge Malo**: 10.397.381,00 USD en 30 segundos
+- **Luis Monge Malo**: El tipo de persona más problemática con la que te cruzarás
+- **Luis Monge Malo**: EUROPA SE HUNDE, APRENDE A HUIR.
+- **Luis Monge Malo**: Mi opinión acerca de la gente que quiere ser feliz
+- **Luis Monge Malo**: Atento a lo que ocurrirá en 72 horas
+- **Luis Monge Malo**: Mi estrategia de ventas más osada (y rentable)
+- **Luis Monge Malo**: No entiendo por qué más gente no se hace esta pregunta
+- **Luis Monge Malo**: Vengo del futuro. Un mensaje para los hambrientos.
+- **Luis Monge Malo**: Una frase que te amargará (o alegrará) el resto del día
+- **Luis Monge Malo**: Podcast de negocios que debes escuchar
+- **Luis Monge Malo**: Dile esto a tus hijos
+- **Luis Monge Malo**: Mi opinión del pádel
+- **Luis Monge Malo**: No existe mejor técnica para ganar dinero que esta
+- **Luis Monge Malo**: Te adelanto el futuro: esto es lo que te pasará
+- **Luis Monge Malo**: Algo que no entienden los que ganan menos de 1 millón al año
+- **Luis Monge Malo**: Deberías conocer esta palabra
+- **Luis Monge Malo**: ¿Cuánto dinero es suficiente dinero? La respuesta
+- **Luis Monge Malo**: Los próximos 5 años serán los más fáciles para ganar dinero
+- **Luis Monge Malo**: Haz esto 2500 veces y me darás las gracias
+- **Luis Monge Malo**: Pequeño detalle en la forma de hablar que marca gran diferencia
+- **Luis Monge Malo**: Si tu empresa te hace esto, cambia.
+- **Luis Monge Malo**: La mejor pregunta que me han hecho nunca
+- **Luis Monge Malo**: Una opinión por la que el 99% me odiarán
+- **Luis Monge Malo**: El motivo por el que estás donde estás y no 10 veces mejor
+- **Luis Monge Malo**: ¿Es posible ganar dinero con poca testosterona?
+- **Luis Monge Malo**: Cómo me he convertido en un referente en 5 años
+- **Luis Monge Malo**: Los hombres son unos hijos de puta
+- **Luis Monge Malo**: Lo que yo haría si volviera a empezar de cero
+- **Luis Monge Malo**: Cómo convertirte en un hombre deseado
+- **Luis Monge Malo**: Cuando sientas que no avanzas, haz esto.
+- **Luis Monge Malo**: Ojalá me hubieran dicho estas 5 cosas cuando tenía 20
+- **Luis Monge Malo**: Si me hubieras copiado sin pensar durante los últimos 5 años hoy serías millonario
+- **Luis Monge Malo**: Dos preguntas que todo el mundo debería hacerse
+- **Luis Monge Malo**: Una verdad muy incómoda para casi todo el mundo
+- **Luis Monge Malo**: Para hijos de puta afortunados
+- **Luis Monge Malo**: Feminismo, socialismo y el tamaño de tus pelotas
+- **Luis Monge Malo**: Si entiendes esto significa que vas por el camino correcto
+- **Luis Monge Malo**: La forma correcta de corregir un fallo
+- **Luis Monge Malo**: Si tuvieras al menos tanto dinero como yo, esta sería mi recomendación.
+- **Luis Monge Malo**: Conversación real con un político
+- **Luis Monge Malo**: Aquí una de esas ideas que tanto molestan
+- **Luis Monge Malo**: Regalo para unos pocos
+- **Luis Monge Malo**: Abdominales garantizados en 60 días
+- **Luis Monge Malo**: Trabajos que desaparecerán con la IA, según Microsoft.
+- **Luis Monge Malo**: El recurso más infravalorado para ganar grandes cantidades de dinero
+- **Luis Monge Malo**: Los negros lo hacen mejor
+- **Luis Monge Malo**: Cómo destruir tu vida en unos sencillos pasos
+- **Luis Monge Malo**: Este mensaje va a mejorar tu día en 128%
+- **Luis Monge Malo**: La peor y la mejor inversión de mi vida
+- **Luis Monge Malo**: Los marketeros españoles son pésimos
+- **Luis Monge Malo**: Solo disponible hoy
+- **Luis Monge Malo**: Las dos frases más provocadoras de internet
+- **Luis Monge Malo**: 3 pasos para aumentar la conversión
+- **Luis Monge Malo**: Si la inteligencia artificial fuera persona, sería funcionaria.
+- **Luis Monge Malo**: Vendehumos me da tremenda lección
+- **Luis Monge Malo**: 53 verdades incómodas y mitos sobrevalorados
+- **Luis Monge Malo**: Ven y mira lo que está pasando en el Grupo Alfa (capturas)
+- **Luis Monge Malo**: Prompt de chatgpt para escribir asuntos de email perfectos
+- **Luis Monge Malo**: 3 pasos para conseguir mejores clientes
+- **Luis Monge Malo**: Una pregunta personal
+- **Luis Monge Malo**: Cómo conseguí 1 millón de euros en 15 minutos
+- **Luis Monge Malo**: Las características del negocio perfecto
+- **Luis Monge Malo**: Esta frase funciona tan bien que usarla debería ser ilegal
+- **Luis Monge Malo**: El día que te estancaste
+- **Luis Monge Malo**: Mensaje para mis haters
+- **Luis Monge Malo**: Evita que los idiotas te jodan la vida
+- **Luis Monge Malo**: Sabias palabras del señor Tony Robbins
+- **Luis Monge Malo**: La decisión que me permitió escapar de la carrera de la rata
+- **Luis Monge Malo**: El truco del almendruco para que lo que aprendes se transforme en pasta
+- **Luis Monge Malo**: Cómo aprendí a amar a los haters
+- **Luis Monge Malo**: Como superar el bloqueo creativo
+- **Luis Monge Malo**: He vendido entradium
+- **Luis Monge Malo**: El mejor remedio contra el estrés y la depresión
+- **Luis Monge Malo**: Corrijo consejo que di hace 13 años
+- **Luis Monge Malo**: Por qué los gurús del marketing crecen más rápido que tú
+- **Luis Monge Malo**: Dos preguntas que deberías hacerte
+- **Luis Monge Malo**: «Este video debería ser obligatorio.»
+- **Luis Monge Malo**: Si has tomado malas decisiones en tu vida este email te interesa
+- **Luis Monge Malo**: Ayer expulsé a un alumno en directo
+- **Luis Monge Malo**: ¿Es ético vender lo máximo posible?
+- **Luis Monge Malo**: El consejo que le di al director de ventas de una conocida multinacional
+- **Luis Monge Malo**: No te acostumbres a este tipo de emails
+- **Luis Monge Malo**: Alumnos: esta semana te has perdido una gran oportunidad
+- **Luis Monge Malo**: EXCLUSIVO ALUMNOS: STORYTELLING PARA VENDER
+- **Luis Monge Malo**: En 17 horas retirada permanente de la venta
+- **Luis Monge Malo**: Tipo que vendió 1000 millones opina esto de mi forma de vender
+- **Luis Monge Malo**: Las dos formas de ver la vida
+- **Luis Monge Malo**: Alumnos: lo que haré para crecer en 2026
+- **Luis Monge Malo**: Las mujeres tienen razón en esto
+- **Luis Monge Malo**: La técnica de persuasión más básica y olvidada
+- **Luis Monge Malo**: Vendedor Lamborghinis da tremendo repaso a la mayoría de vendedores
+- **Luis Monge Malo**: Cómo elegir a gente que te hace volar
+- **Luis Monge Malo**: 3 errores que cometí cuando emprendí
+- **Luis Monge Malo**: Grupo Telegram para seres superiores
+- **Luis Monge Malo**: Anuncios inmobiliarios imposibles de ignorar
+- **Luis Monge Malo**: Patrimonio a partir del cual empiezan los problemas
+- **Luis Monge Malo**: Alumnos: la diferencia en ingresos que suponen unos centímetros más
+- **Luis Monge Malo**: Respondo a algo que me pregunta todo el mundo
+- **Luis Monge Malo**: Cómo pasarse la vida en modo fácil en 304 palabras
+- **Luis Monge Malo**: Algo que tienen todos los que triunfan
+- **Luis Monge Malo**: El motivo por el que llevas tiempo posponiendo tu sueño
+- **Luis Monge Malo**: Mi rutina mañanera, la rutina de los triunfadores.
+- **Luis Monge Malo**: ¿Es tarde para montar un newsletter? Posiblemente
+- **Luis Monge Malo**: Cómo saber si eres un niño o un hombre
+- **Luis Monge Malo**: Te adelanto lo que pasará durante los próximos 10 años
+- **Luis Monge Malo**: Unas palabras que escuché hace 20 años y no entendí hasta hoy
+- **Luis Monge Malo**: Lo que haría si tuviera la polla pequeña
+- **Luis Monge Malo**: Cómo identificar el mejor momento para invertir sin riesgo
+- **Luis Monge Malo**: Los 4 tipos de personalidad que existen
+- **Luis Monge Malo**: Marketing que no funciona en España
+- **Luis Monge Malo**: Cómo duplicar tu patrimonio en los próximos dos meses
+- **Luis Monge Malo**: Masterclass de copywriting gratis, hoy.
+- **Luis Monge Malo**: Cuando le ves así, tu mentalidad cambia.
+- **Luis Monge Malo**: El mejor libro que he leído este año
+- **Luis Monge Malo**: La herramienta de productividad más potente que existe, solo hoy.
+- **Luis Monge Malo**: El mejor país del mundo para vivir
+- **Luis Monge Malo**: Asciende tres clases sociales con este sencillo truco
+- **Luis Monge Malo**: La lista con la que construí una mentalidad de hierro
+- **Luis Monge Malo**: Un truco que sirve para cualquier sector
+- **Luis Monge Malo**: La pregunta que deberías hacer cada año que pasa
+- **Luis Monge Malo**: 5 ideas absurdas que me han hecho ganar mucho dinero
+- **Luis Monge Malo**: La única técnica de negociación que necesitas
+- **Luis Monge Malo**: Hombres afeminados se sorprenden por no ganar dinero
+- **Luis Monge Malo**: PUTA LECCIÓN DE VENTAS
+- **Luis Monge Malo**: 7 principios para ganar dinero
+- **Luis Monge Malo**: Mi socio se jubila a los 36 - Mi opinión
+- **Luis Monge Malo**: 5 aprendizajes tras vender mi empresa
+- **Luis Monge Malo**: Algo que los viejos ricos nunca entenderán
+- **Luis Monge Malo**: Aprovéchate de mí, solo hoy: todas mis lecciones por 10 €
+- **Luis Monge Malo**: Masterclass de regalo SOLO ESTA SEMANA
+- **Luis Monge Malo**: Pásale este email a tu amigo el más llorón. Luego bloquéalo.
+- **Luis Monge Malo**: Haz un trío, por tu bien.
+- **Luis Monge Malo**: Top 10 cosas que más joden a los malos vendedores
+- **Luis Monge Malo**: Mujer se desnuda en pleno evento
+- **Luis Monge Malo**: Si no sabes esto no puedes competir contra mí
+- **Luis Monge Malo**: Causo ataque de ansiedad a suscriptor
+- **Luis Monge Malo**: La pregunta que hacía uno de los mayores ganadores de todos los tiempos
+- **Luis Monge Malo**: Lo que tienen en común Donald Trump y Steve Jobs
+- **Luis Monge Malo**: Te cuento cuál es la conversación mental de tu cliente
+- **Luis Monge Malo**: Último día para comprar lección de Mentalidad
+- **Luis Monge Malo**: Me jubilo, este será mi último mensaje.
+- **Luis Monge Malo**: Vídeo exclusivo Pequeño Nicolás + Si quieres que colaboraremos
+- **Luis Monge Malo**: Advertencia: este email puede provocarte ganas de ganar
+- **Luis Monge Malo**: Se acabó
+- **Luis Monge Malo**: Cómo mantener a 37 hijos con un sueldo
+- **Luis Monge Malo**: Tenía razón
+- **Luis Monge Malo**: Esta es la CUARTA regla del networking según el Pequeño Nicolás
+- **Luis Monge Malo**: El mensaje más obvio y necesario que nunca de dijo nadie
+- **Luis Monge Malo**: Habla de tal forma que todos te sigan
+- **Luis Monge Malo**: Por qué Bad Bunny solo puede ocurrir en Estados Unidos
+- **Luis Monge Malo**: Radiografía de la sociedad
+- **Luis Monge Malo**: Cómo crecer y vender empresas, último día para recibirlo.
+- **Luis Monge Malo**: Me pillan mintiendo y confieso
+- **Luis Monge Malo**: Argumento para irritar a tu cuñado este verano y ganar en la vida
+- **Luis Monge Malo**: ¿Qué significa vivir bien?
+- **Luis Monge Malo**: El motivo por el que dejé de hacer colaboraciones
+- **Luis Monge Malo**: El motivo por el que fracasan el 98,72% de emprendedores
+- **Luis Monge Malo**: Manual de ligar en 136 palabras
+- **Luis Monge Malo**: 10 OPINIONES POLÉMICAS
+- **Luis Monge Malo**: Tengo cero respeto por la gente que permite esto
+- **Luis Monge Malo**: Ganar mucho dinero sin newsletter ni redes ni teléfono
+- **Luis Monge Malo**: La ciencia confirma: cuanto más pene, más lejos llegas.
+- **Luis Monge Malo**: Tengo una amiga que vende con las tetas al aire
+- **Luis Monge Malo**: Las mujeres son más inseguras que los hombres
+- **Luis Monge Malo**: Una cosa que a los pobres no les gusta nada
+- **Luis Monge Malo**: DE ESTO DEPENDE QUE TE ACEPTE EN EL NEWSLETTER
+- **Luis Monge Malo**: Si no te gustan los buenos anuncios no abras este email
+- **Luis Monge Malo**: Nueva formación por una buena causa
+- **Luis Monge Malo**: Seguramente seas millonario y no lo sepas
+- **Luis Monge Malo**: Subida de precio hoy + La mejor carta de ventas que has leído
+- **Luis Monge Malo**: La diferencia entre Estados Unidos y los países hispanohablantes
+- **Luis Monge Malo**: Te cuento mi fetiche
+- **Luis Monge Malo**: La inteligencia artificial y el trabajo de vendedor
+- **Luis Monge Malo**: Caídas generalizadas de productividad debido a inflación de IAMs
+- **Luis Monge Malo**: Alumno me miente en directo (spoiler: sale mal)
+- **Luis Monge Malo**: El mejor consejo de marketing que te puede dar un abogado
+- **Luis Monge Malo**: Espera, que todavía hay menos competencia de la que pensaba.
+- **Luis Monge Malo**: Lo que opino de la gente a la que le preocupa la seguridad del bitcoin
+- **Luis Monge Malo**: Cómo conseguir que tus hijos se coman el mundo
+- **Luis Monge Malo**: Dónde encontrar clientes ricos
+- **Luis Monge Malo**: Una idea que ha guiado mi vida
+- **Luis Monge Malo**: Cómo crear una marca personal de éxito (y hundirla) en 9 meses
+- **Luis Monge Malo**: La colleja de hoy es más fuerte de lo habitual
+- **Luis Monge Malo**: Lead me contesta después de 15 años
+- **Luis Monge Malo**: Se acerca una fecha clave pero no es la que tú crees
+- **Luis Monge Malo**: Cómo tener seguridad en ti mismo
+- **Luis Monge Malo**: De qué se arrepiente la gente en su lecho de muerte
+- **Luis Monge Malo**: ¿Cómo de libre eres? (test)
+- **Luis Monge Malo**: Este email mañana valdrá el doble
+- **Luis Monge Malo**: El truco para gustar a todo el mundo
+- **Luis Monge Malo**: Cómo vender algo que todo el mundo critica
+- **Luis Monge Malo**: Llevamos 2 días y ya he ganado esto
+- **Luis Monge Malo**: ¿Cuántos juicios has tenido este año?
+- **Luis Monge Malo**: Buenas y malas noticias respecto a la donación
+- **Luis Monge Malo**: La rutina de los ganadores
+- **Luis Monge Malo**: Listado de conocimientos imprescindibles para triunfar
+- **Luis Monge Malo**: Dejo de vender el Grupo Alfa
+- **Luis Monge Malo**: Toda la vida te han dicho que hacer esto es bueno, pero es mentira.
+- **Luis Monge Malo**: 10 reglas para un newsletter de éxito
+- **Luis Monge Malo**: Debate acerca de la calidad de los leads
+- **Luis Monge Malo**: Manual para no parecer gilipollas
+- **Luis Monge Malo**: La habilidad que te hace rico (y que nadie te enseña)
+- **Luis Monge Malo**: No necesitas motivación, necesitas esto otro.
+- **Luis Monge Malo**: Hacer el ridículo y no darse cuenta, definición gráfica.
+- **Luis Monge Malo**: Cómo conseguir 10.000 suscriptores sin comprar mi formación
+- **Luis Monge Malo**: Una oportunidad que ocurrirá solo hoy
+- **Luis Monge Malo**: Error en el que estás incurriendo
+- **Luis Monge Malo**: Ayer cometí un error que todo el mundo debe conocer
+- **Luis Monge Malo**: Oferta única para este domingo (no la dejes pasar)
+- **Luis Monge Malo**: Hacía tiempo que no decía algo tan importante en un email
+- **Luis Monge Malo**: Me preguntan por qué he adelantado a todos mis competidores
+- **Luis Monge Malo**: Cuidado con la ia
+- **Luis Monge Malo**: 9 acciones que te cambian la vida para siempre
+- **Luis Monge Malo**: EXCLUSIVO ALUMNOS: UNA FRASE QUE CAMBIÓ MI NEGOCIO
+- **Luis Monge Malo**: Si tienes clientes indecisos, usa esta plantilla.
+- **Luis Monge Malo**: Explicación de la subida de precio
+- **Luis Monge Malo**: Acabo con tu síndrome del impostor en 5 minutos (el desenlace)
+- **Luis Monge Malo**: Pocas personas tienen tantos huevos como este hombre
+- **Luis Monge Malo**: 3 habilidades que todo hombre debe dominar
+- **Luis Monge Malo**: Me preguntan por el mejor consejo que puedo dar. Respondo esto.
+- **Luis Monge Malo**: Poca gente creerá lo que gana este alumno
+- **Luis Monge Malo**: Esta es la SEGUNDA regla del networking según el Pequeño Nicolás
+- **Luis Monge Malo**: Últimas horas para conseguir una audiencia de 10.000
+- **Luis Monge Malo**: Lección gratuita - Mejor que cualquier curso de storytelling que hayas hecho
+- **Luis Monge Malo**: Manual real de la CIA para destruir a competidores
+- **Luis Monge Malo**: ¿Cuánto trabajo?
+- **Luis Monge Malo**: Negocio millonario con 20.000 €
+- **Luis Monge Malo**: Llados es más listo que tú y te explico por qué
+- **Luis Monge Malo**: «Eres un timo y un vendehumos»
+- **Luis Monge Malo**: Lo más importante cuando cuentes una historia
+- **Luis Monge Malo**: Qué negocio montaría
+- **Luis Monge Malo**: MAÑANA SUBE EL PRECIO (PERO AÚN ASÍ NO DEBERÍAS COMPRAR)
+- **Luis Monge Malo**: Lo que la gente no entiende del bitcoin
+- **Luis Monge Malo**: Los 5 negocios con los que más he ganado
+- **Luis Monge Malo**: Demostración de que el mundo se ha vuelto subnormal
+- **Luis Monge Malo**: Sabia reflexión de Marco Aurelio
+- **Luis Monge Malo**: Cómo ganar un millón en 5 años
+- **Luis Monge Malo**: Algo de mi personalidad que debería haber cambiado hace tiempo
+- **Luis Monge Malo**: Mi equipaje para un viaje de 35 días
+- **Luis Monge Malo**: Una lección muy especial, solo esta semana.
+- **Luis Monge Malo**: Mensaje para aspirantes a héroes
+- **Luis Monge Malo**: 15 pasos para tener más suerte de la que mereces
+- **Luis Monge Malo**: Cómo encontrar la oportunidad que te cambie la vida
+- **Luis Monge Malo**: Tres formas de triunfar que no requieren comer genitales
+- **Luis Monge Malo**: Esto es lo que debería estudiar tu hijo (vídeo)
+- **Luis Monge Malo**: La mejor forma de gestionar psicópatas
+- **Luis Monge Malo**: Búscate un hater que te quiera, que te tenga llenita la nevera.
+- **Luis Monge Malo**: Ejemplo real de fallo que mantiene a la gente esclava de su negocio
+- **Luis Monge Malo**: El email más clasista que leerás hoy
+- **Luis Monge Malo**: Sé algo de ti que no te atreves a confesarle a nadie - ÚLTIMA OPORTUNIDAD
+- **Luis Monge Malo**: Algo imprescindible que pocos hacen
+- **Luis Monge Malo**: Europa se hunde. Protégete con estos 3 pasos.
+- **Luis Monge Malo**: Hasta que no entiendas esto no conseguirás nada
+- **Luis Monge Malo**: Léele este mensaje a tus hijos (todos los días)
+- **Luis Monge Malo**: El código de 6 letras para vender cualquier cosa
+- **Luis Monge Malo**: Cómo ganar dinero siendo idiota: confesiones de un experto
+- **Luis Monge Malo**: El mejor momento del año para hacer dinero
+- **"Fran emprendemelón"**: Email corto con el aprendizaje más importante para 2026
+- **"Fran emprendemelón"**: Curso gratis: 1 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: La vida del jubilado
+- **"Fran emprendemelón"**: No tengo que comprenderlo para hacer esto
+- **"Fran emprendemelón"**: Menos mal que…
+- **"Fran emprendemelón"**: Correo que he cambiado esta madrugada a las 4.35am
+- **"Fran emprendemelón"**: Quizá la fórmula más sencilla para tener éxito
+- **"Fran emprendemelón"**: Todos sufrimos un poquito de esto
+- **"Fran emprendemelón"**: Han pasado 421 días desde la última vez de esto
+- **"Fran emprendemelón"**: No te va a gustar lo que te cuento aquí
+- **"Fran emprendemelón"**: Herramienta estoica gratis para vivir mejor
+- **"Fran emprendemelón"**: Comentario de cliente argentino no solicitado
+- **"Fran emprendemelón"**: Somos vagos hasta para pedir ayuda no me jodas
+- **"Fran emprendemelón"**: Lo de aportar valor
+- **"Fran emprendemelón"**: Toma el atajo siempre que puedas
+- **"Fran emprendemelón"**: Por correos como el de hoy sigues leyéndome
+- **"Fran emprendemelón"**: Lo siento, pero aunque quisieras, no te pasa esto
+- **"Fran Melón"**: P.D.: te quiero, te lo digo en serio
+- **"Fran emprendemelón"**: Sobre los pasos prohibidos
+- **"Fran emprendemelón"**: CASO REAL: DE 0 A 1.500 euros facturados
+- **"Fran emprendemelón"**: Esto y solo esto me importa
+- **"Fran emprendemelón"**: Me voy a Vietnam
+- **"Fran Melón"**: La verdad de mi mayor fracaso
+- **"Fran emprendemelón"**: El último vietnamita sobrio
+- **"Fran emprendemelón"**: Curso gratis: 4 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: Algunas razones
+- **"Fran emprendemelón"**: Lección sobre el estrés de Jeff Bezos
+- **"Fran emprendemelón"**: EMAIL GRATIS QUE DEBERÍA SER DE PAGO.
+- **"Fran emprendemelón"**: TENGO MIOKIMIA
+- **"Fran emprendemelón"**: Lo más fuerte que leerás hoy para mover el culo
+- **"Fran Melón"**: Por favor no te conviertas en un sandwich mixto
+- **"Fran emprendemelón"**: Un tipo que admiro y que debes seguir
+- **"Fran emprendemelón"**: Reflexiones de otros: no se van a acordar de ti
+- **"Fran emprendemelón"**: Ayer lunes 9 pasó esto
+- **"Fran emprendemelón"**: ¿Y si hemos ido a peor?
+- **"Fran emprendemelón"**: Semana 2 - De lo que estás hecho
+- **"Fran emprendemelón"**: Ni aunque tengas 65 años debes pensar en la jubilación
+- **"Fran emprendemelón"**: Por qué no debes hacer LO QUE TE GUSTA
+- **"Fran emprendemelón"**: De cuando encuentras a la mujer perfecta
+- **"Fran emprendemelón"**: Aplico esta terapia de choque con cliente y funciona a las mil maravillas
+- **"Fran emprendemelón"**: Curso gratis: 5 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: Reflexiones de otros: los 116.000 noes
+- **"Fran emprendemelón"**: Si tu lista no crece este es el empujón que te falta
+- **"Fran emprendemelón"**: Anoche acabé bailando con 6 indios salidos
+- **"Fran emprendemelón"**: Semana 3 - solo esta frase
+- **"Fran emprendemelón"**: Reflexiones de otros: lo de la IA
+- **"Fran emprendemelón"**: Tony Robbins también tuvo un maestro
+- **"Fran emprendemelón"**: No permitas que nadie vuelva a pensar esto de ti
+- **"Fran emprendemelón"**: Historia de mierda para un viernes
+- **"Fran emprendemelón"**: 2 cosas importantes
+- **"Fran emprendemelón"**: No podía dejar de compartir este dato que me dio un amigo
+- **"Fran emprendemelón"**: 10 puntos que todo emprendedor cagón debe leer
+- **"Fran emprendemelón"**: Ferruccio Lamborghini
+- **"Fran emprendemelón"**: Correr es de cobardes hasta que…
+- **"Fran emprendemelón"**: Esto te va a doler, lo siento, pero alguien tenía que decírtelo
+- **"Fran emprendemelón"**: A lo que no estás invitado el martes
+- **"Fran emprendemelón"**: ¿Cuándo fue la última vez que te permitiste esto?
+- **"Fran emprendemelón"**: Lo sigo haciendo
+- **"Fran emprendemelón"**: No sé cómo contestar a suscriptor sin cabrearme
+- **"Fran emprendemelón"**: Conversación con empresario famoso
+- **"Fran emprendemelón"**: CRÓNICA DE UN ENTIERRO
+- **"Fran emprendemelón"**: Por qué debes ganar 1€ más
+- **"Fran emprendemelón"**: Y una mierda para ti
+- **"Fran emprendemelón"**: Aquí cuento varios secretos que valen miles de euros
+- **"Fran emprendemelón"**: “Qué obvio”
+- **"Fran emprendemelón"**: Dedico 0 min a hacer esto en Bali
+- **"Fran emprendemelón"**: Lo que aprendí de bucear con Robie, sonrisa balinesa y 45 kilos de calma
+- **"Fran emprendemelón"**: Lo de El Rey Sol
+- **"Fran emprendemelón"**: El video mas cutre que compartiré nunca
+- **"Fran emprendemelón"**: Hoy retiro de la venta de manera indefinida
+- **"Fran emprendemelón"**: Mira este vídeo, me lo agradecerás
+- **"Fran emprendemelón"**: ÚLTIMA OPORTUNIDAD + SECRETO PERSONAL
+- **"Fran emprendemelón"**: 4 motivos para no triunfar
+- **"Fran emprendemelón"**: No te ayudo a crear el nuevo facebook (o sí)
+- **"Fran emprendemelón"**: Busca esto y no otra cosa
+- **"Fran emprendemelón"**: ¿Qué hubieras contestado tú en mi lugar?
+- **"Fran emprendemelón"**: A esto le tienes miedo y no deberías
+- **"Fran emprendemelón"**: Si no te da vergüenza, vas tarde
+- **"Fran emprendemelón"**: La vez que nadie quiso hacerlo… pero lo hicimos igual
+- **"Fran emprendemelón"**: La última razón que te doy
+- **"Fran emprendemelón"**: Haz esto al menos 1 vez al día
+- **"Fran emprendemelón"**: El facha de Juan Roig
+- **"Fran emprendemelón"**: La razón por la que cree esta formación
+- **"Fran emprendemelón"**: Me piro a Andorra
+- **"Fran emprendemelón"**: Razón extra para tener un negocio
+- **"Fran emprendemelón"**: El mayor aprendizaje que llevo en lo que va de año
+- **"Fran emprendemelón"**: Amigo se queda sin follar por esto
+- **"Fran emprendemelón"**: Confirmado: invitado excepcional y sorpresa al evento
+- **"Fran emprendemelón"**: No lo hagas solo por esto
+- **"Fran emprendemelón"**: Hablemos de la jubilación
+- **"Fran emprendemelón"**: Te equivocas cuando piensas así de la gente de éxito
+- **"Fran emprendemelón"**: Esto sí es tener suerte
+- **"Fran Melón"**: Por qué conocer el “Efecto Zeigarnik” te permitirá disfrutar más de tu día
+- **"Fran emprendemelón"**: Perogrullada que debes tatuarte en el antebrazo derecho
+- **"Fran emprendemelón"**: Esto también lo sufren incluso empresarios TOP
+- **"Fran emprendemelón"**: No busques tener la razón
+- **"Fran emprendemelón"**: Caso real: clienta P aplica técnica y.
+- **"Fran emprendemelón"**: Reflexiones del Club: parte 2
+- **"Fran emprendemelón"**: La ‘trampa’ de La Oreja de Van Gogh
+- **"Fran emprendemelón"**: Red flag para detectar potenciales clientes malos
+- **"Fran emprendemelón"**: Me jubilo y no es broma, aquí la explicación
+- **"Fran emprendemelón"**: Chorrada personal + negro perverso
+- **"Fran emprendemelón"**: Último día: 9 + 1 razones para ir al evento
+- **"Fran emprendemelón"**: La falacia del Tiempo Futuro es la culpable de que vayas a divorciarte
+- **"Fran emprendemelón"**: Reflexiones de otros: Sé ese chalao´ del 1%
+- **"Fran emprendemelón"**: En realidad sí lo sabes pero…
+- **"Fran emprendemelón"**: Niños de 9 años en ponen menos excusas que tú
+- **"Fran emprendemelón"**: Este pensamiento igual te suena familiar
+- **"Fran emprendemelón"**: La cuarta fuerza
+- **"Fran emprendemelón"**: 1.520
+- **"Fran emprendemelón"**: Hoy tienes una enorme oportunidad, explicación
+- **"Fran emprendemelón"**: Trabajadora piensa esto de mí
+- **"Fran emprendemelón"**: Colleja salvaje que doy a melona como tú
+- **"Fran emprendemelón"**: Por qué estoy en Vietnam y no tengo billete de vuelta
+- **"Fran Melón"**: Una estrategia de fidelización que me ha costado 1.250€.
+- **"Fran emprendemelón"**: EXTRA EMAIL: nunca antes había pasado
+- **"Fran Melón"**: Hoy último día, luego será imposible
+- **"Fran emprendemelón"**: Esto da más miedo que morirse
+- **"Fran emprendemelón"**: Ejemplo real y Plan de Acción
+- **"Fran emprendemelón"**: Lo que debiste haber hecho ayer durante el apagón
+- **"Fran emprendemelón"**: Nos empeñamos en dedicar energía desperdiciada a esto
+- **"Fran emprendemelón"**: Regalo no solicitado
+- **"Fran emprendemelón"**: Leer esto es como un puñetazo directo a la mandíbula
+- **"Fran emprendemelón"**: LA RAZÓN FINAL
+- **"Fran emprendemelón"**: A.S.
+- **"Fran emprendemelón"**: 5 aforismos de Taleb para romperte el culo un domingo
+- **"Fran emprendemelón"**: Lo que nadie te dice de tener tu propio negocio
+- **"Fran emprendemelón"**: Este correo o hace que te enamores de mí o
+- **"Fran emprendemelón"**: Reflexiones de otros
+- **"Fran emprendemelón"**: Diferencia entre dejárselo a los demás o a ti mismo
+- **"Fran emprendemelón"**: España es un país de vagos
+- **"Fran emprendemelón"**: Por qué anoche sude tanto.
+- **"Fran emprendemelón"**: Este tipo tenía que ser castigado
+- **"Fran emprendemelón"**: Curso gratis: 3 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: Hoy última oportunidad - puede que luego te arrepientas
+- **"Fran emprendemelón"**: Sobre el (tu) futuro
+- **"Fran emprendemelón"**: Correo no apto para flojos
+- **"Fran Melón"**: ¿Alguna vez has hecho este cálculo sobre tu sueldo?
+- **"Fran emprendemelón"**: Sobre dejar entrar poyas que no deben
+- **"Fran emprendemelón"**: Técnica de visionario creativo que puedes copiar sin miramientos
+- **"Fran emprendemelón"**: Mi opinión sobre comprar bitcoin ahora
+- **"Fran emprendemelón"**: La foto más sorprendente de cuando estuve en Filipinas
+- **"Fran emprendemelón"**: Curso gratis: te explico el cómo y sobre todo el porqué
+- **"Fran emprendemelón"**: Nunca te he contado una cosa así, no es broma
+- **"Fran emprendemelón"**: SE ACABÓ LO QUE SE DABA
+- **"Fran emprendemelón"**: Vivir la mejor vida posible
+- **"Fran emprendemelón"**: Esto, y no otra cosa, buscan las mujeres en un hombre
+- **"Fran Melón"**: Este es el mayor enemigo para tu productividad
+- **"Fran Melón"**: Quizá, esto es lo que mejor se me ha dado hacer a lo largo de toda mi vida
+- **"Fran emprendemelón"**: Este curso ha hecho que decenas de melones consigan más clientes
+- **"Fran Melón"**: Suscriptor me dice esto antes de darse de baja
+- **"Fran emprendemelón"**: La razón principal por la que hay tan pocos que destacan
+- **"Fran emprendemelón"**: Copa de champán a 22 euros
+- **"Fran emprendemelón"**: Cómo vivir bien la vida por el Maestro Mutenroshi
+- **"Fran emprendemelón"**: Tu mayor enemigo a la hora de conseguir tus objetivos
+- **"Fran emprendemelón"**: No te conté el final
+- **"Fran emprendemelón"**: Lo primero que hago de vuelta a la isla
+- **"Fran emprendemelón"**: Por qué me gusta esta mujer que te presento hoy
+- **"Fran emprendemelón"**: Conozco a los chicos de Tengo un Plan
+- **"Fran emprendemelón"**: Este tipo inventó Netflix
+- **"Fran Melón"**: ¿Qué pasaría si en tu trabajo te recompensaran como a un freelance?
+- **"Fran Melón"**: No leas esto si eres un flojo
+- **"Fran emprendemelón"**: Curso gratis: 6 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: A la gente le gusta perder dinero, incluso teniendo un negocio
+- **"Fran emprendemelón"**: Por qué sólo tiene que funcionar una vez
+- **"Fran emprendemelón"**: Confesiones íntimas
+- **"Fran emprendemelón"**: De comunistas y fachas
+- **"Fran Melón"**: Haz esto y aumentarás drásticamente los ingresos de tu negocio
+- **"Fran emprendemelón"**: Regalo que pido para mis suscriptores
+- **"Fran emprendemelón"**: Este e-mail puede resolver casi todos los problemas que tienes
+- **"Fran emprendemelón"**: Lo de Tiger Woods
+- **"Fran emprendemelón"**: Cómo ganar 73 minutos al día sin vender tu alma
+- **"Fran emprendemelón"**: El Club
+- **"Fran emprendemelón"**: Amiga inteligente me recomienda este libro
+- **"Fran emprendemelón"**: ¿Cuál es el tuyo?
+- **"Fran emprendemelón"**: Estás exiliado y eso es buenísimo, te lo explico.
+- **"Fran emprendemelón"**: Cara de espermatozoide perdedor
+- **"Fran emprendemelón"**: El consejo más valioso de Alex Hormozi
+- **"Fran emprendemelón"**: Semana 6 - ¿Cómo de quemado acabas el año?
+- **"Fran Melón"**: Sorpresa -> hoy no te vendo nada así que mira con atención
+- **"Fran emprendemelón"**: Más cerca de lo que crees
+- **"Fran emprendemelón"**: ESPAÑA ES PAÍS DE POBRES
+- **"Fran emprendemelón"**: Lo que tienes en común con un camarero de Bali
+- **"Fran emprendemelón"**: Lo que sí y lo que no pasará en el Evento Melón
+- **"Fran emprendemelón"**: *Busca tu propósito*.
+- **"Fran emprendemelón"**: Siento vergüenza de mi propio trabajo y opino esto
+- **"Fran emprendemelón"**: Regalo de martes
+- **"Fran emprendemelón"**: Eligen quedar conmigo antes que f0llar
+- **"Fran emprendemelón"**: Viajar no te hace mejor persona
+- **"Fran emprendemelón"**: Lo que aprendes en Ámsterdam sobre el dinero (y que tú deberías aplicar)
+- **"Fran emprendemelón"**: No leas este correo si quieres cambios
+- **"Fran emprendemelón"**: Te cuento la sesión de ayer con un cliente
+- **"Fran emprendemelón"**: Saco nuevo curso con Luis, nos ha quedado barato
+- **"Fran emprendemelón"**: Reflexiones de cliente melón en tu posición
+- **"Fran emprendemelón"**: Te cuento mi cita con chica Vietnamita
+- **"Fran emprendemelón"**: La bola de las pajas
+- **"Fran emprendemelón"**: Ojalá me respondas que sí a esta pregunta
+- **"Fran emprendemelón"**: Email que te va a dar bajón
+- **"Fran Melón"**: No te olvides de nuestra cita de esta tarde
+- **"Fran emprendemelón"**: La herramienta más potente que tienes como dueño de negocio
+- **"Fran emprendemelón"**: Estudio sociológico bajo el barro
+- **"Fran emprendemelón"**: Por qué el Efecto Zeigarnik te jode el día
+- **"Fran emprendemelón"**: Orgásmico
+- **"Fran emprendemelón"**: Email de solo 49 palabras
+- **"Fran emprendemelón"**: LA TRAIGO CALIENTE (y tu posible plan para esta noche)
+- **"Fran emprendemelón"**: Lo de la pasta que no dije ayer
+- **"Fran emprendemelón"**: Se me olvidó decirte esto ayer de Sandra
+- **"Fran emprendemelón"**: Solo así puedes cambiarlo
+- **"Fran emprendemelón"**: Truco personal que hago yo y te animo a hacer
+- **"Fran emprendemelón"**: Así te lo digo: tú puedes
+- **"Fran emprendemelón"**: Cómo f0llar como un cabrón o cabrona
+- **"Fran emprendemelón"**: No sigas a cualquiera
+- **"Fran emprendemelón"**: Fran, por qué haces esto
+- **"Fran emprendemelón"**: Email muy muy corto hoy
+- **"Fran emprendemelón"**: Esto no lo había hecho antes
+- **"Fran emprendemelón"**: 2a parte –  SIGUE SIENDO URGENTE
+- **"Fran emprendemelón"**: Hoy es el mejor día para que empieces con esto
+- **"Fran Melón"**: Me hacen una entrevista donde digo varias cosas pero sobre todo esta
+- **"Fran Melón"**: Nunca había hecho una promesa como esta
+- **"Fran Melón"**: Si tienes pareja debes leer este correo
+- **"Fran emprendemelón"**: Semana 4 - Estos 2 colegas
+- **"Fran emprendemelón"**: El curso que hice para la mujer emprendemelón
+- **"Fran emprendemelón"**: Las 5 razones principales para no conseguirlo
+- **"Fran emprendemelón"**: 2 aprendizajes de Arnold Schwarzenegger
+- **"Fran emprendemelón"**: Esto ya lo sabía tu abuela
+- **"Fran emprendemelón"**: No estás solo
+- **"Fran emprendemelón"**: No estás alcanzado tu mejor versión
+- **"Fran emprendemelón"**: No puedo recibir mejor correo que éste
+- **"Fran Melón"**: Esto me dijo ayer un cliente sobre bajarle el precio y esta fue mi respuesta
+- **"Fran emprendemelón"**: Sé FELIZ donde estés
+- **"Fran emprendemelón"**: Semana 5 - Lo de la libertad que no quieres aceptar
+- **"Fran emprendemelón"**: Aclaración y consejo millonario
+- **"Fran emprendemelón"**: Tú, peripatético
+- **"Fran emprendemelón"**: Este es el correo que debes leer hoy
+- **"Fran emprendemelón"**: No busques más tiempo, busca esto
+- **"Fran emprendemelón"**: 15 razones para tener un negocio
+- **"Fran emprendemelón"**: Tu nuevo mantra
+- **"Fran emprendemelón"**: Hoy es mi cumpleaños y te hago este regalo
+- **"Fran emprendemelón"**: Verdad absoluta contada en La 1 de TVE
+- **"Fran emprendemelón"**: Lo mejor que te puedo contar hoy
+- **"Fran emprendemelón"**: Hollywood te la ha colado.
+- **"Fran emprendemelón"**: 3 x correo
+- **"Fran emprendemelón"**: Te pido que seas sincero contigo
+- **"Fran emprendemelón"**: Clienta te cuenta lo que ha aprendido con el curso
+- **"Fran emprendemelón"**: 15 Síntomas de problemas importantes en tu vida URGENTE
+- **"Fran emprendemelón"**: Sabiendo esto puede que te relajes un poco
+- **"Fran emprendemelón"**: Reflexión dominguera
+- **"Fran emprendemelón"**: Suscriptor me hace la pregunta más importante sobre el curso
+- **"Fran emprendemelón"**: Te presento a mi hermano (incluye foto)
+- **"Fran emprendemelón"**: La clave del SEGUNDO DÍA
+- **"Fran emprendemelón"**: Sé como Ricardo
+- **"Fran Melón"**: ¿Habrás sido uno de los elegidos?
+- **"Fran emprendemelón"**: Por qué Vietnam y Cuba son amiguitos
+- **"Fran emprendemelón"**: Hoy te vendo una cosa que no es mía
+- **"Fran Melón"**: La razón científica por la que dejas todo para el último momento
+- **"Fran emprendemelón"**: Lo que los holandeses hicieron por ti sin que se lo pidieras
+- **"Fran emprendemelón"**: Reunión con empresario vietnamita bebiendo Happy Water
+- **"Fran Melón"**: Una cosa que puede arruinar tus previsiones de ventas del primer año
+- **"Fran emprendemelón"**: Te pido ayuda aunque igual me odias por ello
+- **"Fran emprendemelón"**: El backstage de tener tu propio negocio
+- **"Fran emprendemelón"**: Aquí un regalo, pero solo para algunos
+- **"Fran emprendemelón"**: Nunca se trata de la cámara
+- **"Fran emprendemelón"**: Anticulturista
+- **"Fran Melón"**: Esto genera en ti (y en casi todo el mundo) el poder de la repetición
+- **"Fran Melón"**: Lo que pueden hacer jubilados y emprendedores pero tú casi seguro que no
+- **"Fran emprendemelón"**: La razón por la que eres más especial de lo que crees
+- **"Fran emprendemelón"**: Semana 1 - Lo más importante
+- **"Fran emprendemelón"**: ES LA INFORMACIÓN - ESTÚPIDO
+- **"Fran emprendemelón"**: Semana 7 - Lo más loco que te pediré nunca
+- **"Fran emprendemelón"**: El último gran consejo de Michael Robinson
+- **"Fran emprendemelón"**: Lo sigo haciendo (segunda parte)
+- **"Fran emprendemelón"**: Concepto que me gusta repetir
+- **"Fran emprendemelón"**: Mi cliente más inteligente me hace esta pregunta
+- **"Fran emprendemelón"**: El correo de hoy incluye una orden
+- **"Fran emprendemelón"**: Penúltimo día + Lección ventas de regalo
+- **"Fran emprendemelón"**: Aprendizaje de guía vietnamita bizco
+- **"Fran emprendemelón"**: Me darás la razón en esto
+- **"Fran emprendemelón"**: Estoy ñoño, será la edad, explicación
+- **"Fran emprendemelón"**: ME SECUESTRA UN RUMANO (NO ES BROMA)
+- **"Fran emprendemelón"**: Subo el precio de la formación que más he vendido
+- **"Fran emprendemelón"**: La razón por la que no debes estar gordo
+- **"Fran emprendemelón"**: Últimamente me junto con 3 jubiladas
+- **"Fran emprendemelón"**: Esto lo dice José Elías sobre los autónomos
+- **"Fran emprendemelón"**: 10 euros para herramienta infalible
+- **"Fran Melón"**: Hoy última oportunidad + 3 aprendizajes
+- **"Fran Melón"**: No es lo mismo
+- **"Fran emprendemelón"**: Curso gratis: 2 de 6 - La Mentalidad de cazador
+- **"Fran emprendemelón"**: Mi peluquero tiene la verdad
+- **"Fran emprendemelón"**: 1 de cada 4 personas que me lee sufrirá esto
+- **"Fran emprendemelón"**: Dime cuándo te sentiste así por última vez
+- **"Fran Melón"**: Correo para aquellos que creen sufrir del síndrome del impostor
+- **"Fran Melón"**: Esto que le conté a mi amigo Mario es tan potente que he decidido cobrar por ello
+- **"Fran emprendemelón"**: Quizá esto era lo que le pedías al 2025
+- **"Fran emprendemelón"**: Enseño a mi padre a usar chatGPT y ocurre lo impensable
+- **"Fran emprendemelón"**: Mi día favorito de la semana
+- **"Fran emprendemelón"**: Hoy última oportunidad - retiro de la venta
+- **"Fran emprendemelón"**: Por qué he preparado el peor evento posible
+- **"Fran emprendemelón"**: 5 citas sobre tiempo y dinero
+- **"Fran emprendemelón"**: Alumno consigue primer cliente en menos de 7 días
+- **"Fran emprendemelón"**: El día más importante de mi vida
+- **"Fran emprendemelón"**: No pude parar de reírme al recibir este correo
+- **"Fran emprendemelón"**: Por qué aunque tienes 7.000 opciones acabas viendo Friends, The Office o la que se avecina
+- **"Fran emprendemelón"**: 3 curiosidades tras asistir a evento de empresas en Filipinas
+- **"Fran emprendemelón"**: Lo que debes hacer con la paga extra
+- **"Fran emprendemelón"**: Esto sobre mí lo sabe muy poca gente
+- **"Fran emprendemelón"**: No tienes porqué sufrir estas cosas
+- **"Fran emprendemelón"**: Cometo fallo garrafal y te lo explico

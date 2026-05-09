@@ -1,0 +1,8 @@
+# Infotainment Jackpot sale
+
+**De:** Ben Settle <ben@bensettle.com>
+**Fecha:** Thu, 17 Jul 2025 14:45:02 +0000
+**ID:** 19818d8a3560ad00
+---
+
+This weekend I am having a sale on one of my most popular books: “Infotainment Jackpot” The sale ends this coming Sunday, 7/20 at the stroke of midnight EDT. Until then, my hearty Horde can have it for over $100.00 off the regular price. Simply use this link with the discount code below and it will be so: https://www.EmailPlayers.com/jackpot Use this code at the checkout: BENGOOLIE Make sure you see the price change before entering your info. Ben Settle P.S. The man who pioneered using Infotainment in email and who I dedicated the book to - the great Matt Furey - said this about the book after gifting him a copy: “It was a THRILLER. Loaded to the freakin gills. Since arriving in Montana, although I am busy creating a new course, I’ve been reading InfoTainment Jackpot late at night in my hotel room (I’m not a member of the 5 AM Club), and it is fabulous. I definitely see my influence on Ben’s thinking and his writing. But there’s more. Ben has done something truly great. He has taken the time to categorize almost everything that he and I do in our approach and style of writing. Keep in mind the following: Ben’s style is not my style and mine is not his - but the concepts are the same. And I, the so-called “grandmaster of email copywriting,” am learning a TON from InfoTainment Jackpot.” This email was sent by Ben Settle as owner of Settle, LLC. Copyright © 2025 Settle, LLC. All Rights Reserved. No part of this email may be reproduced or transmitted in any form or by any means without written permission from Settle, LLC. Click here to unsubscribe Settle, LLC PO Box 1056 Gold Beach Oregon 97444 USA
