@@ -31,7 +31,7 @@ async function sendAppointmentEmails(params: {
       minute: '2-digit'
     })
 
-    const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://saas-factory-theta.vercel.app'
+    const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
 
     await fetch(`${baseUrl}/api/email/appointment`, {
       method: 'POST',
