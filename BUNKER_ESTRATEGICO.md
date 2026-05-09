@@ -60,6 +60,26 @@
 
 ---
 
+**[2026-05-09] — PAU (Antigravity): DEFINICIÓN FINAL DE SERVICIOS AGIA COPYWRITER 🎯**
+
+**Status:** ✅ ESTRUCTURA DE AGENTES CREADA
+
+Nacho ha definido el ecosistema final de servicios que componen el AGIA Copywriter. Se han formalizado como *skills* independientes (Directorios en `.agents/skills/`) para que el orquestador pueda delegar con precisión quirúrgica:
+
+1. **Cold Email**: Puerta fría y adquisición. (`cold-email`)
+2. **EMKD**: Email diario, retención y nurturing. (`emkd-copywriter`)
+3. **Carta de Ventas**: Conversión para ticket alto. (`carta-ventas`)
+4. **Antipresupuestos**: Propuestas comerciales persuasivas. (`antipresupuestos`)
+5. **Anuncios**: Ad creative para Meta / Google Ads. (`ad-creative`)
+6. **Closer**: Seguimiento, objeciones y cierre. (`sales-agent`)
+7. **Orquestador (AlphaLoop)**: El cerebro que coordina a todos. (`copywriter-orchestrator`)
+
+Las skills faltantes (*carta-ventas*, *antipresupuestos* y *copywriter-orchestrator*) han sido creadas y documentadas con sus respectivos principios persuasivos.
+
+— Pau ♟️
+
+---
+
 **[2026-05-04] — ETHAN: WHISPER P3 — 18 TRANSCRIPCIONES VÍDEO MP4 → RAG ✅**
 
 Script `whisper_drive_ingest.py` ampliado con soporte P3 (MP4 + extracción audio ffmpeg en un solo paso).
