@@ -1276,3 +1276,46 @@ AGIA_Factory/
 ---
 
 *Última actualización: Pau (Antigravity) — 2026-05-09 (Transición a Identidad Nacho Gala completada. Listo para tests de secuencias).*
+
+---
+
+**[2026-05-10] — ETHAN: RAG CERRADO + agia_corpus ONLINE + Supabase restaurado ✅**
+
+**Status:** ✅ SESIÓN COMPLETADA. Todos los RAGs del agente copywriter y subagente cold-email están cerrados y operativos.
+
+**Hitos de la sesión:**
+
+1. **Tech-Powered Sales (Justin Michael) ingestado**
+   - Fuente: Google Drive, carpeta `libros nuevos`
+   - EPUB → Markdown → ChromaDB. 295 chunks. Categoría: `cold_email`
+   - Total acumulado Justin Michael en RAG: 614 chunks (3 libros: JMM 2.0 + Sales Superpowers + Tech-Powered Sales)
+
+2. **3.249 emails de copywriters ingestados en ChromaDB**
+   - Fuente: `03_Data/Emails_Copywriters/` (Isra Bravo, Rosa Morel, Fran Emprendemelón, Ben Settle, Miguel Vázquez + más)
+   - Script: `04_Infra/rag/ingest_emails_to_rag.py`
+   - 6.809 chunks. Clasificación: 29 `cold_email` / 3.220 `emkd` (heurística por keywords)
+   - **ChromaDB total: 153.596 chunks**
+
+3. **agia_corpus (Supabase) conectado al orchestrator**
+   - Nuevo método `_query_agia_corpus()` en `alpha_loop_orchestrator.py`
+   - Fase 4 del cold-email librarian: carga 3 emails reales como ejemplos en cada run
+   - Fallback limpio si Supabase no disponible (no rompe el orchestrator)
+
+4. **Supabase `npe927-rag` restaurado**
+   - Proyecto estaba INACTIVE (pausado por inactividad)
+   - Restaurado vía Management API con token nuevo `AGIA 360 Factory`
+   - Token actualizado en `.claude.json` (MCP operativo) y en `02_Templates/agia360-agents-template/.env`
+   - `agia_corpus` verificado: tabla responde, datos de Isra Bravo y Miguel Vázquez visibles
+
+**Estado actual del RAG:**
+| Colección | Chunks | Estado |
+|---|---|---|
+| ChromaDB `rag` | 153.596 | ✅ ACTIVO |
+| Supabase `agia_corpus` | 2.117 emails | ✅ ACTIVO |
+
+**Para Pau — próximos pasos sugeridos:**
+- El orchestrator ya tiene acceso a emails reales de copywriters en cada run de cold-email (Fase 4 activa)
+- Siguiente foco lógico: romper el techo 8.6/10 en el AlphaLoop → revisar brief implícito o ajustar DIRECTIVA con técnicas Settle+Bravo
+- `emkd_sequence_strategist.py` listo para tests de secuencias (Pau lo dejó preparado en sesión anterior)
+
+*Última actualización: Ethan — 2026-05-10 (RAGs cerrados. Supabase online. agia_corpus Fase 4 activa en orchestrator).*
