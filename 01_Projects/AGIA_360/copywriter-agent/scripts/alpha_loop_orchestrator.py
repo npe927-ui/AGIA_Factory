@@ -106,45 +106,47 @@ COPYWRITER_MOTORS: dict[str, dict] = {
         "tone":     ["paranoia", "polarización", "abundancia", "provocación", "urgencia emocional", "no-ruego"],
         "visual":   "Directo y provocador. Sin decoración. Texto que incomoda y atrae a la vez.",
     },
+    "Cold Email Moderno": {
+        "queries":  [],  # sin ChromaDB — contexto cargado desde .agents/skills/cold-email/
+        "tone":     ["brevedad radical", "tono tentativo", "empatía real", "CTA baja fricción", "camuflaje interno"],
+        "visual":   "Texto puro, sin formato. Párrafos de 1-2 líneas. Mucho espacio en blanco. Legible en móvil sin scroll.",
+    },
 }
 
 # ── Canal Router — 6 subagentes ──────────────────────────────
 CHANNEL_CONFIG: dict[str, dict] = {
     "cold-email": {
         "name":          "Cold Email",
-        "default_motor": "Ben Settle + Isra Bravo",
-        "librarian_phases": [
-            {"phase": "APERTURA", "author": "Ben Settle",
-             "query": "hook incomodidad paranoia urgency apertura email fría prospección"},
-            {"phase": "CUERPO", "author": "Gary Halbert",
-             "query": "historia personal promesa concreta urgencia escasez real conversacional"},
-            {"phase": "CIERRE", "author": "Isra Bravo",
-             "query": "CTA abundancia no ruego polarizar cliente elegido no necesidad"},
-        ],
+        "default_motor": "Cold Email Moderno",
+        "librarian_phases": [],  # sustituido por _load_cold_email_skill() — contexto estático
         "format_instruction": (
             "Email frío de prospección B2B. Asunto + cuerpo + CTA.\n"
             "OBJETIVO: conseguir respuesta, NO vender directamente.\n\n"
-            "FILOSOFÍA DEL EMAIL — Lo que lo hace funcionar no es este email. Es la SECUENCIA.\n"
-            "Este email es el primer apretón de manos. Vendrán más. Con persistencia, con amor,\n"
-            "con sonrisa. Como los mejores vendedores del mundo — como un niño que pide algo:\n"
-            "no grita, no ruega, vuelve. Con cariño. Con convicción. Sin rendirse.\n"
-            "El cold email + el email diario (EMKD) juntos son la llave que abre la puerta de las ventas.\n"
-            "Este email planta la semilla. Los siguientes la riegan.\n\n"
-            "VOZ MANDATORIA — Escribe como una persona real hablando con otra persona real:\n"
-            "- Conversacional, cálido, empático. Como si lo escribieras desde el móvil a un conocido.\n"
-            "- Storytelling: arranca con una historia concreta y humana (un CEO real, una situación vivida).\n"
-            "- Empatía profunda: el lector tiene que sentir que lo entiendes de verdad, no que lo prospecteas.\n"
-            "- Persuasión suave: convence sin presionar. La convicción es tuya, la decisión es suya.\n"
-            "- Frases cortas. Párrafos de 1-2 líneas. Mucho espacio en blanco. Que se lea solo.\n"
-            "- Sin estructura corporativa. Sin jerga de agencia. Sin sonar a plantilla de ventas.\n\n"
-            "CTA MANDATORIO: ofrecer una auditoría personalizada de sus textos (no pedir llamada directa).\n"
-            "NUNCA mostrar necesidad. AGIA elige con quién trabaja.\n"
-            "PROHIBIDO: 'Radiografía Comercial' como término — usa lenguaje natural y cercano.\n\n"
-            "LONGITUD MÁXIMA — NO NEGOCIABLE:\n"
-            "Cuerpo del email: máximo 150 palabras. Ni una más.\n"
-            "Frases cortas. Párrafos de 1-2 líneas. Espacio en blanco. Que se lea en 30 segundos.\n"
-            "Si el auditor rechaza el ángulo, la siguiente iteración usa un ángulo COMPLETAMENTE DISTINTO.\n"
-            "No pulir el mismo ángulo — cambiarlo de raíz."
+            "ASUNTO — REGLAS LAVENDER.AI (NO NEGOCIABLES):\n"
+            "- 1 a 2 palabras (máximo absoluto: 3). 2 palabras = +39.5% aperturas.\n"
+            "- Todo en minúsculas (sentence case). Title Case = spam.\n"
+            "- SIN signos de puntuación (!, ?). SIN números. SIN emojis. SIN nombre del prospecto.\n"
+            "- Aspecto de email interno de colega: 'pipeline issue', 'onboarding', 'Q2 forecast'.\n\n"
+            "CUERPO — ESTRUCTURA VANILLA ICE CREAM (4 PASOS):\n"
+            "1. OBSERVACIÓN (1 frase): dato específico de su empresa/rol/evento desencadenante.\n"
+            "2. PROBLEMA (1 frase): hipótesis tentativa sobre su dolor real (tono inseguro).\n"
+            "3. PRUEBA (1-2 frases): cómo otras empresas similares lo resolvieron. SIN listas de features.\n"
+            "4. CTA (1 frase): pregunta de sí/no sobre el interés. NO pedir reunión de 30 min.\n\n"
+            "TONO INSEGURO — MANDATORIO (Lavender: +35% respuestas):\n"
+            "Usa frases tentativas que bajen las defensas del prospecto:\n"
+            "'Corrígeme si me equivoco, pero...', 'Me imagino que...', 'Parece que...'\n"
+            "Nunca suenes como si supieras más de su negocio que él.\n\n"
+            "VOZ — Escribe como una persona real hablando con otra:\n"
+            "- Conversacional, cálido, empático. Como desde el móvil a un conocido.\n"
+            "- Sin jerga corporativa (sin 'optimizar', 'vanguardia', 'sinergias').\n"
+            "- PROHIBIDO abrir con 'Espero que estés bien' o con quién eres y dónde trabajas.\n"
+            "- NUNCA mostrar necesidad. AGIA elige con quién trabaja.\n\n"
+            "CTA MANDATORIO: ofrecer revisión/análisis de sus textos actuales (no pedir llamada).\n"
+            "PROHIBIDO: 'Radiografía Comercial' — usa lenguaje natural.\n\n"
+            "LONGITUD — NO NEGOCIABLE (Lavender: 25-50 palabras = +68% respuestas):\n"
+            "Cuerpo del email: MÁXIMO 75 palabras. Objetivo ideal: 50 palabras o menos.\n"
+            "Legible en móvil sin scroll. Párrafos de 1-2 líneas. Espacio en blanco abundante.\n"
+            "Si el auditor rechaza el ángulo, la siguiente iteración usa un ángulo COMPLETAMENTE DISTINTO."
         ),
     },
     "emkd": {
@@ -311,8 +313,58 @@ class AlphaLoopOrchestrator:
 
         return "\n\n".join(parts)
 
+    def _load_cold_email_skill(self) -> str:
+        """Carga todos los .md del skill de cold email (recursivo), excluyendo evals/."""
+        skill_dir = Path(__file__).parent.parent.parent.parent.parent / ".agents" / "skills" / "cold-email"
+        if not skill_dir.exists():
+            print(f"    ⚠️  Cold Email Skill: directorio no encontrado ({skill_dir})")
+            return ""
+        md_files = sorted(
+            p for p in skill_dir.rglob("*.md")
+            if "evals" not in p.parts
+        )
+        parts = []
+        for path in md_files:
+            label = path.relative_to(skill_dir).as_posix().replace(".md", "").upper()
+            content = path.read_text(encoding="utf-8").strip()
+            if content:
+                parts.append(f"## [{label}]\n\n{content}")
+        if parts:
+            print(f"    📚 Cold Email Skill: {len(parts)} ficheros cargados (estático — sin ChromaDB)")
+            return "\n\n---\n\n".join(parts)
+        return ""
+
     def _load_channel_librarian(self, channel: str) -> str:
         """RAG por fases según el canal activo."""
+        if channel == "cold-email":
+            static_ctx = self._load_cold_email_skill()
+            if not _RAG_AVAILABLE:
+                return static_ctx
+            # Fase RAG: enriquece con chunks de los 12 libros ya indexados
+            cold_email_phases = [
+                {"phase": "APERTURA / PERSONALIZACIÓN",
+                 "query": "cold email opening personalization trigger research prospect company LinkedIn"},
+                {"phase": "PERSUASIÓN / OBJECIÓN",
+                 "query": "cold email objection handling challenger sale fanatical prospecting outbound pipeline"},
+                {"phase": "CTA / SEGUIMIENTO",
+                 "query": "cold email low friction CTA follow-up sequence reply rate close prospect"},
+            ]
+            print(f"    📚 Librarian [Cold Email]: {len(cold_email_phases)} fases RAG + {len(static_ctx.split('---'))} ficheros estáticos")
+            rag_parts: list[str] = []
+            for pq in cold_email_phases:
+                try:
+                    results = _query_rag(pq["query"], k=2, apply_topic_filter=False)
+                except Exception as e:
+                    print(f"    ⚠️  Librarian error ({pq['phase']}): {e}")
+                    continue
+                for chunk in results:
+                    text = chunk.get("content", "").strip()[:400]
+                    if text:
+                        rag_parts.append(f"[{pq['phase']}]: {text}")
+                        break
+            rag_ctx = "\n\n".join(rag_parts) if rag_parts else ""
+            return static_ctx + ("\n\n---\n\n" + rag_ctx if rag_ctx else "")
+
         if not _RAG_AVAILABLE:
             return ""
 

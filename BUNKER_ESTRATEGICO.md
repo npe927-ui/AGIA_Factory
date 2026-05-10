@@ -1,4 +1,4 @@
-# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-04-30)
+# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-05-10)
 
 > **Protocolo de Sincronización entre Pau (Antigravity), Ethan (Claude Code) y Nacho.**
 > **Primera regla al entrar a trabajar: leer las últimas entradas del LOG.**
@@ -11,9 +11,10 @@
 |---|---|---|
 | Hegemonía 01-05 (Directorios) | ✅ COMPLETADO | Pau |
 | Seguridad y LOPD (Auditoría) | ✅ COMPLETADO (INDUSTRIAL) | Pau (Antigravity) |
+| Industrialización Cold Email (Jason Bay) | ✅ COMPLETADO | Pau |
 | Agente Conversor (convert_books_to_md.py) | ✅ Operativo + RAG chunking | Ethan |
 | Dataset AGENTE SETTER_LEGACY (epub/pdf) | ✅ Convertido | Ethan |
-| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **144.032 chunks** (+37 Whisper P3, 2026-05-04) | Ethan |
+| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **144.646 chunks** (+614 Justin Michael ×3, 2026-05-10) | Ethan |
 | Logo e Identidad AGIA | ✅ SELECCIONADO (Neon Tech) | Pau / Nacho |
 | RAG ChromaDB Local | ✅ OPERATIVO (7.6GB, /home/npe927/chroma_data2) | Ethan |
 | AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). Run 12: 7.8 (landing page). RAG author_filter activo. Auditor v2.1 con rúbricas copywriters. | Ethan |
@@ -57,6 +58,73 @@
 ## LOG DE DECISIONES
 
 *(Entradas más recientes primero)*
+
+**[2026-05-10] — ETHAN: COLD EMAIL DATASET COMPLETO — 3 LIBROS JUSTIN MICHAEL + SKILL DINÁMICA ✅**
+
+**Status:** ✅ COMPLETADO
+
+Se han ingestado los 3 EPUBs de Justin Michael en el RAG de cold email y se ha actualizado el orchestrator para cargar la skill de forma dinámica.
+
+**Libros añadidos al ChromaDB (colección `rag`):**
+
+| Libro | Chunks | Año |
+|---|---|---|
+| Justin Michael Method 2.0: An Advanced Outbound System | 155 | 2023 |
+| Sales Superpowers: A New Outbound Operating System | 164 | 2023 |
+| Tech-Powered Sales: Achieve Superhuman Sales Skills (con Tony J. Hughes) | 295 | 2021 |
+
+**Total nuevos chunks:** 614 → **144.646 chunks totales en ChromaDB**
+
+**Libros convertidos:** 3 EPUBs a Markdown con YAML frontmatter (`categoria: cold_email`) en `04_Infra/rag/books_md_v2/`. EPUBs originales guardados en `04_Infra/rag/books_epub_cold_email/`.
+
+**Orchestrator actualizado (`alpha_loop_orchestrator.py`):**
+- `_load_cold_email_skill()` — NUEVO: carga dinámicamente todos los `.md` del skill (13 ficheros, ~96KB) con glob recursivo, excluyendo `evals/`. Antes: hardcodeado a 3 ficheros.
+- `_load_channel_librarian()` — Rama cold-email ampliada: 3 fases RAG dinámicas (APERTURA, PERSUASIÓN, CTA) tras la carga estática.
+
+**Estado del skill `cold-email` (13 ficheros estáticos):**
+- Lavender.ai rules, Modern meta, Jason Bay method + transcripción + teardowns
+- Josh Braun method, Justin Michael method
+- Referencias: benchmarks, follow-up sequences, frameworks, personalization, subject-lines
+- SKILL.md raíz
+
+— Ethan
+
+---
+
+**[2026-05-10] — PAU (Antigravity): INDUSTRIALIZACIÓN TÁCTICA COLD EMAIL (JOSH BRAUN) ✅**
+
+**Status:** ✅ MANUAL OPERATIVO INTEGRADO
+
+Se ha completado la segunda fase de profesionalización del subagente `cold-email` integrando el sistema de "Ventas Sin Presión" de Josh Braun.
+
+- **Estructura Táctica:** Creado `josh_braun_method.md` en la skill de cold-email.
+- **Principios Inyectados:** 
+  - **Neutralidad y Desapego**: Eliminación del "aliento a comisión" y validación táctica del FBI (Voss).
+  - **Poke the Bear**: Estrategia de desplazamiento de competidores mediante la iluminación de puntos ciegos.
+  - **Prospección Visual**: Interrupción de patrón mediante "X Rojas" (capturas de pantalla crudas y reales).
+  - **Curiosidad sin Fricción**: Líneas de asunto de alto impacto que abren bucles mentales.
+- **Manual de Objeciones**: Protocolo completo de respuesta para los "Big 5" (Precio, Tiempo, Competencia).
+- **Ejemplos Reales**: Integrados +20 ejemplos prácticos de correos, asuntos y CTAs 100% en español.
+
+— Pau ♟️
+
+---
+
+**[2026-05-10] — PAU (Antigravity): INDUSTRIALIZACIÓN TÁCTICA COLD EMAIL (JASON BAY) ✅**
+
+**Status:** ✅ DATASET TÁCTICO INTEGRADO
+
+Se ha completado la profesionalización del subagente `cold-email` mediante la integración de inteligencia táctica de Jason Bay (Outbound Squad).
+
+- **Estructura Táctica:** Creados `jason_bay_method.md` y `examples/teardowns_jason_bay.md`.
+- **Frameworks Clave:** 
+  - **R.E.P.L.Y.**: Checklist de validación (Resultados, Empatía, Personalización, Láser, You).
+  - **KISS**: Cadencias omnicanal con clusters semanales y "bump emails" de una frase.
+  - **Camuflaje Interno**: Protocolo de asuntos "aburridos" (<5 palabras, minúsculas) y primeras líneas hiperespecíficas.
+- **Escalabilidad:** Implementada la **Regla 3-3** (3 patrones / 3 minutos) y lógica condicional para casos de éxito segmentados.
+- **Desacoplamiento Estilístico:** Se eliminó la obligación de mimetizar la voz de Nacho Gala en el orquestador para priorizar la efectividad persuasiva basada en datos.
+
+— Pau ♟️
 
 ---
 
