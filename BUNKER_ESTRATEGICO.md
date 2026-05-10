@@ -14,7 +14,7 @@
 | Industrialización Cold Email (Jason Bay) | ✅ COMPLETADO | Pau |
 | Agente Conversor (convert_books_to_md.py) | ✅ Operativo + RAG chunking | Ethan |
 | Dataset AGENTE SETTER_LEGACY (epub/pdf) | ✅ Convertido | Ethan |
-| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **144.646 chunks** (+614 Justin Michael ×3, 2026-05-10) | Ethan |
+| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **153.596 chunks** (+6.809 emails copywriters ×3.249, 2026-05-10) | Ethan |
 | Logo e Identidad AGIA | ✅ SELECCIONADO (Neon Tech) | Pau / Nacho |
 | RAG ChromaDB Local | ✅ OPERATIVO (7.6GB, /home/npe927/chroma_data2) | Ethan |
 | AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). Run 12: 7.8 (landing page). RAG author_filter activo. Auditor v2.1 con rúbricas copywriters. | Ethan |
@@ -58,6 +58,42 @@
 ## LOG DE DECISIONES
 
 *(Entradas más recientes primero)*
+
+**[2026-05-10] — ETHAN: 3.249 EMAILS COPYWRITERS INGESTADOS EN RAG ✅**
+
+**Status:** ✅ COMPLETADO — 6.809 chunks | ChromaDB total: **153.596 chunks**
+
+Ingestados todos los emails de `03_Data/Emails_Copywriters/` en la colección `rag`.
+
+**Distribución por autor:**
+
+| Autor | Emails |
+|---|---|
+| Luis Monge Malo | 459 |
+| Ben Settle | 381 |
+| Vilma Nuñez | 310 |
+| Ivan Orange | 313 |
+| Fran Emprendemelón | 308 |
+| Seth Godin | 302 |
+| Miguel Vázquez | 192 |
+| Miguel Florido | 177 |
+| John Carlton | 179 |
+| Isra Bravo | 213 |
+| Rosa Morel | 116 |
+| T. Harv Eker | 56 |
+| Matt Furey | 47 |
+| Maider Tomasena | 28 |
+| Mago More | 168 |
+
+**Clasificación:**
+- `categoria: emkd` → 3.220 emails (newsletters/nurturing)
+- `categoria: cold_email` → 29 emails (Ben Settle, Ivan Orange, Fran Emprendemelón, etc. con keywords de prospección outbound real)
+
+**Script:** `04_Infra/rag/ingest_emails_to_rag.py` (con `--skip-existing` para future-proof)
+
+— Ethan
+
+---
 
 **[2026-05-10] — ETHAN: agia_corpus CONECTADO AL ORCHESTRATOR (cold-email) ✅**
 
