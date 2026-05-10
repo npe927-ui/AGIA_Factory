@@ -39,6 +39,22 @@ try:
 except ImportError:
     _RAG_AVAILABLE = False
 
+# agia_corpus — Supabase (2.117 emails reales de copywriters)
+_CORPUS_CLIENT   = None
+_CORPUS_MODEL    = None
+_CORPUS_AVAILABLE = False
+try:
+    from supabase import create_client as _sb_create
+    from sentence_transformers import SentenceTransformer as _SentenceTransformer
+    _sb_url = os.environ.get("SUPABASE_URL", "")
+    _sb_key = os.environ.get("SUPABASE_SERVICE_KEY", "")
+    if _sb_url and _sb_key:
+        _CORPUS_CLIENT = _sb_create(_sb_url, _sb_key)
+        _CORPUS_MODEL  = _SentenceTransformer("all-MiniLM-L6-v2")
+        _CORPUS_AVAILABLE = True
+except Exception:
+    _CORPUS_AVAILABLE = False
+
 # PMC — Product Marketing Context (AGIA como vendedor en modo prospecting)
 PMC_PATH = Path(__file__).parent.parent.parent.parent.parent / ".agents" / "product-marketing-context.md"
 
@@ -334,6 +350,22 @@ class AlphaLoopOrchestrator:
             return "\n\n---\n\n".join(parts)
         return ""
 
+    def _query_agia_corpus(self, query: str, k: int = 3) -> list[dict]:
+        """Busca emails reales en agia_corpus (Supabase). Devuelve lista vacía si no disponible."""
+        if not _CORPUS_AVAILABLE or _CORPUS_CLIENT is None or _CORPUS_MODEL is None:
+            return []
+        try:
+            embedding = _CORPUS_MODEL.encode(query).tolist()
+            result = _CORPUS_CLIENT.rpc("match_agia_corpus", {
+                "query_embedding": embedding,
+                "match_threshold": 0.4,
+                "match_count": k,
+            }).execute()
+            return result.data or []
+        except Exception as e:
+            print(f"    ⚠️  agia_corpus error: {e}")
+            return []
+
     def _load_channel_librarian(self, channel: str) -> str:
         """RAG por fases según el canal activo."""
         if channel == "cold-email":
@@ -363,7 +395,32 @@ class AlphaLoopOrchestrator:
                         rag_parts.append(f"[{pq['phase']}]: {text}")
                         break
             rag_ctx = "\n\n".join(rag_parts) if rag_parts else ""
-            return static_ctx + ("\n\n---\n\n" + rag_ctx if rag_ctx else "")
+
+            # Fase 4 — agia_corpus: emails reales de copywriters (Supabase)
+            corpus_parts: list[str] = []
+            if _CORPUS_AVAILABLE:
+                corpus_results = self._query_agia_corpus(
+                    "cold email B2B outbound prospecting subject line personalization CTA reply",
+                    k=3,
+                )
+                for email in corpus_results:
+                    author  = email.get("author", "Desconocido")
+                    subject = email.get("subject", "")
+                    body    = (email.get("body", "") or "").strip()[:350]
+                    if body:
+                        corpus_parts.append(f"[EJEMPLO REAL — {author}]\nAsunto: {subject}\n{body}")
+                if corpus_parts:
+                    print(f"    📬 agia_corpus: {len(corpus_parts)} emails reales cargados")
+            else:
+                print(f"    ⚠️  agia_corpus: no disponible (Supabase pausado o sin credenciales)")
+
+            corpus_ctx = "\n\n".join(corpus_parts) if corpus_parts else ""
+            combined = static_ctx
+            if rag_ctx:
+                combined += "\n\n---\n\n" + rag_ctx
+            if corpus_ctx:
+                combined += "\n\n---\n\n## [EMAILS REALES — agia_corpus]\n\n" + corpus_ctx
+            return combined
 
         if not _RAG_AVAILABLE:
             return ""

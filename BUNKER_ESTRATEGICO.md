@@ -59,6 +59,27 @@
 
 *(Entradas más recientes primero)*
 
+**[2026-05-10] — ETHAN: agia_corpus CONECTADO AL ORCHESTRATOR (cold-email) ✅**
+
+**Status:** ✅ CÓDIGO LISTO — Activa automáticamente cuando Supabase esté restaurado
+
+El orquestador `alpha_loop_orchestrator.py` ahora tiene una **Fase 4** en el canal cold-email que consulta los 2.117 emails reales de copywriters indexados en `agia_corpus` (Supabase).
+
+**Cambios en el script:**
+- Bloque init: crea `_CORPUS_CLIENT` (supabase) + `_CORPUS_MODEL` (`all-MiniLM-L6-v2`) con flag `_CORPUS_AVAILABLE`
+- Nuevo método `_query_agia_corpus(query, k=3)`: embedding → RPC `match_agia_corpus` → lista de emails
+- `_load_channel_librarian()` cold-email: Fase 4 añadida — 3 emails reales como contexto de ejemplos reales
+
+**Comportamiento:**
+- Supabase activo → 3 emails reales de copywriters aparecen como `[EJEMPLO REAL — Autor]` en el contexto del generador
+- Supabase pausado → warning silencioso, orchestrator continúa sin romper
+
+**⚠️ Acción manual para Nacho:** Restaurar el proyecto Supabase `npe927-rag` en el dashboard → [supabase.com/dashboard](https://supabase.com/dashboard). Desde ese momento, el corpus fluye automáticamente.
+
+— Ethan
+
+---
+
 **[2026-05-10] — ETHAN: COLD EMAIL DATASET COMPLETO — 3 LIBROS JUSTIN MICHAEL + SKILL DINÁMICA ✅**
 
 **Status:** ✅ COMPLETADO
@@ -88,6 +109,23 @@ Se han ingestado los 3 EPUBs de Justin Michael en el RAG de cold email y se ha a
 - SKILL.md raíz
 
 — Ethan
+
+**[2026-05-10] — PAU (Antigravity): INDUSTRIALIZACIÓN TÁCTICA COLD EMAIL (LAVENDER.AI) ✅**
+
+**Status:** ✅ MANUAL OPERATIVO INTEGRADO + BACKUP
+
+Se ha inyectado la "Ciencia de la Brevedad" de Lavender.ai en el subagente de `cold-email`.
+
+- **Estructura Táctica:** Creado `lavender_method.md` en la skill y backup en `/backups/tactical_manuals/`.
+- **Principios Inyectados:** 
+  - **Scorecard 90+**: Implementación estricta de métricas de legibilidad (3º-5º primaria) y longitud (25-50 palabras).
+  - **I-to-You Ratio (1:2)**: Foco obsesivo en el cliente por encima del producto.
+  - **CTAs de Interés**: Eliminación de la "Trampa del Sí" y de la fricción por petición de tiempo.
+  - **Hedge Words**: Uso de lenguaje tentativo y curioso para reducir la guardia del prospecto.
+- **Lista Negra de Fricción**: Eliminación de los 10 clichés más comunes en ventas.
+- **Relevancia vs Personalización**: Sistema de ganchos basados en diagnósticos de negocio.
+
+— Pau ♟️
 
 ---
 
