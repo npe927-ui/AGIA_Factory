@@ -55,6 +55,17 @@ try:
 except Exception:
     _CORPUS_AVAILABLE = False
 
+# Investigador VoC — market_intelligence (insights de clientes reales)
+_INVESTIGATOR_DIR = Path(__file__).parent.parent.parent.parent.parent / "02_Agents" / "investigator"
+_VOC_AVAILABLE = False
+if str(_INVESTIGATOR_DIR.parent) not in sys.path:
+    sys.path.insert(0, str(_INVESTIGATOR_DIR.parent))
+try:
+    from investigator.query_intel import get_context_for_agent as _get_voc_context
+    _VOC_AVAILABLE = True
+except ImportError:
+    pass
+
 # PMC — Product Marketing Context (AGIA como vendedor en modo prospecting)
 PMC_PATH = Path(__file__).parent.parent.parent.parent.parent / ".agents" / "product-marketing-context.md"
 
@@ -275,6 +286,8 @@ class AlphaLoopOrchestrator:
             print("🔍 RAG activado — ChromaDB local")
         if self.tavily_key:
             print("🌐 Investigador de Mercado activado — Tavily")
+        if _VOC_AVAILABLE:
+            print("🎤 Investigador VoC activado — market_intelligence")
 
     # ── Carga de ficheros ─────────────────────────────────────
 
@@ -505,6 +518,28 @@ class AlphaLoopOrchestrator:
             print(f"    ⚠️  Investigador error: {e}")
         return ""
 
+    def _load_voc_context(self, channel: str = "cold-email", region: str = "ES") -> str:
+        """Carga inteligencia de mercado real desde market_intelligence (Investigador VoC)."""
+        if not _VOC_AVAILABLE:
+            return ""
+        purpose_map = {
+            "cold-email":      "cold_email",
+            "emkd":            "email_marketing",
+            "carta-ventas":    "sales_letter",
+            "anuncios":        "ads",
+            "antipresupuestos": "proposal",
+            "closer":          "closer",
+        }
+        purpose = purpose_map.get(channel, "copy")
+        try:
+            ctx = _get_voc_context("AGIA_360", purpose=purpose, region=region, top_per_type=3)
+            if ctx and "[Sin datos" not in ctx:
+                print(f"    🎤 VoC: {len(ctx):,} chars de inteligencia de mercado cargados")
+                return ctx
+        except Exception as e:
+            print(f"    ⚠️  VoC error: {e}")
+        return ""
+
     def _extract_worst_criterion(self, audit_text: str) -> str:
         criteria_patterns = {
             "Move 37":         r'move\s*37[^\d]*(\d+(?:[.,]\d+)?)\s*/\s*10',
@@ -539,7 +574,8 @@ class AlphaLoopOrchestrator:
     def _generate(self, topic: str, audience: str, motor: str,
                   motor_ctx: str, feedback: str | None, iteration: int,
                   librarian_ctx: str = "", pmc_ctx: str = "",
-                  channel: str = "cold-email", market_ctx: str = "") -> str:
+                  channel: str = "cold-email", market_ctx: str = "",
+                  voc_ctx: str = "") -> str:
         system = self._load_system_prompt()
         channel_cfg = CHANNEL_CONFIG.get(channel, {})
         channel_name = channel_cfg.get("name", channel)
@@ -557,6 +593,7 @@ class AlphaLoopOrchestrator:
 
 {pmc_ctx if pmc_ctx else "_PMC no disponible. Aplica criterio comercial propio._"}
 
+{f"## VOZ REAL DEL CLIENTE (Investigador VoC){chr(10)}{chr(10)}{voc_ctx}{chr(10)}" if voc_ctx else ""}
 ## INSTRUCCIONES DEL CANAL: {channel_name}
 
 {format_instruction}
@@ -683,10 +720,11 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
         print(f"{'═'*60}\n")
 
         # Carga de contextos (una vez, antes del bucle)
-        pmc_ctx      = self._load_pmc()
-        motor_ctx    = self._load_motor_context(motor)
+        pmc_ctx       = self._load_pmc()
+        motor_ctx     = self._load_motor_context(motor)
         librarian_ctx = self._load_channel_librarian(channel)
-        market_ctx   = self._investigate_market(prospecto)
+        market_ctx    = self._investigate_market(prospecto)
+        voc_ctx       = self._load_voc_context(channel=channel)
 
         feedback   = None
         iterations = []
@@ -702,7 +740,7 @@ Recuerda: el umbral de producción es {self.min_score}/10."""
             copy = self._generate(
                 topic, audience, motor, motor_ctx, feedback, iteration,
                 librarian_ctx=librarian_ctx, pmc_ctx=pmc_ctx,
-                channel=channel, market_ctx=market_ctx,
+                channel=channel, market_ctx=market_ctx, voc_ctx=voc_ctx,
             )
             print(f"  ✅ Copy generado ({len(copy):,} chars)")
 

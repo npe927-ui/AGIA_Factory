@@ -1,4 +1,4 @@
-# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-05-10)
+# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-05-11)
 
 > **Protocolo de Sincronización entre Pau (Antigravity), Ethan (Claude Code) y Nacho.**
 > **Primera regla al entrar a trabajar: leer las últimas entradas del LOG.**
@@ -17,7 +17,7 @@
 | Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **153.596 chunks** (+6.809 emails copywriters ×3.249, 2026-05-10) | Ethan |
 | Logo e Identidad AGIA | ✅ SELECCIONADO (Neon Tech) | Pau / Nacho |
 | RAG ChromaDB Local | ✅ OPERATIVO (7.6GB, /home/npe927/chroma_data2) | Ethan |
-| AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). Run 12: 7.8 (landing page). RAG author_filter activo. Auditor v2.1 con rúbricas copywriters. | Ethan |
+| AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). VoC integrado (2026-05-11): 2.682 chars market_intelligence inyectados por run. Score test con VoC: 7.3/10. Techo = brief, no VoC. | Ethan |
 | Agente Copywriter — Scope | ✅ Motor para todos los clientes. AGIA 360 es cliente prioritario | Nacho |
 | Agente Copywriter — Librarian Queries | ⏳ Pendiente (Pau entrega JSON) | Pau |
 | Agente Copywriter — Brief AGIA 360 | ⏳ Pendiente (Pau entrega JSON) | Pau |
@@ -26,6 +26,7 @@
 | Supabase MCP | ✅ Conectado + 4 tablas creadas | Ethan |
 | Tavily Search MCP | ✅ Conectado | Ethan |
 | WhatsApp Bot (MultiEntregas) | ✅ ESTABILIZADO (Service Layer) | Pau |
+| Subagente Investigador (VoC Deep Miner) | ✅ OPERATIVO — TAVILY configurada (free 1k/mes), primera investigación real: 409 insights / 60 alta calidad, integrado en Orchestrator | Ethan |
 
 ---
 
@@ -58,6 +59,68 @@
 ## LOG DE DECISIONES
 
 *(Entradas más recientes primero)*
+
+**[2026-05-11] — ETHAN: VOC INTEGRADO EN ORCHESTRATOR + PRIMERA INVESTIGACIÓN REAL ✅**
+
+**Status:** ✅ COMPLETADO — Pipeline VoC end-to-end operativo. Score test: 7.3/10. Diagnóstico claro para romper el techo.
+
+**1. TAVILY_API_KEY configurada** en tres lugares: `.env` investigador, `.env` orchestrator y Supabase `agent_secrets` (vault). Plan Free: 1.000 búsquedas/mes, ~25 investigaciones completas gratuitas.
+
+**2. Primera investigación real AGIA_360** ejecutada:
+- 40 queries × 8 ángulos (Amazon, Trustpilot, Capterra, G2, Reddit)
+- **409 insights** extraídos | **60 alta calidad** (score ≥ 8/10)
+- Guardados en Supabase `market_intelligence` + `02_Agents/.investigator/latest_insights.md`
+- Citas clave con score 10: "ActiveCampaign +75% precio en 2 años", "solo 34% adopta el software con éxito", "Son las 11 de la noche..." (×5 fuentes), "leads se pierden entre canales"
+
+**3. Integración VoC → AlphaLoop Orchestrator** (`alpha_loop_orchestrator.py`):
+- Nuevo método `_load_voc_context()` — carga `market_intelligence` vía `get_context_for_agent()`
+- Bloque `## VOZ REAL DEL CLIENTE` inyectado entre PMC y canal en el prompt de generación
+- Fallback graceful: si no hay datos, el bloque no aparece y el Orchestrator funciona igual
+- Confirmado en logs: `🎤 VoC: 2,682 chars de inteligencia de mercado cargados`
+
+**4. Resultado del test con VoC:**
+- Run 1-iter: 6.4/10 (VoC activo, verificación OK)
+- Run 3-iter: **7.3/10** (mejor — iteración 2)
+- Diagnóstico: Move 37 (Ángulo) = 6.5/10. El VoC carga, pero el brief genérico lleva al generador a ángulos predecibles.
+
+**Conclusión:** El techo no es el VoC — es el **brief**. Con un brief que especifique el ángulo de entrada (ej: "ángulo: ActiveCampaign +75%, AGIA es la alternativa predecible"), el VoC se activaría en el copy y Move 37 subiría.
+
+**Pendiente Pau (bloqueante para romper 8.6/10):**
+- Brief AGIA 360 JSON con ángulo explícito de entrada
+- Librarian Queries JSON
+
+**Backup:** `05_Backups/2026-05-11_voc_orchestrator_integration_v1.md`
+
+— Ethan 🦾
+
+---
+
+**[2026-05-10] — ETHAN: SUBAGENTE INVESTIGADOR (VoC DEEP MINER) CONSTRUIDO Y OPERATIVO ✅**
+
+**Status:** ✅ COMPLETADO — Sistema de grado industrial. Listo para primera ejecución (falta TAVILY_API_KEY).
+
+Construcción completa del subagente investigador, pasando de arquitectura aprobada a código funcional en producción.
+
+**Entregables:**
+- **Tabla Supabase** `market_intelligence` — activa con 9 campos: `sentiment_nuance`, `cluster_id`, `cluster_size`, `is_high_quality` + 6 índices optimizados.
+- **`02_Agents/investigator/sources.py`** — 8 ángulos de investigación × 9 fuentes = 96 queries por run. Ángulos: problema, fracaso_previo, competencia, resultado_soñado, objecion_precio, comparacion, identidad, post_compra.
+- **`02_Agents/investigator/extractor.py`** — Claude Haiku extrae citas literales con filtro de calidad (descartar "hate" genérico), detección de sentiment hispano (Sarcasmo/Escepticismo/Entusiasmo/Desesperación) y score de relevancia 1-10.
+- **`02_Agents/investigator/query_intel.py`** — API de consulta para AlphaCopywriter, Cold Email y Ads. `get_context_for_agent()` inyecta voz real de cliente en cualquier agente sin tocar Supabase manualmente.
+- **`02_Agents/investigator/investigator_agent.py`** — CLI completo: orquestación, búsqueda Tavily, clustering post-proceso (agrupa objeciones recurrentes por plataforma), generación automática de `02_Agents/.investigator/latest_insights.md`.
+- **`02_Agents/investigator/SYSTEM_PROMPT.md`** — Prompt conversacional para uso interactivo con Pau/Nacho.
+
+**Para arrancar mañana:**
+1. `cd 02_Agents/investigator && cp .env.example .env`
+2. Añadir `TAVILY_API_KEY` al `.env` (app.tavily.com)
+3. `pip install -r requirements.txt`
+4. `python investigator_agent.py --health`
+5. Primera investigación: `python investigator_agent.py --project AGIA_360 --niche "automatización marketing pymes" --region ES --sources tier1`
+
+**Backup:** `05_Backups/2026-05-10_investigator_agent_v1/`
+
+— Ethan 🦾
+
+---
 
 **[2026-05-10] — ETHAN: 3.249 EMAILS COPYWRITERS INGESTADOS EN RAG ✅**
 
