@@ -1,4 +1,4 @@
-# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-05-11)
+# BUNKER ESTRATÉGICO — AGIA 360 / AGIA Factory (Sincronizado: 2026-05-15)
 
 > **Protocolo de Sincronización entre Pau (Antigravity), Ethan (Claude Code) y Nacho.**
 > **Primera regla al entrar a trabajar: leer las últimas entradas del LOG.**
@@ -14,7 +14,7 @@
 | Industrialización Cold Email (Jason Bay) | ✅ COMPLETADO | Pau |
 | Agente Conversor (convert_books_to_md.py) | ✅ Operativo + RAG chunking | Ethan |
 | Dataset AGENTE SETTER_LEGACY (epub/pdf) | ✅ Convertido | Ethan |
-| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **153.596 chunks** (+6.809 emails copywriters ×3.249, 2026-05-10) | Ethan |
+| Dataset Copywriters (02_DATASET_TRONCAL) | ✅ **136.871 chunks** (auditado 2026-05-15: P0A+P1A+P1B+P1C+P2. Cobertura autor 100%.) | Ethan |
 | Logo e Identidad AGIA | ✅ SELECCIONADO (Neon Tech) | Pau / Nacho |
 | RAG ChromaDB Local | ✅ OPERATIVO (7.6GB, /home/npe927/chroma_data2) | Ethan |
 | AlphaLoop Orchestrator (alpha_loop_orchestrator.py) | ✅ OPERATIVO — techo 8.6/10 (Run 6). VoC integrado (2026-05-11): 2.682 chars market_intelligence inyectados por run. Score test con VoC: 7.3/10. Techo = brief, no VoC. | Ethan |
@@ -60,6 +60,144 @@
 
 *(Entradas más recientes primero)*
 
+**[2026-05-15] — ETHAN: RAG AUDITORIA COMPLETA + PMC AGIA COPYWRITING GUARDADO ✅**
+
+**Status:** ✅ COMPLETADO — RAG production-ready. PMC fundacional registrado.
+
+**1. RAG — Auditoría completa finalizada (136.871 chunks)**
+
+| Fase | Descripción | Resultado |
+|---|---|---|
+| P0A | Duplicados gdrive (`___` vs `_-_`) | 804 chunks eliminados |
+| P1A | Fix autor Miguel Vázquez (acentuación) | 288 chunks parcheados |
+| P1C | Normalización variantes de autores (65 variantes → 30 autores canónicos) | 17.889 chunks parcheados |
+| P2 | Metadatos faltantes — extracción autor de filename + mapa manual | 0 chunks sin autor (100% cobertura) |
+| P1B | OCR basura eliminado + reemplazado con texto limpio Drive API | Goleman IE + Roam Servilleta → 320 chunks limpios |
+
+**Autores críticos — distinción MANDATORIA:**
+- **Miguel Vázquez**: El Tao del Email Marketing + Método Vazkosky + 1137 Líneas de Asuntos
+- **Ivan Orange**: El Negocio del Mail Diario (persona DIFERENTE a Miguel Vázquez)
+- **Fabián Goleman**: Autor independiente (no confundir con Daniel Goleman)
+
+**Distribución final RAG:**
+- `gdrive/` → 83.687 chunks (libros PDF/EPUB Drive API)
+- `books_md_v2/` → 27.829 chunks (100 libros manuales + 43 transcripciones Whisper)
+- `02_DATASET_TRONCAL` → 18.490 chunks (emails copywriters)
+- `EMAIL_CORPUS` → 6.809 chunks (Gmail — sin source_file, tema irrecuperable)
+- `skills/` → 56 chunks
+
+**Residual no crítico:** 6.809 chunks sin `tema` = emails corpus Gmail (no hay source_file, no hay forma de asignarlo sin reingestar desde cero con mapeo cuenta↔copywriter).
+
+**2. Whisper Pipeline — CERRADO 43/44**
+
+43 de 44 audios/vídeos de Drive transcritos y en RAG. El único archivo pendiente (`Fran Ruiz — Ideas de Negocio 04`, Drive ID: `1M31zwQtqSaJorLjw1kd__Y6gjxAk_YZS`) está **corrupto en Drive** (moov box dañado, "Invalid sample size -4"). Irrecuperable con ffmpeg. El original existe en Drive pero Nacho decide no reprocesar — lo que tenemos es más que suficiente.
+
+**3. PMC AGIA Copywriting — GUARDADO EN MEMORIA**
+
+Documento fundacional de AGIA Copywriting registrado en memoria permanente (`project_agia_pmc.md`). Cualquier agente que redacte texto comercial debe cargarlo antes de escribir una sola palabra.
+
+**Puntos clave del PMC:**
+- Firma clínica y artesanal. Cero prisas (cronogramas 2-3 semanas = estatus).
+- Tono: amigable, CERO necesidad, orientadores no vendedores.
+- Servicios: Cold Email · Cartas de Ventas · Antipresupuestos · EMKD · Ads · Cierre.
+- Cliente ideal: medianas empresas >30 trabajadores, España + Latam (Latam = mercado de élite sin explotar).
+- Diferenciador: IA integrada + conocimiento de referentes mundiales + investigación obsesiva + postura de estatus.
+
+**4. Próximo paso acordado**
+
+Abrir chat limpio para diseñar los **system prompts del Orquestador y los Subagentes** con el PMC como contexto fundacional.
+
+— Ethan 🦾
+
+---
+
+**[2026-05-12] — NACHO + ETHAN: ARQUITECTURA AGENTE SUPERVISADO — DISEÑO APROBADO ✅**
+
+**Status:** ✅ DISEÑO CERRADO — Pendiente implementación mañana.
+
+**Decisión tomada:** Adoptar arquitectura de agente supervisado con checkpoints humanos (Nacho aprueba antes de que salga cualquier output al mundo). El agente avanza autónomo entre checkpoints y solo para en momentos de acción irreversible.
+
+**Arquitectura aprobada:**
+```
+Orquestador (briefing → CP1 → enruta)
+    ↓
+Investigador (contexto de mercado bajo demanda)
+    ↓
+Subagente específico (genera copy)
+    ↓
+Auditor (evalúa y da feedback)
+    ↓
+Nacho — CP2 (aprueba o rechaza)
+```
+
+**Distribución de herramientas por nodo:**
+| Nodo | Donde vive |
+|---|---|
+| Orquestador | Claude Code |
+| Investigador | Antigravity (Gemini + Tavily) |
+| Subagentes generadores | Claude Code + RAG ChromaDB |
+| Auditor | Claude Code |
+| Checkpoint final | Nacho |
+
+**Comunicación Investigador ↔ Orquestador:** Vía Supabase (tabla mensajes o market_intelligence ya existente).
+
+**Estado RAG por subagente (auditoría hoy):**
+| Subagente | RAG Principios | RAG Ejemplos |
+|---|---|---|
+| Cold Email | Settle ✅1655 · Carlton ✅395 · Halbert ⚠️89 · Kennedy ❌0 (libro en disco) | ✅ agia_corpus |
+| EMKD | Bravo ✅2515 · Godin ✅1400 · Mago More ✅409 · Furey ⚠️77 · Orange ❌0 (libro en disco) | ✅ agia_corpus |
+| Carta de Ventas | Bencivenga ✅648 · Schwartz ✅425 · Caples ✅534 · Ogilvy ✅438 | ❌ sin ejemplos |
+| Antipresupuestos | Bravo ✅2515 | ❌ sin ejemplos |
+| Closer | Collier ✅445 · Kennedy ❌0 (libro en disco) | ❌ sin ejemplos |
+| Anuncios | Ogilvy ✅438 · Hopkins ⚠️144 | ❌ sin ejemplos |
+
+**2 libros pendientes de indexar (0 coste, ya en disco):**
+- `ventas_kennedy_the-ultimate-sales-letter.md` → arregla Cold Email + Closer
+- `cold-email_orange_ivan-orange-el-negocio-del-mail-diario.md` → arregla EMKD
+
+**System prompts existentes:**
+- `00_INSTRUCCIONES_MAESTRAS/01_prompt_maestro.md` — Generador v2.5 ✅ (base para Cold Email)
+- `00_INSTRUCCIONES_MAESTRAS/02_prompt_auditor.md` — Auditor v2.0 ✅
+- **Faltan:** Orquestador, 6 subagentes especializados, Investigador
+
+**GSuite / Antigravity:**
+- Estado: token expirado, servidor desactivado del mcp_config.json de Antigravity
+- Herramientas: credenciales OAuth y tokens en `~/.gemini/gsuite-mcp/` → regenerar en ~10-15 min
+- Decisión: arreglar mañana si el Investigador necesita Gmail/Drive. Tavily ya funciona sin GSuite.
+
+**Plan mañana (en orden):**
+1. Indexar los 2 libros Kennedy + Orange en ChromaDB
+2. Redactar system prompt del Orquestador
+3. Extraer y especializar system prompt Cold Email desde prompt_maestro actual
+4. Decidir si Investigador en Antigravity necesita GSuite o solo Tavily para Fase 1
+5. Diseñar canal de comunicación Orquestador ↔ Investigador vía Supabase
+
+— Ethan 🦾
+
+---
+
+**[2026-05-11] — PAU (Antigravity): SECUENCIA CINEMATOGRÁFICA AGIA 9 DÍAS (PITCH ECOSISTEMA) ✅**
+
+**Status:** ✅ COMPLETADO + BACKUP
+
+Se ha industrializado la estructura de venta del ecosistema AGIA Copywriter mediante una secuencia de Cold Email de 9 días basada en arquitectura de guion de Hollywood (Bucle Infinito).
+
+**Artefacto Creado:**
+- `01_Projects/AGIA_360/copywriter-agent/03_CANALES/cold_email/sequences/agia_ecosystem_pitch.md`
+- Backup de seguridad generado.
+
+**Técnicas Integradas:**
+- **Montaje Paralelo:** Contraste "Show, Don't Tell" (ej. Anuncios caros vs Email Diario).
+- **Efecto Zeigarnik:** Cierre de cada email con *cliffhangers* estrictos para forzar la apertura del siguiente (Especificidad sin revelación).
+- **Formato Teatral (Poke the Bear):** Email 1 usa diálogo dramático para bajar las defensas comerciales.
+- **Parataxis:** Ritmo percutivo de frases cortas.
+
+**Flujo Estratégico Presentado:**
+Cold Email (Abrir puerta) > EMKD (Retener 24h) > Carta de Ventas (Convertir tráfico) > Antipresupuestos (Anclar precio) > Closer (Matar objeciones) > Orquestador AGIA (Máquina invisible).
+
+— Pau ♟️
+
+---
 **[2026-05-11] — ETHAN: VOC INTEGRADO EN ORCHESTRATOR + PRIMERA INVESTIGACIÓN REAL ✅**
 
 **Status:** ✅ COMPLETADO — Pipeline VoC end-to-end operativo. Score test: 7.3/10. Diagnóstico claro para romper el techo.
