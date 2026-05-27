@@ -47,6 +47,7 @@ COLLECTION   = "rag"
 EMBED_MODEL  = "text-embedding-3-large"
 EMBED_DIMS   = 1024
 MAX_CHARS    = 12_000
+MAX_DOC_CHARS = 3_000  # truncate returned chunks to protect agent context windows
 DEFAULT_N    = 8
 
 
@@ -107,7 +108,10 @@ def format_results(results, query: str, where: dict | None) -> str:
             lines.append(f'"{titulo}"')
         lines.append(f"src: {source}")
         lines.append("")
-        lines.append(doc.strip())
+        truncated = doc.strip()
+        if len(truncated) > MAX_DOC_CHARS:
+            truncated = truncated[:MAX_DOC_CHARS] + f"\n[... truncado a {MAX_DOC_CHARS} chars de {len(doc.strip())} totales]"
+        lines.append(truncated)
         lines.append("")
 
     return "\n".join(lines)
