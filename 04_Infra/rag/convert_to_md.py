@@ -63,6 +63,9 @@ CATEGORIA_MAP = {
                  "chain of thought", "ideas que pegan", "como leer"],
     "espiritual": ["filosofia", "platon", "republica", "siddhartha", "coelho",
                    "osho", "meditacion", "eckhart", "poder del ahora"],
+    "biografia": ["churchill", "alcaide", "aprendiendo de los mejores", "aprendiendo_de_los",
+                  "grandes contemporaneos", "malakand", "crepuscular", "fragu",
+                  "my early life", "early life", "marlborough", "vida y su epoca"],
 }
 
 

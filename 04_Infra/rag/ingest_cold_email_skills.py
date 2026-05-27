@@ -29,7 +29,7 @@ MIN_CHUNK_CHARS  = 60
 EMBED_BATCH_SIZE = 32
 MAX_CHUNK_CHARS  = 20_000
 
-SKIP_FILES = {"SKILL.md"}  # índice del directorio, no contenido real
+SKIP_FILES = {"SKILL.md", "CLAUDE.md", "LORE.md"}  # meta del agente, no conocimiento
 
 AUTHOR_MAP = {
     "josh_braun_method":                 ("Josh Braun", "en"),
@@ -126,7 +126,7 @@ def main():
     args = parser.parse_args()
 
     skill_files = [
-        f for f in sorted(SKILLS_DIR.glob("*.md"))
+        f for f in sorted(SKILLS_DIR.rglob("*.md"))
         if f.name not in SKIP_FILES
     ]
 
@@ -141,10 +141,7 @@ def main():
         import chromadb
         from openai import OpenAI
         oai    = OpenAI(api_key=openai_key)
-        chroma = chromadb.HttpClient(
-            host=os.environ.get("CHROMA_HOST", "localhost"),
-            port=int(os.environ.get("CHROMA_PORT", 8000)),
-        )
+        chroma = chromadb.PersistentClient(path="/home/npe927/chroma_data2")
         col = chroma.get_or_create_collection("rag", metadata={"hnsw:space": "cosine"})
     else:
         oai = col = None

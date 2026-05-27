@@ -1,1 +1,0 @@
-Lee el PDF El mejor vendedor del mundo - JOE GIRARD - 1979.pdf de ~/Descargas/ y conviértelo a Markdown limpio siguiendo 02_Agents/MD-RAG-Converter/system_prompt.md. Guárdalo en 02_Agents/MD-RAG-Converter/output/

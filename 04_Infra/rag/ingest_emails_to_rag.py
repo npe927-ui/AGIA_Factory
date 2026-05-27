@@ -19,10 +19,8 @@ from dotenv import load_dotenv
 # ── Rutas ────────────────────────────────────────────────────────────────────
 REPO_ROOT  = Path(__file__).parent.parent.parent
 EMAIL_DIR  = REPO_ROOT / "03_Data" / "Emails_Copywriters"
-ENV_FILE   = REPO_ROOT / "02_Templates" / "agia360-agents-template" / ".env"
-
-load_dotenv(ENV_FILE, override=True)
-load_dotenv(override=False)  # fallback .env local
+load_dotenv(REPO_ROOT / ".env.local", override=True)
+load_dotenv(override=False)
 
 # ── Constantes ───────────────────────────────────────────────────────────────
 CHUNK_WORDS    = 380
@@ -159,10 +157,7 @@ def main():
     import chromadb
     from openai import OpenAI
     oai    = OpenAI(api_key=openai_key)
-    chroma = chromadb.HttpClient(
-        host=os.environ.get("CHROMA_HOST", "localhost"),
-        port=int(os.environ.get("CHROMA_PORT", 8000)),
-    )
+    chroma = chromadb.PersistentClient(path="/home/npe927/chroma_data2")
     col = chroma.get_or_create_collection("rag", metadata={"hnsw:space": "cosine"})
 
     # Skip existing

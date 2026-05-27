@@ -99,7 +99,7 @@ def chunk_md(text: str) -> list[str]:
 
 # ── Embeddings ────────────────────────────────────────────────────────────────
 
-MAX_CHUNK_CHARS = 20_000  # ~5k tokens, safe margin under the 8192-token API limit
+MAX_CHUNK_CHARS = 12_000  # ~3k tokens, safe margin under the 8192-token API limit
 
 def embed_batch(client, texts: list[str]) -> list[list[float]]:
     safe = [t[:MAX_CHUNK_CHARS] for t in texts]
@@ -177,10 +177,7 @@ def main():
         import chromadb
         from openai import OpenAI
         oai    = OpenAI(api_key=openai_key)
-        chroma = chromadb.HttpClient(
-            host=os.environ.get("CHROMA_HOST", "localhost"),
-            port=int(os.environ.get("CHROMA_PORT", 8000)),
-        )
+        chroma = chromadb.PersistentClient(path="/home/npe927/chroma_data2")
         col = chroma.get_or_create_collection("rag", metadata={"hnsw:space": "cosine"})
 
         if args.skip_existing:
